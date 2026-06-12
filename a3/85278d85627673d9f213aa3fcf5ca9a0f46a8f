@@ -1,0 +1,55 @@
+apps/sales/views.py
+  s_5b002650df0863::t_dca13c05c4c314 1
+  s_5b002650df0863::t_df75a433196a6a 36,39-40
+  s_5b002650df0863::t_21510af0f14edb 50-54
+  s_5b002650df0863::t_8829d73ad6773e 372-471
+templates/sales/prospect_list_detail.html
+  s_5b002650df0863::t_c903ac3555d95d 1-52,55-107
+  s_5b002650df0863::t_63a799d9691c90 53-54
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_5b002650df0863::t_3950a8d641a643 332
+  s_5b002650df0863::t_baaaaf19e41234 34
+  s_5b002650df0863::t_0966b4ba2c9adb 315
+apps/sales/exports_views.py
+  s_5b002650df0863::t_812621d384976b 87,89-90,93
+  s_5b002650df0863::t_59a12c1697afa5 1-86,88,91-92,94-125
+templates/sales/prospect_lists.html
+  s_5b002650df0863::t_1f3ae5490ccb58 1-35
+apps/sales/admin.py
+  s_5b002650df0863::t_fc433332a32d03 95
+apps/sales/person_tokens.py
+  s_5b002650df0863::t_b601128820ab4e 1-61
+apps/sales/entitlements.py
+  s_5b002650df0863::t_5aca9830e107b3 80-139
+  s_5b002650df0863::t_1d485541e985ff 25-29
+  s_5b002650df0863::t_dbfe97e49cfdf9 38-40,45-46
+apps/sales/models.py
+  s_5b002650df0863::t_5b08b47e45050a 248-252
+  s_5b002650df0863::t_082644ddeed509 155-163
+apps/sales/tests/test_prospect_lists.py
+  s_5b002650df0863::t_8e642c8e2856a6 1-264
+apps/sales/tests/test_export_flow.py
+  s_5b002650df0863::t_c7bbfa86071a2d 118
+  s_5b002650df0863::t_40a67612e00dff 1-117,119-213
+apps/sales/urls.py
+  s_5b002650df0863::t_00e7a61f73d2d7 5
+  s_5b002650df0863::t_d81da343fd02ed 19-25
+templates/app/_nav.html
+  s_5b002650df0863::t_1ec16eab2df697 40-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a385278d85627673d9f213aa3fcf5ca9a0f46a8f",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
