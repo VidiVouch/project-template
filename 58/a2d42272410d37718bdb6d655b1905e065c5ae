@@ -1,0 +1,47 @@
+apps/disambiguator/management/commands/queue_apify_company_resolution.py
+  s_5b002650df0863::t_5bd294022e9033 8-16
+  s_5b002650df0863::t_f7d4b0af053951 86
+  s_5b002650df0863::t_253f427c9a8003 49
+  s_5b002650df0863::t_d74ef1cd330ffd 81
+  s_5b002650df0863::t_2565f92197223e 196-206,214,216,218,221-229,234-245,249,251-252,254-256,259,261-264,266-267
+apps/disambiguator/management/_args.py
+  s_5b002650df0863::t_8e803acdf00e28 1-7,9-32
+  s_5b002650df0863::t_f0003e58b831b9 8
+apps/disambiguator/tests/test_applier.py
+  s_5b002650df0863::t_e987a8ba28506a 268-288
+apps/disambiguator/tests/test_commands.py
+  s_5b002650df0863::t_39f9a322c54707 113,117-122
+apps/disambiguator/management/commands/enrichment_apply.py
+  s_5b002650df0863::t_25afd7181097e7 9
+  s_5b002650df0863::t_b161b8598cb0d8 26
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_5b002650df0863::t_b2597b045e8439 97-115
+  s_5b002650df0863::t_4f7f6c8d24015e 189-231
+apps/disambiguator/strategies.py
+  s_5b002650df0863::t_ec385d71030d6c 143
+apps/disambiguator/tests/test_enricher.py
+  s_5b002650df0863::t_d4033074fa9f8b 219-225
+apps/disambiguator/management/commands/disambiguate_apply.py
+  s_5b002650df0863::t_2a752325c4e62e 32
+  s_5b002650df0863::t_c5f03a82e07704 9
+apps/disambiguator/applier.py
+  s_5b002650df0863::t_c12944634fe2ad 76-80
+  s_5b002650df0863::t_f76f799be92d46 100-122
+  s_5b002650df0863::t_4dc650c8b35c57 176-180,199-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "58a2d42272410d37718bdb6d655b1905e065c5ae",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
