@@ -1,0 +1,25 @@
+uv.lock
+  s_998d95b9de4b0f::t_1154cdeb27fbea 1576,1662,2327,2333,2335
+pyproject.toml
+  s_998d95b9de4b0f::t_0ef0a07917ab94 39
+apps/demo/management/commands/import_rebuild_snapshot.py
+  s_998d95b9de4b0f::t_af1e9f399080e6 26
+  s_998d95b9de4b0f::t_056a9dce33cc5e 619-624
+  s_998d95b9de4b0f::t_ff7f99dd520852 636
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "543125a83b2b549030b9f9bd442aa318fe419fcc",
+  "prompts": {},
+  "sessions": {
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
