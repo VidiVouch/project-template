@@ -1,0 +1,25 @@
+apps/jobs/apps.py
+  s_5b002650df0863::t_4967956b64d8a4 36-38,54-66
+apps/jobs/tests/test_tasks.py
+  s_5b002650df0863::t_db175b0ebea5f1 3,8,18-40,50,58-59,62,72,89,100,111-126,136,138-139,142-155,162,173,187,195-237
+apps/jobs/tasks.py
+  s_5b002650df0863::t_f99ea80b6db07e 95-105,107-129,137-176
+  s_5b002650df0863::t_fdba9b1197da68 17,20-22,25,41-44
+  s_5b002650df0863::t_ae0bb680e156a0 106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "f69986bf6f83d9a7e7ec53e88d59f830f8740956",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
