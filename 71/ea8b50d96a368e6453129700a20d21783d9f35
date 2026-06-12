@@ -1,0 +1,30 @@
+apps/catalog/merge.py
+  s_5b002650df0863::t_5d770bb476e556 47
+  s_5b002650df0863::t_6bc9474a6632c9 226-228
+  s_5b002650df0863::t_13a89ffc7880a6 635-638
+  s_5b002650df0863::t_f83d873d9fe5e0 658-664
+  s_5b002650df0863::t_fd7e302c617317 481-587
+apps/catalog/tests/test_merge_fk_registry.py
+  s_5b002650df0863::t_c884020b9a7970 92-94
+  s_5b002650df0863::t_e9f29e5632d092 79-87
+  s_5b002650df0863::t_504313723761c7 1-78,88-91,95-99,111-121,123-292
+  s_5b002650df0863::t_fdc515dc2b0fc2 109
+  s_5b002650df0863::t_ca10076d263349 100-108,110
+  s_5b002650df0863::t_2e2d64a4ae28ed 122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "71ea8b50d96a368e6453129700a20d21783d9f35",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
