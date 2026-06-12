@@ -1,0 +1,24 @@
+apps/sales/tests/test_seed_design_preview.py
+  s_5b002650df0863::t_212870d19140ea 1-141
+apps/sales/management/commands/seed_design_preview.py
+  s_5b002650df0863::t_1c16e93f035603 704-706
+  s_5b002650df0863::t_3ca93329b9c765 1-394,402-555,557-561,565-703,707-720
+  s_5b002650df0863::t_5eb4f83d5c38a3 395-401
+  s_5b002650df0863::t_f1e9c70fd5fc56 556,562-564
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "eb93b8a8a8e389c539edb6f4a4ffb7941e7b5419",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
