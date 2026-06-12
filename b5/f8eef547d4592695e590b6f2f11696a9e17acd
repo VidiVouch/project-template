@@ -1,0 +1,70 @@
+apps/analytics/tests/test_proxy.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-349
+apps/analytics/tests/test_context_processors.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-189
+apps/analytics/templates/analytics/_snippet.html
+  s_5b002650df0863::t_dde9d069e1fdb7 1-54,73-111,116-220
+  s_5b002650df0863::t_fe917dc17dfe7c 55-72
+  s_5b002650df0863::t_6366dd8acb317a 112-115
+apps/analytics/track.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-146
+apps/analytics/tests/test_track.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-148
+pyproject.toml
+  s_5b002650df0863::t_80dd0c6d11f722 33
+config/settings/production.py
+  s_5b002650df0863::t_80dd0c6d11f722 56-65
+apps/analytics/urls.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-18
+config/urls.py
+  s_5b002650df0863::t_80dd0c6d11f722 20-23
+render.yaml
+  s_5b002650df0863::t_80dd0c6d11f722 39-40
+  s_5b002650df0863::t_7b601b147a8e02 117-120,165-167
+apps/analytics/scrub.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-18,20-23,30-99
+  s_5b002650df0863::t_dc6cc402d37495 19,24-29
+config/settings/testing.py
+  s_5b002650df0863::t_d655020e0bdf47 58-68
+tests/architecture/test_no_forbidden_imports.py
+  s_5b002650df0863::t_80dd0c6d11f722 36
+apps/analytics/apps.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-39
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 16,91,155-157,332-375,385-387
+uv.lock
+  s_5b002650df0863::t_8bbbfb2e91fece 166-173,678-686,1498,1577,1636-1648
+apps/analytics/tests/test_scrub.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-10,46-110
+  s_5b002650df0863::t_d75c520408fc04 11-45
+apps/analytics/context_processors.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-96
+apps/analytics/proxy.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-53,55-287,294-316,318-400
+  s_5b002650df0863::t_646ef8802ecc72 54
+  s_5b002650df0863::t_40413542815ecd 288-293
+  s_5b002650df0863::t_996cf42b034325 317
+apps/analytics/tests/test_signals.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-12,14-128
+  s_5b002650df0863::t_c6b5c98832a4d9 13
+apps/analytics/signals.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-184
+apps/analytics/__init__.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b5f8eef547d4592695e590b6f2f11696a9e17acd",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
