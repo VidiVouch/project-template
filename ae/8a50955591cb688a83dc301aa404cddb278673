@@ -1,0 +1,30 @@
+apps/analytics/proxy.py
+  s_5b002650df0863::t_996cf42b034325 317
+  s_5b002650df0863::t_646ef8802ecc72 54
+  s_5b002650df0863::t_40413542815ecd 288-293
+apps/analytics/scrub.py
+  s_5b002650df0863::t_dc6cc402d37495 19,24-29
+apps/analytics/templates/analytics/_snippet.html
+  s_5b002650df0863::t_fe917dc17dfe7c 55-72
+  s_5b002650df0863::t_6366dd8acb317a 112-115
+apps/analytics/tests/test_scrub.py
+  s_5b002650df0863::t_d75c520408fc04 11-45
+config/settings/testing.py
+  s_5b002650df0863::t_d655020e0bdf47 58-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ae8a50955591cb688a83dc301aa404cddb278673",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
