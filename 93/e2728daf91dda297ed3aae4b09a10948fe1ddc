@@ -1,0 +1,24 @@
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_5b002650df0863::t_68f8ac1d4162ff 327
+  s_5b002650df0863::t_44295f581af003 1-326,328-370
+AGENTS.md
+  s_5b002650df0863::t_2d3ffbee57b0d6 43-53
+SAAS_PLANNING_INTERVIEW.md
+  s_5b002650df0863::t_44295f581af003 1-551
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "93e2728daf91dda297ed3aae4b09a10948fe1ddc",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
