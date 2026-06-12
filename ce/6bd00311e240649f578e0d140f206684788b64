@@ -1,0 +1,31 @@
+traffic_adapters/rules.py
+  s_5b002650df0863::t_611c2fbf379e1e 13,16
+  s_5b002650df0863::t_a31a882dcd25c0 360-398
+traffic_adapters/adapters/grip_events.py
+  s_5b002650df0863::t_0f5bc2399cc0d1 105
+  s_5b002650df0863::t_08f00ad0e9394d 123
+  s_5b002650df0863::t_165c59620abb7c 25
+  s_5b002650df0863::t_8283999229013f 139
+traffic_adapters/tests/test_rules.py
+  s_5b002650df0863::t_4b88ca04e5cc98 57-62
+  s_5b002650df0863::t_feb4f26682df69 13-21
+  s_5b002650df0863::t_b38bd8aebfefc7 227-304
+traffic_adapters/tests/test_grip_events.py
+  s_5b002650df0863::t_759da6a7175541 167-208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ce6bd00311e240649f578e0d140f206684788b64",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
