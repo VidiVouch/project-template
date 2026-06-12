@@ -1,0 +1,57 @@
+config/settings/production.py
+  s_5b002650df0863::t_7b601b147a8e02 67
+apps/billing/tests/test_receivers.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-52
+apps/billing/templates/billing/home.html
+  s_5b002650df0863::t_80dd0c6d11f722 1-52
+apps/billing/models.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-57
+apps/billing/views.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-161
+apps/billing/tests/test_invoicing.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-142
+config/urls.py
+  s_5b002650df0863::t_7b601b147a8e02 24-27
+uv.lock
+  s_5b002650df0863::t_b4ff1b635ca490 688-699,1498,1578,2253-2263
+apps/billing/migrations/0001_initial.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-29
+pyproject.toml
+  s_5b002650df0863::t_7b601b147a8e02 20
+apps/billing/urls.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-9
+apps/billing/apps.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-26
+render.yaml
+  s_5b002650df0863::t_7b601b147a8e02 41-45,127-130,180-182
+apps/billing/invoicing.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-153
+apps/billing/tests/__init__.py
+  s_5b002650df0863::t_80dd0c6d11f722 1
+apps/billing/receivers.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-74
+apps/billing/__init__.py
+  s_5b002650df0863::t_80dd0c6d11f722 1
+apps/billing/tests/test_views.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-170
+config/settings/base.py
+  s_5b002650df0863::t_7b601b147a8e02 92,107-114,336-337,387-402
+tests/architecture/test_no_forbidden_imports.py
+  s_5b002650df0863::t_7b601b147a8e02 37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "3ee61715c0eabec7d4c2639b6b80beff7e9528ee",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
