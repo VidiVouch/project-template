@@ -1,0 +1,50 @@
+templates/allauth/layouts/base.html
+  s_998d95b9de4b0f::t_5ef92ca64418c9 4-6
+templates/demo/_datasets_section.html
+  s_998d95b9de4b0f::t_e4cc5866779525 18-19
+assets/css/source.css
+  s_998d95b9de4b0f::t_00d8ec8f359853 961-976
+  s_998d95b9de4b0f::t_58f2ecdb2d30cc 914-922
+templates/emails/invite.html
+  s_998d95b9de4b0f::t_1846ea524e6ecc 7,10-57
+templates/demo/dataset_table.html
+  s_998d95b9de4b0f::t_9c6cdd96806db8 23-25
+  s_998d95b9de4b0f::t_efbbbbbf6cb685 60
+apps/sales/tests/test_views.py
+  s_998d95b9de4b0f::t_2f290a83a0e29c 64-109
+apps/demo/tests/test_views.py
+  s_998d95b9de4b0f::t_722a99ce0b2ca7 158-164
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_998d95b9de4b0f::t_c467a98d31c1fe 370-402
+templates/sales/dashboard.html
+  s_998d95b9de4b0f::t_c2e08122449084 30-37
+  s_998d95b9de4b0f::t_15e9aa4a8d108f 12
+templates/base.html
+  s_998d95b9de4b0f::t_53ef42aad4dc0b 50
+apps/sales/views.py
+  s_998d95b9de4b0f::t_854139023ed945 29,31
+  s_998d95b9de4b0f::t_a5c1f0cbbd313f 86-90,96,104-110
+  s_998d95b9de4b0f::t_6d24e3b5866541 55
+templates/demo/_dataset_results.html
+  s_998d95b9de4b0f::t_b8792486346072 1-62
+apps/demo/views.py
+  s_998d95b9de4b0f::t_bbadd613a2b9af 194-196
+templates/sales/_coverage_table.html
+  s_998d95b9de4b0f::t_b3f9d260bf6dc8 1-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "97ab6f9b51455f71964f043f7c9e066fa0a1d315",
+  "prompts": {},
+  "sessions": {
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
