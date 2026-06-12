@@ -1,0 +1,25 @@
+tests/architecture/test_bigint_boundary.py
+  s_5b002650df0863::t_a4e4bd34f44f66 1-34,42-106
+  s_5b002650df0863::t_e88d01f840ed9f 35-41
+apps/catalog/tests/test_export_engine.py
+  s_5b002650df0863::t_f2f7a917d85723 1-56,58-103
+  s_5b002650df0863::t_e88d01f840ed9f 57
+apps/catalog/export_engine.py
+  s_5b002650df0863::t_7471e50673b16b 1-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "18a1dbca34052c95166fb7296d7ea8e6e52eb1bf",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
