@@ -1,0 +1,90 @@
+apps/demo/tests/test_views.py
+  s_5b002650df0863::t_e68689453efb8b 1-333
+apps/demo/urls.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-17
+apps/demo/domain/schema.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-214
+apps/demo/staff_urls.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-10
+apps/demo/apps.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-8
+templates/sales/conference_list.html
+  s_5b002650df0863::t_bf7bf65702064f 17
+  s_5b002650df0863::t_4d87afcaaf77ff 26,29
+templates/demo/_datasets_section.html
+  s_5b002650df0863::t_8576b5170ee441 1-25
+apps/bootstrap.py
+  s_5b002650df0863::t_d7551d070bf5c6 45,51
+  s_5b002650df0863::t_95bbf6ddcd5ec1 134-147
+config/settings/base.py
+  s_5b002650df0863::t_e1deb24cd0711a 101
+apps/demo/tests/test_readers.py
+  s_5b002650df0863::t_e68689453efb8b 1-84
+apps/demo/views.py
+  s_5b002650df0863::t_ab68f6c1ceef4d 1-261
+apps/demo/ingest.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-269
+apps/demo/forms.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-48
+apps/demo/tests/test_ingest.py
+  s_5b002650df0863::t_e68689453efb8b 1-274
+apps/demo/tests/test_presentation.py
+  s_5b002650df0863::t_e68689453efb8b 1-49
+apps/demo/admin.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-67
+apps/sales/tests/test_conferences.py
+  s_5b002650df0863::t_218c8479332b34 95-101
+  s_5b002650df0863::t_3c957d3908a1a1 8,13,15-16
+  s_5b002650df0863::t_c7ef4344debb43 240-241,246-276
+  s_5b002650df0863::t_1233d830d34904 170-181
+  s_5b002650df0863::t_7cbd3e64480e42 202,204-206,214
+apps/demo/readers.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-106
+templates/demo/dataset_table.html
+  s_5b002650df0863::t_f864df2abae4f3 1-113
+apps/demo/domain/presentation.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-78
+apps/demo/models.py
+  s_5b002650df0863::t_671ca6709411e9 1-183
+config/urls.py
+  s_5b002650df0863::t_bda14d0d5bfd82 20-21
+  s_5b002650df0863::t_4a5781627c9269 36-37
+apps/demo/migrations/0001_initial.py
+  s_5b002650df0863::t_8becd81768a1a5 1-91
+apps/demo/tests/test_rls.py
+  s_5b002650df0863::t_6701e375416e2f 1-127
+apps/demo/registrations.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-37
+apps/demo/tests/test_staff_views.py
+  s_5b002650df0863::t_e68689453efb8b 1-121
+apps/demo/staff_views.py
+  s_5b002650df0863::t_6fe4cdb2c467e7 1-90
+apps/demo/migrations/0002_rls.py
+  s_5b002650df0863::t_4c70e9d855e8c2 1-29
+apps/demo/tests/test_schema.py
+  s_5b002650df0863::t_e68689453efb8b 1-90
+tests/architecture/test_bigint_boundary.py
+  s_5b002650df0863::t_dcf6cf6910a49d 31
+templates/demo/staff_upload.html
+  s_5b002650df0863::t_8576b5170ee441 1-26
+apps/sales/views.py
+  s_5b002650df0863::t_f76e51f87fa442 274-280
+templates/demo/row_detail.html
+  s_5b002650df0863::t_8576b5170ee441 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "aa8ea9ae44d57f01742ac69d12c19c9bcdb09a67",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
