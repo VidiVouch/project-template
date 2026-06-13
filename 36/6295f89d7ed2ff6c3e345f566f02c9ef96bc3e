@@ -1,0 +1,22 @@
+traffic_adapters/tests/test_brella.py
+  s_5b002650df0863::t_b89975a64eaea4 1-218
+traffic_adapters/adapters/brella.py
+  s_5b002650df0863::t_b89975a64eaea4 1-13,18-183
+  s_5b002650df0863::t_ed46c2f0c83209 14-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "366295f89d7ed2ff6c3e345f566f02c9ef96bc3e",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
