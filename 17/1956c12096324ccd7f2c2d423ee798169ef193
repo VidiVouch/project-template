@@ -1,0 +1,125 @@
+apps/data/expoplatform/apps.py
+  s_a6eca0c9d3dc1e::t_61e4641663f27a 8
+  s_a6eca0c9d3dc1e::t_4cfaaae731ebeb 1-7
+apps/data/expoplatform/transformers.py
+  s_a6eca0c9d3dc1e::t_ca2b70a2bc9194 1-18,24-33,40-41,44-45,47,49-56,58-60,62,67-122
+  s_a6eca0c9d3dc1e::t_4cfaaae731ebeb 19-23,34-39,42-43,46,48,57,61,63-66
+config/settings/base.py
+  s_a6eca0c9d3dc1e::t_806f6ac49188bf 99
+apps/data/expoplatform/response.py
+  s_a6eca0c9d3dc1e::t_edc2618f886c14 233
+  s_a6eca0c9d3dc1e::t_4cfaaae731ebeb 28-29,34-35,45,47
+  s_a6eca0c9d3dc1e::t_28c7ab7a21a9ac 1-27,30-33,36-44,46,48-186,188-232,234-240
+  s_a6eca0c9d3dc1e::t_f955763fab1d4f 187
+apps/catalog/promoters.py
+  s_a6eca0c9d3dc1e::t_3ecf723d303026 83
+  s_a6eca0c9d3dc1e::t_a0fdd28ffb37eb 68-72
+  s_a6eca0c9d3dc1e::t_7abe9302be1ea4 42-46
+  s_a6eca0c9d3dc1e::t_0fef86d9bbe637 93-94
+apps/data/expoplatform/tests/test_mapping.py
+  s_a6eca0c9d3dc1e::t_4d42cd03f601a9 1-29,38-113,121-137
+  s_a6eca0c9d3dc1e::t_f955763fab1d4f 30-37,114-120
+apps/catalog/tests/test_promote_expoplatform.py
+  s_a6eca0c9d3dc1e::t_0760a77b4aa82e 180-182,191
+  s_a6eca0c9d3dc1e::t_ef348df3855919 1-11,13-16,18-99,103-119,123-155,159-172
+  s_a6eca0c9d3dc1e::t_f38808392a4d5a 12,17
+  s_a6eca0c9d3dc1e::t_f955763fab1d4f 120-122,156-158
+  s_a6eca0c9d3dc1e::t_67c23dab3c5dd0 100-102
+  s_a6eca0c9d3dc1e::t_16c2e96f21c900 173-179,183-190
+apps/data/expoplatform/registrations.py
+  s_a6eca0c9d3dc1e::t_3360c43bc282f5 1,4-7,9-16,18,22-42,44-56,58-60
+  s_a6eca0c9d3dc1e::t_4cfaaae731ebeb 2-3,8,17,19-21,43,57,61
+scrapers/event_spiders/expoplatform.py
+  s_a6eca0c9d3dc1e::t_65ffd19444ac44 221-223
+  s_a6eca0c9d3dc1e::t_cadd3b8e9088f2 1-41,43-83,85-220,224-394
+  s_a6eca0c9d3dc1e::t_f328758b9bc422 84
+  s_a6eca0c9d3dc1e::t_32cd8caed26edf 42
+apps/data/expoplatform/tests/test_response.py
+  s_a6eca0c9d3dc1e::t_f955763fab1d4f 90-92
+  s_a6eca0c9d3dc1e::t_261ebea0e56628 1-89,93-124
+scrapers/event_spiders/tests/test_expoplatform_spider.py
+  s_a6eca0c9d3dc1e::t_65ffd19444ac44 321-325,337-339
+  s_a6eca0c9d3dc1e::t_2ca4f7c32926e2 1-320,326-336,340-401
+apps/data/expoplatform/tests/test_sessions.py
+  s_a6eca0c9d3dc1e::t_ae3ed1672c0d72 1-39,43-48,58-89
+  s_a6eca0c9d3dc1e::t_dd0446476d2e93 40-42
+  s_a6eca0c9d3dc1e::t_15f47acfd5f2b7 49-57
+apps/catalog/tests/test_promoter_registry.py
+  s_a6eca0c9d3dc1e::t_2917155a8c0818 224-226
+  s_a6eca0c9d3dc1e::t_6f53ead4277085 64-68
+  s_a6eca0c9d3dc1e::t_2b274709d22239 30-34
+apps/data/expoplatform/mapping.py
+  s_a6eca0c9d3dc1e::t_d8e7f07d6519b4 6,11-28,33-34,36-47,58-142
+  s_a6eca0c9d3dc1e::t_883fdd9bc1c898 1-5,7-10,48-49,51-54,56-57
+  s_a6eca0c9d3dc1e::t_4cfaaae731ebeb 29-32,35,50,55
+apps/data/expoplatform/tests/test_contracts.py
+  s_a6eca0c9d3dc1e::t_4cfaaae731ebeb 9-12,14,20,22-23,101,122-128,136-142,145
+  s_a6eca0c9d3dc1e::t_f955763fab1d4f 88
+  s_a6eca0c9d3dc1e::t_0218d8e33171db 1-8,13,15-19,21,24-87,89-100,102-121,129-135,143-144,146-159
+apps/data/expoplatform/sessions.py
+  s_a6eca0c9d3dc1e::t_9a471862cd60c3 1-24,26-43,53-55,58-63
+  s_a6eca0c9d3dc1e::t_50450e4c5bbe9f 44
+  s_a6eca0c9d3dc1e::t_dcec4fbc2b3b87 25
+  s_a6eca0c9d3dc1e::t_c72ce21ed1e9ab 45-52,56-57
+apps/data/expoplatform/models.py
+  s_a6eca0c9d3dc1e::t_da4be48410a8cc 1-29,34-41,45,47-51,53,55,57-58,63-122,124-125
+  s_a6eca0c9d3dc1e::t_4cfaaae731ebeb 30-33,42-44,46,52,54,56,59-62,123
+traffic_adapters/tests/test_expoplatform.py
+  s_a6eca0c9d3dc1e::t_9318c2bba28f09 1-63,65-237,239-336,338-346
+  s_a6eca0c9d3dc1e::t_f955763fab1d4f 64,238,337
+  s_a6eca0c9d3dc1e::t_1eebe643dc0bba 350
+  s_a6eca0c9d3dc1e::t_551c32aea22732 347-349,351-377
+apps/catalog/handlers/expoplatform.py
+  s_a6eca0c9d3dc1e::t_771f480a57deda 1-18,28-97,99-191,196-234,243,254-268,272
+  s_a6eca0c9d3dc1e::t_f955763fab1d4f 192-195,269-271
+  s_a6eca0c9d3dc1e::t_3c0fe7077f8b9c 235-242,244-253
+  s_a6eca0c9d3dc1e::t_8130668fd4df95 19-27
+  s_a6eca0c9d3dc1e::t_5d62fa83c94517 98
+apps/data/expoplatform/admin.py
+  s_a6eca0c9d3dc1e::t_be403b9fc2e23a 1-37
+apps/data/expoplatform/management/commands/import_portal_expoplatform.py
+  s_a6eca0c9d3dc1e::t_567c5e1dd375e3 1-33,35-80,82-129,132-135,137-171,173-180,182-197
+  s_a6eca0c9d3dc1e::t_b1f66b856a3f60 81
+  s_a6eca0c9d3dc1e::t_f955763fab1d4f 34,172
+  s_a6eca0c9d3dc1e::t_d1fcd446ffb12d 130-131,136
+  s_a6eca0c9d3dc1e::t_285ae61c67bd35 181
+apps/data/expoplatform/tests/test_import_portal_expoplatform.py
+  s_a6eca0c9d3dc1e::t_0edfbd95ca2229 1-97
+traffic_adapters/adapters/expoplatform.py
+  s_a6eca0c9d3dc1e::t_d3de6eb5e41fe5 81
+  s_a6eca0c9d3dc1e::t_fbbde85866b5bf 202,220
+  s_a6eca0c9d3dc1e::t_9136b2515a149a 1-70,72-80,82-86,88-95,97-113,115-146,148-159,161-183,189-200,224-229
+  s_a6eca0c9d3dc1e::t_6e8a811c5475ef 114
+  s_a6eca0c9d3dc1e::t_691abc153eed6f 201,203-205,207-219,221-222
+  s_a6eca0c9d3dc1e::t_20cf9e6c0d1dc1 71
+  s_a6eca0c9d3dc1e::t_a7474e83bbaf6d 147
+  s_a6eca0c9d3dc1e::t_e2cd76bfffb455 184-185
+  s_a6eca0c9d3dc1e::t_f1037b65722ff0 186-188
+  s_a6eca0c9d3dc1e::t_418c82ecdda1b5 96
+  s_a6eca0c9d3dc1e::t_fc94ec9ae11ef8 87
+  s_a6eca0c9d3dc1e::t_bb6300d8d77367 206
+  s_a6eca0c9d3dc1e::t_f955763fab1d4f 160,223
+apps/bootstrap.py
+  s_a6eca0c9d3dc1e::t_7a721aeeff6851 158,161
+  s_a6eca0c9d3dc1e::t_991cf7b2b986ed 88,92
+apps/data/expoplatform/tests/test_admin.py
+  s_a6eca0c9d3dc1e::t_6813e22d03bbd1 1-32
+apps/data/expoplatform/tests/test_app_registration.py
+  s_a6eca0c9d3dc1e::t_d9b05461b403cc 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "171956c12096324ccd7f2c2d423ee798169ef193",
+  "prompts": {},
+  "sessions": {
+    "s_a6eca0c9d3dc1e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4c47b70-e83a-453a-9faa-777bcbf505e3",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
