@@ -1,0 +1,71 @@
+apps/billing/models.py
+  s_998d95b9de4b0f::t_57abc3d3be6135 7-14,17,25-141,167-172,175
+apps/billing/webhooks.py
+  s_998d95b9de4b0f::t_57abc3d3be6135 1-100
+apps/billing/management/commands/stripe_listen.py
+  s_998d95b9de4b0f::t_57abc3d3be6135 1-60
+apps/billing/tests/test_webhooks.py
+  s_998d95b9de4b0f::t_57abc3d3be6135 1-150
+config/settings/base.py
+  s_998d95b9de4b0f::t_7be498205e356b 383-388,394-398
+apps/billing/tests/test_invoicing.py
+  s_998d95b9de4b0f::t_c9d26f9d3ad95c 124-133,155-158
+  s_998d95b9de4b0f::t_b957e9fac52d11 38-39,41-43,47-48,52-54,60,65,67
+  s_998d95b9de4b0f::t_65ccce93d0985e 11
+apps/billing/tests/test_views.py
+  s_998d95b9de4b0f::t_be33371a554e58 95-97
+  s_998d95b9de4b0f::t_c250c36d1be87c 14,26,29,31,34,36-37
+  s_998d95b9de4b0f::t_bb1e95d2cab1af 73-74
+config/urls.py
+  s_998d95b9de4b0f::t_fd693dc12bd97f 33-35
+  s_998d95b9de4b0f::t_fca05bc0bed8f9 7
+pyproject.toml
+  s_998d95b9de4b0f::t_98cd6380fca04c 39
+apps/billing/migrations/0001_initial.py
+  s_998d95b9de4b0f::t_39ebc1aa17f4ba 1,13,17-79,88
+apps/billing/views.py
+  s_998d95b9de4b0f::t_936b7424ff6592 34-35
+  s_998d95b9de4b0f::t_72742ca9472ea8 159
+  s_998d95b9de4b0f::t_8e189840386441 76,89-93,99-100,103,106-108,110,113
+apps/sales/limits.py
+  s_998d95b9de4b0f::t_ddb71244e39aad 5-6,26,53-54,56,59-60,67,72-73,75
+  s_998d95b9de4b0f::t_c7cd555a428fe2 46-49
+uv.lock
+  s_998d95b9de4b0f::t_d572201ad47285 1563,1647,2310,2316,2318
+apps/billing/keys.py
+  s_998d95b9de4b0f::t_57abc3d3be6135 1-8
+apps/billing/__init__.py
+  s_998d95b9de4b0f::t_03931595244627 1
+apps/billing/tests/test_receivers.py
+  s_998d95b9de4b0f::t_ddb71244e39aad 1,9,13-18,21-23,25,27-29,33,36,38,43-44
+apps/billing/admin.py
+  s_998d95b9de4b0f::t_57abc3d3be6135 1-86
+apps/billing/invoicing.py
+  s_998d95b9de4b0f::t_7e401a665ec76f 18-20,24-25,30,32,36-37,45-56,70-71,94,99-102,104,114,154,195-197
+apps/billing/apps.py
+  s_998d95b9de4b0f::t_57abc3d3be6135 1,7,14,16-19
+apps/billing/management/commands/stripe_sync.py
+  s_998d95b9de4b0f::t_57abc3d3be6135 1-46
+apps/billing/receivers.py
+  s_998d95b9de4b0f::t_57abc3d3be6135 1,6,12-16,22,28,34,36-37,49-51,56-58,63-64
+apps/sales/tests/test_limits.py
+  s_998d95b9de4b0f::t_ddb71244e39aad 3-4,9,22,24,30-31,33,35-37,41-43,58,62,69,74,79,84,89,94,100,102,104-106
+config/settings/production.py
+  s_998d95b9de4b0f::t_3e05e16a426db7 69-77,79-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "27db22527304b57cc47be960b85e765bcee47f1b",
+  "prompts": {},
+  "sessions": {
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
