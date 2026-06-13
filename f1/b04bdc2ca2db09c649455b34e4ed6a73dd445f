@@ -1,0 +1,19 @@
+apps/data/capture/tests/test_startsource.py
+  s_5b002650df0863::t_d1ed12c82220cd 29-33,77-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "f1b04bdc2ca2db09c649455b34e4ed6a73dd445f",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
