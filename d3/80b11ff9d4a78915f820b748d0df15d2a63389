@@ -1,0 +1,21 @@
+apps/data/swapcard/tests/test_import_portal_swapcard.py
+  s_5b002650df0863::t_5775a99d5de3fb 1-110
+apps/data/swapcard/management/commands/import_portal_swapcard.py
+  s_5b002650df0863::t_a33a4aecf4f394 1-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d380b11ff9d4a78915f820b748d0df15d2a63389",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
