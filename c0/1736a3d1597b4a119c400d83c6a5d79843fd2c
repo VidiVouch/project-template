@@ -1,0 +1,138 @@
+scrapers/event_spiders/tests/test_gatherdigital_spider.py
+  s_833d0e25bafe83::t_dec30dc7e6e957 132-137,192-194
+  s_833d0e25bafe83::t_36d1209c88d89f 1-131,138-191,195-210
+apps/data/gatherdigital/mapping.py
+  s_833d0e25bafe83::t_91042d2d56fe31 192
+  s_833d0e25bafe83::t_c80ec0fdd7dae8 69-70
+  s_833d0e25bafe83::t_dcf8c1b0e01bac 1-19,26-68,71-76,82-85,87-116,118-169,172-173,175-181,183-191
+  s_833d0e25bafe83::t_4dd30824e9519d 77-81
+  s_833d0e25bafe83::t_024ad862590e88 20-25,86,170-171,174,182,193
+  s_833d0e25bafe83::t_3ff4abbea645ca 117
+scrapers/event_spiders/gatherdigital.py
+  s_833d0e25bafe83::t_ca8bde70e0bb62 188-189
+  s_833d0e25bafe83::t_ff70c1ae685279 421
+  s_833d0e25bafe83::t_ac0f59d4b1134c 386
+  s_833d0e25bafe83::t_433fbce6c69ef0 302,309,356,394
+  s_833d0e25bafe83::t_eda382b9bfa3ac 260
+  s_833d0e25bafe83::t_760f5ac21dd91e 375
+  s_833d0e25bafe83::t_e0e61fb0d693c4 372
+  s_833d0e25bafe83::t_90f9c280d03403 336
+  s_833d0e25bafe83::t_4e1b85d3a100ed 267,282,374
+  s_833d0e25bafe83::t_4e1b1ebdd11702 143
+  s_833d0e25bafe83::t_75052794770f9c 47
+  s_833d0e25bafe83::t_c6433ad0fe362d 288
+  s_833d0e25bafe83::t_dec30dc7e6e957 166-170,268-270,324-326,357-359
+  s_833d0e25bafe83::t_80ba36a23883c8 206
+  s_833d0e25bafe83::t_254d64af149e7a 1-46,48-142,144-165,171-187,190-205,207-259,261-266,271-281,283-287,289-301,303-308,310-323,327-335,337-355,360-371,373,376-385,387-393,395-420,422-428
+apps/data/gatherdigital/tests/test_import_portal_gatherdigital.py
+  s_833d0e25bafe83::t_dec30dc7e6e957 102
+  s_833d0e25bafe83::t_143fae8ba0e773 1-101,103-105
+apps/data/gatherdigital/sessions.py
+  s_833d0e25bafe83::t_c8dc339ad5d628 1-38,40-59
+  s_833d0e25bafe83::t_661cb92c0f634e 39
+apps/bootstrap.py
+  s_833d0e25bafe83::t_121520ee6d9c3e 88,92
+  s_833d0e25bafe83::t_7f482699f7fa9b 158,161
+apps/data/gatherdigital/transformers.py
+  s_833d0e25bafe83::t_8ccf8951fefce5 149
+  s_833d0e25bafe83::t_7b2511b28169c2 1-17,23-40,47-48,50-54,56-59,61-67,69-76,78,83-148,150-180
+  s_833d0e25bafe83::t_024ad862590e88 18-22,41-46,49,55,60,68,77,79-82
+apps/data/gatherdigital/tests/test_response.py
+  s_833d0e25bafe83::t_dec30dc7e6e957 48-50,69,97-99
+  s_833d0e25bafe83::t_b97bf713028e9d 1-47,51-68,70-96,100-124
+apps/catalog/handlers/gatherdigital.py
+  s_833d0e25bafe83::t_14b49184e1240e 66
+  s_833d0e25bafe83::t_56dfcb1e686425 122
+  s_833d0e25bafe83::t_7a4242aa354b49 1-65,67-81,85-101,103-121,123-181,183-208,210-216,218-225,227-241,243-284
+  s_833d0e25bafe83::t_95677afd07824a 82-84
+  s_833d0e25bafe83::t_2c456264045a2d 209,217,226
+  s_833d0e25bafe83::t_068307db7cf285 242
+  s_833d0e25bafe83::t_5d9ab7a2a9eaed 182
+  s_833d0e25bafe83::t_cfc715bd5124a0 102
+apps/catalog/promoters.py
+  s_833d0e25bafe83::t_631e58b2bb3ecb 42-47
+  s_833d0e25bafe83::t_e0debaa20cdb29 95,97
+  s_833d0e25bafe83::t_267b2c5c62719d 96
+  s_833d0e25bafe83::t_692d8ba7ef0f5c 85
+  s_833d0e25bafe83::t_811d3980e846ad 69-74
+apps/data/gatherdigital/models.py
+  s_833d0e25bafe83::t_34524658e55543 1-26,30-45,48-51,53,55-58,61-65,67,70-219,221-222
+  s_833d0e25bafe83::t_024ad862590e88 27-29,46-47,52,54,59-60,66,68-69,220
+apps/data/gatherdigital/migrations/0001_initial.py
+  s_833d0e25bafe83::t_232e4b50b1083b 1-297
+apps/data/gatherdigital/tests/test_contracts.py
+  s_833d0e25bafe83::t_52e373f4e8a440 71-75
+  s_833d0e25bafe83::t_02ba14b597f9fc 33
+  s_833d0e25bafe83::t_3e4f0416530855 1-6,12-17,22-32,34,36-70,76-104,107,110-123,127,130-133
+  s_833d0e25bafe83::t_024ad862590e88 7-11,18-21,35,105-106,108-109,124-126,128-129,134
+apps/data/gatherdigital/apps.py
+  s_833d0e25bafe83::t_024ad862590e88 1-8
+apps/data/gatherdigital/tests/test_transformers.py
+  s_833d0e25bafe83::t_d0caffc4837a30 1-78
+apps/data/gatherdigital/tests/test_admin.py
+  s_833d0e25bafe83::t_ede4bb329a87c6 1-64
+apps/catalog/tests/test_promote_gatherdigital.py
+  s_833d0e25bafe83::t_fbbf0663a1db5c 228-231,239-241
+  s_833d0e25bafe83::t_a044e3622182d4 94
+  s_833d0e25bafe83::t_536569656de31a 227,232
+  s_833d0e25bafe83::t_14d7a2c536d7c9 2-6,8-93,95-103,107-184,187,189-226,233-238,242-302
+  s_833d0e25bafe83::t_52e373f4e8a440 104-106
+  s_833d0e25bafe83::t_65240216297f96 7
+  s_833d0e25bafe83::t_508853156ead3b 185-186,188
+  s_833d0e25bafe83::t_e03c810fef5ae7 1
+apps/catalog/tests/test_promoter_registry.py
+  s_833d0e25bafe83::t_3cc068b945cfee 65-70
+  s_833d0e25bafe83::t_d02d244159943d 226-229
+  s_833d0e25bafe83::t_5871794c4a3ea2 30-35
+apps/data/gatherdigital/response.py
+  s_833d0e25bafe83::t_2f41d1860992d9 127
+  s_833d0e25bafe83::t_5d2372b9d770c1 92
+  s_833d0e25bafe83::t_99da8aaae48e32 84
+  s_833d0e25bafe83::t_3f89c4eb57a751 1-16,19-20,23-67,70-83,85-90,93-103,107-119,122-126,128-141,143-148
+  s_833d0e25bafe83::t_dec30dc7e6e957 104-106
+  s_833d0e25bafe83::t_eaadd42f300bf1 121
+  s_833d0e25bafe83::t_9258eb72d8a4c3 69
+  s_833d0e25bafe83::t_d0110caf1fed6f 91
+  s_833d0e25bafe83::t_e6b08d568dd1b3 68
+  s_833d0e25bafe83::t_d201ba670497a9 120
+  s_833d0e25bafe83::t_024ad862590e88 17-18,21-22,142
+apps/data/gatherdigital/tests/test_app_registration.py
+  s_833d0e25bafe83::t_f97cb9803edb50 1-58
+apps/data/gatherdigital/management/commands/import_portal_gatherdigital.py
+  s_833d0e25bafe83::t_5480210f16eaad 65
+  s_833d0e25bafe83::t_2c6e17e4bf0a59 1-64,66-108
+apps/data/gatherdigital/admin.py
+  s_833d0e25bafe83::t_1c58aa0b454ecc 1-51
+.agents/skills/port-source/references/legacy-map.md
+  s_833d0e25bafe83::t_6c26c4904695a9 37
+apps/data/gatherdigital/tests/test_mapping.py
+  s_833d0e25bafe83::t_dec30dc7e6e957 112-119,170-177
+  s_833d0e25bafe83::t_60f7119b13b5f8 1-46,48-60,62-69,71-111,120-143,148-156,158-167,169,178-180
+  s_833d0e25bafe83::t_98784fc6e2fdf2 61,70
+  s_833d0e25bafe83::t_304eb436011eb8 47
+  s_833d0e25bafe83::t_8069cfe3542dc2 168
+  s_833d0e25bafe83::t_178cde8314171c 181
+  s_833d0e25bafe83::t_1b7893e7460891 157
+  s_833d0e25bafe83::t_52e373f4e8a440 144-147
+config/settings/base.py
+  s_833d0e25bafe83::t_0cd0635c62955b 99
+apps/data/gatherdigital/registrations.py
+  s_833d0e25bafe83::t_024ad862590e88 19,51,68,70
+  s_833d0e25bafe83::t_20cec578d5fb6e 1-18,20-50,52-67,69,71-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c01736a3d1597b4a119c400d83c6a5d79843fd2c",
+  "prompts": {},
+  "sessions": {
+    "s_833d0e25bafe83": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4283e0c-d670-4607-8361-ad913061a845",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
