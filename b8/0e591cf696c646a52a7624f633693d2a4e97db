@@ -1,0 +1,23 @@
+traffic_adapters/tests/test_swapcard.py
+  s_5b002650df0863::t_2900ec480bc46e 1-185
+traffic_adapters/tests/test_provider_registry.py
+  s_5b002650df0863::t_79b584bad5f14b 140-142
+traffic_adapters/adapters/swapcard.py
+  s_5b002650df0863::t_9e710b3a569500 1-243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b80e591cf696c646a52a7624f633693d2a4e97db",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
