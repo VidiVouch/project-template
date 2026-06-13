@@ -1,0 +1,22 @@
+apps/data/swapcard/tests/test_contracts.py
+  s_5b002650df0863::t_52fe568fd12352 19-23,138
+  s_5b002650df0863::t_bbc3f6b5939e25 134-137,139-140
+apps/data/swapcard/tests/test_response.py
+  s_5b002650df0863::t_c55e383e62e8f9 106-176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "672448f208df998445618c4cbd4d1e90f3007561",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
