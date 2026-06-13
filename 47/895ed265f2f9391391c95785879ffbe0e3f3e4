@@ -1,0 +1,130 @@
+apps/data/luma/tests/test_admin.py
+  s_9252f772f2293b::t_6507153a29a496 1-8,10-34
+  s_9252f772f2293b::t_2b940482800780 9
+apps/data/luma/apps.py
+  s_9252f772f2293b::t_bd4b31dfab3ecd 1-8
+apps/data/luma/transformers.py
+  s_9252f772f2293b::t_407ae01565fef5 3-8,14-21,28-29,31-37,39-40,42-43,48-62,67-94
+  s_9252f772f2293b::t_bd4b31dfab3ecd 1-2,9-13,22-27,30,38,41,44-47,63-66
+apps/data/luma/models.py
+  s_9252f772f2293b::t_f8f653fc10a031 3-27,32-38,42,44,48-50,58-98
+  s_9252f772f2293b::t_bd4b31dfab3ecd 1-2,28-31,39-41,43,45-47,51-57
+apps/data/luma/response.py
+  s_9252f772f2293b::t_2b940482800780 112
+  s_9252f772f2293b::t_810d2abe7b9b8f 1,6-20,23-24,27-68,70-105,107-111
+  s_9252f772f2293b::t_5d54a2aa227873 69
+  s_9252f772f2293b::t_bd4b31dfab3ecd 2-5,21-22,25-26,106
+apps/data/luma/tests/test_response.py
+  s_9252f772f2293b::t_484fd091f4b1a5 1-103
+apps/data/luma/tests/test_mapping.py
+  s_9252f772f2293b::t_2b940482800780 7
+  s_9252f772f2293b::t_f2c9c50321a9ee 89-103
+  s_9252f772f2293b::t_2573e59f89d050 1-6,8-88,104-131,151-157
+  s_9252f772f2293b::t_3e5ecc8c1eb509 132-137
+  s_9252f772f2293b::t_f43686ed248644 138-150
+apps/catalog/tests/test_promote_luma.py
+  s_9252f772f2293b::t_2f92efb91a68f1 118-141
+  s_9252f772f2293b::t_00feb0461768a5 1-117,142-219,221-222
+  s_9252f772f2293b::t_8365d7e5382634 220
+.agents/skills/port-source/references/legacy-map.md
+  s_9252f772f2293b::t_2da5acfdd5e7fd 55-56
+apps/data/luma/management/commands/import_portal_luma.py
+  s_9252f772f2293b::t_cc82c73f8696c3 1-92
+apps/catalog/tests/test_promoter_registry.py
+  s_9252f772f2293b::t_cdb3ae926b293b 61
+  s_9252f772f2293b::t_b64612be957191 219-221
+  s_9252f772f2293b::t_1bc77c9e7cb8b3 35
+apps/data/luma/tests/test_models.py
+  s_9252f772f2293b::t_5d275b50558351 1-40
+apps/data/luma/registrations.py
+  s_9252f772f2293b::t_63273ef947f22e 4-7,9-15,22-29,31-33,35-36
+  s_9252f772f2293b::t_2b940482800780 40
+  s_9252f772f2293b::t_bd4b31dfab3ecd 1-3,8,16-21,30,34,37-39
+apps/bootstrap.py
+  s_9252f772f2293b::t_69e64b7bcfb04f 89,92
+apps/data/luma/mapping.py
+  s_9252f772f2293b::t_bd4b31dfab3ecd 1-2,16-17,19-22,113-115,149,155-157,166
+  s_9252f772f2293b::t_59e1c24dc78c9a 3-15,18,23-30,34-57,59,61-68,76-77,81,83-84,92-96,105-109,111-112,116-123,130-131,140,142-148,150-154,158-165
+  s_9252f772f2293b::t_623cd64cf85252 58,60
+  s_9252f772f2293b::t_34c13beadb56b4 31-33
+  s_9252f772f2293b::t_1fc5417e47a07b 126-128
+  s_9252f772f2293b::t_a9c0393af744fe 97-104,110
+  s_9252f772f2293b::t_bffdeb734984c2 69-75,78-80,82,85-91
+  s_9252f772f2293b::t_b01dbd2896978e 124-125,129,132-139,141
+config/settings/base.py
+  s_9252f772f2293b::t_c29c4ee3e3e39d 100
+apps/data/luma/admin.py
+  s_9252f772f2293b::t_1c7e17b17e66b8 1-10,12-15,18-20
+  s_9252f772f2293b::t_66777c9a88d32d 16-17
+  s_9252f772f2293b::t_2b940482800780 11
+apps/data/luma/tests/test_app_registration.py
+  s_9252f772f2293b::t_32101cb6f62e4b 1-38
+scrapers/event_spiders/tests/test_luma_spider.py
+  s_9252f772f2293b::t_bf8c8b2fa53f65 115-125
+  s_9252f772f2293b::t_855399a112e58a 154-155
+  s_9252f772f2293b::t_e5617c91770166 73-87
+  s_9252f772f2293b::t_ceb3eba0ff0ab3 111
+  s_9252f772f2293b::t_8c35931fe6c2a4 57
+  s_9252f772f2293b::t_342279186a8498 1-56,58-72,88-110,112-114,126-153,156-157
+apps/catalog/handlers/luma.py
+  s_9252f772f2293b::t_1df1dd91d8e930 1-154
+apps/data/luma/tests/test_contracts.py
+  s_9252f772f2293b::t_bd4b31dfab3ecd 9-13,15-18,36-37,66-70,74-80,83
+  s_9252f772f2293b::t_cf16d4e7b898d1 1-8,14,19-35,38-65,71-73,81-82
+apps/catalog/promoters.py
+  s_9252f772f2293b::t_8cfe64b055be4e 47
+  s_9252f772f2293b::t_365cffa5e19ba1 65
+  s_9252f772f2293b::t_eb12db47acd468 88
+  s_9252f772f2293b::t_20197be12239b1 76-77
+apps/data/luma/migrations/0001_initial.py
+  s_9252f772f2293b::t_12381676ff8c13 1-97
+apps/data/luma/tests/test_import_portal_luma.py
+  s_9252f772f2293b::t_fa037a4e579c8a 13
+  s_9252f772f2293b::t_ffcf15f528699b 42-55
+  s_9252f772f2293b::t_fdba677b2a1701 1-12,14-41,56-103
+scrapers/event_spiders/luma.py
+  s_9252f772f2293b::t_cef11d3c8fabf9 284
+  s_9252f772f2293b::t_1e6e51fa7801a0 181
+  s_9252f772f2293b::t_ab395e5678c059 147
+  s_9252f772f2293b::t_c74c055f2df6f6 44
+  s_9252f772f2293b::t_686ba2eb04b6ce 219
+  s_9252f772f2293b::t_f15bb5e4e60598 227-228
+  s_9252f772f2293b::t_e16c2788f7e6ad 46
+  s_9252f772f2293b::t_47cee793e4ab30 258
+  s_9252f772f2293b::t_c99a27e5b9f9e8 276
+  s_9252f772f2293b::t_de52d116598f44 149,166,185
+  s_9252f772f2293b::t_2b940482800780 263
+  s_9252f772f2293b::t_4f67cbb5ec61fb 272
+  s_9252f772f2293b::t_8faa8c55c3fe8f 108
+  s_9252f772f2293b::t_569d9eee8a01e1 101
+  s_9252f772f2293b::t_9015af79d093f1 193-197
+  s_9252f772f2293b::t_de0fc3db314f08 30
+  s_9252f772f2293b::t_e646a3f8ef94d0 1-29,31-43,45,47-63,65-100,102-107,109-113,115-146,148,150-158,164-165,167-180,182-184,186-192,198-205,207-218,220-226,229-247,249-257,259-260,262,264,266-271,273-275,277-283,285-297
+  s_9252f772f2293b::t_4d8c5de75e8d61 159-163
+  s_9252f772f2293b::t_09c3097dd4fcd9 248
+  s_9252f772f2293b::t_67f89a8ca0e50b 114
+  s_9252f772f2293b::t_ab736afb4cd715 206
+  s_9252f772f2293b::t_20fba7270d15fa 64
+  s_9252f772f2293b::t_35e43d66b323c2 261
+  s_9252f772f2293b::t_359c69f5599eea 265
+apps/data/luma/tests/test_transformers.py
+  s_9252f772f2293b::t_255099556b4388 1-4,6-67
+  s_9252f772f2293b::t_2b940482800780 5
+  s_9252f772f2293b::t_0f0255f8874cff 68-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "47895ed265f2f9391391c95785879ffbe0e3f3e4",
+  "prompts": {},
+  "sessions": {
+    "s_9252f772f2293b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0cc7abc4-cf2e-48fd-99c8-4eae9ba26b99",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
