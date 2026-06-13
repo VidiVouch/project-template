@@ -1,0 +1,131 @@
+apps/data/swapcard/mapping.py
+  s_a4562a585b2bb5::t_da5389fa139487 1-3,28,32,65,68,74,92-93,95-96
+  s_a4562a585b2bb5::t_0ce4f422038c53 4-23,26,29-31,33-63,66-67,69-73,75-80,83-91,97-165,167-231
+  s_a4562a585b2bb5::t_4f1d89250a2327 24-25,27,64,81-82,94,166
+apps/data/swapcard/models.py
+  s_a4562a585b2bb5::t_bc6cec4ae982fb 3-30,35-42,46,48-52,54,57-86,93-117
+  s_a4562a585b2bb5::t_4f1d89250a2327 1-2,31-34,43-45,47,53,55-56,87-92
+apps/data/swapcard/migrations/0001_initial.py
+  s_a4562a585b2bb5::t_20e91e402b4a11 1-117
+scrapers/event_spiders/swapcard/AppEventDetails.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-54
+scrapers/event_spiders/swapcard/AppGetNewAccessToken.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-3
+scrapers/event_spiders/swapcard/CustomPersonDetails.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-156
+scrapers/event_spiders/swapcard/ExhibitorsListViewWithFilters.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-13
+apps/data/swapcard/sessions.py
+  s_a4562a585b2bb5::t_a0858092f7860d 1-54
+apps/bootstrap.py
+  s_a4562a585b2bb5::t_7f37c554ebcc14 159,161
+  s_a4562a585b2bb5::t_abf804e28979d8 90,92
+scrapers/event_spiders/swapcard/AppExhibitorsListViewWithFilters.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-13
+scrapers/event_spiders/swapcard/CustomCurrentUser.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-52
+apps/data/swapcard/transformers.py
+  s_a4562a585b2bb5::t_bc597039a5509e 1-19,25-33,40-41,44-47,49-56,58-60,62,65-113,116-129
+  s_a4562a585b2bb5::t_4f1d89250a2327 20-24,34-39,42-43,48,57,61,63-64,114-115
+scrapers/event_spiders/swapcard/swapcard.py
+  s_a4562a585b2bb5::t_16f1b889fe141b 1-491
+scrapers/event_spiders/swapcard/PeoplePage.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-15
+traffic_adapters/adapters/swapcard.py
+  s_a4562a585b2bb5::t_16f1b889fe141b 1-243
+traffic_adapters/tests/test_swapcard.py
+  s_a4562a585b2bb5::t_2095873228b5ed 1-107,109-280,286-307,313-374
+  s_a4562a585b2bb5::t_4535d892526b15 108,281-285,308-312
+apps/data/swapcard/tests/test_import_portal_swapcard.py
+  s_a4562a585b2bb5::t_b345e780ef6128 1-110
+apps/data/swapcard/admin.py
+  s_a4562a585b2bb5::t_cc93d089401ffb 1-35
+scrapers/event_spiders/swapcard/CustomPeoplePage.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-242
+scrapers/event_spiders/swapcard/AppCurrentUser.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-2
+apps/data/swapcard/apps.py
+  s_a4562a585b2bb5::t_4f1d89250a2327 1-7
+  s_a4562a585b2bb5::t_04e8f56cfd4863 8
+apps/data/swapcard/tests/test_response.py
+  s_a4562a585b2bb5::t_1c8e00b0b2b1b8 1-119
+apps/data/swapcard/tests/test_sessions.py
+  s_a4562a585b2bb5::t_f6d3ecedf481e4 1-83
+apps/data/swapcard/tests/test_mapping.py
+  s_a4562a585b2bb5::t_7d6ec4010adbe4 1-116,118-129,131-172
+  s_a4562a585b2bb5::t_153aaad1df32a8 117,130
+apps/data/swapcard/response.py
+  s_a4562a585b2bb5::t_a7afaf5122e158 1-25,28-31,34-298,300-305
+  s_a4562a585b2bb5::t_4f1d89250a2327 26-27,32-33,299
+apps/data/swapcard/management/commands/import_portal_swapcard.py
+  s_a4562a585b2bb5::t_637517182d03c0 1-171
+scrapers/event_spiders/swapcard/CustomEventDetails.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-67
+scrapers/event_spiders/swapcard/PeopleOverview.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-18
+scrapers/event_spiders/swapcard/AppExhibitorDetails.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-66
+apps/data/swapcard/tests/test_app_registration.py
+  s_a4562a585b2bb5::t_5b0d787f07efb5 1-27
+apps/data/swapcard/tests/test_admin.py
+  s_a4562a585b2bb5::t_9943362e4e2589 1-32
+apps/catalog/tests/test_promote_swapcard.py
+  s_a4562a585b2bb5::t_d004be2836c2b5 303
+  s_a4562a585b2bb5::t_a82130faa975f7 165-167,193-196,327-329
+  s_a4562a585b2bb5::t_652bc0bff6edf7 240,302
+  s_a4562a585b2bb5::t_1302e62ec845cf 1-164,168-192,197-239,241-301,304-326,330-338
+apps/catalog/promoters.py
+  s_a4562a585b2bb5::t_5a6ec5f715e941 48-52,70-74,84,96-97
+apps/catalog/tests/test_promoter_registry.py
+  s_a4562a585b2bb5::t_b0ab6c367c21d2 228-230
+  s_a4562a585b2bb5::t_9129db1570f4a7 66-70
+  s_a4562a585b2bb5::t_43bf047897adba 36-40
+apps/data/swapcard/tests/test_contracts.py
+  s_a4562a585b2bb5::t_ff25140645c9f8 31
+  s_a4562a585b2bb5::t_da60c8a72a8906 97-108
+  s_a4562a585b2bb5::t_5363638142881f 3-6,11,19,23-30,32-53,55-88,94-96,109-129
+  s_a4562a585b2bb5::t_53dd5fbc559e02 54
+  s_a4562a585b2bb5::t_4f1d89250a2327 1-2,7-10,12,21-22,89-93
+  s_a4562a585b2bb5::t_887251a2d71d43 13-18,20
+scrapers/event_spiders/swapcard/CustomExhibitorsListViewWithFilters.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-194
+scrapers/event_spiders/tests/test_swapcard_spider.py
+  s_a4562a585b2bb5::t_e13f5410eb2bd0 21
+  s_a4562a585b2bb5::t_0a8b8c886d54c1 1-20,22-74,76-91,93,95-97,103-117,119-127,129-415,417-427,429-437,439-452,456-461
+  s_a4562a585b2bb5::t_760414b4384e2e 118
+  s_a4562a585b2bb5::t_1a29f9d74b9a9d 128
+  s_a4562a585b2bb5::t_4535d892526b15 75,416,428,438,453-455
+  s_a4562a585b2bb5::t_e3dac3cb577536 92,94,98-102
+apps/data/swapcard/registrations.py
+  s_a4562a585b2bb5::t_4f1d89250a2327 1-4,9-14,16,39
+  s_a4562a585b2bb5::t_39aa8a274ce07e 17-27
+  s_a4562a585b2bb5::t_0008fdf09d00f5 5-8,15,28-38,40-55
+  s_a4562a585b2bb5::t_c408006490449d 56-62
+scrapers/event_spiders/swapcard/AppPersonDetails.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-785
+scrapers/event_spiders/swapcard/AppPeoplePage.graphql
+  s_a4562a585b2bb5::t_7718ee1046eb73 1-15
+config/settings/base.py
+  s_a4562a585b2bb5::t_2033532f1569ab 101
+apps/catalog/handlers/swapcard.py
+  s_a4562a585b2bb5::t_3b353321e4bd5a 2-24,33-248,250-278
+  s_a4562a585b2bb5::t_ffeadbef782441 249
+  s_a4562a585b2bb5::t_0b45330156d3d8 1
+  s_a4562a585b2bb5::t_96a9db38cf15af 25-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "7eb3befb0ecf9e74f1193e8bc53c8472c7499b29",
+  "prompts": {},
+  "sessions": {
+    "s_a4562a585b2bb5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8019fbae-895c-44fe-be8d-96b62535500d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
