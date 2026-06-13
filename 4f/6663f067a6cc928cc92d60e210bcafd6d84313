@@ -1,0 +1,24 @@
+traffic_adapters/tests/test_cvent.py
+  s_5b002650df0863::t_50a3d4274a6ff4 205-231,233-253,255-257,259-271,273-275,277-281,283-289
+  s_5b002650df0863::t_9430c67c056ebe 232
+  s_5b002650df0863::t_2aa0fcf57b480d 258
+  s_5b002650df0863::t_a50392de23320d 272
+  s_5b002650df0863::t_52a1e11169eb14 254,276
+  s_5b002650df0863::t_f34ee1e7164d41 282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "4f6663f067a6cc928cc92d60e210bcafd6d84313",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
