@@ -1,0 +1,25 @@
+apps/jobs/tests/test_import_rebuild_snapshot.py
+  s_5b002650df0863::t_9dfc3c512baff9 17
+  s_5b002650df0863::t_512ce52152d388 587-638
+REVIEW.md
+  s_5b002650df0863::t_31882563cbaba7 67
+apps/jobs/management/commands/import_rebuild_snapshot.py
+  s_5b002650df0863::t_56a13b357443ce 189-205
+  s_5b002650df0863::t_9a9b917ede7a53 52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "089d7ee81242e6ceba33290e2e29acbd1a7057d9",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
