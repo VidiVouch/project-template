@@ -1,0 +1,101 @@
+apps/data/braindate/tests/test_app_registration.py
+  s_a696069365432f::t_9261913be5d51f 1-37
+apps/data/braindate/apps.py
+  s_a696069365432f::t_babf676e62da08 1-8
+apps/data/braindate/mapping.py
+  s_a696069365432f::t_eec45bc5a91b6c 137-138
+  s_a696069365432f::t_26becde43bb3e7 110-117,120-122
+  s_a696069365432f::t_ad8f43690b9673 1-36,38-109,123-136,139-169
+  s_a696069365432f::t_cb3de1374426e9 37
+  s_a696069365432f::t_c8a70d9cd11a00 118-119
+apps/data/braindate/migrations/0001_initial.py
+  s_a696069365432f::t_c42885b70a63a5 1-57
+apps/data/braindate/tests/test_admin.py
+  s_a696069365432f::t_cfed62e04239ee 1-34
+apps/catalog/promoters.py
+  s_a696069365432f::t_1d3a1947bbf812 26-29
+  s_a696069365432f::t_39f3960305a16d 57
+  s_a696069365432f::t_823e47fb9e143a 77
+  s_a696069365432f::t_dbde808e14f1d7 81
+apps/data/braindate/response.py
+  s_a696069365432f::t_eac350d335c8a4 70
+  s_a696069365432f::t_7673f79d30c0f8 1-69,71-115
+apps/data/braindate/transformers.py
+  s_a696069365432f::t_eac350d335c8a4 24
+  s_a696069365432f::t_9e38c907f25261 1-23,25-49,51-52,54-78
+  s_a696069365432f::t_ef5004d57acae7 50
+  s_a696069365432f::t_e34792dbf89fd6 53
+apps/data/braindate/registrations.py
+  s_a696069365432f::t_2999d7eec62678 1-32
+scrapers/event_spiders/braindate.py
+  s_a696069365432f::t_aae383d3697872 156-158
+  s_a696069365432f::t_51802c34150113 134
+  s_a696069365432f::t_06cdebd12ecf1d 127
+  s_a696069365432f::t_d7fffa7f47f6aa 1-105,107-126,128-133,135-155,159-161
+  s_a696069365432f::t_eac350d335c8a4 106
+config/settings/base.py
+  s_a696069365432f::t_074ec52e257ac3 96
+apps/data/braindate/management/commands/import_portal_braindate.py
+  s_a696069365432f::t_1c25b423c257ba 1-54,56-58,60-84,86-132,134-138,140-154,156-161
+  s_a696069365432f::t_75a14324c28839 85
+  s_a696069365432f::t_eac350d335c8a4 55,155
+  s_a696069365432f::t_0a612742016c74 133,139
+  s_a696069365432f::t_fe999ca85cc168 59
+apps/data/braindate/models.py
+  s_a696069365432f::t_68d9eaa211fe9a 1-65
+apps/data/braindate/tests/test_response.py
+  s_a696069365432f::t_fd5e46dcfbce55 6
+  s_a696069365432f::t_12f6061cca779b 109-122
+  s_a696069365432f::t_74074f6df26dcf 1-5,7-108
+apps/data/braindate/admin.py
+  s_a696069365432f::t_922ea90e6a2aef 1-20
+apps/catalog/handlers/braindate.py
+  s_a696069365432f::t_e146c99cf94d55 162-169
+  s_a696069365432f::t_676fdfd0128cf9 1-68,70-99,102-161,170-187
+  s_a696069365432f::t_11b05bf4ee29ac 69
+  s_a696069365432f::t_ea13c3ef2f8c4b 100-101
+apps/data/braindate/tests/test_mapping.py
+  s_a696069365432f::t_69eeba29eecb72 107
+  s_a696069365432f::t_e71a86e6c34af8 10-11
+  s_a696069365432f::t_e4a7dab0b0a587 128-130
+  s_a696069365432f::t_a0400ecc5464ec 137-169
+  s_a696069365432f::t_35c4728c2d14bd 29-31,180
+  s_a696069365432f::t_043f453acba66b 1-9,12-28,32-44,50-90,92-106,108-127,131-136,170-179,181
+  s_a696069365432f::t_d063fb884e2908 45-49
+  s_a696069365432f::t_6713c2bfdf6139 91
+apps/data/braindate/tests/test_transformers.py
+  s_a696069365432f::t_eac350d335c8a4 36-40,55-61
+  s_a696069365432f::t_d4fc832794d193 1-35,41-54,62-110
+apps/data/braindate/tests/test_import_portal_braindate.py
+  s_a696069365432f::t_eac350d335c8a4 17
+  s_a696069365432f::t_64cb78fbafbc7b 1-16,18-93,109-113
+  s_a696069365432f::t_71c228d00fb0a9 94-108
+apps/bootstrap.py
+  s_a696069365432f::t_e006ecdc730887 86,92
+scrapers/event_spiders/tests/test_braindate_spider.py
+  s_a696069365432f::t_e92f0c65c0090b 93
+  s_a696069365432f::t_705ea35231a8b7 1-92,94-125
+apps/catalog/tests/test_promote_braindate.py
+  s_a696069365432f::t_0e6e8bcf80da4c 170,173,175-176,178-179
+  s_a696069365432f::t_8042544b03fe4f 1-7,15-96,100-109,113-122,128-139,143-169,171-172,174,177,180,206-233,237-238
+  s_a696069365432f::t_35c4728c2d14bd 97-99,110-112,123-127,140-142,234-236
+  s_a696069365432f::t_af12380d0be97b 181-202,204-205
+  s_a696069365432f::t_6d833c716e2c81 203
+  s_a696069365432f::t_dd1257ced45402 8-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ce8ddedf93152a193d0bdb47e1abc9503856e201",
+  "prompts": {},
+  "sessions": {
+    "s_a696069365432f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "975a87dd-32c9-430f-9afb-208d0d509b80",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
