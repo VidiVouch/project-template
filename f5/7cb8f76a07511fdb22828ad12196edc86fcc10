@@ -1,0 +1,98 @@
+apps/data/connectme/admin.py
+  s_f64db31c8a7678::t_0784aeb13b9224 1-24
+apps/data/connectme/transformers.py
+  s_f64db31c8a7678::t_0a7a7b9263908f 15-19,27-32,35,41,46-48,50,52-53
+  s_f64db31c8a7678::t_91c4c8b571363a 1-14,20-26,33-34,36-40,42-45,49,51,54-74
+apps/data/connectme/registrations.py
+  s_f64db31c8a7678::t_92ea4a4c56cd49 1,4-7,9-12,14,18-28,30-31,33-35
+  s_f64db31c8a7678::t_0a7a7b9263908f 2-3,8,13,15-17,29,32,36
+apps/data/connectme/tests/test_contracts.py
+  s_f64db31c8a7678::t_0a7a7b9263908f 2-3,7-11,17-20,33-34,79,81-82,86-88,90,95,99
+  s_f64db31c8a7678::t_e7e836985825c5 1,4-6,12-16,21-32,35-78,80,83-85,89,91-94,96-98
+apps/catalog/promoters.py
+  s_f64db31c8a7678::t_ae256df5138630 68-72
+  s_f64db31c8a7678::t_255f8450bec6a6 83
+  s_f64db31c8a7678::t_55361d8270f690 42-46
+  s_f64db31c8a7678::t_6871cf0852a6b2 93-94
+apps/data/connectme/mapping.py
+  s_f64db31c8a7678::t_0a7a7b9263908f 23-24,26-29,183-184,187,191-193,211
+  s_f64db31c8a7678::t_145d3ee88be465 1-22,25,30-182,185-186,188-190,194-210
+apps/catalog/handlers/connectme.py
+  s_f64db31c8a7678::t_29bf7f5936905f 1-39,41,43-74,76-112,114-118,120-153,157-158,160-222,226
+  s_f64db31c8a7678::t_b2d1fed1b7ced3 113
+  s_f64db31c8a7678::t_547c9506e92713 154-156
+  s_f64db31c8a7678::t_e6b129118ed16a 119
+  s_f64db31c8a7678::t_b9e9aa0ccf8e55 42,159,223-225
+  s_f64db31c8a7678::t_30fe07ef00783a 75
+  s_f64db31c8a7678::t_0686fde16e1f87 40
+apps/data/connectme/migrations/0001_initial.py
+  s_f64db31c8a7678::t_9eba0afd4e29a7 1-77
+scrapers/event_spiders/tests/test_connectme_spider.py
+  s_f64db31c8a7678::t_f5174a15918db6 97,104-105
+  s_f64db31c8a7678::t_3e510c87caa0e1 98-103
+  s_f64db31c8a7678::t_0ba5f42dfbba1e 1-96,106-142,144-153
+  s_f64db31c8a7678::t_65d37b34c29a1b 143
+apps/data/connectme/models.py
+  s_f64db31c8a7678::t_18ce8b01589cb3 1-18,23-28,31-32,34,37-40,42,46-71
+  s_f64db31c8a7678::t_0a7a7b9263908f 19-22,29-30,33,35-36,41,43-45
+config/settings/base.py
+  s_f64db31c8a7678::t_6a7ffbbab2ba01 98
+apps/data/connectme/tests/test_models.py
+  s_f64db31c8a7678::t_b9e9aa0ccf8e55 4
+  s_f64db31c8a7678::t_3ac71e36ce7702 1-3,5-46
+apps/data/connectme/apps.py
+  s_f64db31c8a7678::t_0767dbc8129435 8
+  s_f64db31c8a7678::t_0a7a7b9263908f 1-7
+apps/data/connectme/management/commands/import_portal_connectme.py
+  s_f64db31c8a7678::t_3b89b74296fdff 154
+  s_f64db31c8a7678::t_b9e9aa0ccf8e55 74-76
+  s_f64db31c8a7678::t_efb9c9f0868c57 110-112,117
+  s_f64db31c8a7678::t_0721b736af51f1 1-23,25-55,58-73,77-109,113-116,118-153,155-167
+  s_f64db31c8a7678::t_4df2918a2eb5b1 24
+  s_f64db31c8a7678::t_977aab090687b8 56-57
+apps/data/connectme/response.py
+  s_f64db31c8a7678::t_70288681f45af4 1,3-9,11-32,35-36,39-91,100-126,128-130,132-135,137-142
+  s_f64db31c8a7678::t_0a7a7b9263908f 2,10,33-34,37-38,136
+  s_f64db31c8a7678::t_9b1095c649613e 92-99
+  s_f64db31c8a7678::t_b6335a51629ad4 127,131
+apps/bootstrap.py
+  s_f64db31c8a7678::t_a94034f2140d98 88,92
+apps/data/connectme/tests/test_admin.py
+  s_f64db31c8a7678::t_bd60b8e014ffd8 1-3,5-38
+  s_f64db31c8a7678::t_b9e9aa0ccf8e55 4
+apps/data/connectme/tests/test_import_portal_connectme.py
+  s_f64db31c8a7678::t_8c955ac97fd533 1-97
+apps/data/connectme/tests/test_mapping.py
+  s_f64db31c8a7678::t_b9e9aa0ccf8e55 113-115
+  s_f64db31c8a7678::t_84588f41ad0c2c 1-112,116
+apps/data/connectme/tests/test_response.py
+  s_f64db31c8a7678::t_b9e9aa0ccf8e55 51,71-73
+  s_f64db31c8a7678::t_4b21e7f01f725b 1-50,52-70,74-75
+scrapers/event_spiders/connectme.py
+  s_f64db31c8a7678::t_505c0f45499c07 81
+  s_f64db31c8a7678::t_35995381de016d 174-177,182
+  s_f64db31c8a7678::t_b9e9aa0ccf8e55 144
+  s_f64db31c8a7678::t_bbd31731065179 215-218
+  s_f64db31c8a7678::t_61754cbfe0d464 1-80,82-143,145-173,178-181,183-214,219
+apps/catalog/tests/test_promote_connectme.py
+  s_f64db31c8a7678::t_d8065460d648b8 1-199,203
+  s_f64db31c8a7678::t_fdd4a7bddbd923 200-202,204
+apps/data/connectme/tests/test_app_registration.py
+  s_f64db31c8a7678::t_799dfc7a4ad3c6 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "f57cb8f76a07511fdb22828ad12196edc86fcc10",
+  "prompts": {},
+  "sessions": {
+    "s_f64db31c8a7678": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bf5bb00c-15f9-4658-8a79-961855c0b1be",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
