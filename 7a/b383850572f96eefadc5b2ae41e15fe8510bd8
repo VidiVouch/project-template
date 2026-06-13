@@ -1,0 +1,47 @@
+apps/sales/tests/test_event_index.py
+  s_5b002650df0863::t_5bf48b421fc0a6 18,119-128
+templates/sales/event_detail.html
+  s_5b002650df0863::t_5bf48b421fc0a6 67-69
+apps/sales/tests/test_format.py
+  s_5b002650df0863::t_5bf48b421fc0a6 5,32-45
+templates/sales/dashboard.html
+  s_5b002650df0863::t_5bf48b421fc0a6 15
+apps/sales/tests/test_receivers.py
+  s_5b002650df0863::t_b39d2d3065761b 1-41
+apps/sales/tests/test_prospect_lists.py
+  s_5b002650df0863::t_5bf48b421fc0a6 10-11,16,20,86-92,187-209
+apps/sales/exports_views.py
+  s_5b002650df0863::t_5bf48b421fc0a6 80-91,94-97,99,103
+apps/sales/tests/test_icp_review.py
+  s_5b002650df0863::t_5bf48b421fc0a6 116-179
+apps/sales/views.py
+  s_5b002650df0863::t_5bf48b421fc0a6 24,32-39,62-72,108-123,127-132,134,136-144,188-215,231,331-332,436-437,499-505,552-561,563,571,594-595
+apps/sales/tests/test_export_flow.py
+  s_5b002650df0863::t_5bf48b421fc0a6 110-129
+apps/sales/tests/test_dashboard.py
+  s_5b002650df0863::t_5bf48b421fc0a6 12,21,148-169,205-214
+REVIEW.md
+  s_5b002650df0863::t_5bf48b421fc0a6 61-64
+apps/sales/tests/test_conferences.py
+  s_5b002650df0863::t_5bf48b421fc0a6 92-94,97-101,175-180
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_5b002650df0863::t_5bf48b421fc0a6 36-38,40,331,337
+apps/sales/tests/test_event_detail.py
+  s_5b002650df0863::t_5bf48b421fc0a6 182-185,189,191-195,199,203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "7ab383850572f96eefadc5b2ae41e15fe8510bd8",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
