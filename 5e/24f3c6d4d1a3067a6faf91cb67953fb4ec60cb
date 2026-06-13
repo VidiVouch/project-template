@@ -1,0 +1,28 @@
+apps/catalog/tests/test_promote_swapcard.py
+  s_5b002650df0863::t_bf0893584608c2 162-191
+  s_5b002650df0863::t_30cdac4feede0b 192
+  s_5b002650df0863::t_666305b0f291c9 14
+apps/data/swapcard/mapping.py
+  s_5b002650df0863::t_d19dc472cd4617 115-117
+apps/catalog/handlers/swapcard.py
+  s_5b002650df0863::t_38f38d89023b8a 225-232,234-243,248
+  s_5b002650df0863::t_5eea8bfa1761b5 216
+apps/data/swapcard/tests/test_mapping.py
+  s_5b002650df0863::t_4ec72777354db5 147-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5e24f3c6d4d1a3067a6faf91cb67953fb4ec60cb",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
