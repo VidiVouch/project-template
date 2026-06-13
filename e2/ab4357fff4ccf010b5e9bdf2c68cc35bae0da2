@@ -1,0 +1,67 @@
+apps/data/swapcard/registrations.py
+  s_5b002650df0863::t_cf32abe65b31c2 1-3,17,19-20,22-43,45
+  s_5b002650df0863::t_49464e590bbd5a 21
+  s_5b002650df0863::t_652a1aa8c8a315 44
+scrapers/event_spiders/swapcard/AppExhibitorDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-66
+apps/data/credentials/tests/test_drain.py
+  s_5b002650df0863::t_01dafbebf0fe4a 166,169-171,173-175
+  s_5b002650df0863::t_7c5c133f45f27c 167,172
+  s_5b002650df0863::t_661406c8e3b2aa 191-192,197-198,201,206,208,210,233-234
+scrapers/event_spiders/swapcard/PeopleOverview.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-18
+scrapers/event_spiders/swapcard/swapcard.py
+  s_5b002650df0863::t_bbe27364faebac 1-491
+scrapers/event_spiders/swapcard/PeoplePage.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-15
+scrapers/event_spiders/swapcard/AppExhibitorsListViewWithFilters.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-13
+scrapers/event_spiders/swapcard/AppEventDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-54
+scrapers/event_spiders/swapcard/CustomExhibitorsListViewWithFilters.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-194
+apps/data/swapcard/tests/test_sessions.py
+  s_5b002650df0863::t_b352d5fe40f29b 1-88
+scrapers/event_spiders/tests/test_swapcard_spider.py
+  s_5b002650df0863::t_8aa5a74028e653 1-181
+scrapers/event_spiders/swapcard/ExhibitorsListViewWithFilters.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-13
+scrapers/event_spiders/swapcard/CustomPeoplePage.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-242
+scrapers/event_spiders/swapcard/AppGetNewAccessToken.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-3
+apps/bootstrap.py
+  s_5b002650df0863::t_de08c5c0e3b6da 86
+  s_5b002650df0863::t_ddca3c96e7ae2c 158
+  s_5b002650df0863::t_42dd5ac172a677 91,161
+scrapers/event_spiders/swapcard/CustomEventDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-67
+scrapers/event_spiders/swapcard/CustomCurrentUser.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-52
+scrapers/event_spiders/swapcard/AppCurrentUser.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-2
+apps/data/swapcard/sessions.py
+  s_5b002650df0863::t_e3134d44542243 1-70
+scrapers/event_spiders/swapcard/AppPeoplePage.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-15
+scrapers/event_spiders/swapcard/AppPersonDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-785
+scrapers/event_spiders/swapcard/CustomPersonDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e2ab4357fff4ccf010b5e9bdf2c68cc35bae0da2",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

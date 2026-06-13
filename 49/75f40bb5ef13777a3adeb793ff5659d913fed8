@@ -1,0 +1,60 @@
+apps/data/yc_bookface/apps.py
+  s_5b002650df0863::t_6b3e73a1096959 1-8
+apps/data/yc_bookface/admin.py
+  s_5b002650df0863::t_a86a7a349bc995 1-26
+traffic_adapters/adapters/yc_bookface.py
+  s_5b002650df0863::t_961c1a1e4454d9 1-91,93-149
+  s_5b002650df0863::t_7fe5093c4967c7 92
+apps/data/yc_bookface/management/commands/import_portal_yc_bookface.py
+  s_5b002650df0863::t_58bf2e80f33457 1-21,25-160
+  s_5b002650df0863::t_1030051e82351a 22-24
+apps/data/yc_bookface/response.py
+  s_5b002650df0863::t_9c1d7a8cce04a7 1-106
+apps/data/yc_bookface/registrations.py
+  s_5b002650df0863::t_303ebcaf4efdcf 1-40
+apps/data/yc_bookface/tests/test_contracts.py
+  s_5b002650df0863::t_d42079e8861bc5 1-85
+  s_5b002650df0863::t_1030051e82351a 86-121
+apps/data/yc_bookface/tests/test_import_portal_yc_bookface.py
+  s_5b002650df0863::t_500d9760a2069b 1-85
+apps/data/yc_bookface/tests/test_sessions.py
+  s_5b002650df0863::t_0851c59258a770 1-75
+  s_5b002650df0863::t_1030051e82351a 76-95
+traffic_adapters/tests/test_yc_bookface.py
+  s_5b002650df0863::t_6b7ae2617c996d 1-96
+  s_5b002650df0863::t_1030051e82351a 97-158
+apps/data/yc_bookface/transformers.py
+  s_5b002650df0863::t_9834df1e6649e3 1-98
+apps/data/yc_bookface/migrations/0001_initial.py
+  s_5b002650df0863::t_1e6a7dacb04d25 1-77
+apps/data/yc_bookface/sessions.py
+  s_5b002650df0863::t_e5ff4268f06cb5 1-105
+apps/data/yc_bookface/models.py
+  s_5b002650df0863::t_a8c59ca5ac7d7e 1-83
+apps/bootstrap.py
+  s_5b002650df0863::t_de08c5c0e3b6da 86
+  s_5b002650df0863::t_ddca3c96e7ae2c 160
+  s_5b002650df0863::t_42dd5ac172a677 92,164
+  s_5b002650df0863::t_64fd1f4221b16b 89,162
+  s_5b002650df0863::t_151a54d17a1f0b 93,165
+config/settings/base.py
+  s_5b002650df0863::t_a58725b59d4b17 103
+  s_5b002650df0863::t_4cd6a5e0b65d2e 100
+  s_5b002650df0863::t_a3f29645c8e8f0 104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "4975f40bb5ef13777a3adeb793ff5659d913fed8",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
