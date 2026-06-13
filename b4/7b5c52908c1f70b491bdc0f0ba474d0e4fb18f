@@ -1,0 +1,21 @@
+apps/intake/tests/test_admin.py
+  s_5b002650df0863::t_c702fbd715c171 3-4,119-120,123-125
+apps/intake/admin.py
+  s_5b002650df0863::t_c702fbd715c171 158,163,177-181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b47b5c52908c1f70b491bdc0f0ba474d0e4fb18f",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
