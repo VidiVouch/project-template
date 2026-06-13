@@ -1,0 +1,22 @@
+apps/catalog/tests/test_promote_expoplatform.py
+  s_5b002650df0863::t_14358d911c6882 247,252-253
+  s_5b002650df0863::t_52a1e11169eb14 248
+  s_5b002650df0863::t_c5988d9e844088 32
+  s_5b002650df0863::t_6e881628da2d0c 193-246,249-251,254-284
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "6e949e7f57b42e50548addad39d74c634c3f87c6",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
