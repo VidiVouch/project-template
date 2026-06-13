@@ -1,0 +1,47 @@
+apps/sales/tests/test_merge_rehome.py
+  s_5b002650df0863::t_0308dd1c71009f 112-159
+  s_5b002650df0863::t_a047cc5f4b1cc9 226-227,231
+  s_5b002650df0863::t_934af2dae218da 25-30,34-36
+  s_5b002650df0863::t_30ab428829bc4e 18
+apps/sales/delivery.py
+  s_5b002650df0863::t_89a62dc5e9bd79 1-120
+apps/sales/migrations/0009_deliveryrecord_rls.py
+  s_5b002650df0863::t_37a9c9f3864b08 1-20
+apps/sales/tests/test_limits.py
+  s_5b002650df0863::t_3dcddb1f8393b9 15
+  s_5b002650df0863::t_76d9b5e60d0bde 116-142
+  s_5b002650df0863::t_cfaf86042c97bc 1,5-7
+apps/sales/registrations.py
+  s_5b002650df0863::t_31d3f32ea92ae8 28-33,39
+apps/sales/tests/test_rls.py
+  s_5b002650df0863::t_0aa00e283ed1bf 21-30
+  s_5b002650df0863::t_05409ec0b3b7cc 37,39-41,46,48,53
+  s_5b002650df0863::t_25d3b10eab70a9 82
+apps/sales/models.py
+  s_5b002650df0863::t_737031ef5edbc9 236-290
+apps/sales/limits.py
+  s_5b002650df0863::t_f49a666a21613e 17-19
+  s_5b002650df0863::t_ee208d04d359e6 32,49-72,85
+apps/sales/migrations/0008_deliveryrecord.py
+  s_5b002650df0863::t_7a1e5e349680c9 1-31
+apps/sales/tests/test_delivery.py
+  s_5b002650df0863::t_6b8e2c55a33cb6 1-170
+config/settings/base.py
+  s_5b002650df0863::t_63b7ed74f23be4 417-419,421-424
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ba0743d562aa0097c6db8fe95de9c8ba56ae9272",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
