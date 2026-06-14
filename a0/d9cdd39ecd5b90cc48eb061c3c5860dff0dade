@@ -1,0 +1,37 @@
+apps/catalog/handlers/cvent.py
+  s_97a9e1a1aaf6e2::t_1aecbe16d0745f 1-285
+apps/data/cvent/registrations.py
+  s_97a9e1a1aaf6e2::t_61c2633c27d2bc 57-62
+  s_97a9e1a1aaf6e2::t_b4f130e728108a 8-9
+  s_97a9e1a1aaf6e2::t_e54f3fe9dc6fc0 19-31
+apps/data/cvent/mapping.py
+  s_97a9e1a1aaf6e2::t_83724b047d8fdd 4-19,22,25-27,44-196
+apps/catalog/tests/test_promote_cvent.py
+  s_97a9e1a1aaf6e2::t_1aecbe16d0745f 1-305
+apps/catalog/promoters.py
+  s_97a9e1a1aaf6e2::t_52380369f5f960 49-54
+  s_97a9e1a1aaf6e2::t_0f71957b1cc627 134-136
+  s_97a9e1a1aaf6e2::t_c63e4a66ac2f26 94-99
+  s_97a9e1a1aaf6e2::t_a7a36eaef6ef26 118
+apps/data/cvent/tests/test_contracts.py
+  s_97a9e1a1aaf6e2::t_dadfb9a8adc4ea 4-7,14-20,22
+  s_97a9e1a1aaf6e2::t_86bbb60562724d 108-123
+apps/data/cvent/tests/test_mapping.py
+  s_97a9e1a1aaf6e2::t_1ea5f3cd0c3367 1-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a0d9cdd39ecd5b90cc48eb061c3c5860dff0dade",
+  "prompts": {},
+  "sessions": {
+    "s_97a9e1a1aaf6e2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d6cbee40-9ef3-42a0-9627-c4315b29829d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
