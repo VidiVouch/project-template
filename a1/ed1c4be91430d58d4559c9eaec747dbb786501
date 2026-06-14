@@ -1,0 +1,87 @@
+apps/data/eventleaf/admin.py
+  s_b10ef39784b3ee::t_47070c3b1811d2 1-35
+apps/data/eventleaf/response.py
+  s_b10ef39784b3ee::t_a7fd3a36215ed3 1-83,87-112,114-116,118-126,128-175,177-199,201-225
+  s_b10ef39784b3ee::t_c78b81d06ecccb 84-86,200
+  s_b10ef39784b3ee::t_79c6dd31829cb1 113
+  s_b10ef39784b3ee::t_8d3a61bebd6cca 117
+  s_b10ef39784b3ee::t_e66e0274935863 127
+  s_b10ef39784b3ee::t_7eddc61d7f2c79 176
+apps/data/eventleaf/tests/test_models.py
+  s_b10ef39784b3ee::t_77a9f11b159fba 1-44,46-73,80-135
+  s_b10ef39784b3ee::t_c78b81d06ecccb 45,74-79
+apps/data/eventleaf/apps.py
+  s_b10ef39784b3ee::t_2853be515b1d9f 1-8
+apps/data/eventleaf/models.py
+  s_b10ef39784b3ee::t_5f178f3c2fc5d0 1-133
+apps/data/eventleaf/registrations.py
+  s_b10ef39784b3ee::t_c01ae8b5696db7 1-19,21-50
+  s_b10ef39784b3ee::t_c78b81d06ecccb 20
+apps/data/eventleaf/transformers.py
+  s_b10ef39784b3ee::t_dd5f18e9be6a8d 1-99
+apps/data/eventleaf/mapping.py
+  s_b10ef39784b3ee::t_3c3fc39a7a4cd0 1-47,61-80,83-155
+  s_b10ef39784b3ee::t_bbd15637ba3abe 48-55,58-60
+  s_b10ef39784b3ee::t_d255d5d100fb6c 56-57
+  s_b10ef39784b3ee::t_f4611775d8c5e4 81-82
+config/settings/base.py
+  s_b10ef39784b3ee::t_fba804e806d88d 101
+scrapers/event_spiders/eventleaf.py
+  s_b10ef39784b3ee::t_5cf0a697d97378 1-101,104-121,123-182,186-259,264-274,276-285,287-307
+  s_b10ef39784b3ee::t_50c54a3f639c6f 102-103
+  s_b10ef39784b3ee::t_cf78bc5d079bcb 122
+  s_b10ef39784b3ee::t_c78b81d06ecccb 183-185,260-262,275
+  s_b10ef39784b3ee::t_fbcc55ee26d340 263
+  s_b10ef39784b3ee::t_4ae0d06900e658 286
+apps/data/eventleaf/tests/test_mapping.py
+  s_b10ef39784b3ee::t_6998a0d88cd203 1-129,132-141
+  s_b10ef39784b3ee::t_16c5b927d5dab1 130-131
+apps/data/eventleaf/migrations/0001_initial.py
+  s_b10ef39784b3ee::t_29643e7d739597 1-137
+apps/catalog/handlers/eventleaf.py
+  s_b10ef39784b3ee::t_d28194f1d2f832 1-52,54-132,136-265
+  s_b10ef39784b3ee::t_c78b81d06ecccb 53,133-135
+apps/bootstrap.py
+  s_b10ef39784b3ee::t_d72c06e0116e36 90
+apps/catalog/tests/test_promote_eventleaf.py
+  s_b10ef39784b3ee::t_11fe57276f6b36 1
+  s_b10ef39784b3ee::t_1b7a91138da741 2-154,161-219,229-234,239-252,254-276,280-281,286-301,310-321
+  s_b10ef39784b3ee::t_c78b81d06ecccb 155-160,235-238,277-279,282-285
+  s_b10ef39784b3ee::t_b68c4004100ca9 220-228
+  s_b10ef39784b3ee::t_9e1401c9233c99 253
+  s_b10ef39784b3ee::t_5dcfc50abd92ad 302-309
+apps/data/eventleaf/tests/test_admin.py
+  s_b10ef39784b3ee::t_8c8912b36f1039 1-48
+apps/data/eventleaf/tests/test_app_registration.py
+  s_b10ef39784b3ee::t_403d3a6310bce8 1-42
+apps/data/eventleaf/tests/test_response.py
+  s_b10ef39784b3ee::t_b9ac46a5f93618 1-57,62-66,70-77,87-152
+  s_b10ef39784b3ee::t_c78b81d06ecccb 58-61,67-69,78-86
+scrapers/event_spiders/tests/test_eventleaf_spider.py
+  s_b10ef39784b3ee::t_c365ff9f7a4dc5 1-73,77-82,86-93,99-104,115-122,126-129,137-143,147-152,162-168,178-189
+  s_b10ef39784b3ee::t_c78b81d06ecccb 74-76,83-85,94-98,105-114,123-125,130-136,144-146,153-161,169-175
+  s_b10ef39784b3ee::t_e57786d1567d8e 176-177
+apps/data/eventleaf/tests/test_contracts.py
+  s_b10ef39784b3ee::t_0b66f21e546bbd 1-120
+apps/catalog/promoters.py
+  s_b10ef39784b3ee::t_42d17228acc517 49-53,59
+  s_b10ef39784b3ee::t_8bc68e9ad4bffb 94-99
+  s_b10ef39784b3ee::t_0a34dcb3a26aa6 118
+  s_b10ef39784b3ee::t_d69ce44466fc75 134-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a1ed1c4be91430d58d4559c9eaec747dbb786501",
+  "prompts": {},
+  "sessions": {
+    "s_b10ef39784b3ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6c6b1188-c88d-43c3-b738-2862daec1ca6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
