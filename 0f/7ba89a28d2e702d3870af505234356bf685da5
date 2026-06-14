@@ -1,0 +1,82 @@
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 6,32-33,40-41,49-53,79-90,92-95
+docs/archive/PORTAL_V4_PLAN.md
+  s_a260275017114d::t_d28968702fdb1b 3-7,9
+docs/archive/PORTAL_V2_PLAN.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 5-7
+docs/archive/PORTAL_V2_ARCHITECTURE.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 3
+.agents/skills/port-drain/SKILL.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 31-32,35-39,51-55
+.agents/skills/port-drain/references/harvest-legacy-drain.md
+  s_a260275017114d::t_9e3347d2074004 23
+  s_a260275017114d::t_8344f7edc00edd 70
+  s_a260275017114d::t_af6395d9db3263 49-51
+  s_a260275017114d::t_dbaf5ed69998ad 88
+  s_a260275017114d::t_d9369d0804b832 17
+docs/archive/PORTAL_V2_ARCHITECTURE_REBUILD.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 3
+.agents/skills/port-source/SKILL.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 36-41,45,47,49-53,55-57,60,62-64,68,76-77
+.agents/skills/port-drain/references/canonical-keys.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 5-11,26-27,40,44-45,52,75
+.agents/skills/port-drain/references/mapping.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 12,16,22-25,71-77,95
+.agents/skills/port-source/references/legacy-map.md
+  s_a260275017114d::t_e88be4b9f348ca 48
+  s_a260275017114d::t_abb7d8e117fdc3 42-43
+  s_a260275017114d::t_49b39961190bdf 22
+  s_a260275017114d::t_df9eba25ec3c5a 55-63
+.agents/skills/port-source/references/validation.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 47-49,63,72-74,97-100,111
+PORTAL_V5_PLAN.md
+  s_a260275017114d::t_01d218fb8622b4 171-173
+  s_a260275017114d::t_9d973c41e9fe7c 203-212
+  s_a260275017114d::t_d5b768f83ccea7 236-239
+  s_a260275017114d::t_6d192ff269822b 138-142,146
+  s_a260275017114d::t_ed4199c4013251 153-157
+  s_a260275017114d::t_0de30fcf09ba8b 143-145
+  s_a260275017114d::t_49ebe3473a04e5 215-219
+  s_a260275017114d::t_38ec542b192b83 164-166
+  s_a260275017114d::t_0a3e228ee84368 3-9
+  s_a260275017114d::t_3efef4b5f60cec 264-268
+docs/archive/CADMIUM_PARITY.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 7-15
+.agents/skills/port-drain/references/registration-tests.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 5-6,12,18-23,34,37,39,51-53,66-68,95-98,112
+.agents/skills/port-source/references/transformers-registration.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 47-48,81-87,91-96,115-119
+.agents/skills/port-drain/references/handlers.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 16,19-20,37,41,44,52,54-57,70-71,113-114
+.agents/skills/port-source/references/tier1-models.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 49-52,88-93
+docs/archive/PORTAL_V3_PLAN.md
+  s_a260275017114d::t_710d82becb155b 3-10
+REVIEW.md
+  s_a260275017114d::t_23357d4323a817 33
+  s_a260275017114d::t_ce596d0741c4eb 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "0f7ba89a28d2e702d3870af505234356bf685da5",
+  "prompts": {},
+  "sessions": {
+    "s_697b5de2f41f28": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4255057b-68dc-4d5c-80b5-78c858f3d895",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
