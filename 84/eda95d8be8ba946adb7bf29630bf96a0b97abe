@@ -1,0 +1,149 @@
+apps/data/allintheloop/tests/test_contracts.py
+  s_a4f16ea1d45cbc::t_77aa7a3810b817 1,4-7,12-19,24-36,38-103,111-115,121,124-127
+  s_a4f16ea1d45cbc::t_5aa86074704946 2-3,8-11,20-23,37,104-110,116-120,122-123,128
+traffic_adapters/tests/test_allintheloop_events.py
+  s_a4f16ea1d45cbc::t_1e07a3dab434db 1
+  s_a4f16ea1d45cbc::t_7ac5f81a849bf8 2-8,10-124
+  s_a4f16ea1d45cbc::t_8c18fa5c633a97 9
+apps/data/allintheloop/response.py
+  s_a4f16ea1d45cbc::t_b902f1a2f0641e 288
+  s_a4f16ea1d45cbc::t_2f5577f217aebf 355
+  s_a4f16ea1d45cbc::t_7b2da2639d15fd 1-32,34-45,47,51-70,72-136,157-173,176-177,182-231,238-263,265-287,289-316,318-320,322-346,348-354,356-391
+  s_a4f16ea1d45cbc::t_5aa86074704946 33,46,48-50,71
+  s_a4f16ea1d45cbc::t_aed691a94eb260 347
+  s_a4f16ea1d45cbc::t_d477c6862a5700 317
+  s_a4f16ea1d45cbc::t_1c3048e80e7bcf 174,178-181
+  s_a4f16ea1d45cbc::t_296337f3b45bd3 137-152,154-156
+  s_a4f16ea1d45cbc::t_8c18fa5c633a97 175
+  s_a4f16ea1d45cbc::t_8226eaa481bbfd 232-237
+  s_a4f16ea1d45cbc::t_3f9b5af8a1995f 153
+  s_a4f16ea1d45cbc::t_199dcccacae9cb 264
+  s_a4f16ea1d45cbc::t_7079e013fba4a6 321
+apps/data/allintheloop/tests/test_admin.py
+  s_a4f16ea1d45cbc::t_33eb942593ece4 1-48
+config/settings/base.py
+  s_a4f16ea1d45cbc::t_74eea19f7f75e0 94
+apps/data/allintheloop/models.py
+  s_a4f16ea1d45cbc::t_d4fb5fdb74e13f 1-29,34-41,45,47,51-53,59-122
+  s_a4f16ea1d45cbc::t_5aa86074704946 30-33,42-44,46,48-50,54-58
+apps/data/allintheloop/mapping.py
+  s_a4f16ea1d45cbc::t_6d4f4b34d6ead4 163
+  s_a4f16ea1d45cbc::t_5aa86074704946 2,5,27-32,79-80,85,123,159,161,169
+  s_a4f16ea1d45cbc::t_3536ce2acec80d 158
+  s_a4f16ea1d45cbc::t_5d585c5357b416 38-40
+  s_a4f16ea1d45cbc::t_967bc143a3a4fe 102
+  s_a4f16ea1d45cbc::t_db760d61e5a3c4 120-122,132
+  s_a4f16ea1d45cbc::t_d91c4d81f16e56 1,3-4,6-26,33-37,42-78,81-84,86-101,103-119,124-131,133-157,160,162,164-168
+  s_a4f16ea1d45cbc::t_e05a5e01b1a682 41
+apps/data/allintheloop/migrations/0001_initial.py
+  s_a4f16ea1d45cbc::t_c617885ddc6218 1-137
+apps/data/allintheloop/apps.py
+  s_a4f16ea1d45cbc::t_fd620fbac7b6b2 8
+  s_a4f16ea1d45cbc::t_5aa86074704946 1-7
+apps/data/allintheloop/admin.py
+  s_a4f16ea1d45cbc::t_f2aef38ca01c20 1-34
+apps/data/allintheloop/tests/test_import_portal_allintheloop.py
+  s_a4f16ea1d45cbc::t_10bb2197746dd9 1-104
+apps/data/allintheloop/transformers.py
+  s_a4f16ea1d45cbc::t_bddf07e3b0c1cb 1-16,22-31,38-39,41-44,46-47,49-50,54,56,59-82,84-100
+  s_a4f16ea1d45cbc::t_5aa86074704946 17-21,32-37,40,45,48,51-53,55,57-58
+  s_a4f16ea1d45cbc::t_cb061fcf086c9f 83
+scrapers/event_spiders/allintheloop.py
+  s_a4f16ea1d45cbc::t_8f4d15e626db1d 239-240,243,250
+  s_a4f16ea1d45cbc::t_de19704c95f4a1 247-248
+  s_a4f16ea1d45cbc::t_e935f2407469ee 65-67
+  s_a4f16ea1d45cbc::t_60ae2ba972c097 263
+  s_a4f16ea1d45cbc::t_27aed8c449b7b9 1-64,68-70,72-237,244-246,249,251-262,264-281,283-313,315-323
+  s_a4f16ea1d45cbc::t_13226c116752d6 71
+  s_a4f16ea1d45cbc::t_01c0aad7c9859a 238,241-242
+  s_a4f16ea1d45cbc::t_5a501b2f2d74ce 282
+  s_a4f16ea1d45cbc::t_5fd94356f6fb00 314
+apps/data/allintheloop/registrations.py
+  s_a4f16ea1d45cbc::t_5aa86074704946 2-3,8,14,16-18,41,51,57
+  s_a4f16ea1d45cbc::t_88c52125bd3bcb 1,4-7,9-13,15,19-40,42-50,52-56
+apps/catalog/handlers/allintheloop.py
+  s_a4f16ea1d45cbc::t_3d49c87c1f42bd 47
+  s_a4f16ea1d45cbc::t_75ca2128c7b644 173
+  s_a4f16ea1d45cbc::t_e8e8ff899da95f 1-46,48-131,133-145,151-172,174-179,181-274,276-288,290-299
+  s_a4f16ea1d45cbc::t_50ce989af4ddd3 275
+  s_a4f16ea1d45cbc::t_e011ddd1f677ee 180
+  s_a4f16ea1d45cbc::t_5b94687de059c0 289
+  s_a4f16ea1d45cbc::t_a314fc920a3000 132
+  s_a4f16ea1d45cbc::t_f8d7b4fed2094f 146-150
+apps/catalog/models.py
+  s_a4f16ea1d45cbc::t_ed0514a72f4ca4 484-488
+apps/catalog/migrations/0005_eventorganizationrelationship_booth_number.py
+  s_a4f16ea1d45cbc::t_2b247b1bb3fde3 1,16
+  s_a4f16ea1d45cbc::t_2a4acafbffc40c 2-15,17-18
+apps/data/allintheloop/tests/test_app_registration.py
+  s_a4f16ea1d45cbc::t_210f267c340b0e 1-42
+apps/catalog/repositories.py
+  s_a4f16ea1d45cbc::t_0dca84ed47b8c7 329,332-335
+.agents/skills/port-source/references/legacy-map.md
+  s_a4f16ea1d45cbc::t_a8a954981e5ac2 46-47
+traffic_adapters/adapters/allintheloop_events.py
+  s_a4f16ea1d45cbc::t_5ed54b05904bd7 1
+  s_a4f16ea1d45cbc::t_640bcbb63822fd 95
+  s_a4f16ea1d45cbc::t_0268b59059b5bd 55
+  s_a4f16ea1d45cbc::t_107dfc166555e9 2-49,51-54,56-68,70-81,83-94,96-134
+  s_a4f16ea1d45cbc::t_434b3d20d5f857 82
+  s_a4f16ea1d45cbc::t_13226c116752d6 50,69
+apps/data/allintheloop/management/commands/import_portal_allintheloop.py
+  s_a4f16ea1d45cbc::t_09f6c5fd60016a 58-62
+  s_a4f16ea1d45cbc::t_21f66f6a8ef6b8 1-36,38-40,42-57,63-102
+  s_a4f16ea1d45cbc::t_aa8561235b23d3 37,41
+apps/catalog/canonical_keys.py
+  s_a4f16ea1d45cbc::t_3213d9c338440c 96-99
+apps/catalog/domain/ports.py
+  s_a4f16ea1d45cbc::t_e8b7e6f3102396 134,138-140
+apps/catalog/tests/test_promoter_registry.py
+  s_a4f16ea1d45cbc::t_c9d450881b3d69 217-221
+  s_a4f16ea1d45cbc::t_5bba64bacc3d78 51-57
+  s_a4f16ea1d45cbc::t_b0f0632c35e6e0 15-21
+apps/catalog/tests/test_promote_allintheloop.py
+  s_a4f16ea1d45cbc::t_304260bd7b8295 1-32,35-177,195-209,216-230,234-240,245-286,290-291
+  s_a4f16ea1d45cbc::t_4e2135882df775 178-194
+  s_a4f16ea1d45cbc::t_13226c116752d6 210-215,241-244
+  s_a4f16ea1d45cbc::t_77e6d1efc29db5 231-233
+  s_a4f16ea1d45cbc::t_8abb0688df0dc8 33-34
+  s_a4f16ea1d45cbc::t_6efd9c3eba4936 287-289
+  s_a4f16ea1d45cbc::t_1e1f4d299a2efe 292-309
+apps/bootstrap.py
+  s_a4f16ea1d45cbc::t_cd9982d2fee703 85,92
+scrapers/event_spiders/tests/test_allintheloop_spider.py
+  s_a4f16ea1d45cbc::t_4e13bc1d97712c 1-167
+apps/catalog/fakes.py
+  s_a4f16ea1d45cbc::t_efb98861a95510 209-211,214,222
+apps/data/allintheloop/tests/test_transformers.py
+  s_a4f16ea1d45cbc::t_280f57751c210a 1-71
+  s_a4f16ea1d45cbc::t_7e4039dd02c293 72-85,92-94,100-101
+  s_a4f16ea1d45cbc::t_70e1df468bfa99 86-91,95-99
+apps/catalog/promoters.py
+  s_a4f16ea1d45cbc::t_5c9a74f7063d24 55-61
+  s_a4f16ea1d45cbc::t_1b217b4bdc6735 84
+  s_a4f16ea1d45cbc::t_2d962f7b2db49c 21-27
+  s_a4f16ea1d45cbc::t_7868142539bbe7 89-92
+apps/data/allintheloop/tests/test_mapping.py
+  s_a4f16ea1d45cbc::t_e6f57230c95a28 1-23,27-29,33-35,39-44,49-52,56-60,64-69,73-89,95-111
+  s_a4f16ea1d45cbc::t_70e1df468bfa99 24-26,30-32,36-38,45-48,53-55,61-63,70-72,90-94
+apps/data/allintheloop/tests/test_response.py
+  s_a4f16ea1d45cbc::t_83dbc1a801d218 2-26,33-185
+  s_a4f16ea1d45cbc::t_c25f778ed226ab 1
+  s_a4f16ea1d45cbc::t_813a5244bbc58c 27-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "84eda95d8be8ba946adb7bf29630bf96a0b97abe",
+  "prompts": {},
+  "sessions": {
+    "s_a4f16ea1d45cbc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a36037c-7ecc-4359-9186-fd67ae477705",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
