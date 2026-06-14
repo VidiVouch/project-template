@@ -1,0 +1,55 @@
+apps/bootstrap.py
+  s_5b002650df0863::t_0b0d577d37bdf3 47,50
+  s_5b002650df0863::t_08566a2df15b56 54-56
+  s_5b002650df0863::t_e245d029f0edc3 57,62-63,65-67,73-74,76-77
+  s_5b002650df0863::t_aad84bce2383cc 58
+  s_5b002650df0863::t_151a54d17a1f0b 59
+  s_5b002650df0863::t_ddca3c96e7ae2c 60,75
+  s_5b002650df0863::t_a5014b183df652 64
+  s_5b002650df0863::t_d2994d49d50947 68,78-79
+  s_5b002650df0863::t_95bbf6ddcd5ec1 72
+apps/catalog/promoters.py
+  s_7c6c92400c7448::t_f11c65c481bc27 25,34,40,44,49,58,85,94
+  s_5b002650df0863::t_3f21ce7fbc8843 27
+  s_5b002650df0863::t_b51d8220710c69 37
+  s_5b002650df0863::t_aad84bce2383cc 39
+  s_5b002650df0863::t_c04b83d2fb5ffb 42-43
+  s_5b002650df0863::t_f2884c44b56850 45-48,64,73-74,77
+  s_5b002650df0863::t_412c3cdade975f 50,52,54
+  s_5b002650df0863::t_9247efaace29fe 56-57
+  s_5b002650df0863::t_c3f087f82a845b 62
+  s_5b002650df0863::t_cdd3b144664d3b 79-80,84
+  s_5b002650df0863::t_a6e05ed7960f02 83
+config/settings/base.py
+  s_5b002650df0863::t_4b47bc34478b19 66,102,134,136,152,154,224,232,234,245-246,258-259,276,289,294,299,314,319,325-328,331-332,334-336,341,343-344,366,378-379,381,383,385
+  s_5b002650df0863::t_aad84bce2383cc 93
+  s_5b002650df0863::t_a58725b59d4b17 96
+  s_5b002650df0863::t_7b601b147a8e02 97-98
+  s_5b002650df0863::t_b82f85f3ae94eb 132-133,135
+  s_5b002650df0863::t_80dd0c6d11f722 140-142,208,311-313,316-318,406
+  s_5b002650df0863::t_63b7ed74f23be4 321-324
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "61ba8944c05d368c0850fceb22ad30cd75216ccd",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
