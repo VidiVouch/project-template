@@ -1,0 +1,24 @@
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 138-139,140,404,311,309-310,314-316,206
+  s_5b002650df0863::t_63b7ed74f23be4 319-322
+  s_5b002650df0863::t_4b47bc34478b19 324-326,329-330,332-334,341-342,134,152,257,323,339,364,376-377,379,381,383,150,287,292,312,101,297,317,132,222,230,232,243-244,256,274,66
+  s_5b002650df0863::t_b82f85f3ae94eb 133,130-131
+  s_5b002650df0863::t_7b601b147a8e02 96-97
+  s_5b002650df0863::t_aad84bce2383cc 93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "03fe76c05070768b9f235d6e92446e26cdac3fb2",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

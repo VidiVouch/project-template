@@ -1,0 +1,21 @@
+render.yaml
+  s_5b002650df0863::t_4b47bc34478b19 15-16,40-42,51-53,56-58,63
+  s_5b002650df0863::t_60d3c34a3ab755 31-36
+  s_5b002650df0863::t_7b601b147a8e02 59-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "8d5a372c25b2fb76352c9e739fce817a51a48bc8",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

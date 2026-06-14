@@ -1,0 +1,45 @@
+config/asgi.py
+  s_5b002650df0863::t_4b47bc34478b19 10,12
+tests/architecture/test_bootstrap_sorted.py
+  s_5b002650df0863::t_e41ff3febd892b 44-46
+apps/bootstrap.py
+  s_5b002650df0863::t_0b0d577d37bdf3 47,50
+  s_5b002650df0863::t_e245d029f0edc3 52,64-66
+  s_5b002650df0863::t_08566a2df15b56 61-62
+  s_5b002650df0863::t_a5014b183df652 63
+  s_5b002650df0863::t_d2994d49d50947 67
+  s_5b002650df0863::t_95bbf6ddcd5ec1 71
+pyproject.toml
+  s_998d95b9de4b0f::t_335f282231f4d0 33
+  s_5b002650df0863::t_754b8f47fb5bd9 32,169,179,160,141,235,197,214,221
+  s_5b002650df0863::t_90400a7abda1ff 25,22
+  s_5b002650df0863::t_ba0dfb43b943f8 57
+  s_5b002650df0863::t_af2d606b26b553 20,19
+  s_5b002650df0863::t_80dd0c6d11f722 27
+  s_5b002650df0863::t_daeb28af8de4b7 131,137,145,236,289
+  s_5b002650df0863::t_7b601b147a8e02 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "4bfe3323030a4db8ad5f654caa3870dc7ec05c21",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

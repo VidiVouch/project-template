@@ -1,0 +1,20 @@
+.claude/commands/deep-review.md
+  s_67d1eb697ad238::t_48c2066d0d76d0 259
+  s_67d1eb697ad238::t_6e459a9d4df111 361
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ab91f631458f6051647d7b3a03cbca00ee262d9b",
+  "prompts": {},
+  "sessions": {
+    "s_67d1eb697ad238": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e66af8e3-dd09-4e4d-8c12-d26c49643ef2",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

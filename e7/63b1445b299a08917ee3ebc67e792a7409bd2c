@@ -1,0 +1,20 @@
+apps/identity/models.py
+  s_5b002650df0863::t_62824de019117c 51
+  s_5b002650df0863::t_21b5b7fe412997 15,42,63,68-70,73-75,77-78,80-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e763b1445b299a08917ee3ebc67e792a7409bd2c",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
