@@ -1,0 +1,30 @@
+.claude/commands/deep-review.md
+  s_67d1eb697ad238::t_bcaaf29ca8d3b0 4
+  s_67d1eb697ad238::t_5fce8fa5aa2cc0 9
+  s_67d1eb697ad238::t_97d4a5aacfd165 28-33
+  s_67d1eb697ad238::t_e9d6f7dec9867e 35
+  s_67d1eb697ad238::t_d73c1a53a60a5d 137,142
+  s_67d1eb697ad238::t_925246319c7270 162,164
+  s_67d1eb697ad238::t_32bb1bf2d3f414 166
+  s_67d1eb697ad238::t_48c2066d0d76d0 293-313
+  s_67d1eb697ad238::t_361f5e5814ad4f 318,323
+  s_67d1eb697ad238::t_6e459a9d4df111 425-454
+  s_67d1eb697ad238::t_d4e5b5280fb3a1 507
+  s_67d1eb697ad238::t_5001f5b8842a10 530
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "707615efd60cea7b871fb7bb263699eac885d0fc",
+  "prompts": {},
+  "sessions": {
+    "s_67d1eb697ad238": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e66af8e3-dd09-4e4d-8c12-d26c49643ef2",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

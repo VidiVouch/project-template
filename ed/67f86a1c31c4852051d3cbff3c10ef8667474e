@@ -1,0 +1,114 @@
+docs/archive/PORTAL_V2_PLAN.md
+  s_a260275017114d::t_15bd9889f80fdb 5-7
+.agents/skills/port-drain/references/registration-tests.md
+  s_a260275017114d::t_f7a72743663235 5-6,12
+  s_a260275017114d::t_9454e9a511f2ed 18-23
+  s_a260275017114d::t_ca5b91121f2aad 34
+  s_a260275017114d::t_41c2c0de57cf88 37
+  s_a260275017114d::t_1c4c9f076008e3 39
+  s_a260275017114d::t_20b1173fe9c6b3 51-53
+  s_a260275017114d::t_60251b9c5c3c55 66-68
+  s_a260275017114d::t_64ff7af0943595 95-98
+  s_a260275017114d::t_a10bc292c13722 112
+docs/archive/CADMIUM_PARITY.md
+  s_a260275017114d::t_a254b3d6b4ef18 7-15
+.agents/skills/port-drain/SKILL.md
+  s_a260275017114d::t_33b6c46b0a46eb 31-32
+  s_a260275017114d::t_8a2f9f15318fc7 35-39
+  s_a260275017114d::t_cdf649600b0ca1 51-55
+REVIEW.md
+  s_a260275017114d::t_ce085dbbdabafa 33
+  s_a260275017114d::t_28b88c1e76deac 41
+  s_a260275017114d::t_dd596af3e45a2c 43
+  s_a260275017114d::t_d6013b6e9ba6e2 44
+  s_a260275017114d::t_54fc6886b63a84 67
+.agents/skills/port-source/references/validation.md
+  s_a260275017114d::t_7333f664f78192 71,72-74
+  s_a260275017114d::t_a6350958e4ccd7 47-49
+  s_a260275017114d::t_2151001c87fe5a 63
+  s_a260275017114d::t_7ce2a884a5b529 97-100
+  s_a260275017114d::t_fd8a4b8fe23129 111
+.agents/skills/port-drain/references/harvest-legacy-drain.md
+  s_a260275017114d::t_76f41b698b8740 15
+  s_a260275017114d::t_d7e15bb0d33f75 21
+  s_a260275017114d::t_dd8c73f16398de 47-49
+  s_a260275017114d::t_490d3ff90c405e 68
+  s_a260275017114d::t_00c210f895a229 86
+.agents/skills/port-drain/references/mapping.md
+  s_a260275017114d::t_238bf6d24a6a74 12,16,22-24
+  s_a260275017114d::t_ac26f93104cbcc 71-77
+  s_a260275017114d::t_880f03d243625f 95
+PORTAL_V5_PLAN.md
+  s_a260275017114d::t_677a79cad53d62 136,137-138,140-142
+  s_a260275017114d::t_ab89f655ab3898 245,139,143,198-203,206-210
+  s_a260275017114d::t_09a7400815f792 6
+  s_a260275017114d::t_8a9b76f927a357 17-19
+  s_a260275017114d::t_e2c472cc239ef0 150-153
+  s_a260275017114d::t_02d4895cfcd24c 160-161
+  s_a260275017114d::t_767555a3d3bb6f 166-168
+  s_a260275017114d::t_ef872f25c70c38 249-250
+  s_a260275017114d::t_92895d1fa4e4b5 251
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_a260275017114d::t_b9c50e61076b57 6
+  s_a260275017114d::t_b0a41653009e56 32-33
+  s_a260275017114d::t_532ec7951a3e7e 40-41
+  s_a260275017114d::t_ae4b8b11d22060 49-53
+  s_a260275017114d::t_6d8ef4ee40bd12 79-80
+  s_a260275017114d::t_099f810b898154 81-83
+  s_a260275017114d::t_250c60697c5339 84-90
+  s_a260275017114d::t_c3875bf9cd86ef 92-95
+.agents/skills/port-source/references/transformers-registration.md
+  s_a260275017114d::t_70773e041a71fa 47-48
+  s_a260275017114d::t_0a5195bfe98553 81-87,91-96
+  s_a260275017114d::t_ea08659f30cfe9 115-119
+.agents/skills/port-source/references/tier1-models.md
+  s_a260275017114d::t_12f18244bc4556 49-52
+  s_a260275017114d::t_b01b67def040fd 88-93
+docs/archive/PORTAL_V3_PLAN.md
+  s_a260275017114d::t_073510000d6a42 3-10
+docs/archive/PORTAL_V2_ARCHITECTURE.md
+  s_a260275017114d::t_f77c352adb6044 3
+docs/archive/PORTAL_V4_PLAN.md
+  s_a260275017114d::t_47808ac5b678b9 3-8
+.agents/skills/port-drain/references/handlers.md
+  s_a260275017114d::t_b99d6719cc105f 16,19-20
+  s_a260275017114d::t_bd0e6854da8bcd 37
+  s_a260275017114d::t_efc5dc20197b7e 41
+  s_a260275017114d::t_6f5fc22b226b4d 44
+  s_a260275017114d::t_5220b967ec1b5d 52,54-57
+  s_a260275017114d::t_54acfe7688bf2d 70-71
+  s_a260275017114d::t_426e0e4a0ac8cc 113-114
+.agents/skills/port-source/references/legacy-map.md
+  s_a260275017114d::t_04a63a080378eb 17
+  s_a260275017114d::t_e19267c89f30b0 50-53,55-56
+.agents/skills/port-drain/references/canonical-keys.md
+  s_a260275017114d::t_b5265e937e3f51 5-11
+  s_a260275017114d::t_c42dd90c973a4b 26-27
+  s_a260275017114d::t_8845b117eabc3d 40
+  s_a260275017114d::t_637dc539cf58d4 44-45
+  s_a260275017114d::t_fee135d38897af 52
+  s_a260275017114d::t_553a3463109b8b 75
+.agents/skills/port-source/SKILL.md
+  s_a260275017114d::t_493674280f2143 36-41
+  s_a260275017114d::t_222e86f41428f0 45,47,49-53,55-57
+  s_a260275017114d::t_cfaac29c646a39 60,62-64,68
+  s_a260275017114d::t_f578718af27369 76-77
+docs/archive/PORTAL_V2_ARCHITECTURE_REBUILD.md
+  s_a260275017114d::t_5abe1ad6d2bd7c 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ed67f86a1c31c4852051d3cbff3c10ef8667474e",
+  "prompts": {},
+  "sessions": {
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
