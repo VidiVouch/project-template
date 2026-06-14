@@ -1,0 +1,79 @@
+scrapers/event_spiders/swapcard/swapcard.py
+  s_5b002650df0863::t_bbe27364faebac 1-491
+scrapers/event_spiders/tests/test_swapcard_spider.py
+  s_5b002650df0863::t_8aa5a74028e653 1-181
+apps/data/swapcard/tests/test_sessions.py
+  s_5b002650df0863::t_b352d5fe40f29b 1-88
+scrapers/event_spiders/swapcard/PeopleOverview.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-18
+scrapers/event_spiders/swapcard/AppExhibitorDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-66
+scrapers/event_spiders/swapcard/AppPersonDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-785
+apps/data/swapcard/registrations.py
+  s_5b002650df0863::t_cf32abe65b31c2 1-3,17,19-20,22-43,45
+  s_5b002650df0863::t_49464e590bbd5a 21
+  s_5b002650df0863::t_652a1aa8c8a315 44
+scrapers/event_spiders/swapcard/AppExhibitorsListViewWithFilters.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-13
+scrapers/event_spiders/swapcard/AppPeoplePage.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-15
+scrapers/event_spiders/swapcard/CustomEventDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-67
+scrapers/event_spiders/swapcard/CustomPeoplePage.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-242
+scrapers/event_spiders/swapcard/ExhibitorsListViewWithFilters.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-13
+scrapers/event_spiders/swapcard/AppCurrentUser.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-2
+apps/data/credentials/tests/test_drain.py
+  s_5b002650df0863::t_a901ac3ec70c4b 1-8,12,17-25,28,38,44-47,52,65,73,77,86-88,90,105,116,127,134,141,145,147,155,158,160,176-190,193-196,199-200,202-205,207,209,211-212,218,222-232,174
+  s_5b002650df0863::t_19e749b3c3e26e 35
+  s_5b002650df0863::t_01dafbebf0fe4a 166,169-171,173,175
+  s_5b002650df0863::t_7c5c133f45f27c 167,172
+  s_5b002650df0863::t_661406c8e3b2aa 191-192,197-198,201,206,208,210,233-234
+scrapers/event_spiders/swapcard/AppGetNewAccessToken.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-3
+scrapers/event_spiders/swapcard/CustomCurrentUser.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-52
+scrapers/event_spiders/swapcard/CustomExhibitorsListViewWithFilters.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-194
+scrapers/event_spiders/swapcard/CustomPersonDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-156
+scrapers/event_spiders/swapcard/PeoplePage.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-15
+scrapers/event_spiders/swapcard/AppEventDetails.graphql
+  s_5b002650df0863::t_bbe27364faebac 1-54
+apps/data/swapcard/sessions.py
+  s_5b002650df0863::t_e3134d44542243 1-70
+apps/bootstrap.py
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+  s_5b002650df0863::t_e245d029f0edc3 52-53,114-115,117-118,125-126,130-133
+  s_5b002650df0863::t_95bbf6ddcd5ec1 112-113,136-137,139-141,143-144,146-147
+  s_5b002650df0863::t_08566a2df15b56 150-157,159-160,162,164-165,116,123,128,134-135,56,60,68,72,75-76,138,142,145,148-149
+  s_5b002650df0863::t_d59d051562f4ac 50
+  s_5b002650df0863::t_0b0d577d37bdf3 49,54-55,57-59,61-67,69-71,73-74
+  s_5b002650df0863::t_d2994d49d50947 119,121-122,124
+  s_5b002650df0863::t_b82f85f3ae94eb 120,127,129
+  s_5b002650df0863::t_aad84bce2383cc 90
+  s_5b002650df0863::t_d7551d070bf5c6 45,51
+  s_5b002650df0863::t_ddca3c96e7ae2c 86,158
+  s_5b002650df0863::t_42dd5ac172a677 91,161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d2aafd44f730c5c000bc3673f96ab2fa8af08d10",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

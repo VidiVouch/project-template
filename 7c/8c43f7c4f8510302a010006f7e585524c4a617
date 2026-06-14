@@ -1,0 +1,66 @@
+apps/bootstrap.py
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+  s_5b002650df0863::t_e245d029f0edc3 51-52,111-112,114-115,122-123,127-130
+  s_5b002650df0863::t_95bbf6ddcd5ec1 109-110
+  s_5b002650df0863::t_08566a2df15b56 133-143,145-146,113,120,125,131-132,55,59,67,71,74-75
+  s_5b002650df0863::t_d59d051562f4ac 50
+  s_5b002650df0863::t_0b0d577d37bdf3 49,53-54,56-58,60-66,68-70,72-73
+  s_5b002650df0863::t_d2994d49d50947 116,118-119,121
+  s_5b002650df0863::t_b82f85f3ae94eb 117,124,126
+  s_5b002650df0863::t_aad84bce2383cc 88
+apps/data/play_store_listing/response.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-32
+apps/catalog/tests/test_promoter_registry.py
+  s_5b002650df0863::t_b2b5239f5774d4 28,33,56,59,212,214
+  s_5b002650df0863::t_e5a1068fc145b1 29
+  s_5b002650df0863::t_aad84bce2383cc 35,60,217
+apps/data/play_store_listing/migrations/0001_initial.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-37
+apps/data/play_store_listing/apps.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-10
+apps/catalog/handlers/play_store.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-45
+apps/data/play_store_listing/registrations.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-18
+apps/data/play_store_listing/tests/test_contracts.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-36,39
+  s_5b002650df0863::t_b99b1319e6a648 37-38,40
+apps/catalog/promoters.py
+  s_5b002650df0863::t_3f21ce7fbc8843 34
+  s_5b002650df0863::t_9247efaace29fe 41
+  s_5b002650df0863::t_b51d8220710c69 45
+  s_5b002650df0863::t_d16a603d1fcf30 60,63
+  s_5b002650df0863::t_412c3cdade975f 80,82
+  s_5b002650df0863::t_aad84bce2383cc 47,64,84
+apps/data/play_store_listing/transformers.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-34
+apps/data/play_store_listing/models.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-34
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 334-336
+  s_5b002650df0863::t_90400a7abda1ff 99,413-416
+  s_5b002650df0863::t_5804aba2648a0d 417-420
+  s_5b002650df0863::t_7dc34e1fe62abe 98
+  s_5b002650df0863::t_b82f85f3ae94eb 101,148-150
+  s_5b002650df0863::t_aad84bce2383cc 97
+apps/catalog/tests/test_promote_presence.py
+  s_5b002650df0863::t_3430bb842d25bf 1-23,25-29,32-236
+  s_5b002650df0863::t_aad84bce2383cc 24,30-31,237-289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "7c8c43f7c4f8510302a010006f7e585524c4a617",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+uv.lock
+  s_5b002650df0863::t_1b9cb97517cfc0 10-17,857-865,1491,1503,1570,1582
+  s_5b002650df0863::t_8bbbfb2e91fece 163-164,667-668
+  s_5b002650df0863::t_f6036e9aaadc75 226-227,286-287,446-447,540-541,744,817-818,1158-1159,1683,1686,1688,1690-1691,1990-1991,2071-2072,2214-2215,2375-2376,319-324,448-484,542-550,727-743,819-830,1160-1179,1492,1498,1527,1564,1571,1577,1605,1642,1671-1682,1992-2012,2073-2081,2216-2224,2377-2388,2463-2471
+  s_5b002650df0863::t_b4ff1b635ca490 2241-2242,318
+config/settings/testing.py
+  s_5b002650df0863::t_e289e56130f125 27-33
+pyproject.toml
+  s_5b002650df0863::t_754b8f47fb5bd9 80,187,273
+  s_5b002650df0863::t_daeb28af8de4b7 316
+  s_5b002650df0863::t_90400a7abda1ff 16,28
+  s_5b002650df0863::t_24a46d768efd5f 17
+  s_5b002650df0863::t_af2d606b26b553 22
+  s_5b002650df0863::t_ba0dfb43b943f8 75
+config/__init__.py
+  s_5b002650df0863::t_2dc07e4ba9c855 2-7
+config/celery.py
+  s_5b002650df0863::t_2dc07e4ba9c855 1-42
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 335-337
+  s_5b002650df0863::t_90400a7abda1ff 100,435-438,398,400,411
+  s_5b002650df0863::t_5804aba2648a0d 439-442
+  s_5b002650df0863::t_7dc34e1fe62abe 99
+  s_5b002650df0863::t_b82f85f3ae94eb 102,149-151
+  s_5b002650df0863::t_aad84bce2383cc 98
+  s_5b002650df0863::t_3414e7b0b4527a 90
+  s_5b002650df0863::t_ff619b430102c0 391-397,399,401-410
+config/settings/production.py
+  s_5b002650df0863::t_edf89c4382331b 29-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1944d5710e0babbaf913c4fba9099d8bdfd4d8e6",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
