@@ -1,0 +1,38 @@
+apps/mapping_tool/codegen.py
+  s_e9b1ddfac5f98e::t_69122e12105e4b 1-116
+apps/mapping_tool/templates/mapping_tool/editor.html
+  s_e9b1ddfac5f98e::t_e5ecf303d5ad7f 1-310
+apps/mapping_tool/discovery.py
+  s_e9b1ddfac5f98e::t_60caa0a06ec525 1-160
+apps/mapping_tool/views.py
+  s_e9b1ddfac5f98e::t_b453359a943d80 1-24,26-43,45-47,50-57,59-67,69-71,74-75,77-87,89-97,99-107
+  s_e9b1ddfac5f98e::t_60caa0a06ec525 25,44,68,98
+  s_e9b1ddfac5f98e::t_01b53670d3fcdb 48-49,72-73
+  s_e9b1ddfac5f98e::t_b8474dccc7386d 58
+  s_e9b1ddfac5f98e::t_69122e12105e4b 76,88
+config/urls.py
+  s_e9b1ddfac5f98e::t_ef92460f4e682b 29-31
+apps/mapping_tool/urls.py
+  s_e9b1ddfac5f98e::t_127071d5ef6c55 1-13
+apps/mapping_tool/templates/mapping_tool/dashboard.html
+  s_e9b1ddfac5f98e::t_c588c49e36c3f9 1-24,26-28,31,33-69
+  s_e9b1ddfac5f98e::t_54ee6ef3cee88b 25,29-30,32
+config/settings/base.py
+  s_e9b1ddfac5f98e::t_6e03986fe659c1 113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d2a352495a5853a5bd1294b10b88e70c22df8220",
+  "prompts": {},
+  "sessions": {
+    "s_e9b1ddfac5f98e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0b58ff27-60cc-4629-a051-a6f8317abbb5",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
