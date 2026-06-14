@@ -1,0 +1,22 @@
+.agents/skills/port-source/references/validation.md
+  s_a260275017114d::t_7333f664f78192 68
+PORTAL_V5_PLAN.md
+  s_a260275017114d::t_677a79cad53d62 134
+  s_a260275017114d::t_ab89f655ab3898 218
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5c2a6b09d9884896334637cb1cb901faf2c4756e",
+  "prompts": {},
+  "sessions": {
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

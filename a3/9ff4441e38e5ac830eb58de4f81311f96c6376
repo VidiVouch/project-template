@@ -1,0 +1,19 @@
+REVIEW.md
+  s_b19873c7421f66::t_2e108e463bec3c 22-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a39ff4441e38e5ac830eb58de4f81311f96c6376",
+  "prompts": {},
+  "sessions": {
+    "s_b19873c7421f66": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a255487f-6b0d-498d-b9aa-bbc56e16bbcc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

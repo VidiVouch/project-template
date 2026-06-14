@@ -1,0 +1,21 @@
+.agents/skills/port-drain/references/harvest-legacy-drain.md
+  s_b19873c7421f66::t_8e0bbc88c6a5de 3
+docs/archive/PORTAL_V2_ARCHITECTURE.md
+  s_b19873c7421f66::t_8e0bbc88c6a5de 248-249,2008-2019,2021-2024
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "92fb6808ac96f077fd5b0ed57e6f21f7473c2b47",
+  "prompts": {},
+  "sessions": {
+    "s_b19873c7421f66": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a255487f-6b0d-498d-b9aa-bbc56e16bbcc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
