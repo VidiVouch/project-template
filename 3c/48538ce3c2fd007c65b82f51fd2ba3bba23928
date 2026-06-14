@@ -1,0 +1,134 @@
+apps/data/eventpilot/tests/test_import_portal_eventpilot.py
+  s_1fa12ad67e9830::t_34bb3cf73c0849 1-11,22-38,40-85,87-97
+  s_1fa12ad67e9830::t_f1aa271d586729 12-21
+  s_1fa12ad67e9830::t_cf32dd5cad0fd8 39
+  s_1fa12ad67e9830::t_698c239f3d3008 86
+  s_1fa12ad67e9830::t_52383a1ba753a4 98-124
+apps/data/eventpilot/tests/test_mapping.py
+  s_1fa12ad67e9830::t_589a59d46b2735 1-77,85-89,96-121
+  s_1fa12ad67e9830::t_5412e593e60fae 78-84
+  s_1fa12ad67e9830::t_1554ed8aa15abf 90-95
+config/settings/base.py
+  s_1fa12ad67e9830::t_51a137a4191ad4 101
+scrapers/event_spiders/tests/test_eventpilot_discover_spider.py
+  s_1fa12ad67e9830::t_15f58e57ebf481 1-88
+apps/data/eventpilot/mapping.py
+  s_1fa12ad67e9830::t_c259d5799f16c0 1-21,28,33-35,45,47-48,51-140,143-144,146-147,152,155-160
+  s_1fa12ad67e9830::t_19ee5cd4a8510a 22-27,141-142,145,150-151,154,162
+  s_1fa12ad67e9830::t_8ee6aa05a494ce 29-32,36-44,46,49-50
+  s_1fa12ad67e9830::t_7fd959370b86ef 148-149,153
+  s_1fa12ad67e9830::t_7a87e7d7a18711 161
+apps/data/eventpilot/registrations.py
+  s_1fa12ad67e9830::t_b078306cdb3e39 1,5-7,16-37,40-43,46-55
+  s_1fa12ad67e9830::t_19ee5cd4a8510a 2-4,8-15,38-39,44-45
+apps/data/eventpilot/tests/test_response.py
+  s_1fa12ad67e9830::t_c713993249c4c8 1-47,51-60
+  s_1fa12ad67e9830::t_1554ed8aa15abf 48-50
+apps/catalog/handlers/eventpilot.py
+  s_1fa12ad67e9830::t_faf0768a15e323 1-92,94-137,139-143,150-273
+  s_1fa12ad67e9830::t_886980ebee4230 93
+  s_1fa12ad67e9830::t_63da4929c18af8 138
+  s_1fa12ad67e9830::t_c051226c25a3c7 144-149
+apps/data/eventpilot/apps.py
+  s_1fa12ad67e9830::t_19ee5cd4a8510a 1-8
+scrapers/event_spiders/eventpilot_discover.py
+  s_1fa12ad67e9830::t_eb478568ce35d9 1-16,18-84,88-96,98-100,102-184,186-187
+  s_1fa12ad67e9830::t_55d03bfa4f060e 17
+  s_1fa12ad67e9830::t_1554ed8aa15abf 85-87
+  s_1fa12ad67e9830::t_19b3123ae46bfc 97
+  s_1fa12ad67e9830::t_b6314da30e12bf 101
+  s_1fa12ad67e9830::t_6242cea92c9210 185
+apps/data/eventpilot/tests/test_admin.py
+  s_1fa12ad67e9830::t_3d2d27700753ff 1-50
+apps/catalog/tests/test_promote_eventpilot.py
+  s_1fa12ad67e9830::t_0d1caa4c76eabb 1
+  s_1fa12ad67e9830::t_56c149201be2b1 2-7,9-31,33-87,93-162,166-168,180-190,194-200,204-208,210,235-239,300
+  s_1fa12ad67e9830::t_b973fc400318ca 8
+  s_1fa12ad67e9830::t_31bce9a90da958 32
+  s_1fa12ad67e9830::t_1554ed8aa15abf 88-92,163-165,191-193
+  s_1fa12ad67e9830::t_994fb042ac2e12 169-179
+  s_1fa12ad67e9830::t_8e035bd2186072 201-203,209,211-216,226,230-234,240-273,277-299
+  s_1fa12ad67e9830::t_d1ddc84a07fcc2 217-225,227-229,274-276
+apps/data/eventpilot/admin.py
+  s_1fa12ad67e9830::t_21b066bcbc670f 1-37
+apps/data/eventpilot/migrations/0001_initial.py
+  s_1fa12ad67e9830::t_7b486f03730c19 1-157
+apps/data/eventpilot/tests/test_app_registration.py
+  s_1fa12ad67e9830::t_f348c8db3aadb4 1-53
+uv.lock
+  s_1fa12ad67e9830::t_97d073341bc0eb 274-293,1125-1152,1462-1470,1619,1704,1827-1848,1913-1932,1942-1967,1986-2004,2095-2122,2496-2502
+apps/catalog/promoters.py
+  s_1fa12ad67e9830::t_bc021d9fd0679f 49-53
+  s_1fa12ad67e9830::t_c343a25b86c0e2 94-99
+  s_1fa12ad67e9830::t_701b28fb294006 118
+  s_1fa12ad67e9830::t_05fa158e26ba86 134-136
+apps/bootstrap.py
+  s_1fa12ad67e9830::t_6a3957cfd16d84 90
+apps/data/eventpilot/response.py
+  s_1fa12ad67e9830::t_5b66f49486de42 1-21,24-25,28-114,116-121
+  s_1fa12ad67e9830::t_19ee5cd4a8510a 22-23,26-27,115
+scrapers/event_spiders/eventpilot.py
+  s_1fa12ad67e9830::t_3abc491c24a54f 1-38,40-59,63-94,96-147,149-152,155-174,176-187,189-199,201-256,260-261,265-320,330-360,362-373,375-429
+  s_1fa12ad67e9830::t_215a4dc7fc7fa1 39
+  s_1fa12ad67e9830::t_ce9bf15cecb7bd 60-62
+  s_1fa12ad67e9830::t_20bd780434eb1d 95
+  s_1fa12ad67e9830::t_a2be025d084eef 148,153-154
+  s_1fa12ad67e9830::t_33ed2eecd80f81 175
+  s_1fa12ad67e9830::t_e4316e1735e03f 188,374
+  s_1fa12ad67e9830::t_1554ed8aa15abf 200,322-329
+  s_1fa12ad67e9830::t_0afd21a9982502 257-259,262-264
+  s_1fa12ad67e9830::t_54423e536fe937 321
+  s_1fa12ad67e9830::t_417d18fdbe4e8d 361
+apps/data/eventpilot/tests/test_contracts.py
+  s_1fa12ad67e9830::t_99fb3823ea3e48 1-5,14-19,21,39-46,52-54,56-59
+  s_1fa12ad67e9830::t_19ee5cd4a8510a 6-9,13,20,32-38,47-51,55,60
+  s_1fa12ad67e9830::t_a734f2f894abd4 10-12,22-31
+  s_1fa12ad67e9830::t_c027bb83f2dde8 61-84,86-87
+  s_1fa12ad67e9830::t_d1ddc84a07fcc2 85
+apps/data/eventpilot/transformers.py
+  s_1fa12ad67e9830::t_412caaf589d878 1-16,22-32,37,39-40,42-45,48-51,53-59,61-68,70,75-130
+  s_1fa12ad67e9830::t_19ee5cd4a8510a 17-21,33-36,38,41,46-47,52,60,69,71-74
+pyproject.toml
+  s_1fa12ad67e9830::t_20fd72b2bef5e1 37
+scrapers/event_spiders/tests/test_eventpilot_spider.py
+  s_1fa12ad67e9830::t_1b57c17f41cd03 1-14,16-17,19-21,28-73,80-164
+  s_1fa12ad67e9830::t_680c071578c675 15,18,22-25
+  s_1fa12ad67e9830::t_1554ed8aa15abf 74-79
+  s_1fa12ad67e9830::t_5ee7c424eb6185 165-234,238-267
+  s_1fa12ad67e9830::t_d1ddc84a07fcc2 235-237
+apps/data/eventpilot/models.py
+  s_1fa12ad67e9830::t_612f32f41884d9 1-19,24-32,36,38,41-42,44-47,51-104,106-124,126-127
+  s_1fa12ad67e9830::t_19ee5cd4a8510a 20-23,33-35,37,39-40,43,48-50,125
+  s_1fa12ad67e9830::t_3c5a7f66437e02 105
+apps/data/eventpilot/tests/_records.py
+  s_1fa12ad67e9830::t_3490500d5e41f6 1-51,53-91
+  s_1fa12ad67e9830::t_1554ed8aa15abf 52,92
+apps/catalog/tests/test_promoter_registry.py
+  s_1fa12ad67e9830::t_f82fdf908b4524 37-41
+  s_1fa12ad67e9830::t_14c10adb5e8f18 90-95
+  s_1fa12ad67e9830::t_05233fcb06383a 263-266
+apps/data/eventpilot/management/commands/import_portal_eventpilot.py
+  s_1fa12ad67e9830::t_c1cb397c10965e 1-37,39-41,44,46-47,92-106,108-128,130-133,135-142
+  s_1fa12ad67e9830::t_3968481cf7ab54 38,42-43,45,48-89
+  s_1fa12ad67e9830::t_d1ddc84a07fcc2 91
+  s_1fa12ad67e9830::t_26926512caaa8f 107
+  s_1fa12ad67e9830::t_43c53d26cfc3d1 129,134,143-147
+apps/data/eventpilot/tests/test_models.py
+  s_1fa12ad67e9830::t_c3d3fe97176473 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "3c48538ce3c2fd007c65b82f51fd2ba3bba23928",
+  "prompts": {},
+  "sessions": {
+    "s_1fa12ad67e9830": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "89b132fa-e751-4975-b83d-062c5e001588",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
