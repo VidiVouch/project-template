@@ -1,0 +1,29 @@
+AGENTS.md
+  s_3aab6f0d381ac9::t_b1b2ad47c93206 12,14
+pyproject.toml
+  s_9cc359b33535bd::t_85c3509237bee0 40,127,135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "cf07320c0c569ca0199b75fc2a66b72ffdca804b",
+  "prompts": {},
+  "sessions": {
+    "s_3aab6f0d381ac9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28403637-3131-4df6-a9d3-4159d5748b62",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
