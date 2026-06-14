@@ -1,0 +1,126 @@
+config/settings/base.py
+  s_97a9e1a1aaf6e2::t_d72acc3874c156 99
+apps/catalog/promoters.py
+  s_97a9e1a1aaf6e2::t_91a0c8fb307da1 69-74
+  s_97a9e1a1aaf6e2::t_0186fa3309fe44 85
+  s_97a9e1a1aaf6e2::t_314e959ffc89ee 95-97
+  s_97a9e1a1aaf6e2::t_4479b48592b539 42-47
+scrapers/event_spiders/cvent.py
+  s_97a9e1a1aaf6e2::t_a4ad67d253378a 110,114-118
+  s_97a9e1a1aaf6e2::t_1e88eb765e13da 1-62,64-68,70-109,111-113,119-124
+  s_97a9e1a1aaf6e2::t_7f44f39381d05a 63,69
+scrapers/event_spiders/cvent_attendees.py
+  s_97a9e1a1aaf6e2::t_f3940202497c28 231-234
+  s_97a9e1a1aaf6e2::t_541335dbf46d37 206
+  s_97a9e1a1aaf6e2::t_9c6455c08e7cb9 43-45
+  s_97a9e1a1aaf6e2::t_07a8d1555d77ec 1-42,46-55,58-89,91-137,140-186,192-203,207-230,235-274
+  s_97a9e1a1aaf6e2::t_83ddb7c810d4dd 138-139
+  s_97a9e1a1aaf6e2::t_f204dac0f4aaa7 90
+  s_97a9e1a1aaf6e2::t_cc83327e435877 56-57
+scrapers/event_spiders/tests/test_cvent_spider.py
+  s_97a9e1a1aaf6e2::t_0c538fd56289f5 60,66-67,69-70
+  s_97a9e1a1aaf6e2::t_d8b28770ee3f4b 143-147,167-168
+  s_97a9e1a1aaf6e2::t_0f8b0eabcdce70 1-59,61-65,68,71-142,148-166,169-196
+apps/data/cvent/tests/test_response.py
+  s_97a9e1a1aaf6e2::t_d8b28770ee3f4b 49
+  s_97a9e1a1aaf6e2::t_e09ccce47d6ad5 1-48,50-130
+apps/data/cvent/tests/test_import_portal_cvent.py
+  s_97a9e1a1aaf6e2::t_9c0f96ba212e44 1-56,58-95
+  s_97a9e1a1aaf6e2::t_d8b28770ee3f4b 57
+traffic_adapters/tests/test_cvent_adapter.py
+  s_97a9e1a1aaf6e2::t_c12c4c61d70140 1-101,115-117,119,123-127,154-188
+  s_97a9e1a1aaf6e2::t_d31662a02c7562 102-114
+  s_97a9e1a1aaf6e2::t_6600a6a56c08b3 132
+  s_97a9e1a1aaf6e2::t_d8b28770ee3f4b 120-122
+  s_97a9e1a1aaf6e2::t_de44b07f75c49d 150-151
+  s_97a9e1a1aaf6e2::t_57e757c5f101d0 118
+  s_97a9e1a1aaf6e2::t_145c5d4f1b3072 128-131,133-149,152-153
+apps/catalog/tests/test_promote_cvent.py
+  s_97a9e1a1aaf6e2::t_d8b28770ee3f4b 260-263
+  s_97a9e1a1aaf6e2::t_dc1bb1839c4613 1-259,264-305
+apps/data/cvent/tests/test_admin.py
+  s_97a9e1a1aaf6e2::t_95577578172e8c 1-50
+apps/data/cvent/admin.py
+  s_97a9e1a1aaf6e2::t_a9eb475c0aea25 1-37
+apps/data/cvent/registrations.py
+  s_97a9e1a1aaf6e2::t_85bd4edb800b97 4-5,7-14,16,20-41,43-54,56-59
+  s_97a9e1a1aaf6e2::t_b9aae51b17263a 1-3,6,15,17-19,42,55,60
+apps/data/cvent/response.py
+  s_97a9e1a1aaf6e2::t_365d3964b66a3a 165
+  s_97a9e1a1aaf6e2::t_d569f321386104 135
+  s_97a9e1a1aaf6e2::t_bcec487aefb261 1-18,21-22,25-134,136-164,166-192,194-201
+  s_97a9e1a1aaf6e2::t_b9aae51b17263a 19-20,23-24,193
+apps/catalog/handlers/cvent.py
+  s_97a9e1a1aaf6e2::t_afad6409a6b9cd 1-285
+apps/data/cvent/tests/test_contracts.py
+  s_97a9e1a1aaf6e2::t_e66d416d2e78ba 87-88
+  s_97a9e1a1aaf6e2::t_b9aae51b17263a 1-3,8-12,19-22,26,126-132,139-145,149
+  s_97a9e1a1aaf6e2::t_14d4624f957dca 49,55
+  s_97a9e1a1aaf6e2::t_1e59fc4ff575b6 4-7,13-18,23-25,27-48,50-54,56-86,89-125,133-138,146-148
+apps/data/cvent/tests/test_mapping.py
+  s_97a9e1a1aaf6e2::t_7e2de34c7aafcd 73,77
+  s_97a9e1a1aaf6e2::t_541335dbf46d37 74
+  s_97a9e1a1aaf6e2::t_9959cacff3a3a0 109-110,120
+  s_97a9e1a1aaf6e2::t_e890eaaba76b71 131
+  s_97a9e1a1aaf6e2::t_8933fa9db50e7a 1-72,75-76,78-108,111-119,121-130,132-140
+apps/data/cvent/tests/test_transformers.py
+  s_97a9e1a1aaf6e2::t_201ab2649e7510 1-78
+apps/data/cvent/apps.py
+  s_97a9e1a1aaf6e2::t_b9aae51b17263a 1-8
+apps/data/cvent/tests/test_app_registration.py
+  s_97a9e1a1aaf6e2::t_32cf765b6a8222 1-44
+apps/data/cvent/tests/test_login.py
+  s_97a9e1a1aaf6e2::t_f0e979a9bf91ac 1-54
+traffic_adapters/adapters/cvent.py
+  s_97a9e1a1aaf6e2::t_cac8777ff84fb9 89-91,96
+  s_97a9e1a1aaf6e2::t_d966150ffcfb3a 99-103,105-112,119-123
+  s_97a9e1a1aaf6e2::t_02cd3014ce3dad 115
+  s_97a9e1a1aaf6e2::t_d8b28770ee3f4b 190
+  s_97a9e1a1aaf6e2::t_3c3a213820f031 158
+  s_97a9e1a1aaf6e2::t_84d3421b02b3f5 130,137,144,175
+  s_97a9e1a1aaf6e2::t_0d0d79f6af6d2d 1-88,92-95,97-98,104,113-114,116-118,124-129,131-136,138-143,145-157,159-174,176-189,191-196
+apps/data/cvent/login.py
+  s_97a9e1a1aaf6e2::t_0ef9d3c6b5ff38 1-44,46-96
+  s_97a9e1a1aaf6e2::t_d8b28770ee3f4b 45
+apps/data/cvent/tests/test_sessions.py
+  s_97a9e1a1aaf6e2::t_6d0c1ac6724078 1-40,45-97
+  s_97a9e1a1aaf6e2::t_d8b28770ee3f4b 41-44
+apps/data/cvent/mapping.py
+  s_97a9e1a1aaf6e2::t_b9aae51b17263a 23-24,26-29,81-82,85,89,178-179,189
+  s_97a9e1a1aaf6e2::t_96c374e3c14ab5 166-175,188
+  s_97a9e1a1aaf6e2::t_c3a3cf6bf461f5 80
+  s_97a9e1a1aaf6e2::t_56524bcddab4b0 43-46
+  s_97a9e1a1aaf6e2::t_87a5585a657437 1-16,25,30-42,47-79,83-84,86-88,90-124,128-165,176-177,180-187
+  s_97a9e1a1aaf6e2::t_acc30c1ddf27b2 125-127
+  s_97a9e1a1aaf6e2::t_3f0e6a32d8b7e2 17-22
+apps/bootstrap.py
+  s_97a9e1a1aaf6e2::t_4a77cecccf72da 158,161
+  s_97a9e1a1aaf6e2::t_9fe52b53df3d95 88,92
+apps/data/cvent/transformers.py
+  s_97a9e1a1aaf6e2::t_644f746a84a563 120
+  s_97a9e1a1aaf6e2::t_7063445305cea8 1-16,22-32,39-40,42-46,48-51,53-59,61-68,70,75-119,121-123
+  s_97a9e1a1aaf6e2::t_b9aae51b17263a 17-21,33-38,41,47,52,60,69,71-74
+apps/data/cvent/management/commands/import_portal_cvent.py
+  s_97a9e1a1aaf6e2::t_f2275d0559fc59 1-94
+apps/data/cvent/sessions.py
+  s_97a9e1a1aaf6e2::t_d62e50e8b21710 1-101
+apps/data/cvent/models.py
+  s_97a9e1a1aaf6e2::t_db4208f0f66927 3-29,34-42,46,48-52,54,56,58-60,68-145
+  s_97a9e1a1aaf6e2::t_b9aae51b17263a 1-2,30-33,43-45,47,53,55,57,61-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "788c8221731ec5d4dcfa1643ababe9a68671484f",
+  "prompts": {},
+  "sessions": {
+    "s_97a9e1a1aaf6e2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d6cbee40-9ef3-42a0-9627-c4315b29829d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
