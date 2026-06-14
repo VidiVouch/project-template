@@ -1,0 +1,9 @@
+POST_GRIP_REBUILD_PLAN.md
+  ai_agent 1-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "9315099d1e3af98f1878ddbb8df53a3322de90d3",
+  "prompts": {}
+}
