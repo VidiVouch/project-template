@@ -1,0 +1,19 @@
+apps/catalog/migrations/0006_eventorganizationrelationship_booth_number.py
+  s_697b5de2f41f28::t_791a9de6cd880f 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "bfebd3be17291171ba5fc789177559bbf6c83748",
+  "prompts": {},
+  "sessions": {
+    "s_697b5de2f41f28": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4255057b-68dc-4d5c-80b5-78c858f3d895",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
