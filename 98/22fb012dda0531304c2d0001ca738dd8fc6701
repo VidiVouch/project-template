@@ -1,0 +1,26 @@
+apps/sales/exports_views.py
+  s_16b898829b41be::t_44aaeedf5e03f7 45,113
+apps/sales/views.py
+  s_16b898829b41be::t_44aaeedf5e03f7 442-444,509,512-513,542
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "9822fb012dda0531304c2d0001ca738dd8fc6701",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_16b898829b41be": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7ba2adf3-2584-47e8-bc12-f334d64a9fdf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
