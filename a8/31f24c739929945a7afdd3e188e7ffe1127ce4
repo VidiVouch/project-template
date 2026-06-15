@@ -1,0 +1,22 @@
+scrapers/event_spiders/grip.py
+  s_6fac3d80eff64d::t_aec9256c3fd167 247
+  s_6fac3d80eff64d::t_2fb2005d1a3243 272-285
+scrapers/event_spiders/tests/test_grip_spider.py
+  s_6fac3d80eff64d::t_8214a4279d4f38 114,121-127,129,136-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "a831f24c739929945a7afdd3e188e7ffe1127ce4",
+  "prompts": {},
+  "sessions": {
+    "s_6fac3d80eff64d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e73e1ffa-4308-4b6f-bc3e-42e3bba4f311",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
