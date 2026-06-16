@@ -1,0 +1,63 @@
+scripts/brand/build_g.py
+  s_7b18fa95490007::t_499e28608b46f6 257
+scripts/brand/build_raze.py
+  s_7b18fa95490007::t_8a38983feb4f5e 55
+  s_7b18fa95490007::t_04a11d5cbe5c28 98
+scripts/brand/__init__.py
+  s_7b18fa95490007::t_8a7b1c3cfd2829 1
+scripts/brand/render_g_throbber_gif.py
+  s_7b18fa95490007::t_6b7723df4e949c 146
+scripts/__init__.py
+  s_7b18fa95490007::t_770ebd222c678f 1
+scripts/brand/render_g_gif.py
+  s_7b18fa95490007::t_5b8646f6d57a5f 62
+  s_7b18fa95490007::t_a274726f8f1525 67
+  s_7b18fa95490007::t_d0a18c0bbc2a3d 72
+  s_7b18fa95490007::t_622dc43b8fe9c3 77
+  s_7b18fa95490007::t_07d139bf0400b5 129
+pyproject.toml
+  s_5b002650df0863::t_7b601b147a8e02 20
+  s_5b002650df0863::t_af2d606b26b553 23,25
+  s_5b002650df0863::t_90400a7abda1ff 27,31,16,30
+  s_5b002650df0863::t_80dd0c6d11f722 34,36
+  s_5b002650df0863::t_754b8f47fb5bd9 44,160,185,194,204,222,239,246,260,89,199,285,61
+  s_998d95b9de4b0f::t_335f282231f4d0 45
+  s_5b002650df0863::t_ba0dfb43b943f8 75
+  s_5b002650df0863::t_daeb28af8de4b7 150,156,164,261,314,328
+  s_7b18fa95490007::t_04e68d6ee38252 175-177
+uv.lock
+  s_5b002650df0863::t_1b9cb97517cfc0 10-17,888-896,1580,1594,1666,1680
+  s_5b002650df0863::t_f6036e9aaadc75 775,1801,1804,1806,1808-1809,2189-2190,2332-2334,2337,2339,2341-2342,2508,2511,2514,2516,2518-2519,2594,2597,2599,2601-2602
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "04318d3b4e5161962a0b29f715e69ececc7e415b",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7b18fa95490007": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c71fd7f8-1b57-4abe-aa75-876dd51ddbfb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

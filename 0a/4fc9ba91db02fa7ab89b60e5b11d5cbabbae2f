@@ -1,0 +1,33 @@
+apps/bootstrap.py
+  s_5b002650df0863::t_e245d029f0edc3 46-47,57,61-62,64-66,72-73,75-76
+  s_5b002650df0863::t_0b0d577d37bdf3 50
+  s_5b002650df0863::t_08566a2df15b56 54-56
+  s_5b002650df0863::t_aad84bce2383cc 58
+  s_5b002650df0863::t_ddca3c96e7ae2c 59,74
+  s_5b002650df0863::t_a5014b183df652 63
+  s_5b002650df0863::t_d2994d49d50947 67,77-78
+  s_5b002650df0863::t_95bbf6ddcd5ec1 71
+config/settings/base.py
+  s_5b002650df0863::t_4b47bc34478b19 66,100,131,133,149,151,221,229,231,242-243,255-256,273,286,291,296,311,316,322-324,328-329,331-333,338,340-341,363,375-376,378,380,382
+  s_5b002650df0863::t_aad84bce2383cc 93
+  s_5b002650df0863::t_7b601b147a8e02 95-96
+  s_5b002650df0863::t_b82f85f3ae94eb 129-130,132
+  s_5b002650df0863::t_80dd0c6d11f722 137-139,205,308-310,313-315,325-327,403
+  s_5b002650df0863::t_63b7ed74f23be4 318-321
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "0a4fc9ba91db02fa7ab89b60e5b11d5cbabbae2f",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
