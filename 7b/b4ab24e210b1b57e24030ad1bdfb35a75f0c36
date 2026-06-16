@@ -1,0 +1,34 @@
+apps/data/luma/tests/test_mapping.py
+  s_3748ef8a5eb7ff::t_53102313c8d436 1,9-19
+  s_3748ef8a5eb7ff::t_a102311a57cb99 93-94
+  s_3748ef8a5eb7ff::t_2ee760d06ff6f8 100,106,114-115
+  s_3748ef8a5eb7ff::t_da02f83ba599fc 68-69
+  s_3748ef8a5eb7ff::t_61e23521c0d013 130-131
+  s_3748ef8a5eb7ff::t_ab065314a2c0c4 151
+  s_3748ef8a5eb7ff::t_eab60fd0c5423a 155
+  s_3748ef8a5eb7ff::t_383a428d9fe49f 162
+  s_3748ef8a5eb7ff::t_64bb5c238455be 144
+apps/catalog/handlers/luma.py
+  s_3748ef8a5eb7ff::t_33b6e08f541953 126
+  s_3748ef8a5eb7ff::t_9a1cb2f534fba7 80
+apps/data/luma/mapping.py
+  s_3748ef8a5eb7ff::t_f25ca713c0f6ff 169,178
+  s_3748ef8a5eb7ff::t_56f8c3d2ac4028 34-54
+  s_3748ef8a5eb7ff::t_ad0b9ca206558d 136,144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "7bb4ab24e210b1b57e24030ad1bdfb35a75f0c36",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
