@@ -1,0 +1,30 @@
+apps/data/socio/mapping.py
+  s_3748ef8a5eb7ff::t_7d02ea7a4ea441 107,114
+  s_3748ef8a5eb7ff::t_71aad5ec9ba249 66-88,90
+apps/data/socio/tests/test_mapping.py
+  s_3748ef8a5eb7ff::t_e952a0cdadc869 9-10
+  s_3748ef8a5eb7ff::t_85ce30c8b63bb2 87,91
+  s_3748ef8a5eb7ff::t_c8eeeed1ca69f7 1
+  s_3748ef8a5eb7ff::t_e88228f4c1867e 48-56,74-75
+  s_3748ef8a5eb7ff::t_f70d6688dd6199 97
+  s_3748ef8a5eb7ff::t_c6d4379306946a 112,119-121
+apps/catalog/handlers/socio.py
+  s_3748ef8a5eb7ff::t_f9c5e9990c263b 108
+  s_3748ef8a5eb7ff::t_715b7c73e07977 64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "928b87bfccf3b9bc479fbaf057718c7c125cfb5a",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
