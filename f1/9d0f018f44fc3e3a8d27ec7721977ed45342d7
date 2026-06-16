@@ -1,0 +1,21 @@
+.github/workflows/lint.yml
+  s_3748ef8a5eb7ff::t_9e387cdc33c4db 66-71
+pyproject.toml
+  s_3748ef8a5eb7ff::t_9e387cdc33c4db 277-285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "f19d0f018f44fc3e3a8d27ec7721977ed45342d7",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
