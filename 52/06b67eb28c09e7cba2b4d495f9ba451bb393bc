@@ -1,0 +1,25 @@
+apps/catalog/models.py
+  s_3748ef8a5eb7ff::t_58b5037b54fd83 550-591
+apps/catalog/tests/test_models.py
+  s_3748ef8a5eb7ff::t_58b5037b54fd83 17,317-348
+CLIENT_VISIBILITY_INTERVIEW.html
+  s_3748ef8a5eb7ff::t_26c41e0f1bbe5f 815-821
+apps/catalog/admin.py
+  s_3748ef8a5eb7ff::t_58b5037b54fd83 29,61-78,87-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "5206b67eb28c09e7cba2b4d495f9ba451bb393bc",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
