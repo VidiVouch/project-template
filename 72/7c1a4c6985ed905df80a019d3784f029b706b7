@@ -1,0 +1,67 @@
+apps/identity/migrations/0004_add_canonical_email_fields.py
+  s_5b002650df0863::t_62824de019117c 1-21,25-51,56-68,73-97
+  s_5b002650df0863::t_afe8c483c5369a 22-24,52-55,69-72
+apps/identity/forms.py
+  s_5b002650df0863::t_62824de019117c 12-15,79-81
+  s_5b002650df0863::t_018d2cf91e3d4c 18
+  s_5b002650df0863::t_9d9bf95bcba234 106-145
+  s_5b002650df0863::t_d4b2bbfb0ecba7 178-180
+  s_5b002650df0863::t_3c23518a31978d 193-195
+  s_5b002650df0863::t_115f5f8dd4bbc4 199-201
+  s_5b002650df0863::t_26f044b1db3f51 208-211
+apps/identity/tests/test_forms.py
+  s_5b002650df0863::t_d01f1cbf8e7c55 5-6,10
+  s_5b002650df0863::t_62824de019117c 171-178
+  s_5b002650df0863::t_35abe80255f4e0 195-286,288-290
+  s_5b002650df0863::t_57a82809cb11ad 287
+apps/identity/signals.py
+  s_5b002650df0863::t_62824de019117c 16,389,478-482,522-528
+  s_5b002650df0863::t_3a47915d81423a 20
+  s_5b002650df0863::t_ca5f2b672f2daf 182-189
+  s_5b002650df0863::t_6edf0a414afa4e 361-379
+apps/identity/tests/test_canonical_email.py
+  s_5b002650df0863::t_62824de019117c 1-64,66-157
+apps/identity/tests/test_invite_issue.py
+  s_5b002650df0863::t_62824de019117c 96,388,402
+  s_5b002650df0863::t_54d7ab01e97187 447-482
+apps/identity/invites.py
+  s_5b002650df0863::t_62824de019117c 47-48,98-105,107-110,125-127,129,210-230,242-246,562-564
+  s_5b002650df0863::t_b7b5a1094a853d 368-390
+  s_5b002650df0863::t_5d968cf1c1d512 424-426,432
+  s_5b002650df0863::t_9941e4cd465ba4 471-475
+  s_5b002650df0863::t_3c63f621acc06e 481-489
+  s_5b002650df0863::t_70dd5871ef1bda 539-545
+apps/identity/tests/test_redemption.py
+  s_5b002650df0863::t_73bc45ca8d7feb 440-484
+  s_5b002650df0863::t_7566bb1383d754 550-551
+apps/identity/tests/test_events.py
+  s_5b002650df0863::t_62824de019117c 1-8,12-20,22-115,117-141,177-210
+  s_5b002650df0863::t_c6e90f864c23c6 9-11
+  s_5b002650df0863::t_1e0e8aaaa282d2 21
+  s_5b002650df0863::t_bdedabfe2b8798 116
+  s_5b002650df0863::t_ebe4abfb9fffcb 142-176
+  s_5b002650df0863::t_458f0f242a2099 247-280
+apps/identity/events.py
+  s_5b002650df0863::t_62824de019117c 1-21,28
+  s_5b002650df0863::t_d370916daaf493 22-27
+  s_5b002650df0863::t_378508dc4cb8ad 29-37
+apps/identity/models.py
+  s_5b002650df0863::t_62824de019117c 14,22-45,60-69,86-97,102-124,240-245,301-309,313-314,317-319,345-353,445-449,484,544-550,554-557
+  s_5b002650df0863::t_599664c4f1d8b6 480-483
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "727c1a4c6985ed905df80a019d3784f029b706b7",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

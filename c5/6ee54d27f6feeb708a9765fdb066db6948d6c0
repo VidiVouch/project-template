@@ -1,0 +1,57 @@
+apps/data/grip/sessions.py
+  s_5b002650df0863::t_d2b4c9ecb5e445 32-47,49-63
+REVIEW.md
+  s_5b002650df0863::t_17dfcd19c25803 43-44
+  s_5b002650df0863::t_91f22074c68087 45-46
+  s_5b002650df0863::t_c23f63e9b9b6fc 47-49
+apps/data/credentials/tests/test_drain.py
+  s_5b002650df0863::t_a901ac3ec70c4b 1-8,12,17-25,28,38,44-47,52,65,73,77,86-88,90,105,116,127,134,141,145,147,155,158,160,170-184,187-190,193-194,196-199,201,203,205-206,212,216-226
+  s_5b002650df0863::t_19e749b3c3e26e 35
+traffic_adapters/adapters/grip_events.py
+  s_5b002650df0863::t_165c59620abb7c 25
+  s_5b002650df0863::t_0f5bc2399cc0d1 105
+  s_5b002650df0863::t_08f00ad0e9394d 123
+  s_5b002650df0863::t_8283999229013f 139
+  s_5b002650df0863::t_228d8e474b5bc9 11-13
+apps/data/credentials/drain_registry.py
+  s_5b002650df0863::t_d409c2d4724d7c 1-53
+apps/bootstrap.py
+  s_5b002650df0863::t_e245d029f0edc3 49-50,60,65-66,68-70,76-77,79-80
+  s_5b002650df0863::t_0b0d577d37bdf3 53
+  s_5b002650df0863::t_08566a2df15b56 57-59,62,83-95,97-98
+  s_5b002650df0863::t_aad84bce2383cc 61
+  s_5b002650df0863::t_ddca3c96e7ae2c 63,78
+  s_5b002650df0863::t_a5014b183df652 67
+  s_5b002650df0863::t_d2994d49d50947 71,81-82
+  s_5b002650df0863::t_95bbf6ddcd5ec1 75
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+apps/data/credentials/drain.py
+  s_5b002650df0863::t_3eece0f9ff11fe 1-44,51-136
+  s_5b002650df0863::t_36ae8796fc4e1a 45-50
+apps/data/credentials/management/commands/drain_logins.py
+  s_5b002650df0863::t_90f70fd5745d74 1,5,7-8,15,17,20-21,25-26,29-33,36
+tests/architecture/test_bootstrap_sorted.py
+  s_5b002650df0863::t_b273ef6a9a17b7 6-7
+  s_5b002650df0863::t_e41ff3febd892b 55-66
+apps/data/credentials/tests/conftest.py
+  s_5b002650df0863::t_8070d084120816 1-27
+apps/data/grip/registrations.py
+  s_5b002650df0863::t_a4212098b1e324 33-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "c56ee54d27f6feeb708a9765fdb066db6948d6c0",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
