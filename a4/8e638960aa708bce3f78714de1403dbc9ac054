@@ -1,0 +1,27 @@
+pyproject.toml
+  s_7b18fa95490007::t_04e68d6ee38252 175-177
+  h_795c5e33ecc5af 99
+render.yaml
+  h_795c5e33ecc5af 106,110,170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "a48e638960aa708bce3f78714de1403dbc9ac054",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_7b18fa95490007": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c71fd7f8-1b57-4abe-aa75-876dd51ddbfb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
