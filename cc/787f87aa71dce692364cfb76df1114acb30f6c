@@ -1,0 +1,39 @@
+apps/catalog/migrations/0007_eventorganizationrelationship_booth_number.py
+  s_3748ef8a5eb7ff::t_9ececf177d616c 9
+apps/catalog/handlers/allintheloop.py
+  s_3748ef8a5eb7ff::t_20a70c6a8e6e6c 182
+  s_3748ef8a5eb7ff::t_1d0852b0482402 175
+  s_3748ef8a5eb7ff::t_946e81391978b5 276
+  s_3748ef8a5eb7ff::t_e7d0bed9df0289 290
+  s_3748ef8a5eb7ff::t_1467505ff6dfa7 92
+apps/data/allintheloop/tests/test_mapping.py
+  s_3748ef8a5eb7ff::t_f0cf39b3dde25f 67,70-74,78,86,95,103-105,109,120-121
+  s_3748ef8a5eb7ff::t_0256f00e2eed40 1,7-8,11-13,19-32
+  s_3748ef8a5eb7ff::t_ac0bf6ed97a36b 46,52,58
+apps/data/allintheloop/mapping.py
+  s_3748ef8a5eb7ff::t_c13af5633dc084 148
+  s_3748ef8a5eb7ff::t_f3dcfcad42e4d6 167,169
+  s_3748ef8a5eb7ff::t_8cedd346804a43 124,126
+  s_3748ef8a5eb7ff::t_17beb07443c245 109,111
+  s_3748ef8a5eb7ff::t_09b0977d82e3fe 183,185
+  s_3748ef8a5eb7ff::t_eeb8f67b20323a 43-64
+  s_3748ef8a5eb7ff::t_1203ecdb9a7bcc 141
+apps/catalog/tests/test_promote_allintheloop.py
+  s_3748ef8a5eb7ff::t_5bd41e2f5a8d7e 94-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "cc787f87aa71dce692364cfb76df1114acb30f6c",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
