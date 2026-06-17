@@ -1,0 +1,130 @@
+.claude/settings.json
+  s_5b002650df0863::t_f5d80fc1566505 87-88
+  s_5b002650df0863::t_bf5a524fa96c96 105
+.agents/skills/port-source/references/validation.md
+  s_5b002650df0863::t_125ff57963a047 8,11,16,19-21,49-52,57-59,61-68,99-102,104-105
+.gitignore
+  s_5b002650df0863::t_8e8c016fa51e82 784
+.agents/skills/port-source/references/legacy-map.md
+  s_5b002650df0863::t_600458f4e44da2 4-9
+  s_a260275017114d::t_df9eba25ec3c5a 57
+  s_5b002650df0863::t_739f9474d0439c 12,19,47,82,86,89-90
+  s_5b002650df0863::t_125ff57963a047 16-18,20-21,30-38,40,44-46,52,96-101
+apps/data/capture/dtos.py
+  s_5b002650df0863::t_42a86d24f1dd9f 24
+apps/data/grip/tests/test_response.py
+  s_ffd92932362e87::t_7ae2713ea6fefc 10
+  s_5b002650df0863::t_4dbcea6a3dab0d 86,99
+traffic_adapters/tests/test_rules.py
+  s_5b002650df0863::t_feb4f26682df69 12
+  s_5b002650df0863::t_4b88ca04e5cc98 48
+  s_5b002650df0863::t_6068f99426f738 211-212
+apps/data/capture/tests/test_capture_inventory.py
+  s_5b002650df0863::t_4dbcea6a3dab0d 32
+apps/data/capture/constants/enums.py
+  s_5b002650df0863::t_4dbcea6a3dab0d 18
+scrapers/event_spiders/grip.py
+  s_5b002650df0863::t_a4f37a983fc596 3
+README.md
+  s_5b002650df0863::t_8e8c016fa51e82 21,683,686,688,690,693-694,698,705,708-709,713,716,730,732,736-737,740-741,748
+.agents/skills/new-source/references/adapter.md
+  s_5b002650df0863::t_739f9474d0439c 1,5,7,16-37,39-51,56,58-68,77-87,90,94,97,99,107,112-118,122
+traffic_adapters/adapters/grip_events.py
+  s_5b002650df0863::t_165c59620abb7c 24
+  s_5b002650df0863::t_0f5bc2399cc0d1 104
+  s_5b002650df0863::t_08f00ad0e9394d 122
+  s_5b002650df0863::t_8283999229013f 138
+.agents/skills/port-source/references/tier1-models.md
+  s_5b002650df0863::t_125ff57963a047 15,23,26-27,30-34,38,40-44,48,51-62,105-116
+apps/data/base/hashing.py
+  s_5b002650df0863::t_0e4be5e1c45cab 20
+traffic_adapters/rules.py
+  s_5b002650df0863::t_a31a882dcd25c0 354,356-357
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_5b002650df0863::t_739f9474d0439c 1,23,28-31,41-44,51,53,55,63-64,92-97,99,104-112
+apps/data/capture/tests/test_models.py
+  s_5b002650df0863::t_4dbcea6a3dab0d 88
+apps/data/capture/services.py
+  s_5b002650df0863::t_6a78d6e8e353da 181
+.agents/skills/port-source/SKILL.md
+  s_5b002650df0863::t_125ff57963a047 3,19-25,28,51,62-63,80-81
+traffic_adapters/tests/test_csv_pipeline.py
+  s_5b002650df0863::t_705f6c8752a436 33,35-36,41
+pyproject.toml
+  s_5b002650df0863::t_7b601b147a8e02 17
+  s_5b002650df0863::t_af2d606b26b553 19-20
+  s_5b002650df0863::t_90400a7abda1ff 22,25
+  s_5b002650df0863::t_80dd0c6d11f722 28-29
+  s_5b002650df0863::t_754b8f47fb5bd9 37,146,168,171,177,180,187,190,205,208,222,225,229,232,243,246,182,268
+  s_998d95b9de4b0f::t_335f282231f4d0 38
+  s_5b002650df0863::t_ba0dfb43b943f8 62
+  s_5b002650df0863::t_daeb28af8de4b7 136,142,150,244,247,297,300,311,314
+.agents/skills/new-source/SKILL.md
+  s_5b002650df0863::t_125ff57963a047 3,10-13,28-30,33,46-69,73-79,83-85,87-95,97-98,103-106,108-109,113
+apps/data/capture/models.py
+  s_5b002650df0863::t_c120a31e7380e9 24-26
+  s_5b002650df0863::t_2fcaa2c7d8bbb9 126
+.agents/skills/port-source/references/transformers-registration.md
+  s_5b002650df0863::t_125ff57963a047 10-21,24-26,30-43,53-56,59-62,111-113,117-126
+apps/data/capture/migrations/0001_initial.py
+  s_5b002650df0863::t_4dbcea6a3dab0d 36
+apps/data/capture/tests/test_data_stats_tier0.py
+  s_5b002650df0863::t_43e12420418b01 30-33,25-29
+  s_5b002650df0863::t_4dbcea6a3dab0d 87,83
+config/settings/base.py
+  s_5b002650df0863::t_4b47bc34478b19 66,102-103,133,135-136,151-154,223-224,231-234,244-246,257-259,275-276,288-289,293-294,298-299,313,319,324-326,330-336,340-344,365-366,377-382,384-385
+  s_5b002650df0863::t_aad84bce2383cc 93-94
+  s_5b002650df0863::t_7b601b147a8e02 97-99
+  s_5b002650df0863::t_b82f85f3ae94eb 131-132,134,144
+  s_5b002650df0863::t_80dd0c6d11f722 139-142,207-208,310-312,315-317,327-329,405
+  s_5b002650df0863::t_90400a7abda1ff 318,383
+  s_5b002650df0863::t_63b7ed74f23be4 320-323
+  s_5b002650df0863::t_a58725b59d4b17 96
+apps/data/capture/transport.py
+  s_5b002650df0863::t_bbbb6d98e9816a 83,79-82
+  s_5b002650df0863::t_20749547be28a5 73
+traffic_adapters/cli/analyze_flow.py
+  s_5b002650df0863::t_a35e18c85952b2 147
+.agents/skills/investigate-traffic/SKILL.md
+  s_5b002650df0863::t_125ff57963a047 3,13,21-22,26,38-43,54,60,64,67,70,73,75,79,91,94,101-104,110,113,116,119,122,125,128,139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "80d49ce01da22645104c288175a24d49b9c0acaf",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

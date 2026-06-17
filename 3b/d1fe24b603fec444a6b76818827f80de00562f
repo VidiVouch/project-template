@@ -1,0 +1,25 @@
+assets/css/source.css
+  s_998d95b9de4b0f::t_f2c9f4cb5631a9 908-909
+apps/billing/views.py
+  s_998d95b9de4b0f::t_22990328ec7d6f 30-33
+  s_998d95b9de4b0f::t_6c1316c6b75946 89-90,99-101,92,102-103
+  s_998d95b9de4b0f::t_bf5e771bc250d3 104-105,177-178,181,187,195-196,201,209,214,240-241,246,251
+apps/billing/tests/test_views.py
+  s_998d95b9de4b0f::t_e22f3f186f4304 190-191,194-195,199,206-208,215,223,226,229-230,233,236,240-241,244,247,250,252,256-257,261,264,266-268,274,277-278,282,287,292
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "3bd1fe24b603fec444a6b76818827f80de00562f",
+  "prompts": {},
+  "sessions": {
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

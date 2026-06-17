@@ -1,0 +1,58 @@
+apps/data/apify/tests/test_contracts.py
+  s_ffd92932362e87::t_caddd1f19bddcb 13
+apps/data/apify/models.py
+  s_ffd92932362e87::t_c77e8a9d7ef485 40
+  s_ffd92932362e87::t_5df78e322abb3c 51,70,92
+envelopes/apify/versions.py
+  s_ffd92932362e87::t_2277242d1fac60 1-26
+apps/data/apify/transformers.py
+  s_ffd92932362e87::t_c3d8e8e5166493 23-24
+  s_ffd92932362e87::t_b97dd2e1d0d150 57
+  s_ffd92932362e87::t_c4fd530b2159a7 162
+apps/bootstrap.py
+  s_5b002650df0863::t_e245d029f0edc3 46-47,64-66,72-73,75-76,57,61-62
+  s_5b002650df0863::t_08566a2df15b56 50,54-55,59,56
+  s_5b002650df0863::t_a5014b183df652 63
+  s_5b002650df0863::t_d2994d49d50947 67-68,77-78
+  s_5b002650df0863::t_95bbf6ddcd5ec1 71
+  s_5b002650df0863::t_ddca3c96e7ae2c 74
+  s_5b002650df0863::t_aad84bce2383cc 58
+apps/data/apify/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67
+config/settings/base.py
+  s_5b002650df0863::t_4b47bc34478b19 66,100-101,131,133-134,149-152,221-222,229-232,242-244,255-257,273-274,286-287,291-292,296-297,311,317,322-324,328-334,338-342,363-364,375-380,382-383
+  s_5b002650df0863::t_aad84bce2383cc 93-94
+  s_5b002650df0863::t_7b601b147a8e02 95-97
+  s_5b002650df0863::t_b82f85f3ae94eb 129-130,132,142
+  s_5b002650df0863::t_80dd0c6d11f722 137-140,205-206,308-310,313-315,325-327,403
+  s_5b002650df0863::t_90400a7abda1ff 316,381
+  s_5b002650df0863::t_63b7ed74f23be4 318-321
+apps/data/apify/tests/test_transformers.py
+  s_ffd92932362e87::t_caddd1f19bddcb 21
+apps/data/apify/tests/test_app_registration.py
+  s_ffd92932362e87::t_caddd1f19bddcb 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "736508b1e9da26d9488ed8027e38d2278c62627b",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
