@@ -1,0 +1,61 @@
+envelopes/expoplatform/versions.py
+  s_ffd92932362e87::t_00c296c8f4a25c 1-60
+apps/data/expoplatform/transformers.py
+  s_ffd92932362e87::t_34aa047b513169 33,41,49,69-73,79,90,98-99,107-108,116-117,125-126,134-135,143-144,152-153,161-162
+apps/data/expoplatform/tests/test_response.py
+  s_ffd92932362e87::t_34aa047b513169 4
+apps/data/expoplatform/tests/test_app_registration.py
+  s_ffd92932362e87::t_34aa047b513169 14
+config/settings/base.py
+  s_5b002650df0863::t_4b47bc34478b19 66,125-126,156,158-159,180-183,252-253,260-263,273-275,286-288,304-305,317-318,322-323,327-328,342,421,426-428,432-433,437-441,445-449,470-471,482-487,510-511,488,349,434
+  s_5b002650df0863::t_aad84bce2383cc 97-98,103,104
+  s_5b002650df0863::t_7b601b147a8e02 109,113,122,110
+  s_5b002650df0863::t_b82f85f3ae94eb 154-155,157,170,112,167,169
+  s_5b002650df0863::t_80dd0c6d11f722 162-165,236-237,339-341,345-347,429-431,545
+  s_5b002650df0863::t_63b7ed74f23be4 422-425
+  s_5b002650df0863::t_90400a7abda1ff 509,108,546-549,495-498,508,355-356,360,362-363,375-376,381-382,392-393,415,420
+  s_5b002650df0863::t_a58725b59d4b17 102
+  s_5b002650df0863::t_5804aba2648a0d 550-554
+  s_5b002650df0863::t_7dc34e1fe62abe 107
+apps/data/expoplatform/tests/test_contracts.py
+  s_ffd92932362e87::t_34aa047b513169 17
+apps/data/expoplatform/models.py
+  s_ffd92932362e87::t_34aa047b513169 40-47,54,66,79,90,103,116
+apps/bootstrap.py
+  s_5b002650df0863::t_e245d029f0edc3 52-53,87,97-98,100-102,108-109,111-112,117-118,120-121,128-129,133-136
+  s_5b002650df0863::t_0b0d577d37bdf3 79,49,54-55,57-59,61-67,69-71,73-74
+  s_5b002650df0863::t_08566a2df15b56 83-84,85,91,115-116,153-160,162,164,167,169-170,119,126,131,137-138,56,60,68,72,75-76,139,141-142,145-146,148-149,151-152,161,165
+  s_5b002650df0863::t_aad84bce2383cc 88,92
+  s_5b002650df0863::t_ddca3c96e7ae2c 95,110
+  s_5b002650df0863::t_a5014b183df652 99
+  s_5b002650df0863::t_d2994d49d50947 103-104,113-114,122,124-125,127
+  s_5b002650df0863::t_95bbf6ddcd5ec1 107
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+  s_5b002650df0863::t_d59d051562f4ac 50
+  s_5b002650df0863::t_b82f85f3ae94eb 123,130,132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "306f807ef147be05c39bcdbd0fc2a64617ebfd65",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+assets/css/source.css
+  s_998d95b9de4b0f::t_f2c9f4cb5631a9 864-865
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "ac7e23ffbc2b263ebb4658e090a325b6a22c4f70",
+  "prompts": {},
+  "sessions": {
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

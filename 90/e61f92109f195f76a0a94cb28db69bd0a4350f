@@ -1,0 +1,21 @@
+apps/catalog/models.py
+  s_5b002650df0863::t_2ce24ac9365f40 547-548,551,556-558,571-572,574,577-578,581,588,596-598,603-605,611
+apps/catalog/tests/test_reexamine_claims.py
+  s_5b002650df0863::t_74fe9d8b2575a7 192-193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "90e61f92109f195f76a0a94cb28db69bd0a4350f",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

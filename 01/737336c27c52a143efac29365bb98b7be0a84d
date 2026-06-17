@@ -1,0 +1,100 @@
+apps/bootstrap.py
+  s_5b002650df0863::t_e245d029f0edc3 51-52,85,90-91,93-95,101-102,104-105,110-111,113-114,121-122,125-128
+  s_5b002650df0863::t_0b0d577d37bdf3 78,49,53-54,56-58,60-66,68-70,72-73
+  s_5b002650df0863::t_08566a2df15b56 82-83,84,87,108-109,131-141,143-144,112,119,123,129-130,55,59,67,71,74-75
+  s_5b002650df0863::t_aad84bce2383cc 86
+  s_5b002650df0863::t_ddca3c96e7ae2c 88,103
+  s_5b002650df0863::t_a5014b183df652 92
+  s_5b002650df0863::t_d2994d49d50947 96-97,106-107,115,117-118,120
+  s_5b002650df0863::t_95bbf6ddcd5ec1 100
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+  s_5b002650df0863::t_d59d051562f4ac 50
+apps/catalog/handlers/cadmium/stats.py
+  s_5b002650df0863::t_b09675a68f642b 1-14,16-51
+apps/catalog/handlers/grip.py
+  s_5b002650df0863::t_4d079138e9c23f 42
+  s_5b002650df0863::t_c8fe746549a891 257-286
+apps/catalog/handlers/cadmium/__init__.py
+  s_5b002650df0863::t_b09675a68f642b 26,36
+apps/catalog/promoters.py
+  s_5b002650df0863::t_c3f087f82a845b 17,65
+  s_5b002650df0863::t_f2884c44b56850 19,67,53,55,76,47-50,68-69,72
+  s_7c6c92400c7448::t_f11c65c481bc27 63,82,35,61,57,25,51,41,91,46
+  s_5b002650df0863::t_412c3cdade975f 64,70,52,54,56,78,80
+  s_5b002650df0863::t_9247efaace29fe 66,58,60
+  s_5b002650df0863::t_cdd3b144664d3b 83,74-75,81
+  s_5b002650df0863::t_3f21ce7fbc8843 27,32,34
+  s_5b002650df0863::t_a6e05ed7960f02 79
+  s_5b002650df0863::t_b51d8220710c69 38,45
+  s_5b002650df0863::t_aad84bce2383cc 40
+  s_5b002650df0863::t_c04b83d2fb5ffb 43-44
+  s_5b002650df0863::t_d16a603d1fcf30 59,62
+apps/catalog/admin.py
+  s_5b002650df0863::t_6a1af7181616b2 26
+  s_5b002650df0863::t_6ed1d08a3d2a57 179-199
+apps/catalog/handlers/_presence.py
+  s_5b002650df0863::t_b09675a68f642b 1-57,60-85
+  s_5b002650df0863::t_51ac3e3779b975 58-59
+apps/catalog/migrations/0004_eventsourcepresence.py
+  s_5b002650df0863::t_b09675a68f642b 1-41
+apps/catalog/tests/test_promote_presence.py
+  s_5b002650df0863::t_3430bb842d25bf 1-26,29-69,71-233
+apps/catalog/registrations.py
+  s_5b002650df0863::t_985e11f062334d 1-24
+apps/catalog/tests/test_promoter_registry.py
+  s_5b002650df0863::t_b2b5239f5774d4 36-40,176,178,180,182,186,188,190,21,26,49-50,28,33,55,58,210,212
+  s_5b002650df0863::t_aad84bce2383cc 41,183,185,193,51
+  s_7c6c92400c7448::t_444ed4a67eefe4 42,59,68,24,29,52,57,19,47,34
+  s_5b002650df0863::t_e5a1068fc145b1 66-67,54,56
+  s_5b002650df0863::t_a20a6be81cee31 196-199,216-217,200,215,202-203
+  s_5b002650df0863::t_8e6127b2265ad1 209,208,214
+  s_5b002650df0863::t_6bb36eb8ce349b 211
+  s_5b002650df0863::t_5de9fe3697e3ca 53,43-46
+  s_5b002650df0863::t_695a5a434e139b 31-32
+REVIEW.md
+  s_5b002650df0863::t_17dfcd19c25803 43-44
+  s_5b002650df0863::t_91f22074c68087 45-46
+  s_5b002650df0863::t_c23f63e9b9b6fc 47-49
+  s_5b002650df0863::t_b9a1e4057de8ab 50
+  s_5b002650df0863::t_0b0d577d37bdf3 51-52
+  s_5b002650df0863::t_266517fd60e1d8 53-55
+apps/catalog/models.py
+  s_5b002650df0863::t_2ce24ac9365f40 547-548,551,556-558,571-572,574,577-578,581,588,596-598,603-605,611,614-615,618,628-630,640-641,643,652-653,656-691,697-710,712
+  s_3748ef8a5eb7ff::t_58b5037b54fd83 654,713
+  s_5b002650df0863::t_2e387130735e34 692-696
+apps/catalog/tests/test_registrations.py
+  s_5b002650df0863::t_15227a779887a2 1-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "01737336c27c52a143efac29365bb98b7be0a84d",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
