@@ -1,0 +1,63 @@
+apps/data/brella/tests/test_import_portal_brella.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 13-14,109-122,125,127-128,133
+  s_ffd92932362e87::t_a2812083f7a558 16-17
+  s_ffd92932362e87::t_377876c62e2401 108,123,129
+  s_ffd92932362e87::t_7fd454860af829 124,130-132,134
+  s_ffd92932362e87::t_f3eae30b3217a4 126
+traffic_adapters/adapters/brella.py
+  s_ffd92932362e87::t_2e561d8997e1fe 6,24
+apps/data/brella/tests/test_contracts.py
+  s_ffd92932362e87::t_f229b35eef12f6 23
+envelopes/brella/response.py
+  s_ffd92932362e87::t_237f04f72c2abd 44-45
+apps/data/brella/tests/test_app_registration.py
+  s_ffd92932362e87::t_f229b35eef12f6 14
+apps/data/brella/models.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 12-14,24-29
+  s_ffd92932362e87::t_adc907127472bb 45
+  s_ffd92932362e87::t_81106cf994482c 56,67,79,90,101,118,129,140,151,162,173,184,195,206,217,228,239,250,261,273,284,295,306,317,328,340,352,363,374,385,396,407,419,439
+apps/data/brella/transformers.py
+  s_ffd92932362e87::t_84783ce5dc50a4 14
+  s_ffd92932362e87::t_f9eb05431e011c 57-59,66,70-75,77
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 67-69,76,78-79,83-88,102,108-110,118
+apps/data/brella/sessions.py
+  s_ffd92932362e87::t_f229b35eef12f6 30
+apps/data/brella/management/commands/import_portal_brella.py
+  s_ffd92932362e87::t_f229b35eef12f6 36
+apps/data/brella/tests/test_sessions.py
+  s_ffd92932362e87::t_b5a4cac9925a9f 7
+  s_ffd92932362e87::t_f229b35eef12f6 13
+  s_ffd92932362e87::t_c1d775c6a9adb6 27
+scrapers/event_spiders/brella.py
+  s_ffd92932362e87::t_b89802f01c2ab2 14,24
+apps/data/brella/tests/test_response.py
+  s_ffd92932362e87::t_f229b35eef12f6 11
+apps/catalog/tests/test_promote_brella.py
+  s_ffd92932362e87::t_6c3c486ebed8d0 42,44
+envelopes/brella/versions.py
+  s_ffd92932362e87::t_2221989cba1429 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "e83b2d029942e2f3332c2c621b5d391f7aee2661",
+  "prompts": {},
+  "sessions": {
+    "s_03d4e22efd389d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eee70820-4840-46c0-ac73-0c0a42bab83f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

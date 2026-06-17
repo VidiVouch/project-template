@@ -1,0 +1,46 @@
+apps/data/grip/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67,87
+apps/data/yc_bookface/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67
+apps/data/expoplatform/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67,87,107,127
+apps/data/cadmium/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67,87,107,127,147,167,187,207,227,247,267,287,307,327
+apps/data/apify/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67
+apps/data/cvent/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67,87,107,127,147
+apps/data/play_store_listing/migrations/0001_initial.py
+  s_5b002650df0863::t_1eeea78842b2fd 2-26,28-37
+  s_ffd92932362e87::t_2a731b271fa2db 1,27
+apps/data/brella/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67,87,107,127,147,167,187,207,227,247,267,287,307,327,347,367,387,407,427,447,467,487,507,527,547,567,587,607,627,647,667,687
+apps/data/serper/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27
+apps/data/swapcard/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67,87,107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b967bf26fb4572b48eea00d2f43af03534a67bcf",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

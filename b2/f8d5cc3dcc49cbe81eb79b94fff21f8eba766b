@@ -1,0 +1,68 @@
+apps/data/swapcard/tests/test_app_registration.py
+  s_ffd92932362e87::t_5808e53421cad4 15
+apps/data/swapcard/tests/test_import_portal_swapcard.py
+  s_ffd92932362e87::t_5808e53421cad4 20
+scrapers/event_spiders/swapcard/swapcard.py
+  s_ffd92932362e87::t_3ecf1ea57a2af3 17
+  s_ffd92932362e87::t_d2338cd06536ea 29
+apps/data/swapcard/management/commands/import_portal_swapcard.py
+  s_ffd92932362e87::t_de8ca5e709568c 23-29
+  s_ffd92932362e87::t_3853a7b121355f 51
+apps/data/swapcard/tests/test_response.py
+  s_ffd92932362e87::t_5808e53421cad4 4
+apps/data/swapcard/tests/test_mapping.py
+  s_ffd92932362e87::t_961f526a1c9e02 6-7
+apps/data/swapcard/mapping.py
+  s_ffd92932362e87::t_3ab4879d493687 14
+  s_ffd92932362e87::t_a3de52442f1c36 31
+traffic_adapters/adapters/swapcard.py
+  s_ffd92932362e87::t_8146fc66cbe1b5 6
+  s_ffd92932362e87::t_da57589262dff4 33
+traffic_adapters/tests/test_swapcard.py
+  s_ffd92932362e87::t_98027dfaf18f7f 8
+apps/data/swapcard/models.py
+  s_ffd92932362e87::t_faa52818416ff9 43-49,55-56,58,68,70,83,95,108
+apps/catalog/tests/test_promote_swapcard.py
+  s_ffd92932362e87::t_5808e53421cad4 39-40
+  s_ffd92932362e87::t_fffcc769809fa4 42-44
+  s_ffd92932362e87::t_a17c5f89b0b9ec 69,74,79
+  s_ffd92932362e87::t_2ad8dc5417f7b5 124
+  s_ffd92932362e87::t_2ee6fff7371dcd 264
+  s_ffd92932362e87::t_d1c4a2120f9356 363,425
+apps/data/swapcard/tests/test_sessions.py
+  s_ffd92932362e87::t_e55645cafaffd2 11,13
+  s_ffd92932362e87::t_cb7190004cb9db 25
+apps/data/swapcard/sessions.py
+  s_ffd92932362e87::t_e6e0798ca9b013 31
+envelopes/swapcard/versions.py
+  s_ffd92932362e87::t_3ab48c9ce1921d 1-57
+scrapers/event_spiders/tests/test_swapcard_spider.py
+  s_ffd92932362e87::t_d6723f7b74a788 20
+apps/data/swapcard/transformers.py
+  s_ffd92932362e87::t_0d361b6e672388 40,64,72-76,82,93,101-102,110-111,119-120,128-129,137-138,146-147,154,162-163,171-172
+apps/data/capture/management/commands/import_portal_logins.py
+  s_ffd92932362e87::t_03c53ffdf32b7f 1-21,28-42,47-48,53-79,87-93
+  s_ffd92932362e87::t_f229b35eef12f6 24
+  s_ffd92932362e87::t_f3eae30b3217a4 43-46,49-52,80-86
+  s_ffd92932362e87::t_34aa047b513169 25
+  s_ffd92932362e87::t_6a3ebb63cb992a 26
+  s_ffd92932362e87::t_5808e53421cad4 27
+apps/data/swapcard/tests/test_contracts.py
+  s_ffd92932362e87::t_5808e53421cad4 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b2f8d5cc3dcc49cbe81eb79b94fff21f8eba766b",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

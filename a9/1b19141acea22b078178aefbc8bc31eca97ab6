@@ -1,0 +1,42 @@
+apps/catalog/promoters.py
+  s_5b002650df0863::t_c3f087f82a845b 41
+  s_5b002650df0863::t_f2884c44b56850 43
+  s_7c6c92400c7448::t_f11c65c481bc27 51,29,38
+  s_5b002650df0863::t_3f21ce7fbc8843 22
+  s_5b002650df0863::t_412c3cdade975f 30,32,34
+  s_5b002650df0863::t_9247efaace29fe 36-37
+  s_5b002650df0863::t_cdd3b144664d3b 46-47
+  s_5b002650df0863::t_a6e05ed7960f02 50
+apps/catalog/tests/test_promoter_registry.py
+  s_5b002650df0863::t_b2b5239f5774d4 25-26,28-29,158,160,162,16,21
+  s_5b002650df0863::t_aad84bce2383cc 30,165
+  s_7c6c92400c7448::t_444ed4a67eefe4 31,23,40
+  s_5b002650df0863::t_a20a6be81cee31 178-181,182
+  s_5b002650df0863::t_e5a1068fc145b1 38-39
+  s_5b002650df0863::t_8e6127b2265ad1 188,187
+  s_5b002650df0863::t_6bb36eb8ce349b 189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "a91b19141acea22b078178aefbc8bc31eca97ab6",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
