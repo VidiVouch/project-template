@@ -1,0 +1,77 @@
+apps/catalog/handlers/brella.py
+  s_ffd92932362e87::t_5039d6d2869513 127
+  s_ffd92932362e87::t_7d898615bdad31 172
+  s_ffd92932362e87::t_6cf2db89c4904c 226
+apps/catalog/tests/test_promote_event_participation.py
+  s_ffd92932362e87::t_bc686908acea91 19
+  s_ffd92932362e87::t_20ca33a4f854a1 130,134,137,141,144,148
+apps/catalog/tests/test_promote_event_participation_attendee.py
+  s_ffd92932362e87::t_0fa55db200a9b3 165,168
+  s_ffd92932362e87::t_e787204256ca29 23
+apps/catalog/handlers/apify.py
+  s_ffd92932362e87::t_bffd888e4b4380 317
+apps/catalog/tests/test_promote_event_organization_relationship.py
+  s_ffd92932362e87::t_8ec76243f6c2cf 195,198
+apps/catalog/handlers/swapcard.py
+  s_ffd92932362e87::t_f9343c40b91d6e 115
+  s_ffd92932362e87::t_7cdd14d07641d3 271
+  s_ffd92932362e87::t_a6b435997fea10 175
+  s_ffd92932362e87::t_5fbb205572d9f8 158
+apps/catalog/tests/test_promote_expoplatform.py
+  s_ffd92932362e87::t_64b1900432ba70 108
+  s_ffd92932362e87::t_5d86f58de8d361 228-230,234
+  s_ffd92932362e87::t_3a23002f39b932 205-207,211
+apps/catalog/tests/test_promote_employment.py
+  s_ffd92932362e87::t_c4f7f4aee198ee 96-97,100-101
+  s_ffd92932362e87::t_251830a8257965 23
+apps/catalog/handlers/grip.py
+  s_ffd92932362e87::t_51f5d529de7f95 138
+  s_ffd92932362e87::t_60b4060c343ab5 96
+apps/catalog/tests/test_promote_swapcard.py
+  s_ffd92932362e87::t_40533c21f5faee 120,123
+  s_ffd92932362e87::t_fdce4addab6278 288,292
+  s_ffd92932362e87::t_d3a23718b54e09 264
+  s_ffd92932362e87::t_bb50ea4c87ade3 409,413,416-417,425
+apps/catalog/handlers/cadmium/orgs.py
+  s_ffd92932362e87::t_10ae01950c2a34 120
+apps/catalog/handlers/cadmium/people.py
+  s_ffd92932362e87::t_7be44d4789d113 130
+  s_ffd92932362e87::t_a163c0ee0968b6 66
+  s_ffd92932362e87::t_9f36157f28405a 16
+apps/catalog/tests/test_promote_brella.py
+  s_ffd92932362e87::t_a59c7b31c59304 211
+  s_ffd92932362e87::t_43e3b922e3c92e 136
+  s_ffd92932362e87::t_3e04ccb0973bfc 346
+apps/catalog/tests/test_promote_event_participation_poster_presenter.py
+  s_ffd92932362e87::t_2a41c78c2fc8fa 31
+  s_ffd92932362e87::t_3b2025372abbf3 141,144
+apps/catalog/handlers/expoplatform.py
+  s_ffd92932362e87::t_d9e098c959e825 138
+  s_ffd92932362e87::t_124702601a862b 103
+  s_ffd92932362e87::t_d9ef934af8ab47 178
+apps/catalog/tests/test_promote_grip.py
+  s_ffd92932362e87::t_398d2feaa4bfaa 99,102
+  s_ffd92932362e87::t_f2ecd2bdba20df 179,183
+apps/catalog/tests/test_promote_event.py
+  s_ffd92932362e87::t_e06892731beafa 92,96,99,103
+  s_ffd92932362e87::t_d869343e421de4 25
+apps/catalog/handlers/cadmium/events.py
+  s_ffd92932362e87::t_76f158010f818c 24
+  s_ffd92932362e87::t_effbdd77d7c613 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "4b6303807c132b25e4c3f2486e8ee8d66a936257",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
