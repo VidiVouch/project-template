@@ -1,0 +1,70 @@
+apps/data/grip/sessions.py
+  s_5b002650df0863::t_d2b4c9ecb5e445 32-47,49-63
+scrapers/event_spiders/cvent/cvent_attendees.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 17,45
+apps/data/capture/management/commands/import_portal_logins.py
+  s_ffd92932362e87::t_03c53ffdf32b7f 1-21,28-42,47-48,53-79,87-93
+  s_ffd92932362e87::t_f229b35eef12f6 22
+  s_ffd92932362e87::t_f3eae30b3217a4 43-46,49-52,80-86
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-17,19,21-97,117-189,233-388
+  s_5b002650df0863::t_b2597b045e8439 98-116
+  s_5b002650df0863::t_4f7f6c8d24015e 190-232
+scrapers/event_spiders/swapcard/swapcard.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 8,36
+apps/data/grip/tests/test_import_portal_grip.py
+  s_5b002650df0863::t_6a1a44400da3f4 1-16,18-81,83-102
+  s_5b002650df0863::t_1381e36a765b3d 82
+scrapers/event_spiders/expoplatform.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 6,37
+apps/data/credentials/tests/test_drain.py
+  s_5b002650df0863::t_a901ac3ec70c4b 1-8,12,17-25,28,38-39,44-48,52-53,65-66,73-74,77-78,86-91,105-106,116-117,127-128,134-135,141-142,145-148,155-156,158-161,177-191,194-197,200-201,203-206,208,210,212-219,222-233,235
+  s_5b002650df0863::t_19e749b3c3e26e 35-36
+apps/data/grip/management/commands/import_portal_grip.py
+  s_5b002650df0863::t_6a1a44400da3f4 1-29,31-92
+apps/catalog/tests/test_promote_presence.py
+  s_5b002650df0863::t_3430bb842d25bf 1-23,25-27,35-75,77-239
+  s_5b002650df0863::t_aad84bce2383cc 24,240-249,251-292
+  s_ffd92932362e87::t_b7724e4497a316 30,33-34
+  s_ffd92932362e87::t_3c4f1b4bd56203 250
+apps/data/cadmium/tests/test_data_stats.py
+  s_ffd92932362e87::t_34aeea3cf70179 79-85,87,92-100
+  s_ffd92932362e87::t_921d55c6d3764f 86,88-91
+scrapers/event_spiders/brella.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 7,31
+traffic_adapters/adapters/grip_events.py
+  s_5b002650df0863::t_228d8e474b5bc9 11-13
+  s_5b002650df0863::t_165c59620abb7c 25
+  s_5b002650df0863::t_0f5bc2399cc0d1 105
+  s_5b002650df0863::t_08f00ad0e9394d 123
+  s_5b002650df0863::t_8283999229013f 139
+apps/catalog/handlers/cadmium/stats.py
+  s_5b002650df0863::t_b09675a68f642b 1-14,16-51
+apps/catalog/handlers/grip.py
+  s_5b002650df0863::t_4d079138e9c23f 42
+  s_5b002650df0863::t_c8fe746549a891 257-286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "58f4d8189e5e1e6b04166f9ac96f66405e02c04b",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
