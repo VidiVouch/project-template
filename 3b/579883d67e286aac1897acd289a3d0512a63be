@@ -1,0 +1,32 @@
+apps/catalog/handlers/cadmium/orgs.py
+  s_ffd92932362e87::t_9cf8ff23296983 54
+  s_ffd92932362e87::t_5472b70c3b0c4a 120
+apps/catalog/tests/test_promote_event_participation_attendee.py
+  s_ffd92932362e87::t_55696587223f86 23
+  s_ffd92932362e87::t_7b13cf9f80f95a 161,164
+apps/catalog/tests/test_promote_event_organization_relationship.py
+  s_ffd92932362e87::t_e0f29847649e71 196,199
+apps/catalog/tests/test_promote_event_participation.py
+  s_ffd92932362e87::t_43db5d763b6e69 131,135,138,142,145,149
+  s_ffd92932362e87::t_0137b6f6d96ac2 19
+apps/catalog/handlers/cadmium/people.py
+  s_ffd92932362e87::t_db214ca002a012 16
+  s_ffd92932362e87::t_ac5e164ff7e430 66
+  s_ffd92932362e87::t_6efaf8ce4300fd 130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "3b579883d67e286aac1897acd289a3d0512a63be",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
