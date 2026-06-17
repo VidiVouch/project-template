@@ -1,0 +1,26 @@
+.agents/hooks/enforce_uv.py
+  s_436db0b9f273b5::t_c110d801d7c97c 6-15,22-32,36,40-71,73-86,93-95
+  s_436db0b9f273b5::t_70538fcc0e3145 33-34,37-39
+  s_436db0b9f273b5::t_800f4c3324dc39 35
+  s_436db0b9f273b5::t_1552bad835c086 87-88
+tests/hooks/test_enforce_uv.py
+  s_436db0b9f273b5::t_3104f3ed433efb 1
+  s_436db0b9f273b5::t_19a40a13dcc9ba 118-161,163-168,172-180
+  s_436db0b9f273b5::t_800f4c3324dc39 162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "bc75092c7da3b1e84bf56103666f5e8e87a035bc",
+  "prompts": {},
+  "sessions": {
+    "s_436db0b9f273b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df36a678-6856-4688-9cb2-0172333cdeca",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
