@@ -1,0 +1,51 @@
+envelopes/xcd/versions.py
+  s_ffd92932362e87::t_dede6ebaa2f798 1-22
+apps/data/xcd/transformers.py
+  s_ffd92932362e87::t_4448d33eab537e 28-29
+  s_ffd92932362e87::t_2d5cc0ce357011 50
+apps/catalog/handlers/xcd.py
+  s_ffd92932362e87::t_714364b5ea3e2c 212
+  s_ffd92932362e87::t_ceba8612f2b09b 152
+  s_ffd92932362e87::t_a8d018792f0df9 105
+  s_ffd92932362e87::t_e401c41b6f8194 267
+config/settings/base.py
+  s_ffd92932362e87::t_e734e16cec42ac 115
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_a09b42601b7ab5 54-61
+  s_ffd92932362e87::t_090a5311e9bbe6 101-108
+  s_ffd92932362e87::t_1db2e34309ffc1 278-283
+apps/data/xcd/tests/test_models.py
+  s_ffd92932362e87::t_b172d110eedb27 15-16
+apps/data/xcd/models.py
+  s_ffd92932362e87::t_3b24f6f862a307 47
+apps/bootstrap.py
+  s_ffd92932362e87::t_fd3c915c24731a 95,98-110
+apps/catalog/tests/test_promote_xcd.py
+  s_ffd92932362e87::t_b4249902b73c4c 125-127
+  s_ffd92932362e87::t_3ef7053a0e3d2c 298-300
+  s_ffd92932362e87::t_639f827e15770a 51
+  s_ffd92932362e87::t_0037d797cb5eda 319-321
+  s_ffd92932362e87::t_b809c6c14d8426 306-308
+  s_ffd92932362e87::t_a3168f5f1b3548 240-242
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_0a4c84a77fb9a9 105-112
+  s_ffd92932362e87::t_d4de33979ea339 66-73
+  s_ffd92932362e87::t_dcb6ff2a09d7ab 125
+  s_ffd92932362e87::t_27cc89f72f0e05 146-150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "93865b85e48da6b516d17702248afc728f7829ab",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
