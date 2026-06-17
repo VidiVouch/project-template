@@ -1,0 +1,48 @@
+apps/data/apify/models.py
+  s_ffd92932362e87::t_5df78e322abb3c 51,70,92
+  s_ffd92932362e87::t_c77e8a9d7ef485 40
+apps/data/apify/tests/test_transformers.py
+  s_ffd92932362e87::t_caddd1f19bddcb 21
+envelopes/apify/versions.py
+  s_ffd92932362e87::t_2277242d1fac60 1-26
+apps/data/apify/tests/test_import_portal_apify.py
+  s_ffd92932362e87::t_caddd1f19bddcb 30
+apps/catalog/tests/test_promote_employment.py
+  s_ffd92932362e87::t_4d4ab68a387914 29
+apps/catalog/tests/test_promote_individual.py
+  s_ffd92932362e87::t_365fff99912d79 20-21
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_ffd92932362e87::t_bc3dd25d930375 18
+  s_ffd92932362e87::t_caddd1f19bddcb 20
+apps/data/apify/transformers.py
+  s_ffd92932362e87::t_b97dd2e1d0d150 57
+  s_ffd92932362e87::t_c4fd530b2159a7 162
+  s_ffd92932362e87::t_c3d8e8e5166493 23-24
+apps/data/apify/management/commands/import_portal_apify.py
+  s_ffd92932362e87::t_148745e665f605 36
+  s_ffd92932362e87::t_915e76266a4e25 18
+apps/data/apify/migrations/0002_alter_apifylinkedincompanyjsondata_version_and_more.py
+  s_ffd92932362e87::t_b74567e02c7f60 1-28
+apps/catalog/tests/test_promote_company.py
+  s_ffd92932362e87::t_03976316bca30d 18-19
+apps/data/apify/tests/test_app_registration.py
+  s_ffd92932362e87::t_caddd1f19bddcb 11
+apps/data/apify/tests/test_contracts.py
+  s_ffd92932362e87::t_caddd1f19bddcb 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "cd84cebb8505f4b2e7aca2acce39f549a104d04c",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

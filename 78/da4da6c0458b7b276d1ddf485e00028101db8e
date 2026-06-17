@@ -1,0 +1,85 @@
+apps/catalog/tests/test_promote_event_participation_poster_presenter.py
+  s_ffd92932362e87::t_d7adad94aff959 32-33
+apps/data/cadmium/tests/test_transformers.py
+  s_ffd92932362e87::t_6bf097ad369e21 25
+scrapers/event_spiders/cadmium.py
+  s_ffd92932362e87::t_c08aaee83a2f19 23
+  s_ffd92932362e87::t_e09e3352364114 57
+apps/catalog/tests/test_person_resolution.py
+  s_ffd92932362e87::t_d7adad94aff959 30-31
+apps/catalog/tests/test_promote_event_organization_relationship.py
+  s_ffd92932362e87::t_d7adad94aff959 21-22
+apps/catalog/tests/test_supervisor.py
+  s_ffd92932362e87::t_d7adad94aff959 18-19
+apps/data/cadmium/models.py
+  s_ffd92932362e87::t_0f1883a2cace89 63,75,87,106,124,141,152,175,190,201,212,223,234,245,256,271
+  s_ffd92932362e87::t_9a8f20e977deb0 54
+apps/data/cadmium/migrations/0002_alter_cadmiumappuserjsondata_version_and_more.py
+  s_ffd92932362e87::t_c8cf6a3f9e0983 1-93
+apps/data/cadmium/tests/test_data_stats.py
+  s_ffd92932362e87::t_d7adad94aff959 17-18
+apps/catalog/tests/test_claim_bridge_ledgering.py
+  s_ffd92932362e87::t_d7adad94aff959 16-17
+apps/catalog/handlers/cadmium/stats.py
+  s_ffd92932362e87::t_e09e3352364114 15
+apps/catalog/tests/test_employment_from_participation.py
+  s_ffd92932362e87::t_d7adad94aff959 25-26
+apps/data/cadmium/transformers.py
+  s_ffd92932362e87::t_d620cd6cb8d813 42-43
+  s_ffd92932362e87::t_e589c083b3c77c 67,217
+  s_ffd92932362e87::t_54a3a5427c46cd 59
+envelopes/cadmium/versions.py
+  s_ffd92932362e87::t_e8a3add9637419 1-27
+apps/catalog/tests/test_promote_event_participation_attendee.py
+  s_ffd92932362e87::t_066bb357007d5e 25
+  s_ffd92932362e87::t_6bf097ad369e21 24
+apps/catalog/tests/test_resident.py
+  s_ffd92932362e87::t_d7adad94aff959 31-32
+apps/catalog/tests/test_throughput_tripwires.py
+  s_ffd92932362e87::t_d7adad94aff959 27-28
+apps/catalog/tests/test_promote_event.py
+  s_ffd92932362e87::t_d7adad94aff959 25-26
+apps/catalog/tests/test_promote_presence.py
+  s_ffd92932362e87::t_6bf097ad369e21 31
+  s_ffd92932362e87::t_d7adad94aff959 28
+apps/data/cadmium/management/commands/import_portal_cadmium.py
+  s_ffd92932362e87::t_6bf097ad369e21 24
+apps/catalog/tests/test_cadmium_batch.py
+  s_ffd92932362e87::t_401dd272c13e62 45
+apps/catalog/tests/test_promote_pipeline.py
+  s_ffd92932362e87::t_d7adad94aff959 10-11
+tests/eval/harness.py
+  s_ffd92932362e87::t_cf4414863883a9 44
+apps/catalog/tests/test_promote_event_participation.py
+  s_ffd92932362e87::t_d7adad94aff959 20-21
+apps/catalog/tests/test_resolution_goldens.py
+  s_ffd92932362e87::t_d7adad94aff959 49-50
+apps/catalog/tests/test_reset_processed.py
+  s_ffd92932362e87::t_d7adad94aff959 25-26
+apps/data/cadmium/tests/test_models.py
+  s_ffd92932362e87::t_6bf097ad369e21 28
+apps/data/cadmium/tests/test_app_registration.py
+  s_ffd92932362e87::t_6bf097ad369e21 20
+apps/catalog/tests/test_resident_turbo.py
+  s_ffd92932362e87::t_d7adad94aff959 14-15
+apps/data/cadmium/tests/test_contracts.py
+  s_ffd92932362e87::t_6bf097ad369e21 21
+apps/catalog/tests/test_promote_unprocessed.py
+  s_ffd92932362e87::t_d7adad94aff959 27-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "78da4da6c0458b7b276d1ddf485e00028101db8e",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
