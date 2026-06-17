@@ -1,0 +1,24 @@
+assets/css/source.css
+  s_062b4d28690cee::t_b7261559f8b024 253-258,264,272-280,287,297-299,301,309,311-312,333,363-365,400-401,462-463,481-482,574,1408-1414
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "0d80b9096e80342a94ca488384dd1cfc09af09c8",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
