@@ -1,0 +1,20 @@
+apps/catalog/tests/test_promote_event_participation_poster_presenter.py
+  s_ffd92932362e87::t_b366b3e2ae1963 142,145
+  s_ffd92932362e87::t_c35e0c63d8805e 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "216ee9e7e4b9cdb92d8d2bc921861b4200c4234b",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
