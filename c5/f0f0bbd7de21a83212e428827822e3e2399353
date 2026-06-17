@@ -1,0 +1,45 @@
+templates/mfa/recovery_codes/index.html
+  s_062b4d28690cee::t_6d6b42b176bc55 1-53
+templates/account/email.html
+  s_062b4d28690cee::t_54aa9d5e2a6df9 13
+  s_062b4d28690cee::t_4e7b1b29cb9461 1-12,14-66
+assets/css/source.css
+  s_062b4d28690cee::t_03fd3a7ccd99fe 1450-1520,1552-1574
+  s_062b4d28690cee::t_65120bb65bcc16 1537-1551
+  s_062b4d28690cee::t_9ac3accbec53db 1521-1536
+apps/identity/admin.py
+  s_062b4d28690cee::t_4d86a2903570f2 118-121
+  s_062b4d28690cee::t_a0fc199900c18a 196
+  s_062b4d28690cee::t_bfdeb585b6ffe7 189,197-199
+  s_062b4d28690cee::t_d09715fa32a70b 190-195
+apps/identity/views.py
+  s_062b4d28690cee::t_b31ca30eddd269 7
+  s_062b4d28690cee::t_44e7983b3507e2 391-406
+templates/allauth/elements/img.html
+  s_062b4d28690cee::t_4d38430e6e95bb 1-6
+apps/identity/urls.py
+  s_062b4d28690cee::t_79c72058e10480 49
+  s_062b4d28690cee::t_5c056311fbe332 22
+  s_062b4d28690cee::t_aaa5df2dadb3a5 47-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c5f0f0bbd7de21a83212e428827822e3e2399353",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
