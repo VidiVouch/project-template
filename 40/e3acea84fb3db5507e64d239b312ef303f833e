@@ -1,0 +1,26 @@
+apps/data/expoplatform/sessions.py
+  s_ffd92932362e87::t_d4b6445f2d0608 29-33
+  s_ffd92932362e87::t_817cdc884e8659 49,53,55-64,66-67,70-72
+traffic_adapters/adapters/expoplatform.py
+  s_ffd92932362e87::t_0d3154a2609b78 1-29,37,40,46-55,57-59,63,65,70,78-87,89,93-168,170,172-181,183-190,192-193,195-196,200,202-204,209-211,213-224,228,231-234
+scrapers/event_spiders/expoplatform.py
+  s_ffd92932362e87::t_9fe3ffa737ae8a 1-42,63-67,69-73,77,80,84,94-95,99-103,110-112,119-121,125-131,133-153,158-161,163-164,168-171,173-180,182-183,185-188,190,195,197,199,201,205-211,213-224,226-229,231-232,234-243,245,247-259,261-262,265,267-280,282-305,309,312-313,317,320-334,336-337,339-393
+apps/data/expoplatform/tests/test_sessions.py
+  s_ffd92932362e87::t_0befda864a33e0 36-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "40e3acea84fb3db5507e64d239b312ef303f833e",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
