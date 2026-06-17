@@ -1,0 +1,72 @@
+tests/architecture/test_bigint_boundary.py
+  s_5b002650df0863::t_a4e4bd34f44f66 1-5,11-29,32-33,44-48,55-80,102-106
+  s_5b002650df0863::t_0a547348905c66 6-10,34-36,40-43,49-54,81-101,124-128,130
+  s_5b002650df0863::t_e88d01f840ed9f 37-39
+  s_5b002650df0863::t_d5d5aeff01c127 30
+tests/architecture/test_rls_via_operation.py
+  s_5b002650df0863::t_4f152f3f97db34 1-6,8-12,22-23,26-27,29-35,37,41,47-54,58
+  s_5b002650df0863::t_2e630a9e5f3913 7,13-21,24-25,28,36,38-40,42-46,55-57,59-68,70
+apps/identity/tests/test_canonical_email.py
+  s_5b002650df0863::t_62824de019117c 1-64,66-157
+apps/domains/domain/registry.py
+  s_5b002650df0863::t_f7eececb5e17c9 1-17,19-288,292
+  s_5b002650df0863::t_c9e8a6be7bd938 289-291
+CLIENT_VISIBILITY_INTERVIEW.html
+  s_3748ef8a5eb7ff::t_26c41e0f1bbe5f 814
+apps/catalog/identity/emails.py
+  s_5b002650df0863::t_f7eececb5e17c9 7-13,18-35,38-48,102-110,118,120-122,137-138
+REVIEW.md
+  s_5b002650df0863::t_17dfcd19c25803 43-44
+  s_5b002650df0863::t_91f22074c68087 45-46
+  s_5b002650df0863::t_c23f63e9b9b6fc 47-49
+  s_5b002650df0863::t_b9a1e4057de8ab 50
+  s_5b002650df0863::t_0b0d577d37bdf3 51-52
+  s_5b002650df0863::t_266517fd60e1d8 53-55
+apps/catalog/tests/test_emails.py
+  s_5b002650df0863::t_06db70d86c2b01 82-83,85-86
+  s_5b002650df0863::t_39192360623f5e 99
+apps/domains/domain/providers.py
+  s_5b002650df0863::t_f7eececb5e17c9 1-26,28-63
+apps/domains/tests/test_registry.py
+  s_5b002650df0863::t_f7eececb5e17c9 1-56,58-148,150-167
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_5b002650df0863::t_739f9474d0439c 1,23,28-31,42-45,55,57,59,67-68,102-107,109,114-122
+apps/domains/tests/test_services.py
+  s_5b002650df0863::t_f7eececb5e17c9 1-77,79-103,105-261,271-343
+  s_5b002650df0863::t_33920c8654dcbb 262-270
+config/settings/base.py
+  s_5b002650df0863::t_4b47bc34478b19 66,118-119,149,151-152,173-176,245-246,253-256,266-268,279-281,297-298,310-311,315-316,320-321,335,424,429-431,435-436,440-444,448-452,473-474,485-490,513-514,491,348,437
+  s_5b002650df0863::t_aad84bce2383cc 97-98,103,105
+  s_5b002650df0863::t_7b601b147a8e02 110,114-115,111
+  s_5b002650df0863::t_b82f85f3ae94eb 147-148,150,163,113,160,162
+  s_5b002650df0863::t_80dd0c6d11f722 155-158,229-230,332-334,338-340,432-434,548
+  s_5b002650df0863::t_90400a7abda1ff 341,512,109,549-552,498-501,511,354-355,359,361-362,374-375,380-381,391-392,413,423,347
+  s_5b002650df0863::t_63b7ed74f23be4 425-428
+  s_5b002650df0863::t_a58725b59d4b17 102
+  s_5b002650df0863::t_5804aba2648a0d 553-557
+  s_5b002650df0863::t_7dc34e1fe62abe 108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "f669445bd0e7cec526d03bd9b5414cd724a9bc1c",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

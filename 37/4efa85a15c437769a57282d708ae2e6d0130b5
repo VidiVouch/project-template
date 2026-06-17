@@ -1,26 +1,37 @@
-envelopes/cadmium/versions.py
-  s_ffd92932362e87::t_e8a3add9637419 1-27
-apps/data/cadmium/migrations/0001_initial.py
-  s_ffd92932362e87::t_022fbf00e3e29d 1-327
-config/settings/base.py
-  s_5b002650df0863::t_aad84bce2383cc 92
-apps/data/cadmium/models.py
-  s_ffd92932362e87::t_0f1883a2cace89 63-271
-  s_ffd92932362e87::t_9a8f20e977deb0 54
-apps/bootstrap.py
-  s_5b002650df0863::t_e245d029f0edc3 56,60-61
-  s_5b002650df0863::t_aad84bce2383cc 57
-  s_5b002650df0863::t_ddca3c96e7ae2c 58
 apps/data/cadmium/tests/test_app_registration.py
   s_ffd92932362e87::t_6bf097ad369e21 20
-apps/data/cadmium/tests/test_models.py
-  s_ffd92932362e87::t_6bf097ad369e21 28
-apps/data/cadmium/transformers.py
-  s_ffd92932362e87::t_e589c083b3c77c 67-217
-  s_ffd92932362e87::t_54a3a5427c46cd 59
-  s_ffd92932362e87::t_d620cd6cb8d813 42-43
+apps/bootstrap.py
+  s_5b002650df0863::t_e245d029f0edc3 46-47,56,60-61,63-65,71-72,74-75
+  s_5b002650df0863::t_0b0d577d37bdf3 50
+  s_5b002650df0863::t_08566a2df15b56 54-55
+  s_5b002650df0863::t_aad84bce2383cc 57
+  s_5b002650df0863::t_ddca3c96e7ae2c 58,73
+  s_5b002650df0863::t_a5014b183df652 62
+  s_5b002650df0863::t_d2994d49d50947 66-67,76-77
+  s_5b002650df0863::t_95bbf6ddcd5ec1 70
+apps/data/cadmium/models.py
+  s_ffd92932362e87::t_9a8f20e977deb0 54
+  s_ffd92932362e87::t_0f1883a2cace89 63,75,87,106,124,141,152,175,190,201,212,223,234,245,256,271
 apps/data/cadmium/tests/test_transformers.py
   s_ffd92932362e87::t_6bf097ad369e21 25
+apps/data/cadmium/transformers.py
+  s_ffd92932362e87::t_d620cd6cb8d813 42-43
+  s_ffd92932362e87::t_54a3a5427c46cd 59
+  s_ffd92932362e87::t_e589c083b3c77c 67,217
+apps/data/cadmium/tests/test_models.py
+  s_ffd92932362e87::t_6bf097ad369e21 28
+config/settings/base.py
+  s_5b002650df0863::t_4b47bc34478b19 66,99-100,130,132-133,148-151,220-221,228-231,241-243,254-256,272-273,285-286,290-291,295-296,310,316,321-323,327-333,337-341,362-363,374-379,381-382
+  s_5b002650df0863::t_aad84bce2383cc 92-93
+  s_5b002650df0863::t_7b601b147a8e02 94-96
+  s_5b002650df0863::t_b82f85f3ae94eb 128-129,131,141
+  s_5b002650df0863::t_80dd0c6d11f722 136-139,204-205,307-309,312-314,324-326,397
+  s_5b002650df0863::t_90400a7abda1ff 315,380
+  s_5b002650df0863::t_63b7ed74f23be4 317-320
+apps/data/cadmium/migrations/0001_initial.py
+  s_ffd92932362e87::t_2a731b271fa2db 1,27,47,67,87,107,127,147,167,187,207,227,247,267,287,307,327
+envelopes/cadmium/versions.py
+  s_ffd92932362e87::t_e8a3add9637419 1-27
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -42,7 +53,7 @@ apps/data/cadmium/tests/test_transformers.py
         "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
         "model": "claude-opus-4-8"
       },
-      "human_author": null
+      "human_author": "Tom Price <tom@tomprice.ca>"
     }
   }
 }
