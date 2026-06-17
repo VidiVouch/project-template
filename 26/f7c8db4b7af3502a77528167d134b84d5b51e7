@@ -1,0 +1,57 @@
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_d2551940e3b056 37-42
+  s_ffd92932362e87::t_b28428a9801428 90-95
+  s_ffd92932362e87::t_32798e54ff1df9 263-266
+apps/catalog/handlers/eventpilot.py
+  s_ffd92932362e87::t_27649ffe495aa7 143
+  s_ffd92932362e87::t_11166c7bad330d 197
+apps/data/eventpilot/tests/test_import_portal_eventpilot.py
+  s_ffd92932362e87::t_b6898eb5e2dedd 18-19
+pyproject.toml
+  s_ffd92932362e87::t_a2a1f995715453 38
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_ea401817e68750 94-99
+  s_ffd92932362e87::t_424ee4f0123dab 118
+  s_ffd92932362e87::t_b1ef75c958ed19 49-54
+  s_ffd92932362e87::t_3f98fe4a9d7d49 134-136
+apps/data/eventpilot/mapping.py
+  s_ffd92932362e87::t_95735f63f4f722 36-52
+  s_ffd92932362e87::t_55dad7a38a6324 28
+apps/bootstrap.py
+  s_ffd92932362e87::t_15dee3e325a67a 90,98-108,110
+apps/data/eventpilot/tests/test_models.py
+  s_ffd92932362e87::t_6862e9dee5c046 27-30,33
+  s_ffd92932362e87::t_d90b37038b603a 7-9
+  s_ffd92932362e87::t_b21bb8b1c6b700 32
+apps/data/eventpilot/transformers.py
+  s_ffd92932362e87::t_1c71d2008112db 50
+  s_ffd92932362e87::t_378f12e48bdf26 31-32
+apps/catalog/tests/test_promote_eventpilot.py
+  s_ffd92932362e87::t_e59aa570a23b42 40
+envelopes/eventpilot/versions.py
+  s_ffd92932362e87::t_df48bfb08b1832 1-23
+apps/data/eventpilot/models.py
+  s_ffd92932362e87::t_b6f44cd452c240 43-117
+  s_ffd92932362e87::t_aabd86c8c3e1a8 33
+config/settings/base.py
+  s_ffd92932362e87::t_924e8b1d0c6375 110
+apps/data/eventpilot/tests/test_mapping.py
+  s_ffd92932362e87::t_fff99fe936951e 15-18
+  s_ffd92932362e87::t_dc2fb2aad24d34 47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "26f7c8db4b7af3502a77528167d134b84d5b51e7",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
