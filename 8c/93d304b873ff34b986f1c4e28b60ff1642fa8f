@@ -1,0 +1,32 @@
+assets/css/source.css
+  s_062b4d28690cee::t_cd1f8ac07de861 1202-1208
+  s_062b4d28690cee::t_c957465c56b672 1315,1324
+templates/demo/staff_upload.html
+  s_062b4d28690cee::t_d04ea56748b2c1 27
+  s_062b4d28690cee::t_fde6a237891c48 40
+templates/intake/conference_requests.html
+  s_062b4d28690cee::t_7eeed8a15289c8 50
+templates/sales/icp_profile_detail.html
+  s_062b4d28690cee::t_e4da6bde896807 40-43
+  s_062b4d28690cee::t_2b337b91b94942 56-63
+templates/sales/icp_profiles.html
+  s_062b4d28690cee::t_e41abc83953cff 40-49
+templates/intake/share_access.html
+  s_062b4d28690cee::t_b9b40b30610f3f 45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8c93d304b873ff34b986f1c4e28b60ff1642fa8f",
+  "prompts": {},
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
