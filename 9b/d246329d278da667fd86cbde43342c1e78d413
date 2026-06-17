@@ -1,0 +1,62 @@
+tests/architecture/test_collection_layer_django_free.py
+  s_ffd92932362e87::t_78734bd5ec4cba 78-102
+  s_ffd92932362e87::t_0f9ebe301002d5 51-54
+apps/data/base/models/abstract_models.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 228-237,279-292,351-368,374-375,381,394,498-520
+apps/data/base/tests/conftest.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 15,38,45
+apps/data/base/tests/models.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 17-26,61-77
+apps/data/capture/services.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 204,284
+pyproject.toml
+  s_ffd92932362e87::t_7f071671cd6b45 90
+scrapers/pipelines.py
+  s_ffd92932362e87::t_1c6a2ec1795609 66-71,77,85
+envelopes/__init__.py
+  s_ffd92932362e87::t_9335cb5c3d6814 1-4
+  s_ffd92932362e87::t_cb156bf6d3f9f7 5-17
+apps/data/base/models/__init__.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 10,14,26,30
+apps/data/base/tests/test_abstract_models.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 57-90
+apps/data/capture/dtos.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 47,65
+apps/data/capture/tests/test_services.py
+  s_ffd92932362e87::t_07790050123104 90-91
+apps/data/capture/management/commands/transform_unprocessed.py
+  s_ffd92932362e87::t_06311192bec0a3 140
+envelopes/_versioning.py
+  s_ffd92932362e87::t_9fb96b9aa82618 1-15,17-30,32-42,44-52
+  s_ffd92932362e87::t_96e73aff29b849 16
+  s_ffd92932362e87::t_b9b1c23c81b0fe 31
+  s_ffd92932362e87::t_35d863f823d575 43
+apps/data/capture/management/commands/import_portal_logins.py
+  s_ffd92932362e87::t_03c53ffdf32b7f 1-26,28-42,47-48,53-79,87-93
+  s_ffd92932362e87::t_f229b35eef12f6 27
+  s_ffd92932362e87::t_f3eae30b3217a4 43-46,49-52,80-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "9bd246329d278da667fd86cbde43342c1e78d413",
+  "prompts": {},
+  "sessions": {
+    "s_03d4e22efd389d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eee70820-4840-46c0-ac73-0c0a42bab83f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
