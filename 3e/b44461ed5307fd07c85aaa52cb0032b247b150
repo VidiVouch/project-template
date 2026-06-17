@@ -1,0 +1,52 @@
+config/settings/base.py
+  s_e56ce2b58a8c83::t_4da93f89f50813 241-243
+templates/account/password_reset_done.html
+  s_062b4d28690cee::t_f201124cbd7fc3 1-51
+assets/css/source.css
+  s_062b4d28690cee::t_f977174a1fd901 1204,1225-1231,1236-1237,1239-1251,1253,1267-1269,1300-1305
+  s_062b4d28690cee::t_1482ca894c5d0c 1209-1211,1222,1238,1252
+  s_e56ce2b58a8c83::t_4da93f89f50813 1272-1273,1306-1307,1203,1205-1208,1212-1221,1223-1224,1232-1235,1263-1266,1274-1275,1277-1290,1292-1297,1299,1308-1319,1321-1326,1328-1329,1331-1341,1343-1349,1351-1356,1358-1372,1374,1376-1382,1384-1387,1389-1390,1392-1403
+  s_062b4d28690cee::t_40e5af4a169a80 1410-1411,1276,1291,1298,1327,1330,1342,1350,1357,1373,1375,1383,1388,1391,1404
+  s_062b4d28690cee::t_220d7253be5c99 1405-1409
+assets/js/auth-login.js
+  s_062b4d28690cee::t_f201124cbd7fc3 1-19
+templates/socialaccount/snippets/provider_list.html
+  s_062b4d28690cee::t_f201124cbd7fc3 1-44
+templates/socialaccount/snippets/login.html
+  s_062b4d28690cee::t_f201124cbd7fc3 1-23
+templates/account/login.html
+  s_062b4d28690cee::t_f201124cbd7fc3 1-104
+apps/identity/forms.py
+  s_062b4d28690cee::t_ac88c940c68986 15-19
+  s_062b4d28690cee::t_75f469508653a9 254-261,263-264,266-269
+  s_062b4d28690cee::t_f201124cbd7fc3 270,293
+  s_e56ce2b58a8c83::t_4da93f89f50813 6,12,271-292
+templates/allauth/layouts/base.html
+  s_e56ce2b58a8c83::t_4da93f89f50813 63,67-71,73-75
+apps/identity/tests/test_auth_ui.py
+  s_062b4d28690cee::t_f201124cbd7fc3 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "3eb44461ed5307fd07c85aaa52cb0032b247b150",
+  "prompts": {},
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_e56ce2b58a8c83": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "03ab4183-9002-4a4d-8992-a34ef77a54f9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

@@ -1,0 +1,19 @@
+.claude/settings.json
+  s_f2ae29216c779d::t_c9787d3ec0b532 87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "21153de601b7b6007435aa60c2a0cd3c284c01c6",
+  "prompts": {},
+  "sessions": {
+    "s_f2ae29216c779d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0e7dc62-2568-46bc-a283-87f8b657a04a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

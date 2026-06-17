@@ -1,0 +1,72 @@
+apps/data/capture/management/commands/data_stats.py
+  s_de12f9f5f890aa::t_d933ed3e6b3e77 29-39
+  s_de12f9f5f890aa::t_3cd1706bc56119 45-46,53,57,62
+  s_de12f9f5f890aa::t_ec390c1405cf29 73-87
+  s_de12f9f5f890aa::t_f1418704a984d1 88-117
+  s_de12f9f5f890aa::t_2336d2b590db31 185-195
+  s_de12f9f5f890aa::t_927cbbf07597ca 198
+  s_de12f9f5f890aa::t_d1a1f1feb72067 199-222,225-231,233,235-236,238,240,242-245,247-269,272,288-298,300-303,305-311
+  s_de12f9f5f890aa::t_e63f86bdb0ec0c 234
+  s_de12f9f5f890aa::t_8d2c192592bbe9 246
+  s_de12f9f5f890aa::t_de508407b2fec1 270
+  s_de12f9f5f890aa::t_a742212981536a 271,273,275-286,299
+  s_de12f9f5f890aa::t_d3771ef9b9e825 274
+  s_de12f9f5f890aa::t_899490d8171c02 287
+  s_de12f9f5f890aa::t_e3db9153e7e9a2 304
+  s_de12f9f5f890aa::t_ad9546857a5d1a 313
+  s_de12f9f5f890aa::t_0ce01a370cba82 339,353-360
+  s_de12f9f5f890aa::t_65b6ed6b7e53be 365,373,379-380,394,397-402,405
+  s_de12f9f5f890aa::t_a81830c3932f48 404
+  s_de12f9f5f890aa::t_f668225ad2e247 429-431,437,445-447,461-463,465-468
+  s_de12f9f5f890aa::t_1040508d01c96b 464
+apps/mapping_tool/templates/mapping_tool/_source_rows.html
+  s_de12f9f5f890aa::t_64b7e0d90fb06c 1-25
+apps/data/capture/models.py
+  s_de12f9f5f890aa::t_a30853900702fd 56
+  s_de12f9f5f890aa::t_7e792f4dffa35d 192-248
+apps/mapping_tool/templates/mapping_tool/_provenance.html
+  s_de12f9f5f890aa::t_6314cf518a3895 1-2
+apps/mapping_tool/views.py
+  s_de12f9f5f890aa::t_eb5af1e28a93f2 43-49,58,61,66,68-75
+  s_de12f9f5f890aa::t_882a23d25769aa 67
+apps/mapping_tool/templates/mapping_tool/editor.html
+  s_de12f9f5f890aa::t_8e6209aa9a1613 217,219-220,222-233,235-239,241-265,267-268,270-276,278-295,297-298,300-304,306-308
+apps/mapping_tool/urls.py
+  s_de12f9f5f890aa::t_4d2a3cd6873bbf 12
+apps/mapping_tool/templates/mapping_tool/_source_keys.html
+  s_de12f9f5f890aa::t_7e295bef91c053 1-7
+apps/mapping_tool/templates/mapping_tool/dashboard.html
+  s_de12f9f5f890aa::t_2600d59afdb9ab 1-8,10-26,28-29,31-36,38,42,44,46,66-67
+apps/mapping_tool/templatetags/mapping_tool_extras.py
+  s_de12f9f5f890aa::t_7d08929a3734c9 1-22
+apps/mapping_tool/discovery.py
+  s_de12f9f5f890aa::t_287feb23d2cb5f 26
+  s_de12f9f5f890aa::t_5701a9ca5c3f18 85-89,93
+  s_de12f9f5f890aa::t_8d955a15635e68 128,130-157,163-167,169-173
+  s_de12f9f5f890aa::t_16010d2e998045 129
+  s_de12f9f5f890aa::t_6a9e55075a5c84 197
+apps/staff/templates/staff/index.html
+  s_de12f9f5f890aa::t_d102da21fffbbd 1-7,9-20,22-24,26-30,35,38,58-59
+apps/jobs/apps.py
+  s_de12f9f5f890aa::t_a71d8ca927fc04 4-5,7
+  s_de12f9f5f890aa::t_a3b240af568ce7 67-87
+apps/data/base/stats.py
+  s_de12f9f5f890aa::t_15798d43f3f348 55,57,60-68,70-77
+  s_de12f9f5f890aa::t_6244caab207e9a 56,58-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "cd0d8ee6fa4800427b05dd7c0337af1df4fab40d",
+  "prompts": {},
+  "sessions": {
+    "s_de12f9f5f890aa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb8f5909-cdf3-4b7e-88e0-4f5d5839886e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
