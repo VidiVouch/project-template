@@ -1,0 +1,35 @@
+assets/css/source.css
+  s_062b4d28690cee::t_17f4b1b9782331 1478
+  s_062b4d28690cee::t_615c22022f42e3 1479
+  s_062b4d28690cee::t_639c52d59a21ec 1491-1495
+  s_062b4d28690cee::t_91d25becce2b00 1507,1509,1604,1502
+  s_062b4d28690cee::t_23492d273e762c 1516,1518-1521,1515,1517,1523-1525
+  s_062b4d28690cee::t_1ece03125ac59b 1522,1535,1527-1528,1530-1532
+  s_062b4d28690cee::t_d34ed472d88cfc 1579-1586,1529,1533,1587,1589-1602,1607-1608,215
+  s_062b4d28690cee::t_38f4efd2575d99 1620-1623,1626,1637,1526,1534,1588,1503
+  s_062b4d28690cee::t_863259eed10c61 1123-1130,1146-1147
+  s_062b4d28690cee::t_0ca84801fd8262 1216-1227,1237-1243
+  s_062b4d28690cee::t_eeccc8572792a1 209-214
+templates/mfa/index.html
+  s_062b4d28690cee::t_97aa7efd9c0998 1-8,10-13,22-35,40-58,63-92,19-21
+  s_062b4d28690cee::t_0a3ac3db79effc 9,14-16
+  s_062b4d28690cee::t_25013f3414de50 36,38,59,61-62
+  s_062b4d28690cee::t_5a7d4e365ab0f0 39
+  s_062b4d28690cee::t_0fed13c78c039e 17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "ea8bb9597c944f52dfdf6b372f6de2a6e28891f8",
+  "prompts": {},
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
