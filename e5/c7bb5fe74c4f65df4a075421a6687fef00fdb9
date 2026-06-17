@@ -1,0 +1,19 @@
+apps/data/cadmium/tests/test_import_portal_cadmium_e2e.py
+  s_3748ef8a5eb7ff::t_c49a8b4e45c316 64-67,71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "e5c7bb5fe74c4f65df4a075421a6687fef00fdb9",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
