@@ -1,0 +1,31 @@
+templates/mfa/index.html
+  s_062b4d28690cee::t_25013f3414de50 59,61-62
+  s_062b4d28690cee::t_5a7d4e365ab0f0 36,38-39
+  s_062b4d28690cee::t_0a3ac3db79effc 9,14-20
+apps/identity/tests/test_gz_forms.py
+  s_062b4d28690cee::t_2bec5ce75cbe98 1-28
+apps/identity/templatetags/gz_forms.py
+  s_062b4d28690cee::t_92adc0400d9f7f 17-18
+  s_062b4d28690cee::t_3d4219c4abe746 42-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "aa71f26cc88ca793378529b7d0b0af4d7d9929b7",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
