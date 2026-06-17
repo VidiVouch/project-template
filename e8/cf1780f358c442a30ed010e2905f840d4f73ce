@@ -1,0 +1,31 @@
+assets/js/email-actions.js
+  s_062b4d28690cee::t_fa54c84f0f3a14 1-23
+assets/css/source.css
+  s_062b4d28690cee::t_0bc4fe7a912e87 1116-1122,1138-1139
+  s_062b4d28690cee::t_1ece03125ac59b 1498-1506
+templates/account/email.html
+  s_062b4d28690cee::t_0acbd0d3813984 41-42
+  s_062b4d28690cee::t_16897025e79bc8 68
+  s_062b4d28690cee::t_e736f6eb9b33e7 26-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "e8cf1780f358c442a30ed010e2905f840d4f73ce",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
