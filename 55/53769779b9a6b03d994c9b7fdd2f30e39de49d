@@ -1,0 +1,26 @@
+templates/base.html
+  s_062b4d28690cee::t_b7261559f8b024 52
+templates/identity/invite_invalid.html
+  s_062b4d28690cee::t_b7261559f8b024 1,3-8,10-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "5553769779b9a6b03d994c9b7fdd2f30e39de49d",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
