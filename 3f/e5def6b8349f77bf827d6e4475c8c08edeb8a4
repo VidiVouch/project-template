@@ -1,0 +1,45 @@
+config/settings/base.py
+  s_ffd92932362e87::t_9931d28c800471 112
+apps/data/jublia/transformers.py
+  s_ffd92932362e87::t_f6559ad66b669d 39
+  s_ffd92932362e87::t_2bb921c9773e40 20-21
+envelopes/jublia/versions.py
+  s_ffd92932362e87::t_da06950339c9fd 1-22
+apps/catalog/tests/test_promote_jublia.py
+  s_ffd92932362e87::t_816c3166dcdad1 106
+  s_ffd92932362e87::t_e402c21b5f3e11 32
+  s_ffd92932362e87::t_b945dce64199c5 167
+apps/bootstrap.py
+  s_ffd92932362e87::t_13ead27a233682 92,98-110
+apps/data/jublia/models.py
+  s_ffd92932362e87::t_75ab2dc4f29e66 33
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_d8414538b9013c 114
+  s_ffd92932362e87::t_47dde79a0d6911 132-133
+  s_ffd92932362e87::t_4cb5e54cfa8d8f 95
+  s_ffd92932362e87::t_0fd7c11f637fcc 59-63
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_8adca4b50e3a84 91
+  s_ffd92932362e87::t_87a865551cd06e 263-265
+  s_ffd92932362e87::t_fe0a60f479b41b 47-51
+apps/catalog/handlers/jublia.py
+  s_ffd92932362e87::t_edf19e0422fc27 133
+  s_ffd92932362e87::t_9fba022d71a362 89
+  s_ffd92932362e87::t_fcd05179ecee74 178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "3fe5def6b8349f77bf827d6e4475c8c08edeb8a4",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
