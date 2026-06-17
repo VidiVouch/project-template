@@ -1,0 +1,45 @@
+apps/bootstrap.py
+  s_ffd92932362e87::t_d5d805a6e2b987 98-110
+  s_ffd92932362e87::t_23caecd4c3dc49 86
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_b550f11dd8a0a5 117-118
+  s_ffd92932362e87::t_cbe06ad586ea60 110
+  s_ffd92932362e87::t_edc07a368bf74c 26-30
+apps/data/bizzabo/models.py
+  s_ffd92932362e87::t_32e1b6c70b455b 33
+apps/catalog/handlers/bizzabo.py
+  s_ffd92932362e87::t_1c9b2ed810ef5a 87
+  s_ffd92932362e87::t_4fdf16ca1babeb 199
+  s_ffd92932362e87::t_283f3c976b942d 242
+envelopes/bizzabo/versions.py
+  s_ffd92932362e87::t_c02cfedbb40aec 1-22
+apps/catalog/tests/test_promote_bizzabo.py
+  s_ffd92932362e87::t_f6069d3cccc865 32
+  s_ffd92932362e87::t_4a55bdd1447a35 307
+  s_ffd92932362e87::t_ffb354a8ad784d 110
+  s_ffd92932362e87::t_015e8294626c02 234
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_f71e79bafc3fda 244-246
+  s_ffd92932362e87::t_71dd57ae001209 20-24
+apps/data/bizzabo/transformers.py
+  s_ffd92932362e87::t_87e287ca4d4284 17-18
+  s_ffd92932362e87::t_9b1126fac37dda 35
+config/settings/base.py
+  s_ffd92932362e87::t_536888f0841d95 105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "feaa9081cb3d56fc5c3d4a14a52e1d072f53f50b",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
