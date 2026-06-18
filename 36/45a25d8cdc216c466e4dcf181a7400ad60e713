@@ -1,0 +1,23 @@
+apps/jobs/tests/test_import_rebuild_snapshot.py
+  s_33f9c21df35ec6::t_ca80ee5db96f67 14-15,19
+  s_33f9c21df35ec6::t_983359d16ec9e9 401,406-408,412-542
+  s_33f9c21df35ec6::t_e8855d071c89fb 36-38
+pyproject.toml
+  s_33f9c21df35ec6::t_b2b89c2ec27c05 80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "3645a25d8cdc216c466e4dcf181a7400ad60e713",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
