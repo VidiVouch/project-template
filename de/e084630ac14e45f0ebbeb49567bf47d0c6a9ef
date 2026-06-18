@@ -1,0 +1,22 @@
+apps/data/capture/tests/test_models.py
+  s_33f9c21df35ec6::t_47dbc24bfb56fb 62
+  s_33f9c21df35ec6::t_09d50983361605 55,66
+  s_33f9c21df35ec6::t_a4ac5e560d2707 37-39,45,50
+  s_33f9c21df35ec6::t_0dc1b6859f60db 77-78,82-83,92,96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "dee084630ac14e45f0ebbeb49567bf47d0c6a9ef",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
