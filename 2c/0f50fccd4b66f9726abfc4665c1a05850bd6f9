@@ -1,0 +1,21 @@
+apps/data/brella/tests/test_login.py
+  s_ffd92932362e87::t_f1f2769cad8256 1-55
+envelopes/brella/login.py
+  s_ffd92932362e87::t_a7eea0392bd271 1-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2c0f50fccd4b66f9726abfc4665c1a05850bd6f9",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
