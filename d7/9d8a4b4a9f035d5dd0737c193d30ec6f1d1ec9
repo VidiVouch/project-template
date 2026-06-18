@@ -1,0 +1,39 @@
+apps/sales/views.py
+  s_5b002650df0863::t_1ae2ac1234169e 2-12,16-20,22-24,26,28,30,36-37,101
+  s_5b002650df0863::t_21510af0f14edb 31-35
+  s_5b002650df0863::t_50eed919a32eea 38,52-53,83-100,102-119,121-126,128-129,54,58,67,73,79,81-82
+  s_5b002650df0863::t_9ef621f5dc0f5d 39-46,48-51,56,68
+  s_5b002650df0863::t_412a93973f283d 47,61
+  s_5b002650df0863::t_8829d73ad6773e 131,55
+templates/app/_nav.html
+  s_5b002650df0863::t_194a1d1020935e 1-5,7-10,12-14,25-57,24,19
+  s_5b002650df0863::t_5a21a51785c137 20-23
+  s_5b002650df0863::t_9419a179a3d028 6
+  s_5b002650df0863::t_48b93da12dc4f5 11,15-18
+templates/sales/dashboard.html
+  s_5b002650df0863::t_6e6ba290bd5624 1-6,8-11,13-41,43,49-59
+apps/sales/urls.py
+  s_5b002650df0863::t_dcd1a1d9a51095 1-4,6-9,11-13
+  s_5b002650df0863::t_966eef358c20c9 10
+apps/sales/tests/test_dashboard.py
+  s_5b002650df0863::t_1c0307b1343162 2-3,5,7-16,18-36,40-49,51-58,60,62,64-134
+  s_5b002650df0863::t_aed6d967128ef1 17,37,50,59,63
+  s_5b002650df0863::t_f8b7088f355165 61
+  s_5b002650df0863::t_718ef9d8145ae9 135,143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "d79d8a4b4a9f035d5dd0737c193d30ec6f1d1ec9",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

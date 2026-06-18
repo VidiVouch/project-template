@@ -1,0 +1,99 @@
+.agents/skills/port-drain/references/handlers.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 16,19-20,37,41,44,52,54-57,70-71,113-114
+.agents/skills/port-source/references/legacy-map.md
+  s_5b002650df0863::t_600458f4e44da2 4-9
+  s_7c6c92400c7448::t_17a53a72340f6f 49
+  s_a260275017114d::t_df9eba25ec3c5a 64,55-63
+  s_5b002650df0863::t_739f9474d0439c 12,19,47,89,93,96-97
+  s_5b002650df0863::t_125ff57963a047 16-18,20-21,30-38,40,44-46,52,103-108
+  s_5b002650df0863::t_988d03b81a2c32 41
+  s_5b002650df0863::t_c0d5f80c1d9338 39
+  s_a260275017114d::t_49b39961190bdf 22
+  s_a260275017114d::t_abb7d8e117fdc3 42-43
+  s_a260275017114d::t_e88be4b9f348ca 48
+.agents/skills/port-source/SKILL.md
+  s_5b002650df0863::t_125ff57963a047 3,19-25,28,58,69,87
+  s_697b5de2f41f28::t_67ddabfffa7c4c 36-41,45,47,49-53,55-57,60,62-64,68,76-77
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_5b002650df0863::t_739f9474d0439c 1,23,28-31,42-45,55,57,59,67-68,102-107,109,114-122
+  s_697b5de2f41f28::t_67ddabfffa7c4c 6,32-33,40-41,49-53,79-89,92-95
+.agents/skills/port-source/references/validation.md
+  s_5b002650df0863::t_125ff57963a047 8,11,16,19-21,52-54,60-62,64-70,107-110,112-113
+  s_697b5de2f41f28::t_67ddabfffa7c4c 47-49,63,72-74,97-100,111
+REVIEW.md
+  s_5b002650df0863::t_17dfcd19c25803 43-44
+  s_5b002650df0863::t_91f22074c68087 45-46
+  s_5b002650df0863::t_c23f63e9b9b6fc 47-49
+  s_5b002650df0863::t_b9a1e4057de8ab 50
+  s_5b002650df0863::t_0b0d577d37bdf3 51-52
+  s_5b002650df0863::t_266517fd60e1d8 53-55
+  s_5b002650df0863::t_ad89cb04c88f42 56-58
+  s_5b002650df0863::t_a747cd48734719 59
+  s_5b002650df0863::t_6620dffca3b609 60
+  s_5b002650df0863::t_1030051e82351a 65-66,68
+  s_5b002650df0863::t_31882563cbaba7 67
+  s_5b002650df0863::t_f81a52a9978dca 69-70
+  s_a260275017114d::t_23357d4323a817 33
+  s_a260275017114d::t_ce596d0741c4eb 41
+.agents/skills/port-drain/SKILL.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 31-32,35-39,51-55
+.agents/skills/port-source/references/tier1-models.md
+  s_5b002650df0863::t_125ff57963a047 15,26-27,40-44,48,57-64,117-122
+  s_697b5de2f41f28::t_67ddabfffa7c4c 49-52,88-93
+.agents/skills/port-drain/references/mapping.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 12,16,22-25,71-77,95
+.agents/skills/port-drain/references/canonical-keys.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 5-11,26-27,40,44-45,52,75
+.agents/skills/port-drain/references/harvest-legacy-drain.md
+  s_5b002650df0863::t_e3f25962a7431c 3-5
+  s_a260275017114d::t_d9369d0804b832 17
+  s_a260275017114d::t_9e3347d2074004 23
+  s_a260275017114d::t_af6395d9db3263 49-51
+  s_a260275017114d::t_8344f7edc00edd 70
+  s_a260275017114d::t_dbaf5ed69998ad 88
+.agents/skills/port-drain/references/registration-tests.md
+  s_697b5de2f41f28::t_67ddabfffa7c4c 5-6,12,18-23,34,37,39,51-53,66-68,95-98,112
+.agents/skills/port-source/references/transformers-registration.md
+  s_5b002650df0863::t_125ff57963a047 10-14,16-20,24-25,30-37,53-56,121-123,130-136
+  s_697b5de2f41f28::t_67ddabfffa7c4c 47-48,81-87,91-96,115-119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "27ff9b5277748b17c711b23c43162d1d0502349c",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_697b5de2f41f28": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4255057b-68dc-4d5c-80b5-78c858f3d895",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
