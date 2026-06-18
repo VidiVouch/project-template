@@ -1,0 +1,19 @@
+apps/sales/tests/test_event_tokens.py
+  s_33f9c21df35ec6::t_01cbe86bfe2976 12-13,16,20,24-26,32,55,76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "32d8c8dc4f8244f326b8d5216fe71a552002a2ab",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
