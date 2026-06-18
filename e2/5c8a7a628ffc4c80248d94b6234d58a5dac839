@@ -1,0 +1,20 @@
+TEST_REVIEW.html
+  s_33f9c21df35ec6::t_ab207411928c1c 297
+  s_33f9c21df35ec6::t_4be9902477b72d 309-310
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "e25c8a7a628ffc4c80248d94b6234d58a5dac839",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
