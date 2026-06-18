@@ -1,0 +1,28 @@
+.claude/settings.json
+  s_9cc359b33535bd::t_33b6316e9c0123 15
+  s_b19873c7421f66::t_8ac4d2d3c3bdba 83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "84951dbf52c724f40b246d474dd68b79657cc6bb",
+  "prompts": {},
+  "sessions": {
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_b19873c7421f66": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a255487f-6b0d-498d-b9aa-bbc56e16bbcc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
