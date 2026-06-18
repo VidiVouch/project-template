@@ -1,0 +1,26 @@
+apps/catalog/tests/test_employment_from_participation.py
+  s_33f9c21df35ec6::t_13701e16d53a59 38-40
+  s_33f9c21df35ec6::t_b563740954e962 16,25,37,94
+apps/catalog/tests/test_person_resolution.py
+  s_33f9c21df35ec6::t_b563740954e962 30,51,140-143,165-166
+  s_33f9c21df35ec6::t_13701e16d53a59 52-54
+apps/catalog/tests/test_claim_bridge_ledgering.py
+  s_33f9c21df35ec6::t_b563740954e962 16,27,54-55,73-74,89-90,98-99
+  s_33f9c21df35ec6::t_13701e16d53a59 28-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6bc95c161d8b84cb9451d8e536f43598ca5fe111",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
