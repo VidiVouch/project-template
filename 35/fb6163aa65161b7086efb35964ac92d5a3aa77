@@ -1,0 +1,25 @@
+apps/catalog/tests/test_catalog_admin.py
+  s_33f9c21df35ec6::t_9c8851409710db 26
+  s_33f9c21df35ec6::t_deeed885d887ee 115-117
+apps/catalog/tests/test_merge_organizations.py
+  s_33f9c21df35ec6::t_18bcb54c60f760 16-24,30,42-43,63,78,81,116,127,181
+  s_33f9c21df35ec6::t_a7f5aeab0b573d 39-41,64
+apps/catalog/tests/test_merge.py
+  s_33f9c21df35ec6::t_8108ef29a44e3d 97,176,195-196,280,283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "35fb6163aa65161b7086efb35964ac92d5a3aa77",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
