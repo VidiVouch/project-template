@@ -1,0 +1,24 @@
+apps/catalog/tests/test_export_events.py
+  s_33f9c21df35ec6::t_2ec0564b41dd22 14,63,70,78,105,125,138,148,164,181-182,192-193
+apps/catalog/tests/test_resident_turbo.py
+  s_33f9c21df35ec6::t_96409f65be9f80 14
+  s_33f9c21df35ec6::t_8c747ec49b8407 89-90
+  s_33f9c21df35ec6::t_1af9415a5bf422 122
+  s_33f9c21df35ec6::t_8e50abe765bb59 120-121,142-143,169-170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8bd6816e22f1743e6496bde5c051dbc4bc8c0b0c",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
