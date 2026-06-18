@@ -1,0 +1,29 @@
+apps/sales/tests/test_rls.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-20,32-37,44-46,48,64-84,95-96,100-182
+apps/sales/models.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-28,31,33,35-40,139-154,166-192,210,220-223,225,234-239,355-366,372-392
+apps/sales/registrations.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-19,37-39,41,44-45
+apps/sales/tests/test_merge_rehome.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-17,27-32,37,39-42,47-117,122-124,127,137-139,142,145,154-156,160,230-268,284,290-291,300,302,305-306,182,185-187,190,200-202,206,215,217-218,222
+  s_5b002650df0863::t_5568bc30180f3b 45-46,118-119,126,128,131,144,146,150,159,161,166-167,269-272,278,285-288,172,183,189,191,194,205,207,211,221,223,228-229
+apps/sales/tests/test_models.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-11,14-33,35-38,41-106,108-109,114,118,129,134,141,148-150,159
+  s_5b002650df0863::t_bd3256e0d86af0 34,39-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f94a6cad0ada33f603dcd463f544404c0ec281b1",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

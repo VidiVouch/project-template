@@ -1,0 +1,39 @@
+apps/data/credentials/tests/test_drain.py
+  s_5b002650df0863::t_a901ac3ec70c4b 1-8,12,17-25,28,38-39,44-48,52-53,65-66,88-89,92-93,101-106,120-121,131-132,142-143,149-150,156-157,160-163,170-171,173-176,192-206,209-212,215-216,218-221,223,225,227-234,237-248,250
+  s_5b002650df0863::t_19e749b3c3e26e 35-36
+scrapers/event_spiders/grip.py
+  s_5b002650df0863::t_a4f37a983fc596 3
+  s_ffd92932362e87::t_f443b84b9ef0f9 17,19,35,42-43
+  s_ffd92932362e87::t_6dd3d2c51a2c49 22
+  s_ffd92932362e87::t_08974b8fc162cd 34
+scrapers/event_spiders/tests/test_grip_spider.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 21
+envelopes/grip/login.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 1-71,90-99
+apps/data/grip/tests/test_login.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b31c8a12cb94ed6591b5ca0aacfbb5e92a134a00",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
