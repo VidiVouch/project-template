@@ -1,0 +1,23 @@
+apps/mapping_tool/tests/test_views.py
+  s_33f9c21df35ec6::t_9ad0358dfbda0b 23
+  s_33f9c21df35ec6::t_114d815da32d99 36
+apps/staff/tests/test_views.py
+  s_33f9c21df35ec6::t_4f8c2d17c735c4 28
+  s_33f9c21df35ec6::t_ffc872855236bd 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "4c5d2c7305f3f8e1224f1b905872bc4ea0d14123",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
