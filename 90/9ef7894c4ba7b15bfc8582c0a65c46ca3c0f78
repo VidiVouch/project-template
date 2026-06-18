@@ -1,0 +1,21 @@
+apps/sales/tests/test_limits.py
+  s_33f9c21df35ec6::t_3cc0aa9bb8ff1c 16-21
+  s_33f9c21df35ec6::t_49e49d481912c4 40-41,49,59,71,118
+  s_33f9c21df35ec6::t_fcdaa44a1070d5 10-11,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "909ef7894c4ba7b15bfc8582c0a65c46ca3c0f78",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
