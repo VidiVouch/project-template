@@ -1,0 +1,19 @@
+apps/demo/tests/test_models.py
+  s_33f9c21df35ec6::t_fa19ae545265fc 15,38,44-45,52,58,63-64,67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "215c68854f060880c84fe9da40a214554ab66078",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
