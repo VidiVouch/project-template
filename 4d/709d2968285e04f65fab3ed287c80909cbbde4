@@ -1,0 +1,19 @@
+apps/sales/tests/test_export_event_attendees.py
+  s_33f9c21df35ec6::t_6630970c06ef4b 14-22,39,45-49,55-57,141-142,154-158,161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "4d709d2968285e04f65fab3ed287c80909cbbde4",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
