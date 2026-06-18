@@ -1,0 +1,31 @@
+apps/catalog/tests/test_registrations.py
+  s_33f9c21df35ec6::t_7f746656175cc7 21,27
+  s_33f9c21df35ec6::t_313957a87dc0b8 47,63
+apps/catalog/tests/test_merge_claim_bridges.py
+  s_33f9c21df35ec6::t_9ca05ee3f9c391 12
+  s_33f9c21df35ec6::t_6ff7c0a12a0e86 26,30,36
+apps/catalog/tests/test_dedupe_employments.py
+  s_33f9c21df35ec6::t_3e8499c0222e18 117
+  s_33f9c21df35ec6::t_0de1043866b07e 124
+  s_33f9c21df35ec6::t_7d781183dc645f 12,19,24,30
+apps/catalog/tests/test_merge_linkedin_renames.py
+  s_33f9c21df35ec6::t_adc6c0c580c5fe 10,22-23
+  s_33f9c21df35ec6::t_76c56a0bfd905b 77
+  s_33f9c21df35ec6::t_b663dd66fd870d 114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "48be5aca3c6f034869145863a6a6961c9a471e7e",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
