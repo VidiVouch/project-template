@@ -1,0 +1,19 @@
+apps/sales/tests/test_dashboard.py
+  s_33f9c21df35ec6::t_19ddc0839a4a3d 11-12,15,21,27-29,56-57,68-69,79,160-161,164,184-185,198-199
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "9397cee78b419f585601d4a3f45c31952c06c1d7",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
