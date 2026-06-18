@@ -1,0 +1,20 @@
+PK_FIX_PATTERN.md
+  s_33f9c21df35ec6::t_3b5000b89016a6 197-200
+  s_33f9c21df35ec6::t_8fdec623d6af51 313,316
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "89f2e235c701d1c3f3d35f536ceb8375928bddd8",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
