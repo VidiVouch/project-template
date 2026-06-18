@@ -1,0 +1,21 @@
+apps/sales/tests/test_prospect_lists.py
+  s_33f9c21df35ec6::t_72ca5bd3e1b712 19-25
+  s_33f9c21df35ec6::t_45552c9592bf3d 60-61,73,117,136,148,151,163,171,180,191,209,212-213,235,246,255,269,281,295,306
+  s_33f9c21df35ec6::t_d75d1055698bc1 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f6a395e842da3bf01a8698c34d2ec62866559291",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
