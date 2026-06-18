@@ -1,0 +1,98 @@
+apps/mapping_tool/templates/mapping_tool/dashboard.html
+  s_de12f9f5f890aa::t_2600d59afdb9ab 1-8,10-26,28-29,31-36,38,42,44,46,66-67
+apps/jobs/apps.py
+  s_de12f9f5f890aa::t_a3b240af568ce7 64-66,67-87
+  s_de12f9f5f890aa::t_a71d8ca927fc04 4-5,7
+apps/mapping_tool/templates/mapping_tool/_source_keys.html
+  s_de12f9f5f890aa::t_7e295bef91c053 1-7
+apps/mapping_tool/templates/mapping_tool/_source_rows.html
+  s_de12f9f5f890aa::t_64b7e0d90fb06c 1-25
+apps/data/base/stats.py
+  s_de12f9f5f890aa::t_15798d43f3f348 55,57,60-68,70-77
+  s_de12f9f5f890aa::t_6244caab207e9a 56,58-59
+apps/data/capture/management/commands/data_stats.py
+  s_de12f9f5f890aa::t_f668225ad2e247 71-72,126-127,135-136,381,393,407,29,37,76,81,86-87,91,98-99,103,107,112-113,116-117,208,217,244,268,272,285,293,429-431,437,445-447,461-463,465-468
+  s_de12f9f5f890aa::t_d1a1f1feb72067 239,241,184,189,195,199-207,209-216,218-222,225-228,230-231,233,235-236,238,240,242-243,245,247-256,258-265,267,269,288-292,294-298,300-303,305-309,311
+  s_ffd92932362e87::t_7fa91ccc96e634 19-23
+  s_ffd92932362e87::t_738664eed15420 44,50,52
+  s_ffd92932362e87::t_743aae705baf5f 61
+  s_ffd92932362e87::t_dc128e1e9a34a8 128-134
+  s_de12f9f5f890aa::t_2336d2b590db31 179,185-188,190-194
+  s_ffd92932362e87::t_801026a808de1e 180-183
+  s_ffd92932362e87::t_1f3ff5861d1203 363-364,368,374-378,382-392,395-396,403,406,408-412,427,229,257,266,310
+  s_ffd92932362e87::t_e1493bf0ff57d1 366
+  s_de12f9f5f890aa::t_d933ed3e6b3e77 30-36,38-39
+  s_de12f9f5f890aa::t_3cd1706bc56119 45-46,53,57,62
+  s_de12f9f5f890aa::t_f1418704a984d1 73,88-90,92-97,100-102,104-106,108-111,114-115
+  s_de12f9f5f890aa::t_ec390c1405cf29 74-75,77-80,82-85
+  s_de12f9f5f890aa::t_927cbbf07597ca 198
+  s_de12f9f5f890aa::t_e63f86bdb0ec0c 234
+  s_de12f9f5f890aa::t_8d2c192592bbe9 246
+  s_de12f9f5f890aa::t_de508407b2fec1 270
+  s_de12f9f5f890aa::t_a742212981536a 271,273,275-284,286,299
+  s_de12f9f5f890aa::t_d3771ef9b9e825 274
+  s_de12f9f5f890aa::t_899490d8171c02 287
+  s_de12f9f5f890aa::t_e3db9153e7e9a2 304
+  s_de12f9f5f890aa::t_ad9546857a5d1a 313
+  s_de12f9f5f890aa::t_65b6ed6b7e53be 339,365,373,379-380,394,397-402,405
+  s_de12f9f5f890aa::t_0ce01a370cba82 353-360
+  s_de12f9f5f890aa::t_a81830c3932f48 404
+  s_de12f9f5f890aa::t_1040508d01c96b 464
+apps/mapping_tool/templates/mapping_tool/editor.html
+  s_de12f9f5f890aa::t_8e6209aa9a1613 217,219-220,222-233,235-239,241-265,267-268,270-276,278-295,297-298,300-304,306-308
+apps/data/capture/models.py
+  s_5b002650df0863::t_c120a31e7380e9 24-26
+  s_5b002650df0863::t_c471f7dba73f07 27,28-35
+  s_5b002650df0863::t_2fcaa2c7d8bbb9 127,136
+  s_de12f9f5f890aa::t_7e792f4dffa35d 36,192-248
+  s_de12f9f5f890aa::t_a30853900702fd 56
+apps/mapping_tool/templates/mapping_tool/_provenance.html
+  s_de12f9f5f890aa::t_6314cf518a3895 1-2
+apps/mapping_tool/templatetags/mapping_tool_extras.py
+  s_de12f9f5f890aa::t_7d08929a3734c9 1-22
+apps/staff/templates/staff/index.html
+  s_de12f9f5f890aa::t_d102da21fffbbd 1-7,9-20,22-24,26-30,35,38,58-59
+apps/mapping_tool/urls.py
+  s_de12f9f5f890aa::t_4d2a3cd6873bbf 12
+apps/mapping_tool/discovery.py
+  s_de12f9f5f890aa::t_287feb23d2cb5f 26
+  s_de12f9f5f890aa::t_5701a9ca5c3f18 85-89,93
+  s_de12f9f5f890aa::t_8d955a15635e68 128,130-157,163-167,169-173
+  s_de12f9f5f890aa::t_16010d2e998045 129
+  s_de12f9f5f890aa::t_6a9e55075a5c84 197
+apps/mapping_tool/views.py
+  s_de12f9f5f890aa::t_eb5af1e28a93f2 64-66,68-75
+  s_de12f9f5f890aa::t_882a23d25769aa 67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "03c1e3f706d4bc1b5b833066819a13c76c5c2a05",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_de12f9f5f890aa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb8f5909-cdf3-4b7e-88e0-4f5d5839886e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

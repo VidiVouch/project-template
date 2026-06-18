@@ -1,0 +1,22 @@
+apps/data/capture/tests/test_startsource.py
+  s_ffd92932362e87::t_0fe1be0cf87477 34,71
+apps/data/capture/management/commands/startsource.py
+  s_ffd92932362e87::t_7c54fe582a6ed3 53-54
+  s_ffd92932362e87::t_62a0501399c086 63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "42166485d2acabc2840900c0b11dc86e45de4695",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

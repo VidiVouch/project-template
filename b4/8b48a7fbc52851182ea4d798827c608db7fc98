@@ -1,0 +1,44 @@
+apps/data/capture/tests/test_upload_view.py
+  s_5b002650df0863::t_590c9f6dc19637 26-27,255-257,259-262,264-265,268-290,292-295,297-304,306-307,309-323,325-326,328-330,340-348,350,358,360,362-364,366
+  s_5b002650df0863::t_143b7026849df5 29,253-254,258,263,266-267,291,296,305,308,324,327,334-339,352,355
+  s_5b002650df0863::t_d7f3c61b810db3 331-333
+  s_5b002650df0863::t_ff31ec0da555ce 361
+apps/data/capture/views.py
+  s_5b002650df0863::t_2e4eaabb16866e 20
+  s_5b002650df0863::t_469d5405c43442 38
+  s_5b002650df0863::t_ba409a7768315e 39-47,53-57,61-63,65-71,74-75
+  s_5b002650df0863::t_25271c82d636e3 48
+  s_5b002650df0863::t_a4c09d15326e0c 49-52
+  s_5b002650df0863::t_000f51129af596 58-60
+  s_5b002650df0863::t_5957a1c73beaef 64
+  s_5b002650df0863::t_07f332b84a1af1 116,119,121,124
+apps/data/capture/models.py
+  s_5b002650df0863::t_c120a31e7380e9 24-26
+  s_5b002650df0863::t_c471f7dba73f07 27,28-35
+  s_5b002650df0863::t_2fcaa2c7d8bbb9 126,135
+  s_de12f9f5f890aa::t_7e792f4dffa35d 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b48b48a7fbc52851182ea4d798827c608db7fc98",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_de12f9f5f890aa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb8f5909-cdf3-4b7e-88e0-4f5d5839886e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
