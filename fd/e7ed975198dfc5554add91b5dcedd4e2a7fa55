@@ -1,0 +1,19 @@
+apps/catalog/tests/test_merge_event_namesakes.py
+  s_33f9c21df35ec6::t_67f352c02a8d48 16-23,36,40-41,147,150-151,167,170-171,183,186-187,201,204,218,221,235-236,271-273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "fde7ed975198dfc5554add91b5dcedd4e2a7fa55",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
