@@ -1,0 +1,22 @@
+TEST_REVIEW.html
+  s_33f9c21df35ec6::t_c42da2a0bdbe27 318
+  s_33f9c21df35ec6::t_58d5ef2d00c985 297
+  s_33f9c21df35ec6::t_82387474191b34 321-324
+  s_33f9c21df35ec6::t_04de2bf4cbb5e3 329
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "43abeb084105ff799129753e23a6edaa7377727a",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
