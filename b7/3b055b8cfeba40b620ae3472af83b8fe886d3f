@@ -1,0 +1,23 @@
+apps/disambiguator/tests/test_applier.py
+  s_33f9c21df35ec6::t_f4792d69617203 372,431
+apps/disambiguator/tests/factories.py
+  s_33f9c21df35ec6::t_f4792d69617203 116-126,129-132
+apps/disambiguator/tests/test_models.py
+  s_33f9c21df35ec6::t_f4792d69617203 245,250
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b73b055b8cfeba40b620ae3472af83b8fe886d3f",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
