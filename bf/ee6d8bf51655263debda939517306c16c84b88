@@ -1,0 +1,27 @@
+apps/bootstrap.py
+  s_5b002650df0863::t_0b0d577d37bdf3 48,51
+  s_5b002650df0863::t_08566a2df15b56 55-56,57
+  s_5b002650df0863::t_a5014b183df652 65
+  s_5b002650df0863::t_e245d029f0edc3 66-68,74-75,77-78,58,63-64
+  s_5b002650df0863::t_d2994d49d50947 69,79-80
+  s_5b002650df0863::t_95bbf6ddcd5ec1 73,91
+  s_5b002650df0863::t_ddca3c96e7ae2c 76,61,81-82,85,94
+  s_5b002650df0863::t_aad84bce2383cc 59
+  s_5b002650df0863::t_151a54d17a1f0b 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "bfee6d8bf51655263debda939517306c16c84b88",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

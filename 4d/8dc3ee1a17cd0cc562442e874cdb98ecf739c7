@@ -1,0 +1,34 @@
+pyproject.toml
+  s_5b002650df0863::t_af2d606b26b553 16,18-20
+  s_5b002650df0863::t_7b601b147a8e02 17
+  s_5b002650df0863::t_90400a7abda1ff 21-25
+  s_5b002650df0863::t_80dd0c6d11f722 27-29
+  s_5b002650df0863::t_754b8f47fb5bd9 30,32,34-35,37,143-146,157-160,164-169,171-177,181,183-187,194-198,202,204,209-213,222-227,229,243
+  s_998d95b9de4b0f::t_335f282231f4d0 38
+  s_5b002650df0863::t_ba0dfb43b943f8 48,53-55,57-62
+  s_5b002650df0863::t_daeb28af8de4b7 128,130-142,147-150,203,206,228,244-245,247-248,269,278-281,297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "4d8dc3ee1a17cd0cc562442e874cdb98ecf739c7",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
