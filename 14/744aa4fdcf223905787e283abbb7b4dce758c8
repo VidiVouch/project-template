@@ -1,0 +1,21 @@
+apps/disambiguator/tests/test_enricher.py
+  s_33f9c21df35ec6::t_91535ac0b6f1c0 17,326,332
+apps/disambiguator/tests/factories.py
+  s_33f9c21df35ec6::t_91535ac0b6f1c0 26,28,178-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "14744aa4fdcf223905787e283abbb7b4dce758c8",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
