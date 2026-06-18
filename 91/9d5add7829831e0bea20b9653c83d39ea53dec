@@ -1,0 +1,39 @@
+apps/sales/tests/test_dashboard.py
+  s_33f9c21df35ec6::t_b0badf6b863e15 28
+  s_33f9c21df35ec6::t_c46c23faed2cfa 35
+apps/sales/tests/test_event_detail.py
+  s_33f9c21df35ec6::t_a581bc711f8a57 28
+  s_33f9c21df35ec6::t_b0badf6b863e15 37
+  s_33f9c21df35ec6::t_84d0e89d5ab910 56
+apps/sales/tests/test_export_event_attendees.py
+  s_33f9c21df35ec6::t_b0badf6b863e15 29
+  s_33f9c21df35ec6::t_281615fbd8a0c7 36
+  s_33f9c21df35ec6::t_78ee98fa7f2525 23
+apps/sales/tests/test_event_index.py
+  s_33f9c21df35ec6::t_66641ece02d265 31
+  s_33f9c21df35ec6::t_b0badf6b863e15 24
+  s_33f9c21df35ec6::t_8a45a6a2916180 19
+apps/sales/tests/test_entitlements.py
+  s_33f9c21df35ec6::t_ea962f8f441a82 32
+  s_33f9c21df35ec6::t_b0badf6b863e15 25
+apps/sales/tests/test_delivery.py
+  s_33f9c21df35ec6::t_d226badb08ed2a 14
+  s_33f9c21df35ec6::t_b0badf6b863e15 4,19-20
+  s_33f9c21df35ec6::t_24b200ef2e080f 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "919d5add7829831e0bea20b9653c83d39ea53dec",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
