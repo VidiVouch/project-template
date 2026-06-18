@@ -1,0 +1,26 @@
+apps/jobs/tests/factories.py
+  s_33f9c21df35ec6::t_0ec8bf7cce3612 16
+  s_33f9c21df35ec6::t_ec751bcbb1873e 1-7,9-15,17-36,38
+  s_33f9c21df35ec6::t_d8bcb1c6d95abb 37
+  s_33f9c21df35ec6::t_8dfd730d9196d2 8
+apps/jobs/tests/test_tasks.py
+  s_33f9c21df35ec6::t_199c563b28648b 13,202
+apps/jobs/tests/test_admin.py
+  s_33f9c21df35ec6::t_199c563b28648b 6,12-13,22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "98ffcffe2ad8bd6f6c0c9c6375b83833de812af6",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
