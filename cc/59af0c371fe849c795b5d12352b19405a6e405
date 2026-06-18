@@ -1,0 +1,19 @@
+apps/jobs/management/commands/import_rebuild_snapshot.py
+  s_697b5de2f41f28::t_c71ebdcba0c2e4 165-166,178-185,193,301
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "cc59af0c371fe849c795b5d12352b19405a6e405",
+  "prompts": {},
+  "sessions": {
+    "s_697b5de2f41f28": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4255057b-68dc-4d5c-80b5-78c858f3d895",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

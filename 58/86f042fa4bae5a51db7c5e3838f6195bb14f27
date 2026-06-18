@@ -1,0 +1,45 @@
+apps/bootstrap.py
+  s_5b002650df0863::t_e245d029f0edc3 46-47,66-67,73-74,76-77,57,62-63
+  s_5b002650df0863::t_08566a2df15b56 50,54-55,68,72,75,60,56,59
+  s_5b002650df0863::t_ddca3c96e7ae2c 64
+  s_5b002650df0863::t_a5014b183df652 65
+  s_5b002650df0863::t_d2994d49d50947 69,78-79
+  s_5b002650df0863::t_aad84bce2383cc 58
+apps/data/grip/tests/test_response.py
+  s_ffd92932362e87::t_7ae2713ea6fefc 10
+config/settings/base.py
+  s_5b002650df0863::t_7b601b147a8e02 99,97-98
+  s_5b002650df0863::t_4b47bc34478b19 100,136,149,154,325-326,330-336,342-344,371,386,152,319,324,340,366,377,379,381,385,276,289,299,294,103,224,232,234,244,246,257,259
+  s_5b002650df0863::t_80dd0c6d11f722 139-140,142,327,329,141,328,405,312,310-311,315-317,208,207
+  s_5b002650df0863::t_63b7ed74f23be4 320-323
+  s_5b002650df0863::t_90400a7abda1ff 19,33,59,135,153,258,365,378,380,382-384,151,288,293,313,102,298,318,109,122,133,223,231,233,245,275,66
+  s_5b002650df0863::t_b82f85f3ae94eb 134,144,131-132
+  s_5b002650df0863::t_aad84bce2383cc 94
+  s_5b002650df0863::t_a58725b59d4b17 96
+apps/data/grip/registrations.py
+  s_5b002650df0863::t_a4212098b1e324 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "5886f042fa4bae5a51db7c5e3838f6195bb14f27",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

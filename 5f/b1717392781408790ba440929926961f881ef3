@@ -1,0 +1,44 @@
+.agents/skills/port-source/references/legacy-map.md
+  s_7c6c92400c7448::t_17a53a72340f6f 43
+  s_a260275017114d::t_df9eba25ec3c5a 51
+.agents/skills/port-source/references/transformers-registration.md
+  s_5b002650df0863::t_125ff57963a047 14,25,32-37,53-56,111-113
+.agents/skills/port-source/references/validation.md
+  s_5b002650df0863::t_125ff57963a047 51
+.agents/skills/port-source/SKILL.md
+  s_5b002650df0863::t_125ff57963a047 62,80
+.agents/skills/port-source/references/tier1-models.md
+  s_5b002650df0863::t_125ff57963a047 27,40-44,48,57-60,111-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "5fb1717392781408790ba440929926961f881ef3",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

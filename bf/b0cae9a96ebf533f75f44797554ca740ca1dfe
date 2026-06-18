@@ -1,0 +1,25 @@
+apps/sales/models.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-28,31,33-39,138-153,156-182,193,203-206,208,216-221,227-238,241-261
+apps/sales/tests/test_rls.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-20,22-27,34-37,45-65,74-75,78-160
+apps/sales/admin.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-7,9,39-62,75,91-94,96-102
+apps/sales/apps.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-11,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "bfb0cae9a96ebf533f75f44797554ca740ca1dfe",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

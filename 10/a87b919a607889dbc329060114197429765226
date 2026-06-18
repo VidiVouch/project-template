@@ -1,0 +1,23 @@
+apps/catalog/handlers/cadmium/events.py
+  s_ffd92932362e87::t_73b66c5dde0f4d 24
+  s_ffd92932362e87::t_7e587e794e023e 41
+apps/catalog/tests/test_promote_event.py
+  s_ffd92932362e87::t_f37ec0df310fe2 25
+  s_ffd92932362e87::t_b97c7daebc6503 92,96,99,103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "10a87b919a607889dbc329060114197429765226",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

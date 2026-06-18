@@ -1,0 +1,155 @@
+apps/data/capture/tests/test_models.py
+  s_5b002650df0863::t_4dbcea6a3dab0d 88
+apps/data/capture/tests/test_capture_inventory.py
+  s_5b002650df0863::t_4dbcea6a3dab0d 32
+traffic_adapters/tests/test_csv_pipeline.py
+  s_5b002650df0863::t_705f6c8752a436 33,35-36,41
+.agents/skills/new-source/references/adapter.md
+  s_5b002650df0863::t_739f9474d0439c 1,5,7,16-37,39-51,56,58-68,77-87,90,94,97,99,107,112-118,122
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_5b002650df0863::t_739f9474d0439c 1,23,28-31,41-44,51,53,55,63-64,92-97,99,104-112
+.agents/skills/new-source/SKILL.md
+  s_5b002650df0863::t_125ff57963a047 47,69,74,77,79,85,89,95,98,104,106,109,113
+apps/data/capture/tests/test_data_stats_tier0.py
+  s_5b002650df0863::t_43e12420418b01 30-33,25-29
+  s_5b002650df0863::t_4dbcea6a3dab0d 87,83
+.agents/skills/port-source/references/legacy-map.md
+  s_7c6c92400c7448::t_17a53a72340f6f 49
+  s_a260275017114d::t_df9eba25ec3c5a 57
+  s_5b002650df0863::t_600458f4e44da2 4-9
+  s_5b002650df0863::t_739f9474d0439c 12,19,47,82,86,89-90
+  s_5b002650df0863::t_125ff57963a047 16-18,20-21,30-38,40,44-46,52,96-101
+.agents/skills/port-source/SKILL.md
+  s_5b002650df0863::t_125ff57963a047 63,81
+.claude/settings.json
+  s_9cc359b33535bd::t_33b6316e9c0123 15
+  s_5b002650df0863::t_f5d80fc1566505 88
+  s_5b002650df0863::t_bf5a524fa96c96 105
+traffic_adapters/adapters/grip_events.py
+  s_5b002650df0863::t_165c59620abb7c 24
+  s_5b002650df0863::t_0f5bc2399cc0d1 104
+  s_5b002650df0863::t_08f00ad0e9394d 122
+  s_5b002650df0863::t_8283999229013f 138
+traffic_adapters/rules.py
+  s_5b002650df0863::t_a31a882dcd25c0 354,356-357
+.agents/skills/port-source/references/transformers-registration.md
+  s_5b002650df0863::t_125ff57963a047 15,26,38-43,59-62,117-126
+.agents/skills/port-source/references/validation.md
+  s_5b002650df0863::t_125ff57963a047 52,57-59,61-67,99-102,104-105
+config/settings/base.py
+  s_5b002650df0863::t_7b601b147a8e02 99,97-98
+  s_5b002650df0863::t_4b47bc34478b19 100,136,149,154,325-326,330-336,342-344,371,386,152,319,324,340,366,377,379,381,385,276,289,299,294,103,224,232,234,244,246,257,259
+  s_5b002650df0863::t_80dd0c6d11f722 139-140,142,327,329,141,328,405,312,310-311,315-317,208,207
+  s_5b002650df0863::t_63b7ed74f23be4 320-323
+  s_5b002650df0863::t_90400a7abda1ff 19,33,59,135,153,258,365,378,380,382-384,151,288,293,313,102,298,318,109,122,133,223,231,233,245,275,66
+  s_5b002650df0863::t_b82f85f3ae94eb 134,144,131-132
+  s_5b002650df0863::t_aad84bce2383cc 94
+  s_5b002650df0863::t_a58725b59d4b17 96
+README.md
+  s_5b002650df0863::t_8e8c016fa51e82 21,683,686,688,690,693-694,698,705,708-709,713,716,730,732,736-737,740-741,748
+.agents/skills/port-source/references/tier1-models.md
+  s_5b002650df0863::t_125ff57963a047 23,30-34,38,51-54,105-116
+apps/data/capture/dtos.py
+  s_5b002650df0863::t_42a86d24f1dd9f 24
+apps/data/capture/constants/enums.py
+  s_5b002650df0863::t_4dbcea6a3dab0d 18
+traffic_adapters/tests/test_rules.py
+  s_5b002650df0863::t_feb4f26682df69 12
+  s_5b002650df0863::t_4b88ca04e5cc98 48
+  s_5b002650df0863::t_6068f99426f738 211-212
+apps/data/capture/services.py
+  s_5b002650df0863::t_6a78d6e8e353da 181
+apps/data/capture/transport.py
+  s_5b002650df0863::t_bbbb6d98e9816a 83,79-82
+  s_5b002650df0863::t_20749547be28a5 73
+.gitignore
+  s_9cc359b33535bd::t_cb5c5eafd208fb 788
+  s_5b002650df0863::t_8e8c016fa51e82 786
+traffic_adapters/cli/analyze_flow.py
+  s_5b002650df0863::t_a35e18c85952b2 147
+pyproject.toml
+  s_5b002650df0863::t_754b8f47fb5bd9 37,132,216,232,171,180,246,190,208,225,182,268
+  s_998d95b9de4b0f::t_335f282231f4d0 38
+  s_9cc359b33535bd::t_85c3509237bee0 53,57,68,70,250,254,266,269-270,282,287-288,292-293,298-299,301-310,312
+  s_9cc359b33535bd::t_bf1ef54f6c19af 93
+  s_9cc359b33535bd::t_cd912d9cdec808 108
+  s_5b002650df0863::t_daeb28af8de4b7 133,247,294,300,311,314
+  s_9cc359b33535bd::t_af0dca38e85386 289-291
+  s_9cc359b33535bd::t_019833145acece 315-326,177,187,168,243-244,297,205,222,229
+  s_5b002650df0863::t_90400a7abda1ff 25,22
+  s_5b002650df0863::t_ba0dfb43b943f8 62
+  s_5b002650df0863::t_af2d606b26b553 20,19
+  s_5b002650df0863::t_80dd0c6d11f722 29,28
+  s_5b002650df0863::t_7b601b147a8e02 17
+apps/data/base/hashing.py
+  s_5b002650df0863::t_0e4be5e1c45cab 20
+apps/data/grip/tests/test_response.py
+  s_ffd92932362e87::t_7ae2713ea6fefc 10
+  s_5b002650df0863::t_4dbcea6a3dab0d 86,99
+apps/data/capture/migrations/0001_initial.py
+  s_5b002650df0863::t_4dbcea6a3dab0d 36
+apps/data/capture/models.py
+  s_5b002650df0863::t_c471f7dba73f07 27
+  s_5b002650df0863::t_2fcaa2c7d8bbb9 117,126
+  s_5b002650df0863::t_c120a31e7380e9 24-26
+scrapers/event_spiders/grip.py
+  s_5b002650df0863::t_a4f37a983fc596 3
+.agents/skills/investigate-traffic/SKILL.md
+  s_5b002650df0863::t_125ff57963a047 3,13,21-22,26,38-43,54,60,64,67,70,73,75,79,91,94,101-104,110,113,116,119,122,125,128,139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b974192922e99a6cf4674e425b2a9149ba3f9d36",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+pyproject.toml
+  s_5b002650df0863::t_754b8f47fb5bd9 30,124,196,205,160,169,219,179
+  s_998d95b9de4b0f::t_335f282231f4d0 31
+  s_9cc359b33535bd::t_85c3509237bee0 46,50,60,62,223,227,239,242-243,255,260-261,265-266,271-272,274-283,285
+  s_9cc359b33535bd::t_bf1ef54f6c19af 85
+  s_9cc359b33535bd::t_cd912d9cdec808 100
+  s_5b002650df0863::t_daeb28af8de4b7 125,220,267,273,284,287
+  s_9cc359b33535bd::t_af0dca38e85386 262-264
+  s_9cc359b33535bd::t_019833145acece 288-299,166,176,157,216-217,270,187,202
+  s_5b002650df0863::t_90400a7abda1ff 23,20
+  s_5b002650df0863::t_ba0dfb43b943f8 54
+  s_5b002650df0863::t_af2d606b26b553 18,17
+  s_5b002650df0863::t_80dd0c6d11f722 25
+config/settings/production.py
+  s_5b002650df0863::t_80dd0c6d11f722 17,19,31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "687d295becd51ef19702120932cbc9701c3649f0",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
