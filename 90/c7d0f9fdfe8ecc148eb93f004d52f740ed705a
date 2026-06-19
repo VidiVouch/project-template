@@ -1,0 +1,42 @@
+crates/vid-core/src/trust.rs
+  s_a8fa6210c93696::t_f6e22be6f3f445 321-360
+  s_a8fa6210c93696::t_ff4455f9dd3172 94-114
+  s_a8fa6210c93696::t_897568115d689b 394-412
+crates/vid-core/src/lib.rs
+  s_a8fa6210c93696::t_83e03bf6f74528 36-38
+crates/vid-cli/src/engine.rs
+  s_a8fa6210c93696::t_4201ca7f7c9bde 384-387,391,393-394,401-409,413
+  s_a8fa6210c93696::t_85d0d0e85d7d6d 315
+  s_a8fa6210c93696::t_5b8df1d6afb82e 72-73
+  s_a8fa6210c93696::t_85fb8ca1072f57 334
+  s_a8fa6210c93696::t_8ea63579b35127 337-341,358
+  s_a8fa6210c93696::t_c279bd6ad89612 25
+crates/vid-cli/src/main.rs
+  s_a8fa6210c93696::t_0efb6593e16c11 287-293
+  s_a8fa6210c93696::t_030dbd3b9f33bf 253-258
+  s_a8fa6210c93696::t_f0aaf7a1ad04ac 376
+  s_a8fa6210c93696::t_9e51c32d44a7f0 335-363
+  s_a8fa6210c93696::t_60f5697145e629 23
+  s_a8fa6210c93696::t_f2e087bc5925b3 215-226,232-252,259-261
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "90c7d0f9fdfe8ecc148eb93f004d52f740ed705a",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
