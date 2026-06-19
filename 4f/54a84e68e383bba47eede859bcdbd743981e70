@@ -1,0 +1,23 @@
+traffic_adapters/adapters/yc_public.py
+  s_0276221d01c0b0::t_8fa74237373271 1-77
+REVIEW.md
+  s_0276221d01c0b0::t_8fa74237373271 43-44
+traffic_adapters/tests/test_yc_public.py
+  s_0276221d01c0b0::t_8fa74237373271 1-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "4f54a84e68e383bba47eede859bcdbd743981e70",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
