@@ -1,0 +1,43 @@
+apps/data/capture/templates/capture/upload.html
+  s_0276221d01c0b0::t_785f1cb0168543 1-17
+config/urls.py
+  s_0276221d01c0b0::t_785f1cb0168543 19
+apps/data/capture/tests/test_upload_view.py
+  s_0276221d01c0b0::t_785f1cb0168543 1-249
+apps/data/capture/admin.py
+  s_0276221d01c0b0::t_785f1cb0168543 1-57
+apps/data/capture/urls.py
+  s_0276221d01c0b0::t_785f1cb0168543 1-7
+apps/data/capture/parsers.py
+  s_0276221d01c0b0::t_785f1cb0168543 1-137
+pyproject.toml
+  s_0276221d01c0b0::t_785f1cb0168543 27
+apps/data/capture/tests/test_admin.py
+  s_0276221d01c0b0::t_785f1cb0168543 1-35
+apps/data/capture/tests/test_parsers.py
+  s_0276221d01c0b0::t_785f1cb0168543 1-85
+REVIEW.md
+  s_0276221d01c0b0::t_785f1cb0168543 30-32
+uv.lock
+  s_0276221d01c0b0::t_785f1cb0168543 716-723,1255-1266,1325,1394
+apps/data/capture/forms.py
+  s_0276221d01c0b0::t_785f1cb0168543 1-23
+apps/data/capture/views.py
+  s_0276221d01c0b0::t_785f1cb0168543 1-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "3b65947f7470d574666e26cc2f20c3c32b10099c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
