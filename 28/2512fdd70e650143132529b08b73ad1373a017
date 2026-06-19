@@ -1,0 +1,406 @@
+apps/data/expoplatform/tests/test_import_portal_expoplatform.py
+  s_ffd92932362e87::t_ef2d5315f56535 53-56
+apps/data/cvent/mapping.py
+  s_ffd92932362e87::t_4505ec15a50fb7 29-43
+traffic_adapters/adapters/stova.py
+  s_ffd92932362e87::t_a65ab7706d6e56 112
+  s_ffd92932362e87::t_874a206b606945 65-82
+  s_ffd92932362e87::t_335e9a75429508 104
+apps/data/core_apps/transformers.py
+  s_ffd92932362e87::t_e6f7ef85647733 20
+  s_ffd92932362e87::t_e5a9dc59e20424 58-66,70-71,73-74
+apps/data/swapcard/mapping.py
+  s_ffd92932362e87::t_7d3c06d6087c45 208
+  s_ffd92932362e87::t_133a71838e7e0e 248
+  s_ffd92932362e87::t_29e7384928aba7 64
+  s_ffd92932362e87::t_b1431c2df7435f 83
+  s_ffd92932362e87::t_c915ebfa038034 101
+  s_ffd92932362e87::t_7c11b6cf53cf3d 20-27
+  s_ffd92932362e87::t_d5a3aaac4b79ff 123-133
+  s_ffd92932362e87::t_c8ca97955d3fe4 65-71,73,75-79,84-100,108-109
+traffic_adapters/adapters/awsummit.py
+  s_ffd92932362e87::t_dec1e0cc460c08 12-18
+  s_ffd92932362e87::t_fff37471e5c849 66,70,74-78,91
+envelopes/websummit/response.py
+  s_ffd92932362e87::t_6210bbcce76ecc 60
+  s_ffd92932362e87::t_f67762758765ff 61-68,71
+apps/data/websummit/models.py
+  s_ffd92932362e87::t_44eb6c20ccfa3b 65
+  s_ffd92932362e87::t_ef82839f1c45b0 131
+  s_ffd92932362e87::t_e48dc9e67a5b31 47
+  s_ffd92932362e87::t_3d04c00bc78933 92
+  s_ffd92932362e87::t_d84afc155df475 182
+  s_ffd92932362e87::t_b1af9c0ac45a60 81
+  s_ffd92932362e87::t_62e0f134c91e01 193
+  s_ffd92932362e87::t_98879480029b5a 103
+  s_ffd92932362e87::t_1ae7ef4336b161 204
+  s_ffd92932362e87::t_c1b2cb3baa2318 160
+  s_ffd92932362e87::t_47280b52a67877 215
+  s_ffd92932362e87::t_b7281f3823454a 171
+  s_ffd92932362e87::t_8a617c2608d7ed 119
+  s_ffd92932362e87::t_157cb54d216a7e 142
+apps/data/expoplatform/management/commands/import_portal_expoplatform.py
+  s_ffd92932362e87::t_d45ce7c3ec3d6c 181-182,186,189
+  s_ffd92932362e87::t_0a5ed6bd0ac151 39
+  s_ffd92932362e87::t_4913fefbd94907 56-59
+  s_ffd92932362e87::t_deca14e7f51652 196
+  s_ffd92932362e87::t_a24edac3bfcc53 84-86,96-104,109-110,121-122,129,131
+  s_ffd92932362e87::t_561ad8ccc2a51d 14-15
+  s_ffd92932362e87::t_a4f1145e1149ec 204,206,208
+  s_ffd92932362e87::t_d67161a082e172 207
+apps/data/resultsdirect/models.py
+  s_ffd92932362e87::t_0659f6b85d61d2 44,56,68,79,89,99,109,119,129,139
+  s_ffd92932362e87::t_c9a43734596933 33
+  s_ffd92932362e87::t_b2007e99cbec2f 14-17,20
+apps/data/xcd/mapping.py
+  s_ffd92932362e87::t_a865cca21784b7 66-79
+apps/data/luma/transformers.py
+  s_ffd92932362e87::t_ac5e5f8447c38a 13
+  s_ffd92932362e87::t_0a4a2c5cad6bfa 51
+  s_ffd92932362e87::t_4d05da620d5e4a 27-30
+  s_ffd92932362e87::t_5a9bc080ccc2a6 42-50,52-53,55-56,58-62
+apps/data/websummit/transformers.py
+  s_ffd92932362e87::t_183f1ec84776af 64-73,77-78,80-81
+  s_ffd92932362e87::t_1176787798f453 22
+apps/data/stova/models.py
+  s_ffd92932362e87::t_f3962bf7dd5237 157
+  s_ffd92932362e87::t_32cf48817109a5 206
+  s_ffd92932362e87::t_578db4ec4cddd3 103
+  s_ffd92932362e87::t_74086f16d78383 142
+  s_ffd92932362e87::t_9cb8c0658438e0 195
+  s_ffd92932362e87::t_bbb7701d57e4cc 171
+  s_ffd92932362e87::t_b3427454c163d2 217
+  s_ffd92932362e87::t_53617e48529db6 229
+  s_ffd92932362e87::t_68647c7299feb5 89
+  s_ffd92932362e87::t_52c38a3e1cd93a 183
+  s_ffd92932362e87::t_9a5622edc352f4 25-30,44-48
+  s_ffd92932362e87::t_36eaa64f259a68 78
+  s_ffd92932362e87::t_72471bb19c3e02 114
+  s_ffd92932362e87::t_257ce6a1f43b2d 128
+apps/data/cvent/transformers.py
+  s_ffd92932362e87::t_2e4ff3c67908d6 113-114,116-117
+  s_ffd92932362e87::t_9b502c1d697356 82-83,85-86
+  s_ffd92932362e87::t_b4696c992ac967 24
+apps/data/expoplatform/registrations.py
+  s_ffd92932362e87::t_e211588b3c1760 37,41,43-44,52,56,58-59
+apps/data/expoplatform/transformers.py
+  s_ffd92932362e87::t_7d51837bf65ec2 27,31,33-34,41,45,47-48
+  s_ffd92932362e87::t_ea339b40decfa0 177-212
+  s_ffd92932362e87::t_d6b3426ecb7260 23
+  s_ffd92932362e87::t_904a1710b6e48b 83-92,96-97,99-100
+envelopes/expoplatform/response.py
+  s_ffd92932362e87::t_ab65a02cd192d9 72-80
+  s_ffd92932362e87::t_b2350c4591c4f3 22-28
+  s_ffd92932362e87::t_623bae7887883f 40-51,53,55
+  s_ffd92932362e87::t_55f78ff41ae7cb 95-112
+EVENT_SCOPE_CONTRACT.md
+  s_ffd92932362e87::t_3daf03893f1e07 1-79,81-108
+  s_ffd92932362e87::t_ac4b1d7f14a9c4 80
+scrapers/event_spiders/awsummit.py
+  s_ffd92932362e87::t_e47a6ca28ede73 190-198,205-206
+  s_ffd92932362e87::t_7ee558de940faf 176,179-184,186
+apps/data/brella/transformers.py
+  s_ffd92932362e87::t_fc3b17cc56c97e 25
+  s_ffd92932362e87::t_ad1aa750eb5b69 20-24
+  s_ffd92932362e87::t_39c71b53b5ca91 110-112,118
+  s_ffd92932362e87::t_a603ccb243d66b 86,94-100,113-117,122-125
+apps/data/cvent/models.py
+  s_ffd92932362e87::t_ff8245e16db677 124
+  s_ffd92932362e87::t_9f44419f95b772 24-31
+  s_ffd92932362e87::t_4857f0c0a4b634 91
+  s_ffd92932362e87::t_317825bf668bb0 113
+  s_ffd92932362e87::t_b2b78a2514e705 102
+  s_ffd92932362e87::t_8f489785fd13c1 43
+  s_ffd92932362e87::t_fc361f92db28d0 78
+apps/data/swapcard/tests/test_mapping.py
+  s_ffd92932362e87::t_fe34a90d71608c 140-141
+  s_ffd92932362e87::t_fbb11b8c589a54 31,36-46
+apps/data/yc_bookface/management/commands/import_portal_yc_bookface.py
+  s_ffd92932362e87::t_8778be99dcef4a 64,66,77-78,85,87,92,94,104-109,111-112
+  s_ffd92932362e87::t_4740db0980c49a 168,170,172
+  s_ffd92932362e87::t_2e51c8f187acf7 148-151,153
+  s_ffd92932362e87::t_5d610fd228e0eb 160
+  s_ffd92932362e87::t_5892bfabf04f35 110
+  s_ffd92932362e87::t_499c826c77fdea 93
+  s_ffd92932362e87::t_aa798da046f37a 38
+  s_ffd92932362e87::t_d67161a082e172 152,171
+  s_ffd92932362e87::t_17d8a4d4e93ba3 65
+apps/data/eventpilot/tests/test_import_portal_eventpilot.py
+  s_ffd92932362e87::t_95be0a2fe0fa89 82-86,93-95
+apps/data/mapyourshow/models.py
+  s_ffd92932362e87::t_ed4a923057a440 44
+  s_ffd92932362e87::t_e29132844b67be 71
+  s_ffd92932362e87::t_30a45b7c17f0cd 83
+  s_ffd92932362e87::t_270da6fb79fc14 58
+  s_ffd92932362e87::t_591b0e96d7c727 28-33
+apps/data/eventpilot/models.py
+  s_ffd92932362e87::t_a3a980eb990f6a 49
+  s_ffd92932362e87::t_c21ee341760a9e 75
+  s_ffd92932362e87::t_b5be3d9facb581 64
+  s_ffd92932362e87::t_be79efba0c9518 33
+  s_ffd92932362e87::t_838460e6c2c098 86
+  s_ffd92932362e87::t_ad61622f868d31 97
+  s_ffd92932362e87::t_81b3fe6e661ff0 108
+apps/data/expoplatform/mapping.py
+  s_ffd92932362e87::t_c4fa6f8977fac5 48-69,74-76,78
+apps/data/cadmium/mapping.py
+  s_ffd92932362e87::t_a9c2113d04bb08 77-78,80
+  s_ffd92932362e87::t_267ba6d1b625a4 43-68
+apps/data/awsummit/transformers.py
+  s_ffd92932362e87::t_5d7b48d4b15ae8 45-54,63-64,71-77
+  s_ffd92932362e87::t_2f5bb1ecff44b7 130-136,140
+  s_ffd92932362e87::t_3dbc0fabeef3d6 19
+apps/data/allintheloop/models.py
+  s_ffd92932362e87::t_08748a4d9657fb 70
+  s_ffd92932362e87::t_142c548dd56412 82
+  s_ffd92932362e87::t_e7ce4579e3bcb0 27-31
+  s_ffd92932362e87::t_fabe7b419c60f0 57
+  s_ffd92932362e87::t_7ba5d93c791718 95
+  s_ffd92932362e87::t_4da17f38a4c5d1 107
+  s_ffd92932362e87::t_50d1d7178b548f 119
+  s_ffd92932362e87::t_8acae86e1a2fa4 43
+apps/data/resultsdirect/mapping.py
+  s_ffd92932362e87::t_c2cda73cc7dfd0 69-72,74,81-87,97-114
+apps/data/xcd/transformers.py
+  s_ffd92932362e87::t_e65e6f080003f4 56-64,68-69,71-72
+  s_ffd92932362e87::t_9c63f758f3318d 18
+apps/data/swapcard/models.py
+  s_ffd92932362e87::t_018209e59375dc 76
+  s_ffd92932362e87::t_01ec19ab524b13 88
+  s_ffd92932362e87::t_2bf70d645ff0d1 25-37
+  s_ffd92932362e87::t_325e930d751c17 38-42
+  s_ffd92932362e87::t_9845985f01f5fb 101
+  s_ffd92932362e87::t_5ea02212ca087a 55
+apps/data/core_apps/mapping.py
+  s_ffd92932362e87::t_5f7eea957f15a7 34-47
+apps/data/luma/models.py
+  s_ffd92932362e87::t_bd1198cf307c22 39
+  s_ffd92932362e87::t_c5b4523fa960a2 53
+  s_ffd92932362e87::t_e15cc5a4068bb9 94
+  s_ffd92932362e87::t_a7959f0f23403e 66
+apps/data/resultsdirect/transformers.py
+  s_ffd92932362e87::t_4989f2b09849d1 19
+  s_ffd92932362e87::t_46a9dc06c8e7bd 51-59,61-62,64-68
+envelopes/awsummit/response.py
+  s_ffd92932362e87::t_ada6e20ceb881d 73-83,88
+apps/data/base/models/abstract_models.py
+  s_ffd92932362e87::t_e4149bbe55f11e 238-248
+  s_ffd92932362e87::t_8e5fbb8480e7de 492
+  s_ffd92932362e87::t_46078ae5c71938 476
+  s_ffd92932362e87::t_6fe90944b8fbd4 496
+  s_ffd92932362e87::t_9aac0aa584c9e9 480
+  s_ffd92932362e87::t_7c587d35c2c3e5 505
+  s_ffd92932362e87::t_8f77a34665f3c4 440-467
+  s_ffd92932362e87::t_04a56d92393a75 509
+  s_ffd92932362e87::t_7463813bccb4f3 521
+apps/data/cadmium/models.py
+  s_ffd92932362e87::t_25764b3f7858b5 138
+  s_ffd92932362e87::t_3a1d8f56352e4a 77
+  s_ffd92932362e87::t_5868921ed08547 270
+  s_ffd92932362e87::t_1d399e56f00bdd 259
+  s_ffd92932362e87::t_a95557c2e44580 120
+  s_ffd92932362e87::t_02c4cfcf15a495 285
+  s_ffd92932362e87::t_b709e4a11d13cd 35,37-42
+  s_ffd92932362e87::t_0e68b13a0abada 226
+  s_ffd92932362e87::t_87c59d9ccc98c1 204
+  s_ffd92932362e87::t_83ca0b27a3ab12 248
+  s_ffd92932362e87::t_b84fae978d427d 215
+  s_ffd92932362e87::t_87a6b499ffa31b 155
+  s_ffd92932362e87::t_9e7028cd51bd9e 89
+  s_ffd92932362e87::t_00ab6127b720fe 58-62
+  s_ffd92932362e87::t_9016aff29ddda5 101
+  s_ffd92932362e87::t_7e07fc340edf4e 189
+  s_ffd92932362e87::t_0464f7232b89fa 237
+apps/data/brella/mapping.py
+  s_ffd92932362e87::t_632b190b47918d 133,155,172,188,210
+  s_ffd92932362e87::t_919bfa66b6838f 94-104
+apps/data/gatherdigital/models.py
+  s_ffd92932362e87::t_1787a0d694de99 157
+  s_ffd92932362e87::t_5486761c574ff3 169
+  s_ffd92932362e87::t_db71559acce6da 145
+  s_ffd92932362e87::t_5d91a4a7f2d96c 192
+  s_ffd92932362e87::t_db5e1df88b964d 68
+  s_ffd92932362e87::t_62861b0aec5500 204
+  s_ffd92932362e87::t_49641f08696918 38
+  s_ffd92932362e87::t_920656be47b623 181
+  s_ffd92932362e87::t_a84e6560de5938 107
+  s_ffd92932362e87::t_d3f2fb3f9ff180 94
+  s_ffd92932362e87::t_890da98bb17a99 81
+  s_ffd92932362e87::t_420d9e8d22910a 120
+  s_ffd92932362e87::t_3a24d9e7fd7163 133
+scrapers/event_spiders/expoplatform.py
+  s_ffd92932362e87::t_a7a84f319ac2bd 80-81
+apps/data/swapcard/management/commands/import_portal_swapcard.py
+  s_ffd92932362e87::t_e82f3940d9da8f 98-104,107,118-119,121-125,127-132
+  s_ffd92932362e87::t_d67161a082e172 54
+  s_ffd92932362e87::t_7bb5eac735cacc 14-20
+  s_ffd92932362e87::t_22adc0a74a4476 181,183-188
+apps/data/grip/models.py
+  s_ffd92932362e87::t_64743d7692e894 23-28
+  s_ffd92932362e87::t_b4579d898124f6 67
+  s_ffd92932362e87::t_9ecc3bfa6b5b67 54
+  s_ffd92932362e87::t_b20e8c7184f6ab 40
+apps/data/swapcard/transformers.py
+  s_ffd92932362e87::t_8e05eb52acefe6 85-86,92,95,97-99
+  s_ffd92932362e87::t_d7a50582598e62 123
+  s_ffd92932362e87::t_8eea366a97e24c 113-122,124-126,135,144
+  s_ffd92932362e87::t_db845cf99c0af1 180-185,187-188,190-192
+  s_ffd92932362e87::t_b14753b359caa3 33
+  s_ffd92932362e87::t_834680c9a6f27b 70-75,87-91,94
+  s_ffd92932362e87::t_959d89798e6254 76
+apps/data/awsummit/tests/test_response.py
+  s_ffd92932362e87::t_d70874bc9bef12 31-34,36
+apps/data/brella/models.py
+  s_ffd92932362e87::t_4c36ca7a934eb2 427
+  s_ffd92932362e87::t_3bcbfcbd7a74d1 84
+  s_ffd92932362e87::t_bfb0c92a39cfe9 25-28,30-37
+  s_ffd92932362e87::t_5e70f113857913 96
+  s_ffd92932362e87::t_fabcf4eb66db9c 118
+  s_ffd92932362e87::t_4a78dedb62ec82 360
+  s_ffd92932362e87::t_790ebaac28f313 51-55
+  s_ffd92932362e87::t_cdaf3c9ea25bbf 372
+  s_ffd92932362e87::t_3c4f191e57e563 29
+  s_ffd92932362e87::t_180d5fef24b042 73
+  s_ffd92932362e87::t_7648699adbba9f 135
+  s_ffd92932362e87::t_c92feaee3b3831 304-308,312,315
+  s_ffd92932362e87::t_777e7358664cef 430,432-434,438,441
+  s_ffd92932362e87::t_47a947e7e6f5b5 107
+apps/data/expoplatform/models.py
+  s_ffd92932362e87::t_b6f76d8f6d697c 21-26
+  s_ffd92932362e87::t_12a1f88158da4a 96
+  s_ffd92932362e87::t_12b5fade41fc32 151,153-156,160,163
+  s_ffd92932362e87::t_5f7759c797ac0e 49,64,68,70-71
+  s_ffd92932362e87::t_43524f82b0fdee 60
+  s_ffd92932362e87::t_f6281f58c4be75 179,181-184,188,191
+  s_ffd92932362e87::t_cceb68424f7e29 84
+  s_ffd92932362e87::t_e7f6a86096cb28 149-150,152,157-159,161-162,164-175,177-178,180,185-187,189-190,192-203
+  s_ffd92932362e87::t_8ff63300793c1c 176
+  s_ffd92932362e87::t_47c9ff67431289 99,101-104,108,111
+  s_ffd92932362e87::t_86e497d2f64446 122
+  s_ffd92932362e87::t_a13f85c865da20 135
+  s_ffd92932362e87::t_3e5d0dce74f3d6 56-59
+  s_ffd92932362e87::t_d5134ed421aed3 4
+  s_ffd92932362e87::t_0fddcda3ef37e4 28-42
+  s_ffd92932362e87::t_e40365c37bb965 204
+apps/data/expoplatform/tests/test_contracts.py
+  s_ffd92932362e87::t_96616901d6523a 3,6-9
+  s_ffd92932362e87::t_25cf64eb88aaa2 169-172
+  s_ffd92932362e87::t_1af30dba00b57d 113-135,139-144,148-149
+  s_ffd92932362e87::t_559ea43d34bb60 137-138,146-147
+  s_ffd92932362e87::t_1114254ffec0b9 136,145
+apps/data/eventpilot/transformers.py
+  s_ffd92932362e87::t_ff6e0ed89b67b1 76,78-80
+  s_ffd92932362e87::t_0aec4b344584ab 91-101
+  s_ffd92932362e87::t_6ca084daebd214 10-15
+  s_ffd92932362e87::t_069f6d105c70e8 23
+  s_ffd92932362e87::t_ff57af9b7a0f42 57-64,68-69,71-72
+apps/data/base/models/__init__.py
+  s_ffd92932362e87::t_f51ac9e57aa619 32
+  s_ffd92932362e87::t_4201938526b9bb 14
+  s_ffd92932362e87::t_1f80dc93441b00 26
+  s_ffd92932362e87::t_3c5fd4ee866124 8
+apps/data/gatherdigital/transformers.py
+  s_ffd92932362e87::t_e01c1c0548a0fb 22
+  s_ffd92932362e87::t_1766a3e68bc258 65-66,68-73
+apps/data/stova/transformers.py
+  s_ffd92932362e87::t_8d58a0804694df 61-74,78-79,81-82
+  s_ffd92932362e87::t_b5129c515a28ed 21
+apps/data/eventpilot/management/commands/import_portal_eventpilot.py
+  s_ffd92932362e87::t_9c0cb4267ed3ee 19-24
+  s_ffd92932362e87::t_48c1d0b4031dc2 100-106
+apps/data/mapyourshow/transformers.py
+  s_ffd92932362e87::t_6a0ac638a26dc8 19
+  s_ffd92932362e87::t_b92fec54e9b4cc 52-57,59-60
+apps/data/grip/transformers.py
+  s_ffd92932362e87::t_e1f170f147d3af 24
+  s_ffd92932362e87::t_c567fe24161d95 63-70,74-75,77-78
+apps/data/capture/management/commands/import_portal_logins.py
+  s_ffd92932362e87::t_4865e8b130d3c5 54-57
+  s_ffd92932362e87::t_dbe8050524e3cc 25
+envelopes/expoplatform/versions.py
+  s_ffd92932362e87::t_96011c88fccd97 13-15
+  s_ffd92932362e87::t_34abc634161568 63-86
+apps/data/expoplatform/tests/test_response.py
+  s_ffd92932362e87::t_3c9b209e3c62ec 148-151
+envelopes/grip/response.py
+  s_ffd92932362e87::t_ca973113b9a2ae 54-61
+apps/data/xcd/models.py
+  s_ffd92932362e87::t_8ce7603d94af16 167
+  s_ffd92932362e87::t_685962f7aaf1af 80
+  s_ffd92932362e87::t_c9be94c8805c3c 48
+  s_ffd92932362e87::t_64ad6d622934fc 114
+  s_ffd92932362e87::t_7dd8ba0fd3b881 63
+  s_ffd92932362e87::t_511be02863337f 97
+  s_ffd92932362e87::t_3277a716a3e01a 34-36
+  s_ffd92932362e87::t_9504db78d9aa6f 148
+  s_ffd92932362e87::t_162b3f7580ed5e 133
+apps/data/awsummit/models.py
+  s_ffd92932362e87::t_9e7faa0e7b05f4 141
+  s_ffd92932362e87::t_ae22f9683e0b56 88
+  s_ffd92932362e87::t_148dccfc68bc5c 73
+  s_ffd92932362e87::t_598754d433a599 32-39
+  s_ffd92932362e87::t_0a2722a389f838 154
+  s_ffd92932362e87::t_ceafd697b867cf 101
+  s_ffd92932362e87::t_2e8fabf54cfe14 115
+  s_ffd92932362e87::t_aede03e63a2619 128
+  s_ffd92932362e87::t_4279134d417a67 55-59
+apps/data/cadmium/transformers.py
+  s_ffd92932362e87::t_1f211284458470 73-85,91-92,94-95
+  s_ffd92932362e87::t_f8c25fa90874e7 23
+apps/data/grip/mapping.py
+  s_ffd92932362e87::t_b74b2529f130cd 67-79,90-97
+  s_ffd92932362e87::t_b8e5a9ed2db20d 100-113
+apps/data/stova/management/commands/import_portal_stova.py
+  s_ffd92932362e87::t_26c8efde37e809 1-2,21-27,30,33-34,36-45,50,52-73,75,104,106,108,110-126,128-131,155-158
+  s_ffd92932362e87::t_d7ff6e543de15c 3-20,28-29,31,35,46-49,51,74,76-78,88,90-103,105,107,109,132-154,159-173,177-211
+  s_ffd92932362e87::t_5e0ee67153ca86 79-87,89
+  s_ffd92932362e87::t_756b2c19098bdb 32
+  s_ffd92932362e87::t_c37aa991f549e4 127
+  s_ffd92932362e87::t_d1904edcc2e016 174-176
+traffic_adapters/tests/test_awsummit.py
+  s_ffd92932362e87::t_22966800148738 115-117,125-146
+scrapers/event_spiders/websummit.py
+  s_ffd92932362e87::t_317abbe9fbc44a 403-409
+apps/data/allintheloop/transformers.py
+  s_ffd92932362e87::t_a4522b40739e9d 21
+  s_ffd92932362e87::t_0dc3b073f933bc 54-63,67-68,70-71
+traffic_adapters/adapters/expoplatform.py
+  s_ffd92932362e87::t_55b866c5077173 121
+  s_ffd92932362e87::t_84de08d5673648 242
+  s_ffd92932362e87::t_d7ec3df7eb7e6f 112
+  s_ffd92932362e87::t_3c604eab0712bf 57-59,62
+  s_ffd92932362e87::t_1b731d439a3e47 46-51,53,56,60-61,63-64
+  s_ffd92932362e87::t_501af4d623c2b8 139
+  s_ffd92932362e87::t_ab5d329ceea07a 150
+  s_ffd92932362e87::t_15fc8624c7cc3d 161
+  s_ffd92932362e87::t_539365b5c3a3d6 172
+  s_ffd92932362e87::t_5ad0f69a58cc9d 37
+  s_ffd92932362e87::t_6bfc408abdbec6 68-73
+  s_ffd92932362e87::t_8256ce09e5fa5a 130
+apps/data/core_apps/models.py
+  s_ffd92932362e87::t_9859122ec7cb13 59
+  s_ffd92932362e87::t_1d1f5c30732920 47
+  s_ffd92932362e87::t_6e4d5995bc2969 31,33-35
+  s_ffd92932362e87::t_db0b490111c146 97
+  s_ffd92932362e87::t_155dd04510b593 75
+  s_ffd92932362e87::t_2118956127dcca 108
+  s_ffd92932362e87::t_383ab60373d10a 86
+  s_ffd92932362e87::t_17b45892e03107 123
+  s_ffd92932362e87::t_101212a224bebd 138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "282512fdd70e650143132529b08b73ad1373a017",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
