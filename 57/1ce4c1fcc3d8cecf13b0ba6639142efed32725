@@ -1,0 +1,31 @@
+research/settings.py
+  s_0276221d01c0b0::t_4d7b8ac8fcf23f 1-97
+.pre-commit-config.yaml
+  s_0276221d01c0b0::t_f29917ea301f14 8,24,40-47
+scrapy.cfg
+  s_0276221d01c0b0::t_4d7b8ac8fcf23f 1-11
+research/default/__init__.py
+  s_0276221d01c0b0::t_4d7b8ac8fcf23f 1
+research/__init__.py
+  s_0276221d01c0b0::t_4d7b8ac8fcf23f 1
+pyproject.toml
+  s_0276221d01c0b0::t_4d7b8ac8fcf23f 15-46,50,58-63,66,74-78,80,83,87-88,91-93,102,112,151-167,176-225,228,231,236-249,254-267,273,276-291,296-297,300-310,324-326,342,344-347
+research/handlers.py
+  s_0276221d01c0b0::t_4d7b8ac8fcf23f 1-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "571ce4c1fcc3d8cecf13b0ba6639142efed32725",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
