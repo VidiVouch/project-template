@@ -1,0 +1,27 @@
+render.yaml
+  s_0276221d01c0b0::t_656124b6ec7216 1-97
+.idea/inspectionProfiles/Project_Default.xml
+  s_0276221d01c0b0::t_656124b6ec7216 19
+scripts/render-build.sh
+  s_0276221d01c0b0::t_656124b6ec7216 1-31
+.codex/config.toml
+  s_0276221d01c0b0::t_656124b6ec7216 8-13
+.python-version
+  s_0276221d01c0b0::t_656124b6ec7216 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "7b4bf9b14b2562aef4ba51aedf6179e136ece573",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
