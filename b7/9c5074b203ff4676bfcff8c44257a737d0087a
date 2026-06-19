@@ -1,0 +1,71 @@
+apps/catalog/domain/ports.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 28-29,34-38,144-158,177-181
+apps/catalog/tests/test_merge.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-289
+apps/catalog/tests/test_merge_event_namesakes.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-279
+apps/catalog/management/commands/merge_event_namesakes.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-142
+apps/catalog/tests/test_claim_policy.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 228,230-232,234-237,244,246-247,250-275,277-279
+apps/catalog/tests/test_reexamine_claims.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-209
+apps/catalog/tests/test_refresh_org_stems.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-59
+apps/catalog/management/commands/merge_linkedin_renames.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-76
+apps/catalog/org_services.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 92,99,174
+apps/catalog/handlers/_shared.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 76-80,103,106,115,129-131,135,144-154
+apps/catalog/merge.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-434
+tests/eval/harness.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 25,90,94-138,169
+tests/eval/test_resolution_eval.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 21-22,25-26,28,72-149
+apps/catalog/tests/test_promote_individual.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 137,139,199,201
+apps/catalog/services.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 101-114,258-259,263-275,278-280,285-287,291-293,295,297-300,304
+apps/catalog/management/commands/merge_claim_bridges.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-334
+apps/catalog/tests/test_merge_linkedin_renames.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-123
+apps/catalog/tests/test_claim_bridge_ledgering.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-112
+apps/catalog/tests/test_merge_claim_bridges.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-384
+apps/catalog/fakes.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 46-48,51-56,62,222-238,242
+apps/catalog/tests/test_fakes.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 423-426,428,438,445-448
+apps/catalog/models.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 547-613
+apps/catalog/management/commands/promote_unprocessed.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 41,208
+apps/catalog/management/commands/refresh_org_stems.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-64
+apps/catalog/management/commands/reexamine_claims.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-202
+apps/catalog/migrations/0002_personmerge_claimbridge.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 1-41
+apps/catalog/repositories.py
+  s_0276221d01c0b0::t_2ba9bd8e7f806b 26,89-90,92,96-99,337-342
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b79c5074b203ff4676bfcff8c44257a737d0087a",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
