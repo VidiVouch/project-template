@@ -1,0 +1,45 @@
+assets/js/count-up.js
+  s_0276221d01c0b0::t_2bfa827f640bde 1-46
+assets/brand/grazeai-logo-g.svg
+  s_0276221d01c0b0::t_2bfa827f640bde 1-18
+apps/sales/templatetags/sales_format.py
+  s_0276221d01c0b0::t_2bfa827f640bde 1-110
+templates/_theme_picker.html
+  s_0276221d01c0b0::t_2bfa827f640bde 1-11
+templates/allauth/layouts/base.html
+  s_0276221d01c0b0::t_2bfa827f640bde 1,3-7,9-11,13-23,25-28,30-34,36-72
+templates/app/base.html
+  s_0276221d01c0b0::t_2bfa827f640bde 1,3-4,6-44
+templates/base.html
+  s_0276221d01c0b0::t_2bfa827f640bde 1-54
+templates/billing/home.html
+  s_0276221d01c0b0::t_2bfa827f640bde 1-53
+templates/app/_nav.html
+  s_0276221d01c0b0::t_2bfa827f640bde 1-48
+assets/js/auth-network-bg.js
+  s_0276221d01c0b0::t_2bfa827f640bde 1-100
+assets/brand/grazeai-logo.svg
+  s_0276221d01c0b0::t_2bfa827f640bde 1-51
+apps/sales/tests/test_format.py
+  s_0276221d01c0b0::t_2bfa827f640bde 1-25
+assets/js/theme-picker.js
+  s_0276221d01c0b0::t_2bfa827f640bde 1-36
+assets/css/source.css
+  s_0276221d01c0b0::t_2bfa827f640bde 2-1110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2400b0edee20f384f3e90fb015a1297cec3e77b7",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
