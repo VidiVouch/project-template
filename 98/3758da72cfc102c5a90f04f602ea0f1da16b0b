@@ -1,0 +1,25 @@
+crates/vid-lang-rust/src/lib.rs
+  s_a8fa6210c93696::t_7677eeed989ea8 327-331
+  s_a8fa6210c93696::t_5b40ef48d3fdfe 3-6,8-30,67-70,72-75,81-85,90,94-100,102,108-111,116-120,124-127,129-151,154,158-163,168-170,177,184-188,193-194,201-204,215-217,219-224,273-278,287-291,295-299,303-310,314-319,323-326,335-366,371-374,385-408,424
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "983758da72cfc102c5a90f04f602ea0f1da16b0b",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
