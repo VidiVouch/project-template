@@ -1,0 +1,62 @@
+apps/catalog/handlers/braindate.py
+  s_ffd92932362e87::t_fe3c1e2ff197a5 74
+  s_ffd92932362e87::t_8c132e9d093b6e 149
+  s_ffd92932362e87::t_7c272fd5d84408 40
+apps/data/braindate/transformers.py
+  s_ffd92932362e87::t_15f41e03fc798e 16
+  s_ffd92932362e87::t_e92ef18e52206a 38
+  s_ffd92932362e87::t_455204a9b7b50b 47-66
+  s_ffd92932362e87::t_633e84e9344214 23-25
+  s_ffd92932362e87::t_a64f8ab37ad5be 22
+apps/bootstrap.py
+  s_ffd92932362e87::t_8008e445e96f65 88
+  s_ffd92932362e87::t_cf41e96df22c18 113
+apps/data/braindate/management/commands/import_portal_braindate.py
+  s_ffd92932362e87::t_710eddda2fb4a7 38
+apps/catalog/tests/test_promote_braindate.py
+  s_ffd92932362e87::t_382e8ace477c0c 93
+  s_ffd92932362e87::t_9ff43607fcea7e 238
+  s_ffd92932362e87::t_fb81dfaf0958bd 29-31
+config/settings/base.py
+  s_ffd92932362e87::t_35e94e9fd521af 107
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_a64bc65958cdee 41-44
+  s_ffd92932362e87::t_2e036687c41ba3 265
+  s_ffd92932362e87::t_91396439a89432 294
+  s_ffd92932362e87::t_a88e06d5ea842f 167
+apps/data/braindate/models.py
+  s_ffd92932362e87::t_54aa16759c8677 60
+  s_ffd92932362e87::t_04ee1c584460cf 30
+  s_ffd92932362e87::t_ef3453e3d50b57 40-44,46-55
+  s_ffd92932362e87::t_dd310d4adc4d5e 32
+  s_ffd92932362e87::t_04a52009ea2942 45
+envelopes/braindate/versions.py
+  s_ffd92932362e87::t_404c791b05c120 1-21
+scrapers/event_spiders/tests/test_braindate_spider.py
+  s_ffd92932362e87::t_3ef7875d69c027 19
+scrapers/event_spiders/braindate.py
+  s_ffd92932362e87::t_685c319f50945e 38-39
+  s_ffd92932362e87::t_616e1c17e84ffb 20
+  s_ffd92932362e87::t_cd3daf3050fea3 22
+  s_ffd92932362e87::t_55f12e95044560 32
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_4274c8eb7c1ff7 163
+  s_ffd92932362e87::t_cb61c900ae83ca 35-38
+  s_ffd92932362e87::t_9a193f965ae222 408-409
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "83103d42d1875e3394c60504ad51ea56bbdeadae",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
