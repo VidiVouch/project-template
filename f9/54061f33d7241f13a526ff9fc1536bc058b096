@@ -1,0 +1,53 @@
+editors/vscode/package.json
+  s_a8fa6210c93696::t_b5bcf6bc5978cf 1-61
+editors/vscode/src/extension.ts
+  s_a8fa6210c93696::t_88b4705df98eba 1-53,55-204
+  s_a8fa6210c93696::t_2745e2114a1b51 54
+editors/xcode/README.md
+  s_a8fa6210c93696::t_ad7d733e626371 1-30
+editors/vscode/tsconfig.json
+  s_a8fa6210c93696::t_4b0eb3d1c3be26 1-14
+editors/xcode/SourceEditorCommand.swift
+  s_a8fa6210c93696::t_8c350022b612ed 1-47
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidToolWindowFactory.kt
+  s_a8fa6210c93696::t_d72b949942f323 1-35
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VouchAction.kt
+  s_a8fa6210c93696::t_ed681f2e275fa1 1-32
+editors/jetbrains/README.md
+  s_a8fa6210c93696::t_8640d5e806f871 1-30
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidRunner.kt
+  s_a8fa6210c93696::t_f67c371bdf4368 1-48
+editors/xcode/Info.plist
+  s_a8fa6210c93696::t_ffe210111da448 1-33
+editors/vscode/media/eye.svg
+  s_a8fa6210c93696::t_922ed3b7df5140 1-4
+editors/vscode/README.md
+  s_a8fa6210c93696::t_56602db7c11ba4 1-37
+editors/jetbrains/settings.gradle.kts
+  s_a8fa6210c93696::t_2b39b5d93275a8 1
+editors/jetbrains/src/main/resources/META-INF/plugin.xml
+  s_a8fa6210c93696::t_d644c32a7a216f 1-27
+editors/jetbrains/build.gradle.kts
+  s_a8fa6210c93696::t_f43c36fd79ab02 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f954061f33d7241f13a526ff9fc1536bc058b096",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
