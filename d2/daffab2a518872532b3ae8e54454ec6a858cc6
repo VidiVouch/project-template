@@ -1,0 +1,25 @@
+apps/catalog/identity/names.py
+  s_0276221d01c0b0::t_69a4f3ccddec3b 164-188
+apps/catalog/tests/test_person_resolution.py
+  s_0276221d01c0b0::t_69a4f3ccddec3b 153-181
+apps/catalog/tests/test_names.py
+  s_0276221d01c0b0::t_69a4f3ccddec3b 11,243-251
+apps/catalog/handlers/_shared.py
+  s_0276221d01c0b0::t_69a4f3ccddec3b 28,86-87,139-162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "d2daffab2a518872532b3ae8e54454ec6a858cc6",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
