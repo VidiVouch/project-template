@@ -1,0 +1,33 @@
+apps/catalog/cleaning/text.py
+  s_0276221d01c0b0::t_898057b2c91521 1-22
+apps/catalog/cleaning/countries.py
+  s_0276221d01c0b0::t_898057b2c91521 1-271
+apps/catalog/cleaning/locations.py
+  s_0276221d01c0b0::t_898057b2c91521 1-88
+apps/catalog/cleaning/person_names.py
+  s_0276221d01c0b0::t_898057b2c91521 1-681
+apps/catalog/cleaning/titles.py
+  s_0276221d01c0b0::t_898057b2c91521 1-300
+apps/catalog/cleaning/__init__.py
+  s_0276221d01c0b0::t_898057b2c91521 1-52
+apps/catalog/cleaning/descriptions.py
+  s_0276221d01c0b0::t_898057b2c91521 1-118
+apps/catalog/cleaning/organizations.py
+  s_0276221d01c0b0::t_898057b2c91521 1-620
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "22c1b704d8a6687ec60be969437fd15fd8500909",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
