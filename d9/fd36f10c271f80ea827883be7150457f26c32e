@@ -1,0 +1,23 @@
+apps/catalog/org_services.py
+  s_0276221d01c0b0::t_965f4b6165b6d4 1-176
+apps/catalog/merge.py
+  s_0276221d01c0b0::t_965f4b6165b6d4 1-757
+apps/catalog/org_collision.py
+  s_0276221d01c0b0::t_965f4b6165b6d4 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "d9fd36f10c271f80ea827883be7150457f26c32e",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
