@@ -1,0 +1,150 @@
+research/__init__.py
+  h_795c5e33ecc5af 1
+research/tests/test_spider_integration.py
+  h_795c5e33ecc5af 1-141
+research/event_research/tests/test_awsummit_spider.py
+  h_795c5e33ecc5af 1-162
+research/event_research/luma.py
+  s_a44b63984f15e2::t_a7001256598711 147-166
+envelopes/__init__.py
+  h_795c5e33ecc5af 3
+research/tests/test_handlers.py
+  h_795c5e33ecc5af 1-115
+research/pipelines.py
+  h_795c5e33ecc5af 1-140
+research/event_research/tests/test_luma_spider.py
+  h_795c5e33ecc5af 1-157
+research/tests/test_pipelines.py
+  h_795c5e33ecc5af 1-230
+.agents/skills/local-review/SKILL.md
+  h_795c5e33ecc5af 3,28
+research/event_research/eventpilot.py
+  s_a44b63984f15e2::t_a7001256598711 409
+research/event_research/xcd.py
+  s_a44b63984f15e2::t_adb801a081774b 411-432
+research/event_research/tests/test_cadmium_e2e.py
+  h_795c5e33ecc5af 1-139
+research/event_research/websummit.py
+  s_a44b63984f15e2::t_a7001256598711 205-207
+research/handlers.py
+  h_795c5e33ecc5af 1-89
+research/event_research/tests/test_mapyourshow_spider.py
+  h_795c5e33ecc5af 1-220
+research/tests/conftest.py
+  h_795c5e33ecc5af 1-64
+apps/data/capture/models.py
+  h_795c5e33ecc5af 63
+apps/data/awsummit/mapping.py
+  h_795c5e33ecc5af 31
+research/event_research/cadmium_utils.py
+  h_795c5e33ecc5af 1-131
+research/event_research/tests/test_cvent_spiders.py
+  h_795c5e33ecc5af 1-201
+research/event_research/tests/test_cadmium_utils.py
+  h_795c5e33ecc5af 1-127
+PORT_REVIEW_PACKET.html
+  s_a44b63984f15e2::t_f1c507a47a109a 725,967-968,986,1214,1220,1226,1232,1238,1244,1250-1251,1258,1264,1272,1278,1284,1297,1382-1383,1407,1493-1494
+README.md
+  s_a44b63984f15e2::t_f1c507a47a109a 766
+research/event_research/tests/test_websummit_spider.py
+  h_795c5e33ecc5af 1-187
+traffic_analysis/tests/test_provider_registry.py
+  h_795c5e33ecc5af 171,173,178
+research/event_research/tests/test_core_apps_spider.py
+  h_795c5e33ecc5af 1-193
+research/settings.py
+  h_795c5e33ecc5af 1-97
+config/settings/base.py
+  h_795c5e33ecc5af 599-600
+tests/hooks/test_run_architecture_tests.py
+  h_795c5e33ecc5af 30
+research/event_research/tests/test_gatherdigital_spider.py
+  h_795c5e33ecc5af 1-210
+apps/data/luma/mapping.py
+  h_795c5e33ecc5af 38
+config/log.py
+  h_795c5e33ecc5af 89
+pyproject.toml
+  s_a44b63984f15e2::t_a20faf51527e63 92,191,297,301
+research/event_research/tests/test_brella_spider.py
+  h_795c5e33ecc5af 1-178
+apps/data/mapyourshow/mapping.py
+  h_795c5e33ecc5af 55
+REVIEW.md
+  s_a44b63984f15e2::t_f1c507a47a109a 66,71
+envelopes/allintheloop/response.py
+  h_795c5e33ecc5af 10
+apps/data/allintheloop/mapping.py
+  h_795c5e33ecc5af 47
+traffic_analysis/provider_registry.py
+  s_a44b63984f15e2::t_a20faf51527e63 28
+  h_795c5e33ecc5af 13
+apps/data/capture/management/commands/startsource.py
+  s_a44b63984f15e2::t_f1c507a47a109a 138
+research/event_research/tests/test_expoplatform_spider.py
+  h_795c5e33ecc5af 1-401
+TEST_REVIEW.html
+  s_a44b63984f15e2::t_f1c507a47a109a 474,772
+PK_FIX_PATTERN.md
+  s_a44b63984f15e2::t_f1c507a47a109a 243,252
+tests/architecture/test_collection_layer_django_free.py
+  s_a44b63984f15e2::t_41ed73711faf38 71
+  h_795c5e33ecc5af 3,20,35,81
+.agents/skills/port-source/SKILL.md
+  h_795c5e33ecc5af 3
+research/event_research/tests/test_swapcard_spider.py
+  h_795c5e33ecc5af 1-181
+research/event_research/tests/test_cadmium_spider.py
+  h_795c5e33ecc5af 1-641
+research/event_research/tests/test_eventpilot_spider.py
+  h_795c5e33ecc5af 1-267
+.idea/runConfigurations/Pytest__Research_.xml
+  s_a44b63984f15e2::t_e66532b173076c 1-25
+.agents/skills/check-coverage/SKILL.md
+  h_795c5e33ecc5af 3,42,187
+research/tests/__init__.py
+  h_795c5e33ecc5af 1
+research/event_research/tests/test_eventpilot_discover_spider.py
+  h_795c5e33ecc5af 1-88
+research/event_research/cadmium.py
+  h_795c5e33ecc5af 1-509
+apps/data/eventpilot/mapping.py
+  h_795c5e33ecc5af 38
+research/tests/test_settings.py
+  h_795c5e33ecc5af 1-49
+research/event_research/tests/test_stova_spider.py
+  h_795c5e33ecc5af 1-65
+research/event_research/tests/test_allintheloop_spider.py
+  h_795c5e33ecc5af 1-165
+research/event_research/tests/test_resultsdirect_spider.py
+  h_795c5e33ecc5af 1-229
+scrapy.cfg
+  h_795c5e33ecc5af 7,11
+research/event_research/tests/test_grip_spider.py
+  h_795c5e33ecc5af 1-514
+research/event_research/tests/test_xcd_spider.py
+  h_795c5e33ecc5af 1-205
+.idea/scopes/Research.xml
+  s_a44b63984f15e2::t_e66532b173076c 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "bbc02e3ffdd37ae5d6370d0f416e2b3c3f6bc2ac",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a44b63984f15e2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4c2aa816-294f-43cf-a7a1-1ecfbd837ff1",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
