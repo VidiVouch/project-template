@@ -1,0 +1,23 @@
+apps/jobs/management/commands/import_rebuild_snapshot.py
+  s_0276221d01c0b0::t_ff7fd9164b1b9b 1-794
+apps/jobs/tests/test_import_rebuild_snapshot.py
+  s_0276221d01c0b0::t_ff7fd9164b1b9b 1-638
+REVIEW.md
+  s_0276221d01c0b0::t_ff7fd9164b1b9b 67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b68398bead578a740cfc4f3a281e912a81824b63",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
