@@ -1,0 +1,63 @@
+apps/intake/urls.py
+  s_0276221d01c0b0::t_e143b296af702b 1-12
+apps/intake/tests/test_rls.py
+  s_0276221d01c0b0::t_e143b296af702b 1-104
+apps/intake/receivers.py
+  s_0276221d01c0b0::t_e143b296af702b 1-92
+apps/intake/events.py
+  s_0276221d01c0b0::t_e143b296af702b 1-21
+apps/intake/views.py
+  s_0276221d01c0b0::t_e143b296af702b 1-122
+config/settings/base.py
+  s_0276221d01c0b0::t_e143b296af702b 104
+templates/intake/share_access.html
+  s_0276221d01c0b0::t_e143b296af702b 1-49
+apps/intake/apps.py
+  s_0276221d01c0b0::t_e143b296af702b 1-23
+tests/architecture/test_bigint_boundary.py
+  s_0276221d01c0b0::t_e143b296af702b 31
+apps/intake/models.py
+  s_0276221d01c0b0::t_e143b296af702b 1-160
+apps/intake/tests/test_receivers.py
+  s_0276221d01c0b0::t_e143b296af702b 1-50
+templates/app/_nav.html
+  s_0276221d01c0b0::t_e143b296af702b 25-29
+apps/intake/forms.py
+  s_0276221d01c0b0::t_e143b296af702b 1-54
+apps/intake/migrations/0002_rls.py
+  s_0276221d01c0b0::t_e143b296af702b 1-27
+apps/intake/admin.py
+  s_0276221d01c0b0::t_e143b296af702b 1-181
+apps/intake/tests/test_models.py
+  s_0276221d01c0b0::t_e143b296af702b 1-55
+apps/intake/migrations/0001_initial.py
+  s_0276221d01c0b0::t_e143b296af702b 1-68
+apps/intake/tests/factories.py
+  s_0276221d01c0b0::t_e143b296af702b 1-39
+apps/intake/tests/test_admin.py
+  s_0276221d01c0b0::t_e143b296af702b 1-125
+templates/intake/conference_requests.html
+  s_0276221d01c0b0::t_e143b296af702b 1-54
+config/urls.py
+  s_0276221d01c0b0::t_e143b296af702b 30-33
+REVIEW.md
+  s_0276221d01c0b0::t_e143b296af702b 59
+apps/intake/tests/test_views.py
+  s_0276221d01c0b0::t_e143b296af702b 1-161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "e76afc27aae7040462423c6edca26f486b187261",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
