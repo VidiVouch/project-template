@@ -1,0 +1,27 @@
+apps/data/grip/tests/test_import_portal_grip.py
+  s_0276221d01c0b0::t_2668abacc4ea2f 1-102
+apps/data/grip/admin.py
+  s_0276221d01c0b0::t_2668abacc4ea2f 1-21
+REVIEW.md
+  s_0276221d01c0b0::t_2668abacc4ea2f 45-46
+apps/data/grip/tests/test_admin.py
+  s_0276221d01c0b0::t_2668abacc4ea2f 1-34
+apps/data/grip/management/commands/import_portal_grip.py
+  s_0276221d01c0b0::t_2668abacc4ea2f 1-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "4844c19d47d2f2188d9976e64052cb1909f5ab99",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
