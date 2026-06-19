@@ -1,0 +1,68 @@
+apps/catalog/handlers/affiliate_world.py
+  s_ffd92932362e87::t_e0cbd134fac1f4 202
+  s_ffd92932362e87::t_0655b82c675f32 107
+  s_ffd92932362e87::t_eca4edb9fda486 245
+  s_ffd92932362e87::t_1bf286986c9ba0 164
+apps/bootstrap.py
+  s_ffd92932362e87::t_65e8f43400f9e0 111
+  s_ffd92932362e87::t_44d96fcdd87cac 85
+config/settings/base.py
+  s_ffd92932362e87::t_67b2944ac4a8c3 104
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_fdcf9b12b4c25a 149-154
+  s_ffd92932362e87::t_f0f2c7827959c8 21-26
+  s_ffd92932362e87::t_4b7fbe6f46bce7 295-297
+  s_ffd92932362e87::t_371abecf4b0771 269
+apps/data/affiliate_world/tests/test_contracts.py
+  s_ffd92932362e87::t_aa78f4aa0cc3e5 19
+envelopes/affiliate_world/versions.py
+  s_ffd92932362e87::t_3b66e98e9ff081 18
+  s_ffd92932362e87::t_7a37afc2e9896a 1-17,19-20
+apps/data/affiliate_world/tests/test_app_registration.py
+  s_ffd92932362e87::t_e7b258c6b152e7 19
+scrapers/event_spiders/affiliate_world.py
+  s_ffd92932362e87::t_092f0b746b9c85 24
+  s_ffd92932362e87::t_460d14b9ee7ab2 35
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_2f11ed514901a1 406-409
+  s_ffd92932362e87::t_d560236f671f5d 15-20
+  s_ffd92932362e87::t_069d5d7ef4736c 145-150
+apps/data/affiliate_world/tests/test_transformers.py
+  s_ffd92932362e87::t_0d020857b127a8 18
+apps/data/affiliate_world/models.py
+  s_ffd92932362e87::t_156e9a8ac7b6b6 68
+  s_ffd92932362e87::t_cb56ae144ec99a 94
+  s_ffd92932362e87::t_43859d83dedd3e 22-24
+  s_ffd92932362e87::t_83afb373aee7bc 38
+  s_ffd92932362e87::t_e378fa1e8e6a40 36
+  s_ffd92932362e87::t_6685474f0102d4 51-55,57-67,69-80,82-89
+  s_ffd92932362e87::t_db2778a2d0cc84 81
+  s_ffd92932362e87::t_21878d0c48b472 56
+apps/data/affiliate_world/transformers.py
+  s_ffd92932362e87::t_c861cffb703572 54-58
+  s_ffd92932362e87::t_e4c7352b77df1d 19
+  s_ffd92932362e87::t_1cf8031ad14fb4 13-18,20-27
+  s_ffd92932362e87::t_05ead1528c4115 45
+apps/catalog/tests/test_promote_affiliate_world.py
+  s_ffd92932362e87::t_f835eefb7c1101 107
+  s_ffd92932362e87::t_11ce4f6f89c745 47
+  s_ffd92932362e87::t_15831879e35b6b 224
+apps/data/affiliate_world/tests/test_response.py
+  s_ffd92932362e87::t_995d4fd28b6a10 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "9d54df64f24f6aa177029bf08d29215391566f93",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
