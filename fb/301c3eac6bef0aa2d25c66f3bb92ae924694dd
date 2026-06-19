@@ -1,0 +1,19 @@
+apps/catalog/tests/test_promote_presence.py
+  s_0276221d01c0b0::t_3d0f0750492925 30,33,36-53,56-77,241-242,244,249-250,252-253,257,263,267,269,272,274,280
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "fb301c3eac6bef0aa2d25c66f3bb92ae924694dd",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
