@@ -1,0 +1,27 @@
+AGENTS.md
+  s_0276221d01c0b0::t_58649f754ded38 22-34,42-45,61-71
+LICENSE.md
+  s_0276221d01c0b0::t_58649f754ded38 1
+CONTRIBUTING.md
+  s_0276221d01c0b0::t_58649f754ded38 1-156
+README.md
+  s_0276221d01c0b0::t_58649f754ded38 16-22,30-48,68-72,75-76,130-134,158,162-164,171-192,209-213,247-253,284-766
+REVIEW.md
+  s_0276221d01c0b0::t_58649f754ded38 10,23-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "505b0f985b42cf85e48587367872492bd2bb1067",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
