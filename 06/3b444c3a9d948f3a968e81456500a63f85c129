@@ -1,0 +1,29 @@
+config/urls.py
+  s_0276221d01c0b0::t_ae1373dbd64bdb 11-19
+apps/identity/urls.py
+  s_0276221d01c0b0::t_ae1373dbd64bdb 1-20
+config/settings/base.py
+  s_0276221d01c0b0::t_ae1373dbd64bdb 72-73,94,102-130
+project-words.dic
+  s_0276221d01c0b0::t_ae1373dbd64bdb 16
+pyproject.toml
+  s_0276221d01c0b0::t_ae1373dbd64bdb 17
+uv.lock
+  s_0276221d01c0b0::t_ae1373dbd64bdb 567-578,1230,1295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "063b444c3a9d948f3a968e81456500a63f85c129",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
