@@ -1,0 +1,141 @@
+apps/sales/tests/test_dashboard.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-248
+apps/sales/limits.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-119
+apps/sales/admin.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-102
+apps/sales/migrations/0010_icpprofile_criteria_version_icpscore.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-42
+apps/sales/tests/test_merge_rehome.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-320
+apps/sales/person_tokens.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-75
+apps/sales/migrations/0011_icpscore_rls.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-21
+apps/sales/tests/test_seed_design_preview.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-180
+apps/sales/tests/test_event_detail.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-296
+apps/sales/migrations/0003_conference.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-35
+apps/sales/migrations/0008_deliveryrecord.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-31
+apps/sales/domain/criteria.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-214
+apps/sales/tests/test_icp_review.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-195
+apps/sales/tests/test_icp_scoring.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-200
+apps/sales/tests/test_receivers.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-42
+apps/sales/views.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-638
+apps/sales/tests/test_export_flow.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-238
+apps/sales/management/commands/seed_design_preview.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-726
+apps/sales/tests/test_delivery.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-176
+apps/sales/receivers.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-64
+apps/sales/domain/__init__.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-8
+apps/sales/registrations.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-45
+apps/sales/tests/test_limits.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-149
+apps/sales/tests/test_event_tokens.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-97
+apps/sales/exports_views.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-139
+apps/sales/tests/test_prospect_lists.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-308
+apps/sales/migrations/0002_rls.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-31
+apps/sales/tests/factories.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-181
+apps/sales/delivery.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-120
+apps/sales/event_tokens.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-80
+apps/sales/management/commands/score_icp.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-65
+apps/sales/tests/test_rls.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-187
+apps/sales/tests/test_placeholders.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-58
+apps/sales/apps.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-18
+apps/sales/domain/scoring.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-261
+apps/sales/models.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-392
+apps/sales/management/commands/export_event_attendees.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-169
+apps/sales/tests/test_format.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-45
+apps/sales/migrations/0001_initial.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-90
+apps/sales/domain/parsing.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-167
+apps/sales/tests/test_export_event_attendees.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-256
+apps/sales/tests/test_icp_criteria.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-106
+apps/sales/conference_sections.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-75
+apps/sales/tests/test_entitlements.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-112
+apps/sales/tests/test_middleware.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-149
+apps/sales/tests/test_models.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-172
+apps/sales/migrations/0009_deliveryrecord_rls.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-20
+apps/sales/middleware.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-116
+apps/sales/entitlements.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-139
+apps/sales/urls.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-28
+apps/sales/tests/test_icp_parsing.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-78
+apps/sales/migrations/0005_conference_status_unlocked.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-18
+apps/sales/tests/test_event_index.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-146
+apps/sales/migrations/0006_icpprofile_review_conferenceicp.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-55
+apps/sales/templatetags/sales_format.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-111
+apps/sales/tests/test_scoring_service.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-229
+apps/sales/placeholders.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-81
+apps/sales/scoring_service.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-165
+apps/sales/tests/test_conferences.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-483
+apps/sales/migrations/0004_conference_rls.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-18
+apps/sales/events.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-16
+apps/sales/migrations/0007_conferenceicp_rls.py
+  s_0276221d01c0b0::t_0a29b8e51daab4 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "a1a835ecd47b4c8dbd4cf91406f3bddf70fed246",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
