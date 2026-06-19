@@ -1,0 +1,26 @@
+apps/data/jublia/models.py
+  s_ffd92932362e87::t_8bb0c14b049bf4 47
+  s_ffd92932362e87::t_15920067a1bdde 33
+  s_ffd92932362e87::t_a2e07553c910e2 59
+  s_ffd92932362e87::t_868646f7533e1c 71
+  s_ffd92932362e87::t_a84f235fab8c47 20-23
+apps/data/jublia/transformers.py
+  s_ffd92932362e87::t_3b164dfb403256 48-52
+  s_ffd92932362e87::t_61b83174386085 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6ce7ccd942ddaaf26a27804eaeea2f7916a5179a",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
