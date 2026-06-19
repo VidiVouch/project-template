@@ -1,0 +1,49 @@
+apps/catalog/tests/test_supervisor.py
+  s_0276221d01c0b0::t_527d8937ac4383 1-176
+apps/catalog/handlers/resident.py
+  s_0276221d01c0b0::t_527d8937ac4383 1-994
+PORTAL_V5_PLAN.md
+  s_0276221d01c0b0::t_527d8937ac4383 204-218
+apps/catalog/handlers/resident_spec.py
+  s_0276221d01c0b0::t_527d8937ac4383 1-54
+apps/catalog/management/_supervisor.py
+  s_0276221d01c0b0::t_527d8937ac4383 1-115
+apps/catalog/management/commands/promote_pipeline.py
+  s_0276221d01c0b0::t_527d8937ac4383 6-15,17-19,22-23,28,40-41,70
+apps/catalog/tests/test_resident.py
+  s_0276221d01c0b0::t_527d8937ac4383 1-358
+apps/catalog/tests/test_cadmium_batch.py
+  s_0276221d01c0b0::t_527d8937ac4383 29,454-476
+apps/catalog/tests/test_throughput_tripwires.py
+  s_0276221d01c0b0::t_527d8937ac4383 1-136
+apps/catalog/tests/test_promote_pipeline.py
+  s_0276221d01c0b0::t_527d8937ac4383 15,86
+apps/catalog/handlers/resident_prep.py
+  s_0276221d01c0b0::t_527d8937ac4383 1-120
+apps/catalog/management/commands/promote_unprocessed.py
+  s_0276221d01c0b0::t_527d8937ac4383 29,37-38,42,105,168-183,194-213,218-255,268-271,273-275,277,294,303-336,350-354,356-360,389-400,481-540
+apps/catalog/handlers/resident_turbo.py
+  s_0276221d01c0b0::t_527d8937ac4383 1-157
+apps/catalog/tests/test_resolution_goldens.py
+  s_0276221d01c0b0::t_527d8937ac4383 38,361-370,374,436-444
+apps/catalog/tests/test_resident_turbo.py
+  s_0276221d01c0b0::t_527d8937ac4383 1-190
+pyproject.toml
+  s_0276221d01c0b0::t_527d8937ac4383 161-163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8dea72eef0cab2a0140d794d3677e29b29482798",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
