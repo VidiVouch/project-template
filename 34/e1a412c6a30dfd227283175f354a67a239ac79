@@ -1,0 +1,29 @@
+tests/contracts/mapper.py
+  s_0276221d01c0b0::t_3fdce935b7d6a5 1-57
+apps/data/base/cleaning.py
+  s_0276221d01c0b0::t_3fdce935b7d6a5 11-21
+apps/data/cadmium/tests/test_contracts.py
+  s_0276221d01c0b0::t_3fdce935b7d6a5 1-105
+tests/architecture/test_transformers_never_clean.py
+  s_0276221d01c0b0::t_3fdce935b7d6a5 1-46
+tests/contracts/transformer.py
+  s_0276221d01c0b0::t_3fdce935b7d6a5 1-127
+apps/catalog/canonical_keys.py
+  s_0276221d01c0b0::t_3fdce935b7d6a5 38,70-77,84-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "34e1a412c6a30dfd227283175f354a67a239ac79",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
