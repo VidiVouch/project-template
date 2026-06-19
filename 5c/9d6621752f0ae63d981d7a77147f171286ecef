@@ -1,0 +1,29 @@
+apps/catalog/tests/test_cadmium_batch.py
+  s_0276221d01c0b0::t_0e7769f3e832c9 1-452
+apps/catalog/handlers/cadmium_batch.py
+  s_0276221d01c0b0::t_0e7769f3e832c9 1-514
+apps/catalog/management/commands/promote_unprocessed.py
+  s_0276221d01c0b0::t_0e7769f3e832c9 39,238-241,247-250,266-285
+apps/catalog/handlers/_sequence.py
+  s_0276221d01c0b0::t_0e7769f3e832c9 1-42
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_0e7769f3e832c9 35-40,72-79
+apps/catalog/tests/test_resolution_goldens.py
+  s_0276221d01c0b0::t_0e7769f3e832c9 37,356-363
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "5c9d6621752f0ae63d981d7a77147f171286ecef",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
