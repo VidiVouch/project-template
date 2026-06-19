@@ -1,0 +1,29 @@
+research/tests/test_pipelines.py
+  s_0276221d01c0b0::t_dcc85efe95d4e3 1-230
+research/tests/test_spider_integration.py
+  s_0276221d01c0b0::t_dcc85efe95d4e3 1-141
+research/tests/__init__.py
+  s_0276221d01c0b0::t_dcc85efe95d4e3 1
+research/tests/test_settings.py
+  s_0276221d01c0b0::t_dcc85efe95d4e3 1-49
+research/tests/conftest.py
+  s_0276221d01c0b0::t_dcc85efe95d4e3 1-64
+research/tests/test_handlers.py
+  s_0276221d01c0b0::t_dcc85efe95d4e3 1-115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "7b520a1c7ef87ea7e43e0c4726afb352b1c2ebf1",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
