@@ -1,0 +1,31 @@
+apps/data/base/tests/test_admin_actions.py
+  s_0276221d01c0b0::t_a0d6bc34b282d2 1-34
+apps/data/base/paginator.py
+  s_0276221d01c0b0::t_a0d6bc34b282d2 1-57
+apps/catalog/admin.py
+  s_0276221d01c0b0::t_a0d6bc34b282d2 1-177
+apps/data/base/tests/test_paginator.py
+  s_0276221d01c0b0::t_a0d6bc34b282d2 1-50
+REVIEW.md
+  s_0276221d01c0b0::t_a0d6bc34b282d2 33-36
+apps/catalog/tests/test_catalog_admin.py
+  s_0276221d01c0b0::t_a0d6bc34b282d2 1-117
+apps/data/base/admin_actions.py
+  s_0276221d01c0b0::t_a0d6bc34b282d2 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "367832606ebeb0e36890992e37c45d5f5648d4b3",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
