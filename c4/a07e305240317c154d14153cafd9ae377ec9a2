@@ -1,0 +1,77 @@
+apps/billing/views.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-170
+tests/architecture/test_no_forbidden_imports.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 37
+apps/analytics/signals.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 12,22-34,49-50,201-280
+apps/billing/tests/__init__.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1
+apps/billing/migrations/0001_initial.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-91
+apps/analytics/apps.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 39-41
+config/urls.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 24-27
+apps/billing/templates/billing/home.html
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-52
+apps/billing/tests/test_invoicing.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-208
+render.yaml
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 41-50,132-136,186-189
+apps/billing/management/commands/stripe_listen.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-59
+config/settings/base.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 92,328-329,379-398
+apps/billing/receivers.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-67
+apps/billing/tests/test_views.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-189
+apps/billing/admin.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-86
+apps/billing/models.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-181
+uv.lock
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1532,1612,2280-2290
+apps/billing/__init__.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1
+apps/billing/keys.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-27
+apps/billing/invoicing.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-198
+config/settings/production.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 66-89
+apps/billing/apps.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-23
+apps/billing/management/commands/stripe_sync.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-46
+apps/billing/urls.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-9
+.env.sample
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 60-76
+apps/billing/tests/test_webhooks.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-151
+pyproject.toml
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 38
+apps/billing/webhooks.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-102
+REVIEW.md
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 56-58
+apps/billing/tests/test_receivers.py
+  s_0276221d01c0b0::t_00c5fd72e0b2ef 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c4a07e305240317c154d14153cafd9ae377ec9a2",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
