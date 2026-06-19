@@ -1,0 +1,62 @@
+DESIGN.html
+  s_3eef9ab50d8f0a::t_4afef8740a7f79 624
+  s_3eef9ab50d8f0a::t_4c6f4622fdd97a 165
+  s_3eef9ab50d8f0a::t_d58e2e8a1363dc 542-553
+  s_3eef9ab50d8f0a::t_b4e08be70d156d 625
+  s_3eef9ab50d8f0a::t_4563953663c962 295
+  s_3eef9ab50d8f0a::t_38cd76e39463d9 145
+  s_3eef9ab50d8f0a::t_42087f60579e2d 258
+  s_3eef9ab50d8f0a::t_f2361573c09b3a 403-413
+  s_3eef9ab50d8f0a::t_fde057354bd3d9 626-633
+  s_3eef9ab50d8f0a::t_4e1c59c9027b88 349-401
+  s_3eef9ab50d8f0a::t_00f29f5853eaaa 297
+editor-plugin-designs.html
+  s_3eef9ab50d8f0a::t_2659f429076059 1-6,11-178,246-262,279-283,285-307,309-397,399-417,426-465,467-519,789-806
+  s_3eef9ab50d8f0a::t_8cfa0eddfb955c 271,273-278
+  s_3eef9ab50d8f0a::t_891cb6f3ad0cd4 641
+  s_3eef9ab50d8f0a::t_564e206e14cc0c 719,721-728
+  s_3eef9ab50d8f0a::t_637afcb4cfecec 7-10
+  s_3eef9ab50d8f0a::t_ab7c3ad2a7ba2f 308
+  s_3eef9ab50d8f0a::t_dbb36a674f4b2e 708
+  s_3eef9ab50d8f0a::t_870355a1754273 284
+  s_3eef9ab50d8f0a::t_eee4ecd9ca2aca 208-209,650
+  s_3eef9ab50d8f0a::t_6b92aed739a475 263-270
+  s_3eef9ab50d8f0a::t_97670368479558 418-425
+  s_3eef9ab50d8f0a::t_cf7995213370e5 623
+  s_3eef9ab50d8f0a::t_635987c281d27d 667
+  s_3eef9ab50d8f0a::t_618b416e6ca292 179-207,210-245
+  s_3eef9ab50d8f0a::t_67a62714264263 686
+  s_3eef9ab50d8f0a::t_db4dfb3f2a95dd 687-688
+  s_3eef9ab50d8f0a::t_b579a58594274f 628
+  s_3eef9ab50d8f0a::t_26488dd7596af6 272
+  s_3eef9ab50d8f0a::t_fa0122a52af23c 398
+  s_3eef9ab50d8f0a::t_c5036cca30f979 520-622,624-627,629-640,642-649,651-666,668-685,689-707,709-718,720,729-788
+  s_3eef9ab50d8f0a::t_ad02049b95c935 466
+assets/vid-wordmark.svg
+  s_77406b1cfb1f8f::t_b3bd6e0d6f3b73 10-12
+  s_77406b1cfb1f8f::t_e2ed571cc4affd 1-4,6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "a059f86ed7caa26b64e45e10deab640238f844b9",
+  "prompts": {},
+  "sessions": {
+    "s_3eef9ab50d8f0a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "638f27da-6a9a-4d38-92d6-71670a382c12",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_77406b1cfb1f8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "96bcb36a-5ba6-434a-bfd7-777e21388cfa",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
