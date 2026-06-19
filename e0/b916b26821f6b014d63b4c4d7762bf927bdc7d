@@ -1,0 +1,31 @@
+envelopes/__init__.py
+  s_0276221d01c0b0::t_9a2430318161aa 1-17
+envelopes/_versioning.py
+  s_0276221d01c0b0::t_9a2430318161aa 1-52
+apps/data/base/models/__init__.py
+  s_0276221d01c0b0::t_9a2430318161aa 10,14,26,30
+apps/data/base/models/abstract_models.py
+  s_0276221d01c0b0::t_9a2430318161aa 228-237,279-292,351-368,374-375,381,394,498-520
+apps/data/base/tests/conftest.py
+  s_0276221d01c0b0::t_9a2430318161aa 15,38,45
+apps/data/base/tests/test_abstract_models.py
+  s_0276221d01c0b0::t_9a2430318161aa 57-90
+apps/data/base/tests/models.py
+  s_0276221d01c0b0::t_9a2430318161aa 17-26,61-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "e0b916b26821f6b014d63b4c4d7762bf927bdc7d",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
