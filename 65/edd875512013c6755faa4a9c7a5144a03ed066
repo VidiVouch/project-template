@@ -1,0 +1,41 @@
+apps/data/capture/transport.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-237
+apps/data/capture/ports.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-70
+apps/data/capture/tests/test_ports.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-25
+apps/data/capture/tests/test_land_scraped_record.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-285
+apps/data/capture/registry.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-44
+apps/data/capture/tests/test_registry.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-69
+apps/data/capture/tests/test_land_scraped_records.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-291
+apps/data/capture/tests/test_transport.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-254
+apps/data/capture/tests/conftest.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-122
+apps/data/capture/dtos.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-92
+apps/data/capture/services.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-294
+apps/data/capture/tests/test_services.py
+  s_0276221d01c0b0::t_381cf3b98bbb6a 1-142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "65edd875512013c6755faa4a9c7a5144a03ed066",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
