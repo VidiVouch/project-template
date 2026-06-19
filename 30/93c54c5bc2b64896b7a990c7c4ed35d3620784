@@ -1,0 +1,49 @@
+templates/identity/access_request_form.html
+  s_0276221d01c0b0::t_fa65457717e9fa 1-22
+apps/identity/tests/test_access_request.py
+  s_0276221d01c0b0::t_fa65457717e9fa 1-122
+apps/identity/migrations/0005_accessrequest.py
+  s_0276221d01c0b0::t_fa65457717e9fa 1-36
+apps/identity/views.py
+  s_0276221d01c0b0::t_fa65457717e9fa 12,15,17-18,20,22,249,304-355
+apps/identity/events.py
+  s_0276221d01c0b0::t_fa65457717e9fa 38-42,50
+apps/identity/admin.py
+  s_0276221d01c0b0::t_fa65457717e9fa 12,19,21,23,537-680
+apps/identity/apps.py
+  s_0276221d01c0b0::t_fa65457717e9fa 20-21
+templates/identity/access_request_thanks.html
+  s_0276221d01c0b0::t_fa65457717e9fa 1-14
+apps/identity/tests/test_access_request_admin.py
+  s_0276221d01c0b0::t_fa65457717e9fa 1-158
+config/urls.py
+  s_0276221d01c0b0::t_fa65457717e9fa 7-8,15-18
+apps/identity/models.py
+  s_0276221d01c0b0::t_fa65457717e9fa 583-666
+apps/identity/tests/test_tasks.py
+  s_0276221d01c0b0::t_fa65457717e9fa 1-35
+apps/identity/tasks.py
+  s_0276221d01c0b0::t_fa65457717e9fa 1-43
+apps/identity/receivers.py
+  s_0276221d01c0b0::t_fa65457717e9fa 1-59
+apps/identity/tests/factories.py
+  s_0276221d01c0b0::t_fa65457717e9fa 20,170-186
+apps/identity/forms.py
+  s_0276221d01c0b0::t_fa65457717e9fa 9,224-256
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "3093c54c5bc2b64896b7a990c7c4ed35d3620784",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
