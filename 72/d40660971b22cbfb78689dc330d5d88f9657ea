@@ -1,0 +1,39 @@
+NEXT_BUILD_PLAN.html
+  s_0276221d01c0b0::t_0e35154e456d57 1-340
+PORTAL_V5_PLAN.html
+  s_0276221d01c0b0::t_0e35154e456d57 1-629
+EVENT_SCOPE_CONTRACT.md
+  s_0276221d01c0b0::t_0e35154e456d57 1-108
+CLIENT_VISIBILITY_INTERVIEW.html
+  s_0276221d01c0b0::t_0e35154e456d57 1-870
+SAAS_PLANNING_INTERVIEW.html
+  s_0276221d01c0b0::t_0e35154e456d57 1-951
+posthog-setup-report.html
+  s_0276221d01c0b0::t_0e35154e456d57 1-306
+POST_GRIP_REBUILD_PLAN.html
+  s_0276221d01c0b0::t_0e35154e456d57 1-1142
+CLIENT_RESEARCH_DESIGN.html
+  s_0276221d01c0b0::t_0e35154e456d57 1-559
+TEST_REVIEW.html
+  s_0276221d01c0b0::t_0e35154e456d57 1-818
+PORT_REVIEW_PACKET.html
+  s_0276221d01c0b0::t_0e35154e456d57 1-1623
+PK_FIX_PATTERN.md
+  s_0276221d01c0b0::t_0e35154e456d57 1-388
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "72d40660971b22cbfb78689dc330d5d88f9657ea",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
