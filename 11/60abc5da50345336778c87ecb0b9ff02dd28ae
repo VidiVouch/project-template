@@ -1,0 +1,25 @@
+apps/data/apify/tests/test_import_portal_apify.py
+  s_0276221d01c0b0::t_ee88a069b458f6 1-187
+apps/data/apify/management/commands/import_portal_apify.py
+  s_0276221d01c0b0::t_ee88a069b458f6 1-106
+apps/data/apify/admin.py
+  s_0276221d01c0b0::t_ee88a069b458f6 1-24
+apps/data/capture/portal_import.py
+  s_0276221d01c0b0::t_ee88a069b458f6 64-71,81-86,109-113,207,212-214,234-239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "1160abc5da50345336778c87ecb0b9ff02dd28ae",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
