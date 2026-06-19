@@ -1,0 +1,39 @@
+apps/sales/migrations/0009_deliveryrecord_rls.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 1-20
+apps/sales/delivery.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 1-120
+apps/sales/migrations/0008_deliveryrecord.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 1-31
+apps/sales/tests/test_limits.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 1,5-7,15,116-142
+apps/sales/tests/test_merge_rehome.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 18,25-30,34-38,112-159,226-227,231
+apps/sales/tests/test_rls.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 21-30,37,39-41,46,48,53,82
+config/settings/base.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 408-410,412-415
+apps/sales/tests/test_delivery.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 1-170
+apps/sales/models.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 236-290
+apps/sales/limits.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 17-19,32,49-72,85
+apps/sales/registrations.py
+  s_0276221d01c0b0::t_9c1ba7fbda2142 28-33,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "d92560396135fd431eea90db2b3b28192fa18bc6",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
