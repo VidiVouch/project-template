@@ -1,0 +1,55 @@
+Cargo.toml
+  s_77406b1cfb1f8f::t_dc12a2662ce94d 5-8,12-43
+  s_77406b1cfb1f8f::t_4fa16adaab9222 9
+rustfmt.toml
+  s_77406b1cfb1f8f::t_9c023095603c22 1-15
+_typos.toml
+  s_77406b1cfb1f8f::t_587d285546a9d5 1-6,8-10
+  s_3eef9ab50d8f0a::t_1ba8a3687e804e 7
+rust-toolchain.toml
+  s_77406b1cfb1f8f::t_ce1c3d6e4e0553 1-7
+.gitattributes
+  s_77406b1cfb1f8f::t_e938c514d4b3ac 1-15
+src/main.rs
+  s_77406b1cfb1f8f::t_d3b7bd23230cbf 1-6
+.editorconfig
+  s_77406b1cfb1f8f::t_4929cdd055bd05 1-32
+.idea/vcs.xml
+  s_77406b1cfb1f8f::t_f6cb661e5df15a 1-5,15
+  s_77406b1cfb1f8f::t_3d2c376183ec4a 6-14
+.vscode/settings.json
+  s_77406b1cfb1f8f::t_cb82a6d257285d 1-58
+.vscode/tasks.json
+  s_77406b1cfb1f8f::t_e2754216ab4b10 1-41
+.gitignore
+  s_77406b1cfb1f8f::t_1fd2a350f3ba5d 1-2,9-22,26-45,47-55,60-61,64-68,70-71,73-74
+  s_77406b1cfb1f8f::t_91e3db275b2b88 62
+project-words.dic
+  s_77406b1cfb1f8f::t_845f4cef13b32c 1-41
+.vscode/extensions.json
+  s_77406b1cfb1f8f::t_4e12427b241850 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "0fe619b16c46217f5da32df3ea91a5af9de81f79",
+  "prompts": {},
+  "sessions": {
+    "s_3eef9ab50d8f0a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "638f27da-6a9a-4d38-92d6-71670a382c12",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_77406b1cfb1f8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "96bcb36a-5ba6-434a-bfd7-777e21388cfa",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
