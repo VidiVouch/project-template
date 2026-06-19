@@ -1,0 +1,19 @@
+scrapers/event_spiders/tests/test_awsummit_spider.py
+  s_0276221d01c0b0::t_209ea236a4acf8 57,59-60,64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "ae5ed25ed8dd1016bbe39d861a2cf5cd39f42b26",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
