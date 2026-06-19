@@ -1,0 +1,27 @@
+apps/catalog/identity/emails.py
+  s_0276221d01c0b0::t_0ecdf2259bfbc1 1-289
+apps/catalog/identity/__init__.py
+  s_0276221d01c0b0::t_0ecdf2259bfbc1 1-35
+apps/catalog/identity/phones.py
+  s_0276221d01c0b0::t_0ecdf2259bfbc1 1-95
+apps/catalog/tests/test_emails.py
+  s_0276221d01c0b0::t_0ecdf2259bfbc1 1-121
+apps/catalog/tests/test_phones.py
+  s_0276221d01c0b0::t_0ecdf2259bfbc1 1-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "d4349891bafb56ee697713f4baf0c0fcaccba45d",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
