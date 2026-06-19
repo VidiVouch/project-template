@@ -1,0 +1,45 @@
+apps/data/cadmium/models.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-276
+apps/data/cadmium/mapping.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-326
+apps/data/cadmium/migrations/0001_initial.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-337
+apps/data/cadmium/tests/test_models.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-260
+apps/bootstrap.py
+  s_0276221d01c0b0::t_2cba401204ca7c 51,56-61
+apps/data/cadmium/tests/test_transformers.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-265
+config/settings/base.py
+  s_0276221d01c0b0::t_2cba401204ca7c 92
+envelopes/cadmium/versions.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-27
+apps/data/cadmium/apps.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-8
+apps/data/cadmium/tests/test_app_registration.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-82
+envelopes/cadmium/response.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-38
+apps/data/cadmium/registrations.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-84
+apps/data/cadmium/transformers.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-244
+apps/data/cadmium/tests/test_mapping.py
+  s_0276221d01c0b0::t_2cba401204ca7c 1-252
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "a8f39d5efbeb6cd5829f748c47ec2dd5ad6d0675",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
