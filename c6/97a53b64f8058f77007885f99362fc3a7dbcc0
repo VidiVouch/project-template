@@ -1,0 +1,32 @@
+apps/data/spe_international/transformers.py
+  s_ffd92932362e87::t_803d716e7e6f48 54-58
+  s_ffd92932362e87::t_f400690719bc1e 19
+apps/data/spe_international/models.py
+  s_ffd92932362e87::t_cf063061cbc2cb 85
+  s_ffd92932362e87::t_447ff26bde7f2d 96
+  s_ffd92932362e87::t_54a1d568a5ae4a 52
+  s_ffd92932362e87::t_0cb2c31d1b05c8 23-24
+  s_ffd92932362e87::t_368e8f173f1e25 74
+  s_ffd92932362e87::t_9a6fbb435a6caa 63
+  s_ffd92932362e87::t_10c23a0b836e22 36
+apps/data/spe_international/mapping.py
+  s_ffd92932362e87::t_1f097bc4135567 88-161
+  s_ffd92932362e87::t_287a3e92ccad12 32-52
+  s_ffd92932362e87::t_5d3104ee8a555a 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c697a53b64f8058f77007885f99362fc3a7dbcc0",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
