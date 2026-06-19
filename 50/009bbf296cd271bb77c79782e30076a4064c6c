@@ -1,0 +1,201 @@
+apps/data/swapcard/sessions.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 31
+apps/catalog/tests/test_claim_bridge_ledgering.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 16-17
+apps/catalog/tests/test_promote_event.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 26-27
+apps/data/capture/management/source_template/sessions.py-tpl
+  s_0276221d01c0b0::t_1d73ff34bccb2e 19
+apps/catalog/tests/test_employment_from_participation.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 25-26
+apps/data/cadmium/management/commands/import_portal_cadmium.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 24
+scrapers/event_spiders/cvent/cvent_attendees.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 17,25,38,45
+scrapers/event_spiders/tests/test_brella_spider.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 19-20,178
+scrapers/event_spiders/tests/test_grip_spider.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 20
+apps/catalog/tests/test_promote_swapcard.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 39-40,42-44,69,74,79,124,264,363,425
+apps/data/expoplatform/management/commands/import_portal_expoplatform.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 39
+traffic_adapters/tests/test_brella.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 8,131,170
+apps/data/grip/sessions.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 27
+apps/data/capture/management/envelope_template/versions.py-tpl
+  s_0276221d01c0b0::t_1d73ff34bccb2e 1-26
+apps/data/expoplatform/tests/test_contracts.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 17
+apps/data/expoplatform/tests/test_sessions.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 11,13,27
+apps/data/expoplatform/tests/test_import_portal_expoplatform.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 19
+apps/data/capture/management/source_template/models.py-tpl
+  s_0276221d01c0b0::t_1d73ff34bccb2e 13,23-26
+apps/data/grip/tests/test_import_portal_grip.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 17
+apps/catalog/handlers/grip.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 46
+apps/data/brella/tests/test_contracts.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 23
+apps/data/capture/management/source_template/management/commands/import_portal_${source}.py-tpl
+  s_0276221d01c0b0::t_1d73ff34bccb2e 22
+apps/data/swapcard/tests/test_contracts.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 23
+apps/data/swapcard/tests/test_import_portal_swapcard.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 20
+apps/data/cvent/tests/test_sessions.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 11,13,28
+traffic_adapters/adapters/brella.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 6,24
+traffic_adapters/adapters/expoplatform.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 10,25
+apps/data/cadmium/tests/test_data_stats.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 17-18
+apps/data/brella/management/commands/import_portal_brella.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 36
+apps/data/capture/management/source_template/tests/test_contracts.py-tpl
+  s_0276221d01c0b0::t_1d73ff34bccb2e 14
+apps/catalog/tests/test_promote_pipeline.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 10-11
+apps/catalog/tests/test_promote_event_participation_attendee.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 24-25
+apps/data/capture/management/source_template/transformers.py-tpl
+  s_0276221d01c0b0::t_1d73ff34bccb2e 11-13,26
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 18,20
+apps/catalog/tests/test_promote_event_organization_relationship.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 21-22
+apps/catalog/tests/test_reset_processed.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 25-26
+scrapers/event_spiders/cvent/cvent_events.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 15,27
+scrapers/event_spiders/grip.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 15,17,20,31-32,39-40
+traffic_adapters/tests/test_swapcard.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 8
+scrapers/event_spiders/tests/test_swapcard_spider.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 19-20
+scrapers/event_spiders/expoplatform.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 6,20,30,37
+apps/catalog/tests/test_cadmium_batch.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 45
+apps/data/grip/tests/test_login.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 5
+scrapers/event_spiders/tests/test_expoplatform_spider.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 19
+apps/catalog/tests/test_resident_turbo.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 14-15
+apps/data/capture/tests/test_startsource.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 21-22,40-44,47,49-55,66-70,79-84,92,95-100,102-103
+scrapers/event_spiders/tests/test_cvent_spiders.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 18-19
+apps/data/brella/sessions.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 30
+apps/data/swapcard/mapping.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 14,31
+apps/catalog/tests/test_promote_company.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 18-19
+apps/catalog/tests/test_promote_event_participation_poster_presenter.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 32-33
+apps/catalog/tests/test_promote_expoplatform.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 38-39,42-44,65,69,73,105,208,231
+apps/catalog/tests/test_promote_grip.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 30-31,50,55,102
+apps/catalog/tests/test_promote_event_participation.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 20-21
+apps/catalog/tests/test_promote_individual.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 21-22
+apps/data/apify/management/commands/import_portal_apify.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 18,36
+apps/data/credentials/tests/test_drain.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 27,29,40,98,102
+apps/data/swapcard/tests/test_sessions.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 11,13,25
+apps/data/cvent/management/commands/import_portal_cvent.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 12-14,36
+scrapers/event_spiders/brella.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 7,14,24,31
+traffic_adapters/adapters/grip_events.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 6,24
+apps/catalog/tests/test_supervisor.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 18-19
+apps/data/cvent/sessions.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 32
+traffic_adapters/adapters/swapcard.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 6,33
+apps/data/capture/management/commands/startsource.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 1,5-15,17-18,39-44,54-55,60-61,75-82,86,92-96,100,105-109,111,113-115,122-125
+apps/data/swapcard/management/commands/import_portal_swapcard.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 23-29,51
+apps/data/grip/management/commands/import_portal_grip.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 30
+apps/data/swapcard/tests/test_mapping.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 6-7
+scrapers/event_spiders/cadmium.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 23,57
+apps/data/credentials/providers.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 1,6
+apps/data/cvent/tests/test_import_portal_cvent.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 12
+apps/data/capture/management/envelope_template/response.py-tpl
+  s_0276221d01c0b0::t_1d73ff34bccb2e 3-8
+apps/catalog/tests/test_promote_unprocessed.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 27-28
+apps/catalog/tests/test_promote_brella.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 42,44
+apps/catalog/tests/test_person_resolution.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 30-31
+apps/catalog/handlers/cadmium/stats.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 15
+apps/data/brella/tests/test_sessions.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 7,13,27
+apps/catalog/tests/test_promote_presence.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 28-29,31-32,76
+apps/data/apify/tests/test_import_portal_apify.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 30
+apps/data/cadmium/tests/test_contracts.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 21
+envelopes/__init__.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 1,8-13,15-23
+tests/eval/harness.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 44
+apps/catalog/tests/test_promote_employment.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 29
+apps/data/expoplatform/sessions.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 29
+apps/catalog/tests/test_resolution_goldens.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 49-50
+apps/catalog/tests/test_throughput_tripwires.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 27-28
+apps/data/capture/management/commands/import_portal_logins.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 23-27
+scrapers/event_spiders/swapcard/swapcard.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 8,17,29,36
+tests/architecture/test_collection_layer_django_free.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 11-18,61-68,86-88
+traffic_adapters/adapters/cvent.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 6,34
+apps/catalog/tests/test_resident.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 31-32
+apps/data/credentials/tests/test_source_session.py
+  s_0276221d01c0b0::t_1d73ff34bccb2e 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "50009bbf296cd271bb77c79782e30076a4064c6c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
