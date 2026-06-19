@@ -1,0 +1,31 @@
+crates/vid-core/src/node.rs
+  s_a8fa6210c93696::t_2d7554af571ed2 260-264
+  s_a8fa6210c93696::t_19b48c98c12ccc 85-113,127
+  s_a8fa6210c93696::t_0b0df6309ab98e 247-259,265-272
+Cargo.toml
+  s_a8fa6210c93696::t_39e0c5081be3e7 62-65,67
+crates/vid-cli/src/engine.rs
+  s_a8fa6210c93696::t_6dc6790443c8a3 1011-1031
+  s_a8fa6210c93696::t_35cc076a335b33 164-175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "876aa9a30e586f87803eebc9ca43890b5643a309",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
