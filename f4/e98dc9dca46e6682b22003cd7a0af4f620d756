@@ -1,21 +1,7 @@
-conftest.py
-  s_0276221d01c0b0::t_ee679aa183a6cc 3-23
-AGENTS.md
-  s_0276221d01c0b0::t_ee679aa183a6cc 22
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.5.8",
   "base_commit_sha": "f4e98dc9dca46e6682b22003cd7a0af4f620d756",
-  "prompts": {},
-  "sessions": {
-    "s_0276221d01c0b0": {
-      "agent_id": {
-        "tool": "claude",
-        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
-        "model": "claude-opus-4-8"
-      },
-      "human_author": "Tom Price <tom@tomprice.ca>"
-    }
-  }
+  "prompts": {}
 }
