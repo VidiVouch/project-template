@@ -1,0 +1,35 @@
+project-words.dic
+  s_0276221d01c0b0::t_7ec7ad37ccda7f 24-26
+scrapers/tests/test_settings.py
+  s_0276221d01c0b0::t_7ec7ad37ccda7f 8-16,19-20,33-49
+config/settings/local.py
+  s_0276221d01c0b0::t_7ec7ad37ccda7f 5-11
+config/log.py
+  s_0276221d01c0b0::t_7ec7ad37ccda7f 1-139
+config/asgi.py
+  s_0276221d01c0b0::t_7ec7ad37ccda7f 14-27
+config/email.py
+  s_0276221d01c0b0::t_7ec7ad37ccda7f 1-66
+config/settings/base.py
+  s_0276221d01c0b0::t_7ec7ad37ccda7f 421-428,431-434,437-439,444-447
+scripts/render-build-worker.sh
+  s_0276221d01c0b0::t_7ec7ad37ccda7f 1-11
+render.yaml
+  s_0276221d01c0b0::t_7ec7ad37ccda7f 3-11,15,17-24,28-53,56,61,81-90,105-111,120-183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "62cfe84dcb347eeb262f3b6e815c0dbd1654bc8f",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
