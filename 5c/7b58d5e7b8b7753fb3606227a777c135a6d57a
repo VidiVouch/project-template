@@ -1,0 +1,25 @@
+apps/catalog/services.py
+  s_0276221d01c0b0::t_7c86b5fdf96c32 1-348
+apps/catalog/export_engine.py
+  s_0276221d01c0b0::t_7c86b5fdf96c32 1-75
+apps/catalog/admin.py
+  s_0276221d01c0b0::t_7c86b5fdf96c32 1-231
+apps/catalog/fakes.py
+  s_0276221d01c0b0::t_7c86b5fdf96c32 1-254
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "5c7b58d5e7b8b7753fb3606227a777c135a6d57a",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
