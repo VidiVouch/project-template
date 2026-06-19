@@ -1,0 +1,19 @@
+POST_GRIP_REBUILD_PLAN.md
+  s_0276221d01c0b0::t_aa58d6fe6742af 1-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b857af1dcd0533f1b50fd73c85be090e9ca262ed",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
