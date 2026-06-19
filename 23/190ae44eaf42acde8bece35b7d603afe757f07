@@ -1,0 +1,31 @@
+config/settings/base.py
+  s_0276221d01c0b0::t_311344d5af9f31 95
+apps/data/credentials/models.py
+  s_0276221d01c0b0::t_311344d5af9f31 1-62
+apps/data/credentials/providers.py
+  s_0276221d01c0b0::t_311344d5af9f31 1-33
+apps/data/credentials/tests/test_source_session.py
+  s_0276221d01c0b0::t_311344d5af9f31 1-149
+apps/data/credentials/migrations/0001_initial.py
+  s_0276221d01c0b0::t_311344d5af9f31 1-33
+apps/data/credentials/ports.py
+  s_0276221d01c0b0::t_311344d5af9f31 1-72
+apps/data/credentials/apps.py
+  s_0276221d01c0b0::t_311344d5af9f31 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "23190ae44eaf42acde8bece35b7d603afe757f07",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
