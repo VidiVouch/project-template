@@ -1,0 +1,89 @@
+apps/catalog/handlers/cadmium/people.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-156
+apps/catalog/handlers/resident_turbo.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-157
+apps/catalog/handlers/allintheloop.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-299
+apps/catalog/handlers/brella.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-305
+apps/catalog/promoter_registry.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-99
+apps/catalog/handlers/cadmium/stats.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-51
+apps/catalog/handlers/grip.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-286
+apps/catalog/handlers/cadmium_batch.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-514
+apps/catalog/handlers/serper.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-226
+apps/catalog/handlers/eventpilot.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-273
+apps/catalog/handlers/cvent.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-285
+apps/catalog/handlers/swapcard.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-295
+apps/catalog/handlers/cadmium/__init__.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-37
+apps/catalog/handlers/_shared.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-316
+apps/catalog/handlers/resident_prep.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-120
+apps/catalog/handlers/resultsdirect.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-293
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-349
+apps/catalog/handlers/__init__.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-7
+apps/catalog/handlers/awsummit.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-282
+apps/catalog/handlers/cadmium/orgs.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-151
+apps/catalog/handlers/apify.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-389
+apps/catalog/handlers/mapyourshow.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-219
+apps/catalog/handlers/xcd.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-298
+apps/catalog/handlers/expoplatform.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-272
+apps/catalog/handlers/_presence.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-86
+apps/catalog/handlers/cadmium/events.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-168
+apps/catalog/handlers/resident.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-994
+apps/catalog/handlers/_sequence.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-42
+apps/catalog/handlers/gatherdigital.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-284
+apps/catalog/handlers/luma.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-154
+apps/catalog/handlers/play_store.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-45
+apps/catalog/handlers/stova.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-310
+apps/catalog/handlers/websummit.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-277
+apps/catalog/handlers/core_apps.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-267
+apps/catalog/registrations.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-24
+apps/catalog/handlers/resident_spec.py
+  s_0276221d01c0b0::t_c530e34dafa696 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f53e091c43f9dbc20ad2727f31c333b48989008e",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
