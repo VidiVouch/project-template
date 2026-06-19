@@ -1,0 +1,41 @@
+scrapers/pipelines.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 66-71,77,85
+apps/data/capture/portal_import.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 32,39,50-51,54-59,67-72,79-167,176,209-218,224,271-277,280-282,292-296,334-337,339,345,347
+apps/data/capture/management/commands/transform_unprocessed.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 140
+pyproject.toml
+  s_0276221d01c0b0::t_6673ef025fdd4e 90
+apps/data/capture/management/commands/data_stats.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 19-23,33,37,39,47,68-76,119-124,147,153,212-215,217,222-259,274
+apps/data/capture/management/commands/import_portal_logins.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 1-93
+apps/data/cadmium/tests/test_data_stats.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 78-99
+apps/data/brella/tests/test_import_portal_brella.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 9-10,15-16,18-19,110-151
+apps/data/capture/dtos.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 47,65
+apps/data/capture/services.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 204,284
+tests/architecture/test_collection_layer_django_free.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 51-61,83-106
+apps/data/capture/tests/test_services.py
+  s_0276221d01c0b0::t_6673ef025fdd4e 90-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "9727585613b6c32fb330184176a6fb5d5020b2bc",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
