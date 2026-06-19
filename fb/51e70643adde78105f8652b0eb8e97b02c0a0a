@@ -1,0 +1,19 @@
+.pre-commit-config.yaml
+  s_3eef9ab50d8f0a::t_6e7907e87e8e5c 23-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "fb51e70643adde78105f8652b0eb8e97b02c0a0a",
+  "prompts": {},
+  "sessions": {
+    "s_3eef9ab50d8f0a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "638f27da-6a9a-4d38-92d6-71670a382c12",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
