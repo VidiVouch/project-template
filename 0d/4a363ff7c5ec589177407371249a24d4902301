@@ -1,0 +1,14 @@
+.gitignore
+  h_795c5e33ecc5af 781-782
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "0d4a363ff7c5ec589177407371249a24d4902301",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
