@@ -1,0 +1,23 @@
+REVIEW.md
+  s_0276221d01c0b0::t_02ac1dc16832e7 22
+.pre-commit-config.yaml
+  s_0276221d01c0b0::t_62a045db289f34 40-49
+README.md
+  s_0276221d01c0b0::t_d4fb9259125634 141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "bfab14e8fa5e2786622ca26156f9426b59828f79",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
