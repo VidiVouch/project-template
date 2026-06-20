@@ -1,0 +1,49 @@
+apps/domains/__init__.py
+  s_0276221d01c0b0::t_825551d399a472 1-6
+apps/domains/tests/test_resolver.py
+  s_0276221d01c0b0::t_29052f22bf56fa 1-329
+apps/domains/domain/registry.py
+  s_0276221d01c0b0::t_1ce9016d44e426 1-291
+pyproject.toml
+  s_0276221d01c0b0::t_320ee3bb43a461 54
+  s_0276221d01c0b0::t_40c60558370cd0 217
+  s_0276221d01c0b0::t_c714c43ee08c2c 16,26
+apps/domains/tests/test_registry.py
+  s_0276221d01c0b0::t_263da09f5c1723 1-167
+config/settings/base.py
+  s_0276221d01c0b0::t_8a3f66a9113b91 401-410
+  s_0276221d01c0b0::t_09f49e9044669e 103
+apps/domains/domain/providers.py
+  s_0276221d01c0b0::t_adb9090a5c4928 1-63
+apps/domains/models.py
+  s_0276221d01c0b0::t_9c11179dbe263e 1-36
+apps/domains/apps.py
+  s_0276221d01c0b0::t_d62f632cbdd6e6 3-6,9-10
+  s_0276221d01c0b0::t_ba60330a751ac4 1-2,7-8
+apps/domains/tests/test_services.py
+  s_0276221d01c0b0::t_137a1c6765fcf7 1-352
+apps/domains/migrations/0001_initial.py
+  s_0276221d01c0b0::t_1c41ce867c6380 1-28
+apps/domains/resolver.py
+  s_0276221d01c0b0::t_0b2515659c5fbf 1-348
+apps/domains/domain/__init__.py
+  s_0276221d01c0b0::t_834765c004f2a0 1-34
+apps/domains/domain/services.py
+  s_0276221d01c0b0::t_81d06ae41d2c6d 1-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "b72dc4d03381e116da958269b912cc22bf639eaf",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
