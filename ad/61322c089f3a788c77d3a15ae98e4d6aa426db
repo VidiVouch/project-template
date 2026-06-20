@@ -1,0 +1,20 @@
+.agents/skills/new-source/references/flow_reader.md
+  h_795c5e33ecc5af 1-129
+.agents/skills/new-source/SKILL.md
+  h_795c5e33ecc5af 1-113
+.agents/skills/investigate-traffic/SKILL.md
+  h_795c5e33ecc5af 1-158
+.agents/skills/new-source/references/research.md
+  h_795c5e33ecc5af 1-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "ad61322c089f3a788c77d3a15ae98e4d6aa426db",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
