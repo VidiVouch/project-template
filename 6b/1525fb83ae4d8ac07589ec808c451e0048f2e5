@@ -1,0 +1,222 @@
+pyproject.toml
+  s_998d95b9de4b0f::t_335f282231f4d0 21
+  s_9cc359b33535bd::t_85c3509237bee0 4,50,55,60,168,175-176,186-187,194,194-198,195-198,200-204,211
+  s_9cc359b33535bd::t_019833145acece 205-210,212-216
+  s_9cc359b33535bd::t_bf1ef54f6c19af 72
+  s_9cc359b33535bd::t_cd912d9cdec808 86
+  s_9cc359b33535bd::t_af0dca38e85386 183-185
+  h_795c5e33ecc5af 17,18-19,52,53-54,119-127,128-137,151-153,171
+tests/hooks/conftest.py
+  s_9cc359b33535bd::t_8c6e9ac76a1f26 1-8,19-20,22-24
+.agents/skills/check-coverage/SKILL.md
+  s_9cc359b33535bd::t_8c6e9ac76a1f26 1-2,4-40,47-186,188-264,271-368,370-384,394-425
+  h_795c5e33ecc5af 3,187
+.agents/skills/local-review/SKILL.md
+  s_9cc359b33535bd::t_8c6e9ac76a1f26 1-2,4-26,33-110
+  h_795c5e33ecc5af 3
+.idea/portal-update.iml
+  s_5b002650df0863::t_5745be75ad4b1c 11-13
+.idea/inspectionProfiles/Project_Default.xml
+  s_9cc359b33535bd::t_63698bf4d37622 18
+.gitignore
+  s_f2ae29216c779d::t_5bbeebe22040f7 774-775
+  s_9cc359b33535bd::t_cb5c5eafd208fb 780
+  h_795c5e33ecc5af 781-782
+.claude/settings.json
+  s_9cc359b33535bd::t_33b6316e9c0123 15
+  h_795c5e33ecc5af 83
+.github/workflows/lint.yml
+  s_9cc359b33535bd::t_40ea4582e125a8 1
+  s_9cc359b33535bd::t_f098bc4d52398c 32-46
+AGENTS.md
+  s_3aab6f0d381ac9::t_b1b2ad47c93206 21,23,34-48
+  h_795c5e33ecc5af 30-33
+.claude/commands/deep-review.md
+  s_67d1eb697ad238::t_6e459a9d4df111 86,93,96,103,133,311,313,370,389,391,396,398,426,436,438,445,447,452,454
+  s_67d1eb697ad238::t_48c2066d0d76d0 175,194,220,227,241,272,274,298,300,302,307,309
+uv.lock
+  s_5b002650df0863::t_f6036e9aaadc75 27,651,653,655-656,680,683-684,687,689,691-692,1118-1119,1138,1141,1143,1146-1147,1680-1681,1700,1703,1705,1713
+  s_5b002650df0863::t_8bbbfb2e91fece 649
+.agents/hooks/enforce_uv.py
+  s_436db0b9f273b5::t_c110d801d7c97c 6-15,22-32,36,40-71,73-86,93-95
+  s_436db0b9f273b5::t_70538fcc0e3145 33-34,37-39
+  s_436db0b9f273b5::t_800f4c3324dc39 35
+  s_436db0b9f273b5::t_1552bad835c086 87-88
+tests/hooks/test_enforce_uv.py
+  s_436db0b9f273b5::t_3104f3ed433efb 1
+  s_436db0b9f273b5::t_19a40a13dcc9ba 118-161,163-168,172-180
+  s_436db0b9f273b5::t_800f4c3324dc39 162
+README.md
+  h_795c5e33ecc5af 16,17,99-103,222,223-292,293-306
+.pre-commit-config.yaml
+  h_795c5e33ecc5af 8,24
+.codex/config.toml
+  h_795c5e33ecc5af 8-10
+.editorconfig
+  s_d4a7d5c5e8140e::t_9734f8a8d049b2 31-32,35
+LICENSE.md
+  h_795c5e33ecc5af 1
+project-words.dic
+  h_795c5e33ecc5af 1-5,7-8,10,13
+research/settings.py
+  h_795c5e33ecc5af 1-12,13-14,16-32,33-42,44-52
+scrapy.cfg
+  h_795c5e33ecc5af 1-11
+REVIEW.md
+  h_795c5e33ecc5af 10
+research/__init__.py
+  h_795c5e33ecc5af 1
+research/fun_spiders/cognatheque.py
+  h_795c5e33ecc5af 1-47
+research/test_spiders/spiders.py
+  h_795c5e33ecc5af 1-72
+research/tutorials/quotes.py
+  h_795c5e33ecc5af 1-23
+research/tutorials/__init__.py
+  h_795c5e33ecc5af 1
+research/test_spiders/__init__.py
+  h_795c5e33ecc5af 1
+research/fun_spiders/__init__.py
+  h_795c5e33ecc5af 1
+research/tests/__init__.py
+  h_795c5e33ecc5af 1
+research/tutorials/quotes_scroll.py
+  h_795c5e33ecc5af 1-23
+research/handlers.py
+  h_795c5e33ecc5af 1-89
+research/tests/conftest.py
+  h_795c5e33ecc5af 1-64
+research/tests/test_spider_integration.py
+  h_795c5e33ecc5af 1-141
+research/tests/test_handlers.py
+  h_795c5e33ecc5af 1-115
+traffic_analysis/tests/test_provider_registry.py
+  h_795c5e33ecc5af 1-155
+traffic_analysis/tests/test_csv_pipeline.py
+  h_795c5e33ecc5af 1-113
+traffic_analysis/pipelines.py
+  h_795c5e33ecc5af 1-308
+traffic_analysis/exceptions.py
+  h_795c5e33ecc5af 1-19
+traffic_analysis/rules.py
+  h_795c5e33ecc5af 1-426
+traffic_analysis/discovery.py
+  h_795c5e33ecc5af 1-164
+traffic_analysis/cli/__init__.py
+  h_795c5e33ecc5af 1-8
+traffic_analysis/tests/test_discovery.py
+  h_795c5e33ecc5af 1-240
+traffic_analysis/analysis/__init__.py
+  h_795c5e33ecc5af 1-59
+traffic_analysis/flow_readers/quotes_scroll.py
+  h_795c5e33ecc5af 1-51
+traffic_analysis/tests/test_jsonl_pipeline.py
+  h_795c5e33ecc5af 1-111
+traffic_analysis/tests/test_flow_analysis.py
+  h_795c5e33ecc5af 1-48
+traffic_analysis/base.py
+  h_795c5e33ecc5af 1-279
+traffic_analysis/tests/__init__.py
+  h_795c5e33ecc5af 1
+traffic_analysis/analysis/providers.py
+  h_795c5e33ecc5af 1-98
+traffic_analysis/tests/test_base.py
+  h_795c5e33ecc5af 1-165
+traffic_analysis/tests/test_rules.py
+  h_795c5e33ecc5af 1-405
+traffic_analysis/analysis/reports.py
+  h_795c5e33ecc5af 1-164
+traffic_analysis/flow_readers/__init__.py
+  h_795c5e33ecc5af 1
+traffic_analysis/settings.py
+  h_795c5e33ecc5af 1-15
+traffic_analysis/cli/analyze_flow.py
+  h_795c5e33ecc5af 1-400
+traffic_analysis/flow_readers/example_rules.py
+  h_795c5e33ecc5af 1-139
+traffic_analysis/__init__.py
+  h_795c5e33ecc5af 1
+traffic_analysis/tests/test_pipeline_manager.py
+  h_795c5e33ecc5af 1-115
+traffic_analysis/provider_registry.py
+  h_795c5e33ecc5af 1-113
+traffic_analysis/analysis/flow_analysis.py
+  h_795c5e33ecc5af 1-706
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6b1525fb83ae4d8ac07589ec808c451e0048f2e5",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_3aab6f0d381ac9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28403637-3131-4df6-a9d3-4159d5748b62",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_436db0b9f273b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df36a678-6856-4688-9cb2-0172333cdeca",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_67d1eb697ad238": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e66af8e3-dd09-4e4d-8c12-d26c49643ef2",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_d4a7d5c5e8140e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9f0cad06-dcfc-4c3c-8c2e-be3dccb042fe",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_f2ae29216c779d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0e7dc62-2568-46bc-a283-87f8b657a04a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
