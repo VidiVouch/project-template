@@ -1,0 +1,71 @@
+apps/billing/__init__.py
+  s_0276221d01c0b0::t_824baa3e210597 1
+apps/billing/admin.py
+  s_0276221d01c0b0::t_824baa3e210597 1-86
+apps/billing/receivers.py
+  s_0276221d01c0b0::t_824baa3e210597 1-67
+apps/billing/templates/billing/home.html
+  s_0276221d01c0b0::t_824baa3e210597 1-52
+apps/billing/tests/factories.py
+  s_0276221d01c0b0::t_824baa3e210597 1-81
+apps/billing/tests/test_invoicing.py
+  s_0276221d01c0b0::t_824baa3e210597 1-208
+apps/billing/migrations/0001_initial.py
+  s_0276221d01c0b0::t_824baa3e210597 1-91
+apps/billing/urls.py
+  s_0276221d01c0b0::t_824baa3e210597 1-9
+apps/billing/views.py
+  s_0276221d01c0b0::t_824baa3e210597 1-170
+config/settings/production.py
+  s_0276221d01c0b0::t_824baa3e210597 61-84
+apps/billing/management/commands/stripe_sync.py
+  s_0276221d01c0b0::t_824baa3e210597 1-46
+apps/billing/tests/test_views.py
+  s_0276221d01c0b0::t_824baa3e210597 1-189
+config/settings/base.py
+  s_0276221d01c0b0::t_824baa3e210597 91,312-313,363-382
+apps/billing/tests/test_webhooks.py
+  s_0276221d01c0b0::t_824baa3e210597 1-151
+config/urls.py
+  s_0276221d01c0b0::t_824baa3e210597 7-8,14,26
+apps/billing/tests/test_receivers.py
+  s_0276221d01c0b0::t_824baa3e210597 1-46
+apps/billing/webhooks.py
+  s_0276221d01c0b0::t_824baa3e210597 1-102
+pyproject.toml
+  s_0276221d01c0b0::t_824baa3e210597 31
+render.yaml
+  s_0276221d01c0b0::t_824baa3e210597 30-39,96-169
+tests/architecture/test_no_forbidden_imports.py
+  s_0276221d01c0b0::t_824baa3e210597 37
+.env.sample
+  s_0276221d01c0b0::t_824baa3e210597 54-70
+apps/billing/models.py
+  s_0276221d01c0b0::t_824baa3e210597 1-181
+apps/billing/management/commands/stripe_listen.py
+  s_0276221d01c0b0::t_824baa3e210597 1-59
+apps/billing/tests/__init__.py
+  s_0276221d01c0b0::t_824baa3e210597 1
+apps/billing/keys.py
+  s_0276221d01c0b0::t_824baa3e210597 1-27
+apps/billing/apps.py
+  s_0276221d01c0b0::t_824baa3e210597 1-23
+apps/billing/invoicing.py
+  s_0276221d01c0b0::t_824baa3e210597 1-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "0953fdd73f18c0bee806fdfb15e2653010ef3148",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
