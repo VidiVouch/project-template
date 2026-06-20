@@ -1,0 +1,27 @@
+apps/identity/operations.py
+  s_0276221d01c0b0::t_da1bd637e8aedb 1-169
+apps/identity/tests/test_operations.py
+  s_0276221d01c0b0::t_a62e20ed184fe9 1-74
+pyproject.toml
+  s_0276221d01c0b0::t_d0e2cde7871611 168,171,176
+tests/architecture/test_rls_via_operation.py
+  s_0276221d01c0b0::t_15e3f111d586af 1-77
+tests/architecture/_ast_helpers.py
+  s_0276221d01c0b0::t_2d9be156c5aa8b 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "782137f23ba1d42bb249e8c37ebae8a8441cb4ca",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
