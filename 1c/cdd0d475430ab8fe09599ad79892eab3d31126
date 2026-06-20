@@ -1,0 +1,212 @@
+prototypes/vscode/review-mode-quickpick.html
+  s_bac4e4c9b679c7::t_58eebb899c3c97 1-1491
+prototypes/jetbrains/settings.html
+  s_a8fa6210c93696::t_1e5daacfc0764d 927,929
+  s_a8fa6210c93696::t_905ce219c05b7e 902,904-905,909
+  s_a8fa6210c93696::t_831d79a6cebb26 892,894-895,899
+  s_bac4e4c9b679c7::t_82c2ddc6feee8f 1-891,893,896-898,900-901,903,906-908,910-926,928,930-1165
+prototypes/xcode/review-mode.html
+  s_bac4e4c9b679c7::t_70b62b8cad0f8c 413,415,417,423-425
+  s_a8fa6210c93696::t_506349f3a85cfd 892,895
+  s_bac4e4c9b679c7::t_ec51506bf55cd8 453
+  s_a8fa6210c93696::t_419b5f4fb2eab1 794-795
+  s_bac4e4c9b679c7::t_164d7027876974 1-412,414,416,418-422,426-437,440-452,454-793,796-808,814,816-891,893-894,896-1007
+  s_a8fa6210c93696::t_21606459ce69ad 809-813,815
+  s_bac4e4c9b679c7::t_2f804ae5cc8999 438-439
+prototypes/jetbrains/gutter-inlay-vouch.html
+  s_bac4e4c9b679c7::t_9294777e5d0300 1-1253
+prototypes/vici/reviewer-profile.html
+  s_a8fa6210c93696::t_02a8c5420b38a1 457
+  s_bac4e4c9b679c7::t_3071161bc37545 346-352
+  s_bac4e4c9b679c7::t_3c6cf5926290ab 534-538
+  s_a8fa6210c93696::t_8a827929fafc66 709
+  s_a8fa6210c93696::t_4b4eea20f8754f 842
+  s_bac4e4c9b679c7::t_0c9feb66d20dfc 1-345,353-456,458-533,539-708,710-841,843-919
+prototypes/vscode/commit-vouch.html
+  s_a8fa6210c93696::t_2291651492f2a1 942,944
+  s_bac4e4c9b679c7::t_f94fa84b7a09dc 1-941,943,945-946,948-950,957-1030,1032-1281
+  s_a8fa6210c93696::t_9b38b8597630a0 947,951-956
+  s_a8fa6210c93696::t_e7ed558618f83b 1031
+prototypes/.workflow-30views.js
+  s_bac4e4c9b679c7::t_c7ad867ed88be3 1-151
+prototypes/jetbrains/matrix-toolwindow.html
+  s_bac4e4c9b679c7::t_f4b14b6f5c100e 1-203,207-210,214-534,538,542-563,566-636,638-708,710-713,715-871,873-874,876-877,882-885,887-892,899-1156,1159,1162-1253,1255-1317,1319-1326,1328-1331,1333-1356,1358-1418
+  s_a8fa6210c93696::t_0a867dcc9066c3 212-213
+  s_a8fa6210c93696::t_06e9c0fe1fdcd2 1254
+  s_a8fa6210c93696::t_128aab8ebd4379 204-206,211
+  s_a8fa6210c93696::t_457a3c5c1a7a2d 637
+  s_a8fa6210c93696::t_dc0f477e5884cf 1157-1158,1160-1161
+  s_a8fa6210c93696::t_0e1120f5ac0796 1357
+  s_a8fa6210c93696::t_734762369cb37b 564-565
+  s_a8fa6210c93696::t_0f9749b4d460c8 893-898
+  s_a8fa6210c93696::t_414dba84c36a3e 872,875,878-881,886
+  s_a8fa6210c93696::t_d1eb8fe7b1669a 1332
+  s_a8fa6210c93696::t_c39dae671de5ed 535-537,539-541
+  s_a8fa6210c93696::t_7126cca718fe1f 709,714
+  s_a8fa6210c93696::t_ec1a29041eeb17 1318
+  s_a8fa6210c93696::t_3e84b7221dc7ba 1327
+prototypes/veni/docs.html
+  s_bac4e4c9b679c7::t_ad416175ae2d7d 1-253
+prototypes/cli/report.html
+  s_bac4e4c9b679c7::t_c1f01f4e502832 1-578
+prototypes/vici/unit-detail.html
+  s_a8fa6210c93696::t_d9b3283d3a5340 756
+  s_a8fa6210c93696::t_7af40191284954 697-709
+  s_bac4e4c9b679c7::t_dfa536f1489852 1-559,561-696,710-755,757-891
+  s_a8fa6210c93696::t_88826536fde22a 560
+prototypes/vici/repo-report.html
+  s_bac4e4c9b679c7::t_8b7b3c8da38565 1-1305
+prototypes/explorations/directory-heatmap.html
+  s_bac4e4c9b679c7::t_01d1fb201234b9 1-554,557,561-940
+  s_bac4e4c9b679c7::t_aa49856e0486a2 555-556,558-560
+prototypes/vscode/palette-status-settings.html
+  s_a8fa6210c93696::t_73ede4f2e7d7ba 1004,1007
+  s_a8fa6210c93696::t_f071937948415f 701-703
+  s_a8fa6210c93696::t_5e2c3c46870abc 1058
+  s_a8fa6210c93696::t_9b5ac99efba3d5 795-796
+  s_a8fa6210c93696::t_4be1c8021848bf 1005
+  s_a8fa6210c93696::t_65eb90bacd3582 1077
+  s_a8fa6210c93696::t_b2521068f97e65 1137
+  s_a8fa6210c93696::t_2900b7d61fccf3 1128-1129
+  s_bac4e4c9b679c7::t_50e48be5a99878 1-700,704-794,797-984,986-987,1008-1046,1048-1057,1059-1076,1078-1127,1130-1136,1138-1369
+  s_a8fa6210c93696::t_bf1ba67d860964 1047
+  s_a8fa6210c93696::t_652d63695e2ed6 985,988-1003,1006
+prototypes/explorations/feasibility/xcode.md
+  s_bac4e4c9b679c7::t_6ecd7ab8e56827 1-99
+prototypes/explorations/feasibility/github.md
+  s_bac4e4c9b679c7::t_d72a6aa4d1d1fa 1-199
+prototypes/xcode/editor-menu.html
+  s_bac4e4c9b679c7::t_9f09c8e9304225 1-1180
+prototypes/jetbrains/tool-window.html
+  s_bac4e4c9b679c7::t_2979a64fe56a36 1-1486
+prototypes/explorations/palettes.html
+  s_bac4e4c9b679c7::t_c43ad98997c35a 1-135
+prototypes/explorations/feasibility/vscode.md
+  s_bac4e4c9b679c7::t_c5571429652fd6 1-163
+prototypes/github/trust-governance-pr.html
+  s_bac4e4c9b679c7::t_8e68560b2aaa57 1-1500
+.pre-commit-config.yaml
+  s_a8fa6210c93696::t_8e55675f613b3a 29-30
+  s_a8fa6210c93696::t_dd8b7229aeeda9 31
+prototypes/cli/review-verify.html
+  s_bac4e4c9b679c7::t_92079abda2ad69 1-428,430-435,437-474
+  s_a8fa6210c93696::t_9bded8a2d95c91 429
+  s_a8fa6210c93696::t_58898938635611 436
+prototypes/github/vouch-app-flow.html
+  s_a8fa6210c93696::t_f71c049343094b 962,965-967,970,972,978,980-983,989,997-998
+  s_a8fa6210c93696::t_31f29ae377460e 1070,1072-1073
+  s_a8fa6210c93696::t_b8ad4ef43f0c6c 958,1170
+  s_bac4e4c9b679c7::t_b86a11a590d004 1-5,8-590,592-957,959-961,963-964,968-969,971,973-977,979,984-988,990-996,999-1043,1046-1069,1071,1074-1169,1171-1175,1178-1180,1182-1187,1190,1192-1352,1354-1375,1377-1396
+  s_a8fa6210c93696::t_271901c3b105f5 6-7
+  s_a8fa6210c93696::t_b3625a1ba52781 1176-1177,1181,1188-1189,1191
+  s_a8fa6210c93696::t_e0ff2550ab6087 1044-1045
+  s_a8fa6210c93696::t_3ff06580f29141 1353
+  s_a8fa6210c93696::t_192174b78bfd2c 1376
+  s_a8fa6210c93696::t_15a27240055dfc 591
+prototypes/jetbrains/review-mode-popup.html
+  s_bac4e4c9b679c7::t_9bb13268f19d8e 1-1362
+prototypes/brand/sigil.svg
+  s_bac4e4c9b679c7::t_ba4985980c55dc 1-30
+prototypes/cli/design-system.html
+  s_bac4e4c9b679c7::t_18d5caf7758d84 1-552,554-659,661-728,730-731,733,735-989
+  s_a8fa6210c93696::t_c95b62d0400fae 553
+  s_a8fa6210c93696::t_17b275a4002a92 729,732,734
+  s_a8fa6210c93696::t_667876ce0bc34e 660
+prototypes/veni/index.html
+  s_bac4e4c9b679c7::t_edbae3ddbc4608 153,160
+  s_bac4e4c9b679c7::t_8a6a7cf4cf35f3 132-134,143
+  s_bac4e4c9b679c7::t_2ecee65c3806e9 33-35
+  s_bac4e4c9b679c7::t_bc88324e384979 45,48-49,51-57
+  s_bac4e4c9b679c7::t_195ac20478f453 1-32,36-44,46-47,50,58-131,135-142,144-152,154-159,161-211,213-243,245,249-270,273-286,288-308,310-325
+  s_a8fa6210c93696::t_f39ae024cb3092 246-248
+  s_a8fa6210c93696::t_d2da12b15ba725 271-272
+  s_a8fa6210c93696::t_f1c2383d63ea81 287
+  s_bac4e4c9b679c7::t_c3d0bf59fe5582 309
+  s_a8fa6210c93696::t_93d048e1613658 212
+  s_bac4e4c9b679c7::t_e2e96c4f259725 244
+prototypes/cli/json-sarif.html
+  s_bac4e4c9b679c7::t_d065a68cd3bd66 1-478,480-721
+  s_a8fa6210c93696::t_3ea417217c884d 479
+prototypes/brand/BRAND.md
+  s_bac4e4c9b679c7::t_6294aa0a792bf4 1-25,35-265
+  s_bac4e4c9b679c7::t_d593f925bbd008 26-34
+prototypes/xcode/settings-extensions.html
+  s_bac4e4c9b679c7::t_b6e09581c00a00 1-909
+prototypes/github/pr-files-sarif.html
+  s_a8fa6210c93696::t_b6688569194bd4 931
+  s_a8fa6210c93696::t_e89a2a43aa79ff 788
+  s_bac4e4c9b679c7::t_c31bd9d5bae557 1-285,287-326,328-336,338-373,376-378,381-412,415-787,789-930,932-1461
+  s_bac4e4c9b679c7::t_655c5a81303507 286
+  s_bac4e4c9b679c7::t_ff81e9dd925cb9 327,337
+  s_bac4e4c9b679c7::t_136d2dab038740 413-414
+  s_bac4e4c9b679c7::t_5d7cd6767dfec0 374-375,379-380
+prototypes/github/pr-unreviewed-report.html
+  s_bac4e4c9b679c7::t_21b97b6c4254fd 532
+  s_bac4e4c9b679c7::t_0ac07475d9ba43 1-531,533-1117
+prototypes/brand/theme.css
+  s_a8fa6210c93696::t_c5593820b6b4e1 50-52
+  s_a8fa6210c93696::t_0a122abc40a4fb 29-35
+  s_bac4e4c9b679c7::t_08663ea3597484 1-28,36-49,53-239
+prototypes/xcode/vouch-hud.html
+  s_bac4e4c9b679c7::t_bb5e77cbe0bf42 1-771
+prototypes/cli/status-queue.html
+  s_bac4e4c9b679c7::t_fa9e20a9951d04 1-520
+prototypes/vscode/spine-tree-gutter.html
+  s_bac4e4c9b679c7::t_555a83fb5267aa 1-918
+prototypes/explorations/matrix.html
+  s_bac4e4c9b679c7::t_75cbfef4498d2b 1-831
+prototypes/index.html
+  s_bac4e4c9b679c7::t_2b824b9eab5ce6 120-126,129-131
+  s_bac4e4c9b679c7::t_da9c1ff604b662 1-119,127-128,132-139
+prototypes/vici/org-dashboard.html
+  s_bac4e4c9b679c7::t_1301d234c96193 1-1209
+prototypes/vscode/coverage-webview.html
+  s_a8fa6210c93696::t_856a0b2dec9604 1289-1290,1292
+  s_bac4e4c9b679c7::t_aef90f7d5dcfd7 1-327,330-336,338-349,351-353,355-877,879-892,897-1288,1291,1293-1327
+  s_a8fa6210c93696::t_af417e6899cb49 893-896
+  s_a8fa6210c93696::t_7a539b8f72c33d 878
+  s_a8fa6210c93696::t_5f3af21be5e876 328-329,337,350,354
+prototypes/xcode/coverage-companion.html
+  s_bac4e4c9b679c7::t_2572284f72e014 1-448,451-455,458-494,496,498,500-503,505-513,515,518-956,958-1094
+  s_bac4e4c9b679c7::t_a325b989dd38d5 514,516-517
+  s_bac4e4c9b679c7::t_ceb4f7fa9a6002 957
+  s_bac4e4c9b679c7::t_636795617297df 495,497,499,504
+  s_bac4e4c9b679c7::t_01595a97bd8ed0 449-450,456-457
+prototypes/github/pr-checks-gate.html
+  s_a8fa6210c93696::t_a448555c8c4fda 938
+  s_bac4e4c9b679c7::t_0ff2622c6fdbbd 1-918,920-937,939-1223
+  s_a8fa6210c93696::t_a38adf6ced1f9e 919
+prototypes/vici/coverage-matrix.html
+  s_bac4e4c9b679c7::t_8363ce16bd3579 1-1111
+prototypes/explorations/sigils.html
+  s_bac4e4c9b679c7::t_0cb187d638017c 1-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "1ccdd0d475430ab8fe09599ad79892eab3d31126",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_bac4e4c9b679c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "40b64b71-7fb2-4022-b3b2-48457662f805",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
