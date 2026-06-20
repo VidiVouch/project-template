@@ -1,0 +1,21 @@
+LICENSE.md
+  s_a8fa6210c93696::t_e597c47181cab8 1
+render.yaml
+  s_a8fa6210c93696::t_7099ddc69ed524 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d7054f8f6d186c1f6b6dec0bf188f0ab70ce5eae",
+  "prompts": {},
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
