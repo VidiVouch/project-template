@@ -9,6 +9,11 @@ crates/vid-core/src/store.rs
   "git_ai_version": "1.5.8",
   "base_commit_sha": "b6cbee6809db64529b8cbc9f003b8f9c6877be0f",
   "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
   "sessions": {
     "s_a8fa6210c93696": {
       "agent_id": {
