@@ -1,0 +1,25 @@
+.claude/hooks/enforce_django_comments.py
+  s_0276221d01c0b0::t_2b2dfe316dbe75 1-124
+project-words.dic
+  s_0276221d01c0b0::t_712b6a80e1d925 6
+.claude/settings.json
+  s_0276221d01c0b0::t_70201672c8cfe4 51-59
+tests/hooks/test_enforce_django_comments.py
+  s_0276221d01c0b0::t_602ce0d5fb6b0a 1-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "29cd8159d122efc7d47afeb41786866338bebbcb",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
