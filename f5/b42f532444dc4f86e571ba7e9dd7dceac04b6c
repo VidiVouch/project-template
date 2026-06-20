@@ -1,0 +1,21 @@
+config/settings/production.py
+  s_0276221d01c0b0::t_94151c8097cba2 4,6-10,12-15
+config/settings/base.py
+  s_0276221d01c0b0::t_7e0aabc82a340e 67-79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f5b42f532444dc4f86e571ba7e9dd7dceac04b6c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
