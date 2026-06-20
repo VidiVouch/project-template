@@ -1,0 +1,14 @@
+.codex/config.toml
+  h_795c5e33ecc5af 8-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "eff57e96387104c9df7619773c7c04e0ffc4f91f",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
