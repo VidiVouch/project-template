@@ -1,0 +1,59 @@
+pyproject.toml
+  s_0276221d01c0b0::t_dbf594ddaed28f 23
+apps/identity/checks.py
+  s_0276221d01c0b0::t_aff4d8d6d11133 1-143
+apps/tracking/admin.py
+  s_0276221d01c0b0::t_f9606301c6621e 1-45
+apps/identity/tests/test_site_config.py
+  s_0276221d01c0b0::t_bf788799a1a50b 1-261
+config/settings/base.py
+  s_0276221d01c0b0::t_14a95cde4a8330 92-93,100,105-123
+  s_0276221d01c0b0::t_63d33af8da6531 16-18
+apps/tracking/management/commands/__init__.py
+  s_0276221d01c0b0::t_072dbaf5c4cb44 1
+apps/tracking/tests/factories.py
+  s_0276221d01c0b0::t_c9ccc3d81ba312 1-56
+apps/tracking/tests/test_models.py
+  s_0276221d01c0b0::t_5a6dc074efde26 1-42
+config/settings/production.py
+  s_0276221d01c0b0::t_d6e14dc764dc64 24-27
+apps/tracking/receivers.py
+  s_0276221d01c0b0::t_f774eb1bd2a81f 1-111
+apps/tracking/management/commands/configure_mailgun_tracking.py
+  s_0276221d01c0b0::t_4ff778f1519803 1-169
+apps/tracking/management/__init__.py
+  s_0276221d01c0b0::t_a4e9aafd47758b 1
+apps/tracking/tests/test_receivers.py
+  s_0276221d01c0b0::t_459db8b3e08e1d 1-147
+apps/tracking/migrations/0001_initial.py
+  s_0276221d01c0b0::t_e90928a179d93a 1-53
+apps/tracking/__init__.py
+  s_0276221d01c0b0::t_26ef643b522306 1
+apps/identity/apps.py
+  s_0276221d01c0b0::t_e3017f12446621 4-10,20-101
+apps/tracking/models.py
+  s_0276221d01c0b0::t_7d298293c9674b 1-138
+apps/identity/site_url.py
+  s_0276221d01c0b0::t_e02223b1b96b9b 1-132
+config/urls.py
+  s_0276221d01c0b0::t_e6c72d96dda780 5
+  s_0276221d01c0b0::t_0742e87687d8c8 11
+apps/tracking/apps.py
+  s_0276221d01c0b0::t_e0af0002bacb3d 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4c285da441472a87cc439ded4b9f0528d8bab5c9",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

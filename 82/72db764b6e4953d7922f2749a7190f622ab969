@@ -1,0 +1,33 @@
+config/settings/local.py
+  s_0276221d01c0b0::t_b48898190a7066 5-8
+README.md
+  s_0276221d01c0b0::t_6c1222fdb26723 16
+  s_0276221d01c0b0::t_8a8711f1239eeb 243-254
+pyproject.toml
+  s_0276221d01c0b0::t_5c83b8741a2a02 17
+config/settings/base.py
+  s_0276221d01c0b0::t_a8a0d7563010db 200-240
+  s_0276221d01c0b0::t_177c8103859849 94
+config/settings/testing.py
+  s_0276221d01c0b0::t_15e640b0a7b924 17-19
+.env.sample
+  s_0276221d01c0b0::t_ebda17604c1e06 12-29
+config/settings/production.py
+  s_0276221d01c0b0::t_488cef38ceefdd 3-4,19-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "8272db764b6e4953d7922f2749a7190f622ab969",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
