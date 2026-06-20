@@ -1,0 +1,26 @@
+VOUCH-ARCHITECTURE.html
+  s_a8fa6210c93696::t_847fe31ca55c4d 120,124-128
+GITHUB-APP.html
+  s_a8fa6210c93696::t_32c5f954c1dbc5 54,56-62,64-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "062fd1ec8110ce0aa0525e579caea6aadf53339c",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
