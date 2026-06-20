@@ -1,0 +1,38 @@
+config/settings/base.py
+  s_0276221d01c0b0::t_92c4333ec73cab 100
+  s_0276221d01c0b0::t_0f3067e52df578 245-268
+.env.sample
+  s_0276221d01c0b0::t_6060db2702d700 27-40
+apps/identity/urls.py
+  s_0276221d01c0b0::t_2b06667114b4d3 22
+  s_0276221d01c0b0::t_4bfe936bc996ed 47-49
+apps/identity/views.py
+  s_0276221d01c0b0::t_af3c76b9c2c787 299-314
+  s_0276221d01c0b0::t_29a00c69a2abcf 7
+pyproject.toml
+  s_0276221d01c0b0::t_f6a60385488c57 17
+apps/identity/adapters.py
+  s_0276221d01c0b0::t_7703b3dbda78ac 32,34,37,41,43-44
+  s_0276221d01c0b0::t_c3aab299aa07a4 499-562
+apps/identity/tests/test_mfa_passkey.py
+  s_0276221d01c0b0::t_840d8880dd6665 1-120
+apps/identity/tests/factories.py
+  s_0276221d01c0b0::t_4581c54eade3b6 13-15
+  s_0276221d01c0b0::t_d7faa7d471f50f 172-214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "65be3063a184b5ebc1e9024eb7407a182e164ece",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
