@@ -1,0 +1,37 @@
+apps/data/capture/management/source_template/transformers.py-tpl
+  s_0276221d01c0b0::t_b368ea0d993272 11-13,26
+apps/data/capture/management/source_template/mapping.py-tpl
+  s_0276221d01c0b0::t_b368ea0d993272 11,24
+apps/data/capture/management/source_template/sessions.py-tpl
+  s_0276221d01c0b0::t_b368ea0d993272 19
+apps/data/capture/tests/test_startsource.py
+  s_0276221d01c0b0::t_b368ea0d993272 21-22,40-44,47,49-55,66-70,79-84,92,95-100,102-103
+apps/data/capture/management/envelope_template/versions.py-tpl
+  s_0276221d01c0b0::t_b368ea0d993272 1-26
+apps/data/capture/management/envelope_template/response.py-tpl
+  s_0276221d01c0b0::t_b368ea0d993272 1-19
+apps/data/capture/management/source_template/models.py-tpl
+  s_0276221d01c0b0::t_b368ea0d993272 13,23-26
+apps/data/capture/management/source_template/management/commands/import_portal_${source}.py-tpl
+  s_0276221d01c0b0::t_b368ea0d993272 22
+apps/data/capture/management/commands/startsource.py
+  s_0276221d01c0b0::t_b368ea0d993272 1,5-15,17-18,39-44,54-55,60-61,75-82,86,92-96,100,105-109,111,113-115,122-125,137-138
+apps/data/capture/management/source_template/tests/test_contracts.py-tpl
+  s_0276221d01c0b0::t_b368ea0d993272 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f80fd5e8cf45444e9f56de09feb6dcdfdd255f36",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
