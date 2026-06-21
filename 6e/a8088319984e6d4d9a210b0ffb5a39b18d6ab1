@@ -1,0 +1,29 @@
+npm/package.json
+  s_17405aaf91a59b::t_47600a3ecaa3fd 1-15
+pyproject.toml
+  s_17405aaf91a59b::t_d75447a009ad11 1-34
+.github/workflows/release.yml
+  s_17405aaf91a59b::t_9a6b785996afbb 1-132
+npm/bin/vid.js
+  s_17405aaf91a59b::t_0237af10a75563 1-18
+npm/install.js
+  s_17405aaf91a59b::t_56dc79224742de 1-74
+npm/README.md
+  s_17405aaf91a59b::t_38b65f3fe7f841 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "6ea8088319984e6d4d9a210b0ffb5a39b18d6ab1",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
