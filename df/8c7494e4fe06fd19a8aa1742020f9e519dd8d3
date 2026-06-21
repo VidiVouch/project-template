@@ -1,0 +1,75 @@
+apps/data/expoplatform/tests/test_import_portal_expoplatform.py
+  s_0276221d01c0b0::t_561ffa92025984 1-118
+apps/catalog/handlers/expoplatform.py
+  s_0276221d01c0b0::t_561ffa92025984 1-272
+apps/data/expoplatform/tests/test_mapping.py
+  s_0276221d01c0b0::t_561ffa92025984 1-137
+apps/data/expoplatform/management/commands/import_portal_expoplatform.py
+  s_0276221d01c0b0::t_561ffa92025984 1-211
+apps/data/expoplatform/mapping.py
+  s_0276221d01c0b0::t_561ffa92025984 1-163
+envelopes/expoplatform/versions.py
+  s_0276221d01c0b0::t_561ffa92025984 1-86
+research/event_research/tests/test_expoplatform_spider.py
+  s_0276221d01c0b0::t_561ffa92025984 1-401
+envelopes/expoplatform/response.py
+  s_0276221d01c0b0::t_561ffa92025984 1-274
+traffic_analysis/tests/test_expoplatform.py
+  s_0276221d01c0b0::t_561ffa92025984 1-377
+apps/data/expoplatform/tests/test_admin.py
+  s_0276221d01c0b0::t_561ffa92025984 1-32
+apps/data/expoplatform/models.py
+  s_0276221d01c0b0::t_561ffa92025984 1-204
+apps/data/expoplatform/tests/test_sessions.py
+  s_0276221d01c0b0::t_561ffa92025984 1-122
+apps/data/expoplatform/transformers.py
+  s_0276221d01c0b0::t_561ffa92025984 1-219
+traffic_analysis/flow_readers/expoplatform.py
+  s_0276221d01c0b0::t_561ffa92025984 1-248
+config/settings/base.py
+  s_0276221d01c0b0::t_6701e827944ffb 127
+apps/bootstrap.py
+  s_0276221d01c0b0::t_b9744945a7114b 117,119
+  s_0276221d01c0b0::t_f269c647b13700 159,161
+apps/data/expoplatform/admin.py
+  s_0276221d01c0b0::t_561ffa92025984 1-37
+apps/data/expoplatform/tests/test_app_registration.py
+  s_0276221d01c0b0::t_561ffa92025984 1-26
+apps/data/expoplatform/tests/test_contracts.py
+  s_0276221d01c0b0::t_561ffa92025984 1-197
+apps/data/expoplatform/registrations.py
+  s_0276221d01c0b0::t_561ffa92025984 1-68
+research/event_research/expoplatform.py
+  s_0276221d01c0b0::t_561ffa92025984 1-395
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_ce3d3772fc0fea 152
+  s_0276221d01c0b0::t_11dc8475555b4d 199-200
+  s_0276221d01c0b0::t_6ce77956ea783e 167
+  s_0276221d01c0b0::t_19943dd7e8f824 91-95
+apps/data/expoplatform/migrations/0001_initial.py
+  s_0276221d01c0b0::t_f093aefceb6f04 1-226
+apps/data/expoplatform/apps.py
+  s_0276221d01c0b0::t_561ffa92025984 1-8
+apps/data/expoplatform/tests/test_response.py
+  s_0276221d01c0b0::t_561ffa92025984 1-155
+apps/catalog/tests/test_promote_expoplatform.py
+  s_0276221d01c0b0::t_561ffa92025984 1-284
+apps/data/expoplatform/sessions.py
+  s_0276221d01c0b0::t_561ffa92025984 1-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "df8c7494e4fe06fd19a8aa1742020f9e519dd8d3",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
