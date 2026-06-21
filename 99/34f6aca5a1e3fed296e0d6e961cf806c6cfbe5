@@ -1,0 +1,42 @@
+apps/sales/tests/test_rls.py
+  s_0276221d01c0b0::t_d9d96c98db9b21 60
+  s_0276221d01c0b0::t_86c89f1301ba9b 21,28,38
+config/settings/base.py
+  s_0276221d01c0b0::t_308ae6ac8356ab 569-573
+apps/sales/tests/test_limits.py
+  s_0276221d01c0b0::t_2c818dce7c2ca5 1-119
+apps/sales/models.py
+  s_0276221d01c0b0::t_46479df62e7ff1 37-91
+apps/sales/admin.py
+  s_0276221d01c0b0::t_fc8bac8f77131a 10-26
+apps/sales/tests/test_conferences.py
+  s_0276221d01c0b0::t_a036bcd1580c75 1-127
+apps/sales/migrations/0003_conference.py
+  s_0276221d01c0b0::t_b4b5752c2f766a 1-35
+apps/sales/migrations/0004_conference_rls.py
+  s_0276221d01c0b0::t_d342fcad697d4a 1-18
+apps/sales/registrations.py
+  s_0276221d01c0b0::t_415ce9b47ba3cc 20-27,31
+apps/sales/conference_sections.py
+  s_0276221d01c0b0::t_bd43200bb26bb2 1-75
+apps/sales/limits.py
+  s_0276221d01c0b0::t_742a9ef8e932b4 1-98
+apps/sales/tests/test_merge_rehome.py
+  s_0276221d01c0b0::t_aa82d94314a4db 146-162,165-168,170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "9934f6aca5a1e3fed296e0d6e961cf806c6cfbe5",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
