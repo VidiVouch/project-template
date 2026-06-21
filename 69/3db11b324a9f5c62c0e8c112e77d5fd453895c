@@ -1,0 +1,141 @@
+research/tests/conftest.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-64
+research/settings.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-52
+traffic_analysis/discovery.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-164
+research/tutorials/quotes.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-23
+research/default/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1
+traffic_analysis/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1
+traffic_analysis/tests/test_base.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-165
+traffic_analysis/analysis/flow_io.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-29
+research/tests/test_spider_integration.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-141
+.agents/skills/new-source/SKILL.md
+  s_0276221d01c0b0::t_3daa38a80ba585 1-113
+traffic_analysis/analysis/providers.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-98
+traffic_analysis/settings.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-15
+research/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1
+traffic_analysis/exceptions.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-19
+research/tests/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1
+traffic_analysis/flow_readers/quotes_scroll.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-51
+.claude/settings.json
+  s_0276221d01c0b0::t_3daa38a80ba585 92
+traffic_analysis/flow_readers/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1
+traffic_analysis/tests/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1
+traffic_analysis/analysis/flow_analysis.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-706
+pyproject.toml
+  s_0276221d01c0b0::t_bbe2843f9b038d 78
+  s_0276221d01c0b0::t_34454b68d0130e 31
+  s_0276221d01c0b0::t_3daa38a80ba585 35,37,64-65,69,79,181-199,258
+  s_0276221d01c0b0::t_421effcb481a0d 254
+envelopes/credentials/login.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-68
+traffic_analysis/tests/test_rules.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-405
+.gitignore
+  s_0276221d01c0b0::t_3daa38a80ba585 785-786
+research/handlers.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-89
+project-words.dic
+  s_0276221d01c0b0::t_3daa38a80ba585 13-14,16-23,28
+traffic_analysis/analysis/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-59
+research/fun_spiders/cognatheque.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-47
+.idea/scopes/Research.xml
+  s_0276221d01c0b0::t_3daa38a80ba585 1-3
+.agents/skills/new-source/references/research.md
+  s_0276221d01c0b0::t_3daa38a80ba585 1-131
+envelopes/_versioning.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-52
+traffic_analysis/flow_readers/example_rules.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-139
+AGENTS.md
+  s_0276221d01c0b0::t_3daa38a80ba585 30-33
+traffic_analysis/provider_registry.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-113
+README.md
+  s_0276221d01c0b0::t_ed9d222cceeed9 257
+  s_0276221d01c0b0::t_3daa38a80ba585 17-18,258-341
+traffic_analysis/pipelines.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-308
+traffic_analysis/tests/test_provider_registry.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-155
+envelopes/credentials/ports.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-77
+traffic_analysis/tests/test_jsonl_pipeline.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-111
+research/test_spiders/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1
+traffic_analysis/tests/test_csv_pipeline.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-113
+.agents/skills/new-source/references/flow_reader.md
+  s_0276221d01c0b0::t_3daa38a80ba585 1-129
+research/tutorials/quotes_scroll.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-23
+scrapy.cfg
+  s_0276221d01c0b0::t_3daa38a80ba585 1-11
+traffic_analysis/cli/analyze_flow.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-400
+traffic_analysis/cli/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-8
+research/tests/test_handlers.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-115
+envelopes/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-24
+traffic_analysis/tests/test_discovery.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-240
+traffic_analysis/tests/test_pipeline_manager.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-115
+.agents/skills/investigate-traffic/SKILL.md
+  s_0276221d01c0b0::t_3daa38a80ba585 1-158
+REVIEW.md
+  s_0276221d01c0b0::t_3daa38a80ba585 10
+.idea/runConfigurations/Pytest__Research_.xml
+  s_0276221d01c0b0::t_3daa38a80ba585 1-25
+traffic_analysis/base.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-279
+research/test_spiders/spiders.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-72
+traffic_analysis/tests/test_flow_analysis.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-48
+research/fun_spiders/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1
+traffic_analysis/rules.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-426
+research/tutorials/__init__.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1
+traffic_analysis/analysis/reports.py
+  s_0276221d01c0b0::t_3daa38a80ba585 1-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "693db11b324a9f5c62c0e8c112e77d5fd453895c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
