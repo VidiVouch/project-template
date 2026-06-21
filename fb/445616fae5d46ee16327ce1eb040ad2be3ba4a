@@ -1,0 +1,22 @@
+apps/sales/templatetags/sales_format.py
+  s_0276221d01c0b0::t_51d1505a01dc8a 3-6,13-17,19-47,49-54,90-111
+  s_0276221d01c0b0::t_f914f3350cb039 55
+apps/sales/tests/test_format.py
+  s_0276221d01c0b0::t_a742700fe96bd3 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "fb445616fae5d46ee16327ce1eb040ad2be3ba4a",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
