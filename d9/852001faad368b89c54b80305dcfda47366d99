@@ -1,0 +1,19 @@
+apps/data/allintheloop/management/commands/import_portal_allintheloop.py
+  s_0276221d01c0b0::t_c89d9f5841ca7b 1-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d9852001faad368b89c54b80305dcfda47366d99",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
