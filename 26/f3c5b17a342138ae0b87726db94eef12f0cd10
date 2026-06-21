@@ -1,0 +1,21 @@
+apps/data/base/tests/test_chains.py
+  s_0276221d01c0b0::t_2c4b0cb4190ffb 1-76
+apps/data/base/chains.py
+  s_0276221d01c0b0::t_756593ee3489d7 1-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "26f3c5b17a342138ae0b87726db94eef12f0cd10",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
