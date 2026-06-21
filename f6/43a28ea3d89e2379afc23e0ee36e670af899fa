@@ -1,0 +1,40 @@
+apps/sales/events.py
+  s_0276221d01c0b0::t_a4c8a7a58f108c 1-16
+apps/sales/models.py
+  s_0276221d01c0b0::t_74ff769519814e 94-124
+  s_0276221d01c0b0::t_3b7ce75fd621cc 170-179,182-189,194,196-202,211
+  s_0276221d01c0b0::t_683a9fea163ee7 29-30
+apps/sales/receivers.py
+  s_0276221d01c0b0::t_184289a5ee7cf6 1-64
+apps/sales/tests/test_icp_review.py
+  s_0276221d01c0b0::t_c65f0c54375dbb 1-84
+apps/sales/apps.py
+  s_0276221d01c0b0::t_e496d8559e412e 11-18
+apps/sales/tests/test_rls.py
+  s_0276221d01c0b0::t_93d0ffbd40b84a 21,28-33,41,43-44
+  s_0276221d01c0b0::t_91689c19078eb7 66-73,76-77
+apps/sales/admin.py
+  s_0276221d01c0b0::t_960798f44be5ef 8,10-19,36
+  s_0276221d01c0b0::t_4a84dfd3490e35 63,65-74,76-90
+apps/sales/tests/test_conferences.py
+  s_0276221d01c0b0::t_3d709da55ba6c5 1,7,14,29-33
+  s_0276221d01c0b0::t_b0b32125f25964 81-104
+apps/sales/migrations/0006_conferenceicp_rls.py
+  s_0276221d01c0b0::t_48b6c25087d906 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f643a28ea3d89e2379afc23e0ee36e670af899fa",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
