@@ -1,0 +1,65 @@
+assets/brand/grazeai-logo-g-throbber.svg
+  s_0276221d01c0b0::t_8322b85d191608 1-57
+templates/_error_base.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-19
+assets/js/auth-login.js
+  s_0276221d01c0b0::t_8322b85d191608 1-19
+templates/_theme_picker.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-12
+templates/app/base.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-44
+assets/brand/grazeai-logo-g-small.svg
+  s_0276221d01c0b0::t_8322b85d191608 1-7
+templates/403.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-6
+assets/brand/grazeai-logo-g.svg
+  s_0276221d01c0b0::t_8322b85d191608 1-18
+assets/brand/grazeai-logo-g-filled.svg
+  s_0276221d01c0b0::t_8322b85d191608 1-30
+templates/_gz_form_fields.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-35
+assets/brand/grazeai-logo.svg
+  s_0276221d01c0b0::t_8322b85d191608 1-45
+templates/500.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-55
+templates/allauth/layouts/base.html
+  s_0276221d01c0b0::t_9c94638d9eba78 1,3-8,10-12,14-24,26-36,38-42,44-92
+apps/identity/templatetags/gz_forms.py
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-76
+templates/allauth/elements/field.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-61
+assets/js/email-actions.js
+  s_0276221d01c0b0::t_8322b85d191608 1-27
+templates/400.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-6
+templates/404.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-6
+assets/css/source.css
+  s_0276221d01c0b0::t_8322b85d191608 2-1719
+templates/allauth/elements/fields.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-7
+templates/base.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 2-3,5-7,9-11,13,15-60
+assets/js/theme-picker.js
+  s_0276221d01c0b0::t_8322b85d191608 1-65
+assets/js/auth-fog.js
+  s_0276221d01c0b0::t_8322b85d191608 1-255
+templates/app/_nav.html
+  s_0276221d01c0b0::t_0ee0280f91bf56 1-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f4de8acdebc0a9906f723f6b844b2e707d832131",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
