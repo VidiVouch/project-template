@@ -1,0 +1,26 @@
+apps/catalog/tests/test_promote_brella.py
+  s_0276221d01c0b0::t_6b30d54e9da4ea 1-384
+apps/catalog/handlers/brella.py
+  s_0276221d01c0b0::t_6b30d54e9da4ea 1-305
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_25d5c030d222bb 76-82
+  s_0276221d01c0b0::t_1a2dad8e113925 92
+  s_0276221d01c0b0::t_0a2ed7ab264a02 49-55
+  s_0276221d01c0b0::t_79d218b9f65bed 103-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "2678b569eee10eab895d96e631a47cf2b4954db4",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
