@@ -1,0 +1,21 @@
+apps/catalog/management/commands/merge_linkedin_renames.py
+  s_0276221d01c0b0::t_d4e9c43b0e4c12 1-76
+apps/catalog/tests/test_merge_linkedin_renames.py
+  s_0276221d01c0b0::t_d4e9c43b0e4c12 1-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "a634d0d882917569223a1f5b8b317a6f57e32309",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
