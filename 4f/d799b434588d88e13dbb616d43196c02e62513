@@ -1,0 +1,26 @@
+templates/billing/home.html
+  s_0276221d01c0b0::t_3cac9a75dab2f4 21-37
+apps/billing/views.py
+  s_0276221d01c0b0::t_f6c29cff590f7a 85,90-93,108-111,119-150
+  s_0276221d01c0b0::t_ff5aacb4a33ebc 7-9
+  s_0276221d01c0b0::t_20d5588b8f5ac7 42-45
+apps/billing/tests/test_views.py
+  s_0276221d01c0b0::t_fa5bd0828b1e1b 112-156
+  s_0276221d01c0b0::t_71de29c0204045 13-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4fd799b434588d88e13dbb616d43196c02e62513",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
