@@ -1,0 +1,54 @@
+templates/account/login.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1,3-16,18-21,23-96,98-104
+templates/identity/invite_invalid.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1,3-8,10-26
+templates/socialaccount/connections.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-47
+templates/socialaccount/snippets/login.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-23
+templates/mfa/authenticate.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-57
+templates/account/email.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-73
+templates/identity/invite_accept_confirm.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 28-31
+templates/mfa/recovery_codes/index.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-57
+templates/mfa/trust.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-26
+templates/socialaccount/snippets/provider_list.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-44
+templates/mfa/index.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-92
+apps/identity/forms.py
+  s_0276221d01c0b0::t_33bdbb6a50f622 279-301
+  s_0276221d01c0b0::t_592ae13985af1e 6,13
+templates/account/password_reset_done.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-51
+templates/account/signup_closed.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-11
+templates/mfa/totp/activate_form.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-41
+config/settings/base.py
+  s_0276221d01c0b0::t_798963dbf8d64d 235-237
+apps/identity/tests/test_auth_ui.py
+  s_0276221d01c0b0::t_96a1fe45f88608 1,3-6,25-26,29-33
+templates/account/email_confirm.html
+  s_0276221d01c0b0::t_fd8fd892a4dc5b 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "82df9942b7f719e58925fc51ecc89115ac98a2a1",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
