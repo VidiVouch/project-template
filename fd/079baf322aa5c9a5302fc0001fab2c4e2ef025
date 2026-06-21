@@ -1,0 +1,26 @@
+config/settings/base.py
+  s_0276221d01c0b0::t_fc13ea2361f5e5 449-456
+  s_0276221d01c0b0::t_529d65cca5a5a4 473-475
+config/settings/local.py
+  s_0276221d01c0b0::t_15a043b1d242d6 5-11
+config/email.py
+  s_0276221d01c0b0::t_d269a342b8ab7b 1-66
+config/log.py
+  s_0276221d01c0b0::t_d269a342b8ab7b 1-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "fd079baf322aa5c9a5302fc0001fab2c4e2ef025",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
