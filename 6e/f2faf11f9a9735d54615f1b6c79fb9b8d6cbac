@@ -1,0 +1,23 @@
+apps/data/apify/tests/test_transformers.py
+  s_0276221d01c0b0::t_bbfcf6f8aaaddf 1-353
+apps/data/apify/tests/test_contracts.py
+  s_0276221d01c0b0::t_34d50bb8ea33d8 1-67
+apps/data/apify/tests/test_app_registration.py
+  s_0276221d01c0b0::t_8d7997d2b7d898 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "6ef2faf11f9a9735d54615f1b6c79fb9b8d6cbac",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
