@@ -1,0 +1,37 @@
+apps/catalog/management/commands/build_nickname_data.py
+  s_0276221d01c0b0::t_47d50f4cd0a1fb 1-114
+apps/catalog/tests/test_build_nickname_data.py
+  s_0276221d01c0b0::t_47d50f4cd0a1fb 1-46
+apps/catalog/tests/test_names.py
+  s_0276221d01c0b0::t_47d50f4cd0a1fb 1-241
+apps/catalog/data/nicknames_carltonnorthern.csv
+  s_0276221d01c0b0::t_47d50f4cd0a1fb 1-2692
+pyproject.toml
+  s_0276221d01c0b0::t_f7e8176f64b393 31
+apps/catalog/identity/names.py
+  s_0276221d01c0b0::t_47d50f4cd0a1fb 1-398
+apps/catalog/data/README.md
+  s_0276221d01c0b0::t_47d50f4cd0a1fb 1-37
+apps/catalog/identity/names_data.py
+  s_0276221d01c0b0::t_47d50f4cd0a1fb 1-1561
+apps/catalog/data/diminutives_male.csv
+  s_0276221d01c0b0::t_47d50f4cd0a1fb 1-287
+apps/catalog/data/diminutives_female.csv
+  s_0276221d01c0b0::t_47d50f4cd0a1fb 1-258
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "cd06be88f2d8906d01a0734064e97bf2bbc15ce9",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
