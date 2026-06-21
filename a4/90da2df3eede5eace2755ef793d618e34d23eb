@@ -1,0 +1,25 @@
+apps/catalog/identity/names.py
+  s_0276221d01c0b0::t_8a8014b590f1f5 164-188
+apps/catalog/tests/test_names.py
+  s_0276221d01c0b0::t_8a8014b590f1f5 11,243-251
+apps/catalog/tests/test_merge_claim_bridges.py
+  s_0276221d01c0b0::t_8a8014b590f1f5 1-384
+apps/catalog/management/commands/merge_claim_bridges.py
+  s_0276221d01c0b0::t_8a8014b590f1f5 1-334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "a490da2df3eede5eace2755ef793d618e34d23eb",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
