@@ -1,0 +1,37 @@
+apps/jobs/migrations/0001_initial.py
+  s_0276221d01c0b0::t_d23babc8e2783b 1-33
+apps/jobs/admin.py
+  s_0276221d01c0b0::t_2832c085396308 1-43
+apps/jobs/tasks.py
+  s_0276221d01c0b0::t_bb38dea70c766e 1-176
+apps/jobs/models.py
+  s_0276221d01c0b0::t_cd9446726e151a 1-44
+apps/jobs/tests/test_admin.py
+  s_0276221d01c0b0::t_396f444bd32b32 1-57
+apps/jobs/__init__.py
+  s_0276221d01c0b0::t_b8e3d351c36313 1
+apps/jobs/tests/test_tasks.py
+  s_0276221d01c0b0::t_9d2619a93ac123 1-237
+config/settings/base.py
+  s_0276221d01c0b0::t_e39d003ffee62a 122
+apps/jobs/apps.py
+  s_0276221d01c0b0::t_f24f7df2741f19 1-71
+apps/jobs/tests/test_schedules.py
+  s_0276221d01c0b0::t_158c2e3dc083c6 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "e8436121c8414c6bc6a3e150eaf864fd727b6425",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
