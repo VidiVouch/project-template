@@ -1,0 +1,31 @@
+editors/jetbrains/build.gradle.kts
+  s_17405aaf91a59b::t_2c44dcfe6589b1 1-56
+editors/jetbrains/settings.gradle.kts
+  s_17405aaf91a59b::t_1a957ed5bc9d40 1-8
+editors/jetbrains/src/main/resources/META-INF/plugin.xml
+  s_17405aaf91a59b::t_6a62dacae6a92e 1-29
+editors/jetbrains/README.md
+  s_17405aaf91a59b::t_6e21a58e83f7c8 1-30
+editors/jetbrains/gradle/wrapper/gradle-wrapper.properties
+  s_17405aaf91a59b::t_aca256e3e20f3e 1-9
+editors/jetbrains/gradle.properties
+  s_17405aaf91a59b::t_95695dc1f4f809 1-7
+editors/jetbrains/.gitignore
+  s_17405aaf91a59b::t_5a527aca7daf2f 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f36f099dd2b8537ce2fb2508d2f9a1c813065002",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
