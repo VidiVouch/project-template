@@ -1,0 +1,21 @@
+apps/sales/tests/test_prospect_lists.py
+  s_0276221d01c0b0::t_901702d4a5b130 1-308
+apps/sales/tests/test_export_flow.py
+  s_0276221d01c0b0::t_901702d4a5b130 1-238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4e6cc4db36df3da1d039aaf41472c3a3b5678682",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
