@@ -1,0 +1,23 @@
+apps/catalog/tests/test_cadmium_batch.py
+  s_0276221d01c0b0::t_e5a258d4c90968 534
+  s_0276221d01c0b0::t_cfc73896496652 521-533,535-540
+apps/catalog/handlers/cadmium_batch.py
+  s_0276221d01c0b0::t_f5234cf4045210 253
+  s_0276221d01c0b0::t_bbfacd64d2a65e 248-252,321-333
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "11aeb826e70b59a4425253b22007a323e6afb4e6",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
