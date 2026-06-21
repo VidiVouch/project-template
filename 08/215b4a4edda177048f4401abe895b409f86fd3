@@ -1,0 +1,68 @@
+apps/bootstrap.py
+  s_0276221d01c0b0::t_43e60dc8e9d6f5 114,116
+apps/data/core_apps/tests/test_app_registration.py
+  s_0276221d01c0b0::t_d776305f3cf8ac 1-52
+apps/data/core_apps/models.py
+  s_0276221d01c0b0::t_394a38f90930c4 1-138
+apps/data/core_apps/tests/test_models.py
+  s_0276221d01c0b0::t_299aec610a0b85 1-98
+apps/data/core_apps/apps.py
+  s_0276221d01c0b0::t_c6c9bfe81c8dc9 1-8
+apps/data/core_apps/management/commands/import_portal_core_apps.py
+  s_0276221d01c0b0::t_bc77e5adb90be2 1-99
+apps/data/core_apps/tests/test_mapping.py
+  s_0276221d01c0b0::t_46ebc1294bbc7d 1-136
+apps/catalog/tests/test_promote_core_apps.py
+  s_0276221d01c0b0::t_e013db9cd3bbf6 1-280
+envelopes/core_apps/response.py
+  s_0276221d01c0b0::t_15e79c5fad339b 1-143
+apps/data/core_apps/transformers.py
+  s_0276221d01c0b0::t_d046756a4e4a2d 1-123
+config/settings/base.py
+  s_0276221d01c0b0::t_525876d0061c51 123
+apps/data/core_apps/tests/test_response.py
+  s_0276221d01c0b0::t_207332c6158818 1-61
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_40cf9b2806dd2d 134
+  s_0276221d01c0b0::t_04463f8a82171b 116-122
+  s_0276221d01c0b0::t_fb3268169331e8 72-78
+  s_0276221d01c0b0::t_afcf902cbf9889 156-159
+apps/data/core_apps/mapping.py
+  s_0276221d01c0b0::t_2b3a9e4ae24da1 1-170
+apps/catalog/handlers/core_apps.py
+  s_0276221d01c0b0::t_221cc12dd87453 1-267
+apps/data/core_apps/tests/test_contracts.py
+  s_0276221d01c0b0::t_0cfab30039ec29 1-93
+research/event_research/core_apps.py
+  s_0276221d01c0b0::t_7d7332aa841520 1-248
+research/event_research/tests/test_core_apps_spider.py
+  s_0276221d01c0b0::t_6b86a04bcb341f 1-193
+apps/data/core_apps/migrations/0001_initial.py
+  s_0276221d01c0b0::t_e35a0d54fe78fd 1-164
+envelopes/core_apps/versions.py
+  s_0276221d01c0b0::t_82dff6c1f60e2b 1-21
+apps/data/core_apps/registrations.py
+  s_0276221d01c0b0::t_b09272fbcb9899 1-65
+apps/data/core_apps/admin.py
+  s_0276221d01c0b0::t_14b319036f9d18 1-37
+apps/data/core_apps/tests/test_transformers.py
+  s_0276221d01c0b0::t_5dcb8d19d6e9d5 1-94
+apps/data/core_apps/tests/test_import_portal_core_apps.py
+  s_0276221d01c0b0::t_79107e7b2313bb 1-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "08215b4a4edda177048f4401abe895b409f86fd3",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
