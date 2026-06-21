@@ -1,0 +1,30 @@
+apps/catalog/tests/test_merge_event_namesakes.py
+  s_0276221d01c0b0::t_47f56121896339 242-249,251-255,257-258,260-270
+  s_0276221d01c0b0::t_04efbb48e2de5a 250
+  s_0276221d01c0b0::t_c1f1f4a280e1e5 256,259
+apps/catalog/management/commands/merge_event_namesakes.py
+  s_0276221d01c0b0::t_88027ff6bd83bc 157-162
+apps/catalog/management/commands/merge_claim_bridges.py
+  s_0276221d01c0b0::t_04efbb48e2de5a 272
+  s_0276221d01c0b0::t_94f7510c19a05a 269-271,273-274,285-286
+  s_0276221d01c0b0::t_d051f0bf568ad5 247-260,264-265,275,278-279,282-284
+  s_0276221d01c0b0::t_5e697070098e3f 297-304,309,311-313,320-322
+apps/catalog/tests/test_merge_claim_bridges.py
+  s_0276221d01c0b0::t_8ce87fe73f7292 85-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "30843081e39e8a7f3f9eb45aee862762de14e537",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
