@@ -1,0 +1,22 @@
+apps/provenance/tests/test_tenant_rls.py
+  s_bac4e4c9b679c7::t_a517d43b3fba1b 75
+  s_bac4e4c9b679c7::t_a7fe8641ee6cd0 1-2,10-11,15-19,22-26,28-29,33-51,53-62,64-73,76-79,81-85,88-93
+  s_bac4e4c9b679c7::t_734e66cc76965b 87
+  s_bac4e4c9b679c7::t_e48ce7d13156c1 3-9,12-14,20-21,27,30-32,52,63,74,80,86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "10e0567fe0453eba818b0af0e401e772aacacd27",
+  "prompts": {},
+  "sessions": {
+    "s_bac4e4c9b679c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "40b64b71-7fb2-4022-b3b2-48457662f805",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
