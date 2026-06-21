@@ -1,0 +1,24 @@
+apps/identity/tests/factories.py
+  s_0276221d01c0b0::t_30f97ef5b7eb4e 47-49,51-54,63-68
+  s_0276221d01c0b0::t_5d2d2cb5ca98b1 50
+  s_0276221d01c0b0::t_9dd390676ce61b 15
+apps/identity/tests/test_impersonation.py
+  s_0276221d01c0b0::t_d58cb0fdf7d71f 48,91,101,131,140,160,205,290,315,323,336,349
+  s_0276221d01c0b0::t_506a048cb315fa 60,150,230
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "7b2124e7e1daf9b117f438e081f35296e0bc4424",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
