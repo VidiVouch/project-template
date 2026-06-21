@@ -1,0 +1,52 @@
+manage.py
+  s_0276221d01c0b0::t_e8927065e2de96 12-20,25-26,30,36-40
+CONTRIBUTING.md
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-156
+tests/architecture/test_no_signal_domain_dispatch.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-97
+tests/hooks/test_run_architecture_tests.py
+  s_0276221d01c0b0::t_f80f331d968468 1-98
+conftest.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-36
+tests/architecture/test_domain_layer_pure.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-53
+.claude/settings.json
+  s_0276221d01c0b0::t_1e1747caa55065 42-53
+config/asgi.py
+  s_0276221d01c0b0::t_621de39ea2c2e5 10-13
+tests/architecture/test_no_forbidden_imports.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-105
+pyproject.toml
+  s_0276221d01c0b0::t_cbe80007bbd08d 218-224
+.claude/hooks/run_architecture_tests.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-123
+tests/test_bootstrap.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-22
+tests/architecture/_ast_helpers.py
+  s_0276221d01c0b0::t_345be0568300c6 12,17
+  s_0276221d01c0b0::t_941d6a99f759bd 44-73
+tests/architecture/test_no_tenant_in_shared_core.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-102
+apps/bootstrap.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-71
+tests/architecture/test_bootstrap_sorted.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-52
+tests/architecture/test_no_composition_in_ready.py
+  s_0276221d01c0b0::t_7e2e7fd0e76c95 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "8f3ff963072c53c7d70e3966513162b40add2ec4",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
