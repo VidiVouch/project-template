@@ -1,0 +1,27 @@
+apps/catalog/handlers/resident.py
+  s_0276221d01c0b0::t_0ce1ddde568674 48,69,248-254,258
+apps/catalog/management/commands/promote_unprocessed.py
+  s_0276221d01c0b0::t_fd82893b1b8f9a 296-312,324-334
+  s_0276221d01c0b0::t_b10af5afc7ebab 42
+  s_0276221d01c0b0::t_8e86e08efdfe92 549-576
+apps/catalog/tests/test_resident.py
+  s_0276221d01c0b0::t_d08399b75a3f38 16,299-364
+apps/catalog/handlers/_advisory.py
+  s_0276221d01c0b0::t_ac4c4685604cd3 1-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "52866f5a9eefb443c98bb26286e596f1ff528464",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
