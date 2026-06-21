@@ -1,0 +1,26 @@
+apps/catalog/merge.py
+  s_0276221d01c0b0::t_39100eec5ab168 481-615
+  s_0276221d01c0b0::t_9df19892f78905 663-666
+  s_0276221d01c0b0::t_409628fadb53ac 686-692
+  s_0276221d01c0b0::t_7e146bd7b2b2b8 47
+  s_0276221d01c0b0::t_62217827b3803e 226-228
+apps/catalog/tests/test_merge_fk_registry.py
+  s_0276221d01c0b0::t_fcd21065df70b8 1-155,157-159,161-397
+  s_0276221d01c0b0::t_68540e176c5dd7 156,160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f2eb5693283df5938023be7b3e32080c0f20d866",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
