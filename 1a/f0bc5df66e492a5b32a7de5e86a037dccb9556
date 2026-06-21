@@ -1,0 +1,37 @@
+editors/vscode/README.md
+  s_17405aaf91a59b::t_80edd554056f7c 1-45
+editors/vscode/src/webview.ts
+  s_17405aaf91a59b::t_f22123fb1c9e69 1-161
+editors/vscode/media/eye.svg
+  s_17405aaf91a59b::t_53819b73cdff80 1-4
+editors/vscode/.vscodeignore
+  s_17405aaf91a59b::t_d94756030206e6 1-8
+editors/vscode/tsconfig.json
+  s_17405aaf91a59b::t_ae6d6f494d9c6c 1-15
+editors/vscode/src/contract.ts
+  s_17405aaf91a59b::t_bcdd3986737a6d 1-98
+editors/vscode/src/decorations.ts
+  s_17405aaf91a59b::t_d05675d124c45c 1-70
+editors/vscode/src/extension.ts
+  s_17405aaf91a59b::t_211dc1edd3872c 1-255
+editors/vscode/src/hover.ts
+  s_17405aaf91a59b::t_e2008bb2b52acc 1-93
+editors/vscode/package.json
+  s_17405aaf91a59b::t_d012af8e129e1a 1-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "1af0bc5df66e492a5b32a7de5e86a037dccb9556",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
