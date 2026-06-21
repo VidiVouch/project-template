@@ -1,0 +1,22 @@
+apps/catalog/management/commands/promote_pipeline.py
+  s_0276221d01c0b0::t_a163ff47c865e2 6-19,21-23,26-27,32,38-41,46-49,52-57,68-81,96,98,103-131
+apps/catalog/tests/test_promote_pipeline.py
+  s_0276221d01c0b0::t_0cf78521481868 8,10-11,13-14,99-162
+  s_0276221d01c0b0::t_4f1a09da65f2b3 21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "6f7b38f98c19f862e1bd70f2263ca7273f143301",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
