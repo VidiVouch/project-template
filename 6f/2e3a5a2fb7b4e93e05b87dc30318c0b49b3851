@@ -1,0 +1,23 @@
+apps/data/capture/portal_import.py
+  s_0276221d01c0b0::t_ec49e717dbb598 209-218,224
+  s_0276221d01c0b0::t_d095c198870e81 32,39,50-51,54-59,67-72,79-165
+  s_0276221d01c0b0::t_c9ebb70055c3e0 334-337,339,345,347
+  s_0276221d01c0b0::t_4757a85d2e39e6 176
+  s_0276221d01c0b0::t_7bdbc8c1be4f8b 271-277,280-282,292-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "6f2e3a5a2fb7b4e93e05b87dc30318c0b49b3851",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
