@@ -1,0 +1,22 @@
+TOOLS.md
+  s_a8fa6210c93696::t_117c7d7e89c86a 30
+DESIGN.html
+  s_a8fa6210c93696::t_764fb7b0a396fd 718
+  s_a8fa6210c93696::t_cbf6a2ad94139c 715
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "5e235fba996a4537044bc27896c5dc2fbe82af0d",
+  "prompts": {},
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
