@@ -1,0 +1,53 @@
+apps/data/yc_bookface/tests/test_contracts.py
+  s_0276221d01c0b0::t_0ce77f070ccd30 1-121
+config/settings/base.py
+  s_0276221d01c0b0::t_18760b9603cf97 139
+apps/data/yc_bookface/apps.py
+  s_0276221d01c0b0::t_82dcf632178d96 1-8
+apps/data/yc_bookface/tests/test_sessions.py
+  s_0276221d01c0b0::t_14dd641c4de8eb 1-115
+apps/data/yc_bookface/tests/test_import_portal_yc_bookface.py
+  s_0276221d01c0b0::t_b0e6e042c4efec 1-85
+envelopes/yc_bookface/versions.py
+  s_0276221d01c0b0::t_ed9556b9daf82c 1-37
+apps/data/yc_bookface/models.py
+  s_0276221d01c0b0::t_7df990ffe7c30c 1-80
+apps/data/yc_bookface/admin.py
+  s_0276221d01c0b0::t_ed6f27d5b62bff 1-26
+traffic_analysis/tests/test_yc_bookface.py
+  s_0276221d01c0b0::t_c3ffd36c8349c0 1-158
+apps/data/yc_bookface/registrations.py
+  s_0276221d01c0b0::t_904dc6a3b0add5 1-40
+apps/data/yc_bookface/migrations/0001_initial.py
+  s_0276221d01c0b0::t_3e08e0974bc66c 1-77
+apps/data/yc_bookface/management/commands/import_portal_yc_bookface.py
+  s_0276221d01c0b0::t_cc24d2c0a67409 1-175
+apps/data/yc_bookface/sessions.py
+  s_0276221d01c0b0::t_978add27eec40f 1-105
+apps/data/yc_bookface/transformers.py
+  s_0276221d01c0b0::t_e291ec441de68f 1-121
+traffic_analysis/flow_readers/yc_bookface.py
+  s_0276221d01c0b0::t_c64001bf7b2299 1-149
+envelopes/yc_bookface/response.py
+  s_0276221d01c0b0::t_d751ae01a41f61 1-106
+apps/bootstrap.py
+  s_0276221d01c0b0::t_a12522330281d9 152
+  s_0276221d01c0b0::t_81ed5e4290f8eb 197,199
+  s_0276221d01c0b0::t_35e1669b4637cf 129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "e0821406efaaa0afd1488aa0827122b4dcf7bd8b",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
