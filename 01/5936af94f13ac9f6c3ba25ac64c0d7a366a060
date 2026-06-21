@@ -1,0 +1,25 @@
+research/settings.py
+  s_0276221d01c0b0::t_7654f0f873920c 45
+research/event_research/__init__.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-7
+research/event_research/awsummit.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-363
+research/event_research/tests/test_awsummit_spider.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "015936af94f13ac9f6c3ba25ac64c0d7a366a060",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
