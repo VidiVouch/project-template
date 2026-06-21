@@ -1,0 +1,29 @@
+config/urls.py
+  s_0276221d01c0b0::t_d95ade98d89930 47-48
+apps/demo/views.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-267
+templates/demo/row_detail.html
+  s_0276221d01c0b0::t_ed7be3d3574835 1-38
+templates/demo/dataset_table.html
+  s_0276221d01c0b0::t_ed7be3d3574835 1-113
+templates/demo/_datasets_section.html
+  s_0276221d01c0b0::t_ed7be3d3574835 1-25
+apps/demo/urls.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "dd53efd282e084c2cbe0d7748fe1b3d3b2873221",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

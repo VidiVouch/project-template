@@ -1,0 +1,52 @@
+apps/demo/domain/presentation.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-78
+apps/demo/readers.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-146
+apps/demo/admin.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-67
+tests/architecture/test_bigint_boundary.py
+  s_0276221d01c0b0::t_d790c23e2dfc8b 31
+apps/demo/registrations.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-37
+apps/demo/domain/schema.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-214
+apps/demo/apps.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-10
+apps/bootstrap.py
+  s_0276221d01c0b0::t_59d1db3bfbde76 45,51-65
+apps/demo/models.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-183
+apps/sales/views.py
+  s_0276221d01c0b0::t_50bb222a0d6dd5 349-354
+config/settings/base.py
+  s_0276221d01c0b0::t_e8e65632c86b9c 119
+apps/demo/migrations/0001_initial.py
+  s_0276221d01c0b0::t_c942a3a316598f 1-91
+apps/demo/ingest.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-272
+pyproject.toml
+  s_0276221d01c0b0::t_ba6890cbf7618f 33
+apps/sales/tests/test_conferences.py
+  s_0276221d01c0b0::t_626bb58845c776 139-145,228-239,409,411-413,421,453-483
+apps/demo/migrations/0002_rls.py
+  s_0276221d01c0b0::t_349c4e321b4e9b 1-29
+templates/sales/conference_list.html
+  s_0276221d01c0b0::t_e9056834eafe08 30,33
+  s_0276221d01c0b0::t_018d2ce8627098 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "32b0e827b222fc1869cf7e196d4b3191c69ac7ec",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

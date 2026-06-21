@@ -1,0 +1,21 @@
+apps/sales/models.py
+  s_0276221d01c0b0::t_aa85f7edd3f877 32,45-48,53,96-105,155-162
+apps/sales/migrations/0007_conference_status_unlocked.py
+  s_0276221d01c0b0::t_6044aee3da3afe 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "14cc50cf202ffcff32db41364bbc27a0f746a556",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

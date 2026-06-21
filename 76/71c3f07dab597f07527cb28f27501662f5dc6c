@@ -1,0 +1,31 @@
+apps/sales/tests/test_limits.py
+  s_0276221d01c0b0::t_4e7be4e3b47b5c 40-43
+  s_0276221d01c0b0::t_a1e869d47e7db1 97
+  s_0276221d01c0b0::t_017e2ead808b48 76
+  s_0276221d01c0b0::t_0d2961302d4178 21
+  s_0276221d01c0b0::t_6ed6241d6b8f36 64
+  s_0276221d01c0b0::t_1fd6333ba4f4f7 90
+  s_0276221d01c0b0::t_28bbecf11bde23 63,70,75,101
+  s_0276221d01c0b0::t_b0ee4a161c5a5a 80
+  s_0276221d01c0b0::t_51770cc54fabb2 85
+  s_0276221d01c0b0::t_501e19f226dbbd 71,81,86,91
+apps/billing/tests/factories.py
+  s_0276221d01c0b0::t_4b06a3a634b7ff 71
+  s_0276221d01c0b0::t_667e1b144751dd 47-58,63-67,69-70,72,78-80,86-89,91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "7671c3f07dab597f07527cb28f27501662f5dc6c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
