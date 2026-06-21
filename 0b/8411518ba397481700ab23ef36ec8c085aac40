@@ -1,0 +1,23 @@
+apps/catalog/tests/test_promote_awsummit.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-288
+apps/catalog/handlers/awsummit.py
+  s_0276221d01c0b0::t_61cfe18f5d59eb 1-282
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_a035f256950321 41-48,61-68,77,83-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "0b8411518ba397481700ab23ef36ec8c085aac40",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
