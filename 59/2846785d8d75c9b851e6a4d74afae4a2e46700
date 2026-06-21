@@ -1,0 +1,38 @@
+apps/catalog/registrations.py
+  s_0276221d01c0b0::t_7e666441a388ee 1-24
+apps/catalog/handlers/__init__.py
+  s_0276221d01c0b0::t_299d32c0b8ac8a 1-11
+apps/catalog/tests/test_registrations.py
+  s_0276221d01c0b0::t_214c14961db2d2 1-67
+apps/catalog/admin.py
+  s_0276221d01c0b0::t_dca7c0721c6741 179-199
+  s_0276221d01c0b0::t_5da3198541e780 26
+apps/catalog/models.py
+  s_0276221d01c0b0::t_b457f9b727e70f 656-715
+apps/bootstrap.py
+  s_0276221d01c0b0::t_b84aab98b3d41b 111-114,116,120
+apps/catalog/tests/test_promote_presence.py
+  s_0276221d01c0b0::t_c034d28abe7d07 1-104
+REVIEW.md
+  s_0276221d01c0b0::t_c042d4e87a09df 27-29
+apps/catalog/handlers/_presence.py
+  s_0276221d01c0b0::t_7e666441a388ee 1-86
+apps/catalog/migrations/0004_eventsourcepresence.py
+  s_0276221d01c0b0::t_7ea0def02a41e6 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "592846785d8d75c9b851e6a4d74afae4a2e46700",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
