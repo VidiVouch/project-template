@@ -1,0 +1,26 @@
+tests/architecture/_ast_helpers.py
+  s_17405aaf91a59b::t_41dda5e8c7d6ec 46,55-57
+  s_17405aaf91a59b::t_3d69d2dee10dd8 12,17
+  s_17405aaf91a59b::t_761bd2a5878d81 44-45,47-54,58-68
+tests/architecture/test_base_no_product_imports.py
+  s_17405aaf91a59b::t_f8015fab9fbb59 38
+  s_17405aaf91a59b::t_a4d1f2413daec3 33
+  s_17405aaf91a59b::t_369bcf2add9da6 1-31,34-37,39-47,49-62,64-85
+  s_17405aaf91a59b::t_41dda5e8c7d6ec 32,48,63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d0722fd9d3122950333014238049fb0dfc06856e",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
