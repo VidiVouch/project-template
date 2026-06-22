@@ -1,0 +1,56 @@
+apps/billing/subscriptions.py
+  s_17405aaf91a59b::t_be68fc84596d4c 86
+  s_17405aaf91a59b::t_3ecdc7bdbdf331 1-33,35-85,87-91,93-167
+  s_17405aaf91a59b::t_cac39c62be9da0 34
+  s_17405aaf91a59b::t_6b0a8bf83212a8 92
+apps/billing/tests/test_invoicing.py
+  s_17405aaf91a59b::t_0c21b262481ffd 8
+  s_17405aaf91a59b::t_8f5fdd4a1e4799 49
+  s_17405aaf91a59b::t_218c7999dfa317 114,168,193
+  s_17405aaf91a59b::t_a111ad32b9c100 35
+  s_17405aaf91a59b::t_b39c5772fe4334 69
+apps/billing/urls.py
+  s_17405aaf91a59b::t_08e83d5bc4e19a 11-12
+templates/billing/pricing.html
+  s_17405aaf91a59b::t_a42c3665d7ce56 1-20,22-43,45-52
+  s_17405aaf91a59b::t_e3c0243a888114 21
+  s_17405aaf91a59b::t_35eeff700ff7ea 44
+apps/billing/invoicing.py
+  s_17405aaf91a59b::t_7b90f2206f1b25 61
+  s_17405aaf91a59b::t_c71396464bde73 8
+  s_17405aaf91a59b::t_823e3f27a5614c 68,71-78
+  s_17405aaf91a59b::t_12e5d73d7f73cc 154
+apps/billing/receivers.py
+  s_17405aaf91a59b::t_3360752b7fbcea 1-23,29-30,35-38,40
+  s_17405aaf91a59b::t_0b90f920e4d855 80-171
+apps/billing/views.py
+  s_17405aaf91a59b::t_f92ba8fa35775c 4-6,20-24,27-30
+  s_17405aaf91a59b::t_72ccd15bb8307e 50-51
+  s_17405aaf91a59b::t_304824ae0d6fa1 325-328,330-331,344
+  s_17405aaf91a59b::t_8920553e467b3c 313-324,329,332-343,345-418
+apps/billing/models.py
+  s_17405aaf91a59b::t_153ee9f7b55ffd 164
+apps/billing/tests/test_subscriptions.py
+  s_17405aaf91a59b::t_168e76cf9c14df 210,221-222
+  s_17405aaf91a59b::t_768c8de8483b65 116
+  s_17405aaf91a59b::t_8efce73a015943 26-27,187-192,196-201,211-216,439-441
+  s_17405aaf91a59b::t_afabb59efec891 1-25,28-115,117-162,164-170,172-185,193-194,202-209,217-220,223-438,442-504
+  s_17405aaf91a59b::t_d3c3ab5817b819 163,171
+  s_17405aaf91a59b::t_31edae0fa4f819 186,195
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "19571e8e328f6b13c88a53b9b85eff25c577fb15",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
