@@ -1,0 +1,19 @@
+config/settings/base.py
+  s_05525a9fcafe1d::t_07aea167da15be 128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "346581a04198cad352c44adc8812cac4b623310b",
+  "prompts": {},
+  "sessions": {
+    "s_05525a9fcafe1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0c8f4b2-6561-4b84-aefd-a41bc02eff30",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
