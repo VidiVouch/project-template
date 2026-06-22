@@ -1,0 +1,35 @@
+config/settings/base.py
+  s_17405aaf91a59b::t_8c40c32cf8d19f 431-436
+  s_17405aaf91a59b::t_69253313cf9386 416-423
+  s_eef0c01ffe4331::t_da646b2068ee0c 159-164
+config/settings/local.py
+  s_17405aaf91a59b::t_1fdbc8f4721911 5-10
+apps/identity/middleware.py
+  s_eef0c01ffe4331::t_e06a53b3e756a5 1-38,40-44,46,49-50,57-78,81,84,88-89,91-92,94,96-97,100-101,103-107,109-123
+apps/identity/tests/test_middleware.py
+  s_eef0c01ffe4331::t_e06a53b3e756a5 1,4-6,9,14,16,19-20,22,25-29,32-37,39,42-44,47-55,57,59-62,64-65,67-118,120-123,125-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "05b014a33231a0a505814c8684a317cdb9417b08",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
