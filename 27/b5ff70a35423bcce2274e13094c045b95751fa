@@ -1,0 +1,23 @@
+apps/catalog/tests/test_promote_gatherdigital.py
+  s_0276221d01c0b0::t_1e293afd04cadc 117-130
+apps/catalog/handlers/gatherdigital.py
+  s_0276221d01c0b0::t_360fd028171b28 95-97
+apps/data/gatherdigital/mapping.py
+  s_0276221d01c0b0::t_19dc5864869dbb 136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "27b5ff70a35423bcce2274e13094c045b95751fa",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
