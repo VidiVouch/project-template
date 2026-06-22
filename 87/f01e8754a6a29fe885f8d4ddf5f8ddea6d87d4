@@ -1,0 +1,75 @@
+crates/vid-lang/src/configs/python.rs
+  s_cf46f2a9c74543::t_8c8dcb5cd55738 210-259
+  s_cf46f2a9c74543::t_80b536743d7236 260-284
+crates/vid-lang/src/configs/go.rs
+  s_cf46f2a9c74543::t_1ef0453428a506 148-167
+crates/vid-lang/src/engine.rs
+  s_cf46f2a9c74543::t_41b2162572a5ae 198,488,490-494,502,505-510,520-533,538-542
+  s_cf46f2a9c74543::t_3e871c78271ebd 441-442
+  s_cf46f2a9c74543::t_2db5424d73fb79 243
+  s_17405aaf91a59b::t_fe1a3adb145798 495-500,534-537
+  s_cf46f2a9c74543::t_3404d1ebf45911 512-519
+  s_cf46f2a9c74543::t_fa85bcbd2d7cf0 1099-1106,1110
+  s_cf46f2a9c74543::t_2e8d72a5cbb1b5 434-440,443-458
+  s_cf46f2a9c74543::t_407488dc0f25cd 43-45
+  s_cf46f2a9c74543::t_1eca95d61c4c5b 165-176,248-250
+  s_cf46f2a9c74543::t_6d3f7c37572ae9 382-383,386,393,400
+  s_cf46f2a9c74543::t_65bbb0dd770b86 255-305
+  s_cf46f2a9c74543::t_773de960ace939 317-322,330-345,347-348
+  s_cf46f2a9c74543::t_faaa7e8aa0ce58 139-146
+  s_cf46f2a9c74543::t_7f2fab45892d9c 117-119
+  s_cf46f2a9c74543::t_f3528a4231f131 599-603
+  s_cf46f2a9c74543::t_b44f46058af9bd 184-190,197
+  s_cf46f2a9c74543::t_b5c7d80fb8f306 323-327
+  s_cf46f2a9c74543::t_d99a1a1608b202 614-617
+  s_cf46f2a9c74543::t_5c84898ca75f91 233,242
+  s_cf46f2a9c74543::t_5f43387805eee1 163-164,177
+  s_cf46f2a9c74543::t_a494d77cca814e 544-566
+  s_cf46f2a9c74543::t_521fcca6780499 62-68,79,88-90,94-96,100,102
+  s_cf46f2a9c74543::t_c86be826736fda 407-410,418
+  s_cf46f2a9c74543::t_aab29f40b23a0a 461-462,465,484,486,489
+  s_cf46f2a9c74543::t_178db3254cc9b8 209-212
+  s_cf46f2a9c74543::t_0b1cfa67ef1f25 401
+  s_cf46f2a9c74543::t_c953fae0138cb0 181
+  s_cf46f2a9c74543::t_aa9f372db5fc31 594-598
+  s_cf46f2a9c74543::t_da7cc6ceb1063d 662-664,666-671
+  s_cf46f2a9c74543::t_0b8fdf4f7ca56e 715,718-725,735,757-758
+  s_cf46f2a9c74543::t_6cce5650bc3f3d 200-208,213-232,234-241,244-247,251-254
+crates/vid-lang/src/configs/rust.rs
+  s_cf46f2a9c74543::t_88e86a534c4798 334-378
+crates/vid-lang/src/configs/java.rs
+  s_cf46f2a9c74543::t_adfc51a30bebc1 288-306
+crates/vid-lang/src/configs/csharp.rs
+  s_cf46f2a9c74543::t_61482a9bbc7634 496
+  s_cf46f2a9c74543::t_3f266efe694ff0 487,507-508
+  s_cf46f2a9c74543::t_9a52dfd01955f8 479-486,488-495,497-506
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "87f01e8754a6a29fe885f8d4ddf5f8ddea6d87d4",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
