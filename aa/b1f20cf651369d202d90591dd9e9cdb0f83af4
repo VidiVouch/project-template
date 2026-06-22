@@ -1,0 +1,23 @@
+apps/identity/tests/test_admin.py
+  s_eef0c01ffe4331::t_40bcd993d56717 515
+  s_eef0c01ffe4331::t_4c18bb483a5929 192,240
+  s_eef0c01ffe4331::t_e13663299ea5f9 252
+  s_eef0c01ffe4331::t_bf78bacf0f3a12 186,189-191
+  s_eef0c01ffe4331::t_a39a885cfbd9be 234,237-239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "aab1f20cf651369d202d90591dd9e9cdb0f83af4",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
