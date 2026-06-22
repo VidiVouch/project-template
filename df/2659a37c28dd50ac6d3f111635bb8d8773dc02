@@ -1,0 +1,19 @@
+apps/sales/views.py
+  s_eef0c01ffe4331::t_8d8093af92be50 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "df2659a37c28dd50ac6d3f111635bb8d8773dc02",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
