@@ -1,0 +1,20 @@
+apps/provenance/tests/test_push_integration.py
+  s_17405aaf91a59b::t_915981d2a22fe9 1-52,54-72
+  s_17405aaf91a59b::t_e383cae1f5d0c8 53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "ddf31bb0f8384a0dde5752512b8d6e383ed9eeb0",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
