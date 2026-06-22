@@ -1,0 +1,31 @@
+.agents/skills/port-source/SKILL.md
+  s_eef0c01ffe4331::t_558baf3c94de8d 1-103
+.agents/skills/port-source/references/tier1-models.md
+  s_eef0c01ffe4331::t_ee9022e43e1d4a 1-160
+.agents/skills/port-source/references/legacy-map.md
+  s_eef0c01ffe4331::t_4badb0e6742e78 1-115
+.agents/skills/port-source/references/validation.md
+  s_eef0c01ffe4331::t_3974df67f87dbc 1-125
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_eef0c01ffe4331::t_a5b4caba19d558 1-148
+.agents/skills/port-source/references/transformers-registration.md
+  s_eef0c01ffe4331::t_4fccfe35bcefa7 1-176
+.agents/skills/port-drain/SKILL.md
+  s_eef0c01ffe4331::t_5484a149117958 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "28e98725074604d32772859efb8c7681a2b1d4dd",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
