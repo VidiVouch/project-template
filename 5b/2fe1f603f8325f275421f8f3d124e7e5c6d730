@@ -1,0 +1,41 @@
+templates/socialaccount/snippets/provider_list.html
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-44
+assets/js/auth-login.js
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-19
+templates/account/email.html
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-73
+templates/account/password_reset_done.html
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-51
+assets/js/count-up.js
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-46
+assets/js/email-actions.js
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-27
+templates/socialaccount/connections.html
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-47
+assets/js/theme-picker.js
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-65
+assets/js/auth-fog.js
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-255
+templates/account/email_confirm.html
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-44
+templates/account/signup_closed.html
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-11
+templates/socialaccount/snippets/login.html
+  s_17405aaf91a59b::t_1fbc429eb752d0 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "5b2fe1f603f8325f275421f8f3d124e7e5c6d730",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
