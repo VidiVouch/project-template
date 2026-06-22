@@ -1,0 +1,22 @@
+apps/provenance/tests/test_matrix_css.py
+  s_17405aaf91a59b::t_725f9d826087c7 21
+  s_17405aaf91a59b::t_82bb93f4a1d3ba 1-20,22-127
+assets/css/source.css
+  s_17405aaf91a59b::t_9ef84f5ab62fec 1803-1921
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4e44b4e9070482f313b7ccbf6321b358a37cb48b",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
