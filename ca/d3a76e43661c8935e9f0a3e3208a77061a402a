@@ -1,0 +1,21 @@
+.agents/skills/integration-django/references/django.md
+  s_17405aaf91a59b::t_6e213c23a07d06 19
+.agents/skills/integration-django/references/EXAMPLE.md
+  s_17405aaf91a59b::t_ad50a80b62f901 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "cad3a76e43661c8935e9f0a3e3208a77061a402a",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
