@@ -1,0 +1,71 @@
+apps/data/gatherdigital/sessions.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-59
+apps/data/gatherdigital/tests/test_import_portal_gatherdigital.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-105
+apps/data/gatherdigital/apps.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-8
+apps/data/gatherdigital/tests/test_response.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-124
+apps/data/gatherdigital/tests/test_transformers.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-78
+apps/data/gatherdigital/tests/test_admin.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-64
+apps/data/gatherdigital/transformers.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-186
+apps/catalog/tests/test_promote_gatherdigital.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-305
+apps/data/gatherdigital/tests/test_app_registration.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-58
+apps/data/gatherdigital/admin.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-51
+apps/data/gatherdigital/tests/test_mapping.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-198
+apps/data/gatherdigital/tests/test_contracts.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-134
+envelopes/gatherdigital/response.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-148
+apps/bootstrap.py
+  s_0276221d01c0b0::t_afa6e507bd3667 172,174
+  s_0276221d01c0b0::t_bd5c6eb9801a1b 118-131
+apps/catalog/handlers/gatherdigital.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-284
+research/event_research/tests/test_gatherdigital_spider.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-210
+apps/data/gatherdigital/models.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-218
+research/event_research/gatherdigital.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-428
+config/settings/base.py
+  s_0276221d01c0b0::t_8df0032416ac91 128
+apps/data/gatherdigital/registrations.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-76
+apps/data/gatherdigital/migrations/0001_initial.py
+  s_0276221d01c0b0::t_4518904a42afed 1-309
+apps/data/gatherdigital/mapping.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-221
+apps/data/gatherdigital/management/commands/import_portal_gatherdigital.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-108
+envelopes/gatherdigital/versions.py
+  s_0276221d01c0b0::t_73104d772b31cb 1-21
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_b4318f38d17ada 214-216
+  s_0276221d01c0b0::t_b06fd3b1c96af2 180
+  s_0276221d01c0b0::t_96e98ab012b39a 159-164
+  s_0276221d01c0b0::t_71d5bf6337c434 96-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "1720ff588bbc798a7915b235aad5510815ad2055",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

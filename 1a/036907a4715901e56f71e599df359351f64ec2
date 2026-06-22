@@ -1,0 +1,33 @@
+apps/catalog/canonical_keys.py
+  s_0276221d01c0b0::t_cb45252413bef8 96-99
+apps/data/allintheloop/tests/test_app_registration.py
+  s_0276221d01c0b0::t_95346706f12830 1-42
+apps/data/allintheloop/tests/test_admin.py
+  s_0276221d01c0b0::t_95346706f12830 1-48
+apps/data/allintheloop/tests/test_mapping.py
+  s_0276221d01c0b0::t_95346706f12830 1-139
+apps/data/allintheloop/tests/test_transformers.py
+  s_0276221d01c0b0::t_95346706f12830 1-102
+apps/data/allintheloop/tests/test_import_portal_allintheloop.py
+  s_0276221d01c0b0::t_95346706f12830 1-104
+apps/data/allintheloop/tests/test_response.py
+  s_0276221d01c0b0::t_95346706f12830 1-185
+apps/data/allintheloop/tests/test_contracts.py
+  s_0276221d01c0b0::t_95346706f12830 1-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "1a036907a4715901e56f71e599df359351f64ec2",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

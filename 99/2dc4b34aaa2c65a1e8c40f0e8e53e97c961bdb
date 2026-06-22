@@ -1,0 +1,28 @@
+apps/catalog/tests/test_reexamine_claims.py
+  s_0276221d01c0b0::t_1eafd679ec250c 99-102,122-125
+  s_0276221d01c0b0::t_e23cd3a9cabe4e 13,93-98,103-121,126-135
+apps/catalog/management/commands/reexamine_claims.py
+  s_0276221d01c0b0::t_bf3920af187558 70-79,87-91,93-95
+  s_0276221d01c0b0::t_76f62f800b49b1 13-22,36-37
+  s_0276221d01c0b0::t_7f4ba71acec0da 178,186-190
+  s_0276221d01c0b0::t_975259a36affa4 227-234,236-237,267-274,280-287
+  s_0276221d01c0b0::t_9a421858441de7 69,80-86,92,191-192,235
+  s_0276221d01c0b0::t_072c9e6f193ac4 275-279
+  s_0276221d01c0b0::t_410207a6aa9552 51-53,61,130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "992dc4b34aaa2c65a1e8c40f0e8e53e97c961bdb",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

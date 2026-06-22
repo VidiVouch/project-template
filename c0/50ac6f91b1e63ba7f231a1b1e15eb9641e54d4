@@ -1,0 +1,21 @@
+traffic_analysis/tests/test_awsummit.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-151
+traffic_analysis/flow_readers/awsummit.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "c050ac6f91b1e63ba7f231a1b1e15eb9641e54d4",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+apps/data/cadmium/tests/test_contracts.py
+  s_0276221d01c0b0::t_4c18bc85d8af04 1-109
+apps/data/cadmium/tests/test_transformers.py
+  s_0276221d01c0b0::t_4c18bc85d8af04 1-252
+apps/data/cadmium/tests/test_app_registration.py
+  s_0276221d01c0b0::t_4c18bc85d8af04 1-82
+apps/data/cadmium/tests/test_data_stats.py
+  s_0276221d01c0b0::t_4c18bc85d8af04 1-100
+apps/data/cadmium/tests/test_models.py
+  s_0276221d01c0b0::t_4c18bc85d8af04 1-249
+apps/data/cadmium/tests/test_mapping.py
+  s_0276221d01c0b0::t_4c18bc85d8af04 1-262
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "0cd9edba001e34e5d728152ca4d0e6830a3dd62d",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+traffic_analysis/flow_readers/yc_public.py
+  s_0276221d01c0b0::t_89020df0d19877 1-77
+traffic_analysis/tests/test_yc_public.py
+  s_0276221d01c0b0::t_89020df0d19877 1-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "bff177b434506f0531b8fa8f732d45c4429cb887",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+apps/catalog/management/commands/export_events.py
+  s_0276221d01c0b0::t_74d129dbfccc9b 1-102
+apps/catalog/tests/test_export_events.py
+  s_0276221d01c0b0::t_74d129dbfccc9b 1-207
+apps/data/credentials/tests/factories.py
+  s_0276221d01c0b0::t_6f7a424f49c18b 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "c64fce950f8523a4ec6aa0730588242c29a51264",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

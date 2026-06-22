@@ -1,0 +1,76 @@
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_726d0b2644b83b 141-146
+  s_0276221d01c0b0::t_aa9a545c5a727f 85-90
+  s_0276221d01c0b0::t_cc91f066955cef 160
+  s_0276221d01c0b0::t_ef349088ca751f 189-191
+apps/data/eventpilot/migrations/0001_initial.py
+  s_0276221d01c0b0::t_a835289078e738 1-163
+apps/data/eventpilot/admin.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-37
+apps/data/eventpilot/transformers.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-153
+research/event_research/eventpilot_discover.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-187
+pyproject.toml
+  s_0276221d01c0b0::t_a402c4ae361adf 37
+apps/data/eventpilot/tests/test_app_registration.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-53
+apps/catalog/handlers/eventpilot.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-273
+envelopes/eventpilot/response.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-121
+apps/data/eventpilot/tests/test_models.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-40
+apps/data/eventpilot/tests/_records.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-92
+apps/data/eventpilot/tests/test_import_portal_eventpilot.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-128
+apps/data/eventpilot/tests/test_response.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-60
+apps/data/eventpilot/management/commands/import_portal_eventpilot.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-155
+apps/data/eventpilot/registrations.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-55
+apps/data/eventpilot/tests/test_admin.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-50
+envelopes/eventpilot/versions.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-23
+apps/data/eventpilot/tests/test_contracts.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-87
+apps/data/eventpilot/mapping.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-189
+research/event_research/eventpilot.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-429
+apps/data/eventpilot/models.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-123
+apps/data/eventpilot/tests/test_mapping.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-140
+research/event_research/tests/test_eventpilot_discover_spider.py
+  s_0276221d01c0b0::t_31a48d5138b066 1-88
+apps/data/eventpilot/apps.py
+  s_0276221d01c0b0::t_00cab3b816258b 1-8
+research/event_research/tests/test_eventpilot_spider.py
+  s_0276221d01c0b0::t_31a48d5138b066 1-267
+apps/catalog/tests/test_promote_eventpilot.py
+  s_0276221d01c0b0::t_3a5947b9c2c65b 1-321
+config/settings/base.py
+  s_0276221d01c0b0::t_bb055d46418b8c 126
+apps/bootstrap.py
+  s_0276221d01c0b0::t_3ea06ea088f774 116,118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "7bb999c8a20c50356605347a56d0557360c89ba6",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

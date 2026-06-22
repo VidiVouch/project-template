@@ -1,0 +1,70 @@
+apps/data/serper/registrations.py
+  s_0276221d01c0b0::t_4b235e1c994739 1-31
+apps/data/serper/migrations/0001_initial.py
+  s_0276221d01c0b0::t_43a1f01eec4171 1-37
+apps/catalog/tests/factories.py
+  s_0276221d01c0b0::t_99198c1e1879ca 30
+  s_0276221d01c0b0::t_fb132d4d8b9bc4 195-209
+apps/disambiguator/tests/factories.py
+  s_0276221d01c0b0::t_4aa07c14494aa8 1-198
+apps/disambiguator/tests/test_queue_serper_prospect_lookup.py
+  s_0276221d01c0b0::t_2701d2cfaa4e14 1-474
+apps/data/serper/models.py
+  s_0276221d01c0b0::t_d08f598e56197f 1-69
+apps/data/serper/tests/test_app_registration.py
+  s_0276221d01c0b0::t_1822dda9aaccd0 1-48
+envelopes/serper/response.py
+  s_0276221d01c0b0::t_f156b5dfaef4e4 1-40
+apps/data/serper/apps.py
+  s_0276221d01c0b0::t_ad725110b183e9 1-8
+apps/data/serper/tests/test_contracts.py
+  s_0276221d01c0b0::t_dd198786ad752d 1-63
+envelopes/serper/versions.py
+  s_0276221d01c0b0::t_a3fa8d66b6d3f1 1-18
+apps/data/serper/client.py
+  s_0276221d01c0b0::t_2ae4805db247e4 1-69
+apps/data/serper/transformers.py
+  s_0276221d01c0b0::t_f03f136c6a01af 1-72
+apps/data/serper/tests/test_client.py
+  s_0276221d01c0b0::t_af23ffae0a9f53 1-70
+apps/catalog/tests/test_promote_serper.py
+  s_0276221d01c0b0::t_bd56127270ade0 1-336
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_ed8c7461a9a023 268
+  s_0276221d01c0b0::t_e92773539ea267 121
+  s_0276221d01c0b0::t_626c656582b221 200
+apps/data/serper/tests/test_models.py
+  s_0276221d01c0b0::t_ac9776356cacc7 1-77
+apps/data/serper/mapping.py
+  s_0276221d01c0b0::t_8b37bc6a2abf6b 1-450
+apps/data/serper/tests/test_mapping.py
+  s_0276221d01c0b0::t_d5b6217a821426 1-286
+apps/data/serper/admin.py
+  s_0276221d01c0b0::t_e5c6e2de7ef484 1-20
+apps/catalog/handlers/serper.py
+  s_0276221d01c0b0::t_9843a475d21e09 1-226
+config/settings/base.py
+  s_0276221d01c0b0::t_d9d74e732d40dc 537-540
+  s_0276221d01c0b0::t_31086d03a2186f 134
+apps/disambiguator/management/commands/queue_serper_prospect_lookup.py
+  s_0276221d01c0b0::t_bacd98918f792a 1-400
+apps/bootstrap.py
+  s_0276221d01c0b0::t_901f3fb3bef415 124
+  s_0276221d01c0b0::t_ccd2bb3b85c094 142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "16a7c90f9da2829f44d521411a00039590697d4a",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

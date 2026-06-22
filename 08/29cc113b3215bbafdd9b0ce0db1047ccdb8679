@@ -1,0 +1,21 @@
+research/event_research/tests/test_brella_spider.py
+  s_0276221d01c0b0::t_b5adf6e5040615 1-178
+research/event_research/brella.py
+  s_0276221d01c0b0::t_b5adf6e5040615 1-262
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "0829cc113b3215bbafdd9b0ce0db1047ccdb8679",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+apps/mapping_tool/tests/test_discovery.py
+  s_0276221d01c0b0::t_78093338b51313 9-11
+  s_0276221d01c0b0::t_230bd552ab692f 45-49
+  s_0276221d01c0b0::t_ca86df316b96be 50
+  s_0276221d01c0b0::t_831147c0ada394 1-8,12-44,51-59
+config/settings/base.py
+  s_0276221d01c0b0::t_b1dda4ce65d481 125
+apps/mapping_tool/views.py
+  s_0276221d01c0b0::t_cb1c30e8eed0b7 1-116
+apps/mapping_tool/templates/mapping_tool/_provenance.html
+  s_0276221d01c0b0::t_4ba9f5b395a63c 1-2
+apps/mapping_tool/apps.py
+  s_0276221d01c0b0::t_b1657bc233a098 1-8
+apps/mapping_tool/urls.py
+  s_0276221d01c0b0::t_5f0d2eaff7f90e 1-14
+apps/mapping_tool/templates/mapping_tool/dashboard.html
+  s_0276221d01c0b0::t_d1ccc4b0e551aa 1-67
+apps/mapping_tool/codegen.py
+  s_0276221d01c0b0::t_d976bb9ef6e7f5 1-116
+apps/mapping_tool/templates/mapping_tool/_source_rows.html
+  s_0276221d01c0b0::t_55cc4935d9a861 1-25
+apps/mapping_tool/discovery.py
+  s_0276221d01c0b0::t_e6fce7ed9c7e80 1-206
+apps/mapping_tool/templatetags/mapping_tool_extras.py
+  s_0276221d01c0b0::t_1e9ada2c0245d9 1-22
+apps/mapping_tool/tests/test_codegen.py
+  s_0276221d01c0b0::t_a2748d9df1cfa2 1-91
+apps/mapping_tool/templates/mapping_tool/editor.html
+  s_0276221d01c0b0::t_2d545c780fb434 1-308
+apps/mapping_tool/templates/mapping_tool/_source_keys.html
+  s_0276221d01c0b0::t_39854fb0a507df 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "5277532dcf2ec1fd2af10e25d35f715c280bea58",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

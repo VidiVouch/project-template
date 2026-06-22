@@ -1,0 +1,22 @@
+apps/catalog/management/commands/promote_unprocessed.py
+  s_0276221d01c0b0::t_cb8e45c2cb99a3 469-478
+  s_0276221d01c0b0::t_999080e10298e0 17-20
+apps/catalog/tests/test_promote_unprocessed.py
+  s_0276221d01c0b0::t_61a2ca6fa0b705 144-162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "b4bba4affc89e1c40c76aa632e51c1f036abe9a3",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

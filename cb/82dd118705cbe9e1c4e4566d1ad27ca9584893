@@ -1,0 +1,37 @@
+apps/catalog/handlers/resident.py
+  s_0276221d01c0b0::t_7c7b77530ff28f 1-994
+apps/catalog/handlers/resident_turbo.py
+  s_0276221d01c0b0::t_7c7b77530ff28f 1-157
+apps/catalog/management/commands/promote_unprocessed.py
+  s_0276221d01c0b0::t_8bafb2435309d0 226-229,231-233
+  s_0276221d01c0b0::t_681e585e52b1d5 213,261-334
+  s_0276221d01c0b0::t_2652a9b5c546d6 173-192,197-212
+pyproject.toml
+  s_0276221d01c0b0::t_3d94f2f3918409 163-165
+apps/catalog/tests/test_throughput_tripwires.py
+  s_0276221d01c0b0::t_02cf107953ed78 1-137
+apps/catalog/handlers/resident_spec.py
+  s_0276221d01c0b0::t_7c7b77530ff28f 1-54
+apps/catalog/tests/test_resident_turbo.py
+  s_0276221d01c0b0::t_02cf107953ed78 1-192
+apps/catalog/tests/test_resident.py
+  s_0276221d01c0b0::t_02cf107953ed78 1-360
+apps/catalog/handlers/resident_prep.py
+  s_0276221d01c0b0::t_7c7b77530ff28f 1-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "cb82dd118705cbe9e1c4e4566d1ad27ca9584893",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

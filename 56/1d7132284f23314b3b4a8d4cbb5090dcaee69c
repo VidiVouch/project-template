@@ -1,0 +1,69 @@
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_cb624f88b4e0ea 114-120
+  s_0276221d01c0b0::t_0f12a4d3f945a9 192-198
+  s_0276221d01c0b0::t_9c8a561c380025 219-220
+  s_0276221d01c0b0::t_cf2b99f54a0d52 263-265
+apps/data/resultsdirect/migrations/0001_initial.py
+  s_0276221d01c0b0::t_98565dcf327aa2 1-227
+apps/data/resultsdirect/tests/test_response.py
+  s_0276221d01c0b0::t_bb6a1ee45bb029 1-137
+apps/data/resultsdirect/tests/test_app_registration.py
+  s_0276221d01c0b0::t_5e32627670117a 1-50
+envelopes/resultsdirect/response.py
+  s_0276221d01c0b0::t_d77156dc14930e 1-167
+envelopes/resultsdirect/versions.py
+  s_0276221d01c0b0::t_d4ef636fc2d6e0 1-21
+apps/data/resultsdirect/transformers.py
+  s_0276221d01c0b0::t_3214b0e8b14f64 1-138
+apps/data/resultsdirect/registrations.py
+  s_0276221d01c0b0::t_98b720568ffe54 1-65
+research/event_research/tests/test_resultsdirect_spider.py
+  s_0276221d01c0b0::t_8ec45bf6d2138a 1-229
+apps/data/resultsdirect/admin.py
+  s_0276221d01c0b0::t_4552f23bc831e8 1-41
+apps/data/resultsdirect/tests/test_import_portal_resultsdirect.py
+  s_0276221d01c0b0::t_bdd216f2681a93 1-133
+config/settings/base.py
+  s_0276221d01c0b0::t_b6ea14d7c38523 133
+apps/data/resultsdirect/tests/test_contracts.py
+  s_0276221d01c0b0::t_3b01953e6837ea 1-49
+apps/data/resultsdirect/tests/test_mapping.py
+  s_0276221d01c0b0::t_cb1a2b594261db 1-156
+apps/catalog/handlers/resultsdirect.py
+  s_0276221d01c0b0::t_06f683c11b7fab 1-293
+apps/bootstrap.py
+  s_0276221d01c0b0::t_6b5b44cc30641f 123
+  s_0276221d01c0b0::t_4409f9a5f660da 140
+apps/data/resultsdirect/tests/test_admin.py
+  s_0276221d01c0b0::t_aa2349467aa955 1-56
+apps/data/resultsdirect/mapping.py
+  s_0276221d01c0b0::t_cb85bbc41187c0 1-259
+apps/data/resultsdirect/apps.py
+  s_0276221d01c0b0::t_9f28754176623f 1-8
+apps/data/resultsdirect/tests/wire_fixtures.py
+  s_0276221d01c0b0::t_41d3c15f45a4ef 1-179
+apps/data/resultsdirect/models.py
+  s_0276221d01c0b0::t_f7ce16265af23d 1-139
+apps/data/resultsdirect/management/commands/import_portal_resultsdirect.py
+  s_0276221d01c0b0::t_4f9446832b048e 1-102
+research/event_research/resultsdirect.py
+  s_0276221d01c0b0::t_bf0793d7c633aa 1-242
+apps/catalog/tests/test_promote_resultsdirect.py
+  s_0276221d01c0b0::t_100638bed4a6b8 1-340
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "561d7132284f23314b3b4a8d4cbb5090dcaee69c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+research/event_research/tests/test_allintheloop_spider.py
+  s_0276221d01c0b0::t_6d72d448b33ce0 1-165
+research/event_research/allintheloop.py
+  s_0276221d01c0b0::t_6d72d448b33ce0 1-323
+traffic_analysis/flow_readers/allintheloop_events.py
+  s_0276221d01c0b0::t_92cc050f774af2 1-134
+traffic_analysis/tests/test_allintheloop_events.py
+  s_0276221d01c0b0::t_92cc050f774af2 1-134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "16142049a721ed66630599df1077ece541c9636c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

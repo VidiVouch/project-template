@@ -1,0 +1,27 @@
+apps/bootstrap.py
+  s_0276221d01c0b0::t_33a22ea04509ee 112,115
+apps/data/cadmium/registrations.py
+  s_0276221d01c0b0::t_3e1d68049ecfde 1-87
+apps/data/cadmium/mapping.py
+  s_0276221d01c0b0::t_3e1d68049ecfde 1-358
+apps/data/cadmium/transformers.py
+  s_0276221d01c0b0::t_3e1d68049ecfde 1-260
+apps/data/cadmium/admin.py
+  s_0276221d01c0b0::t_ae674d00d0c700 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4e88c432d06055f99c713b91a640d9a2d8a2b7bb",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

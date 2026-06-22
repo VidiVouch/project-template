@@ -1,0 +1,27 @@
+templates/demo/staff_upload.html
+  s_0276221d01c0b0::t_ed7be3d3574835 1-45
+apps/demo/staff_views.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-100
+apps/demo/forms.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-78
+apps/demo/staff_urls.py
+  s_0276221d01c0b0::t_3aa88e3cd9db45 1-10
+config/urls.py
+  s_0276221d01c0b0::t_f5a050f6481676 36-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "6305d444170e0adbe33f188f5b81f55ea9ec2dc9",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
