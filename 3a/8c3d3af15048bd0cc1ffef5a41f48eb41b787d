@@ -1,0 +1,21 @@
+GRAPHITE-STACKED-PRS.html
+  s_a8fa6210c93696::t_5c2ab81e10fb9b 1-207
+GITHUB-INTEGRATION-LESSONS.html
+  s_a8fa6210c93696::t_7f3c626ae01f78 1-204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "3a8c3d3af15048bd0cc1ffef5a41f48eb41b787d",
+  "prompts": {},
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
