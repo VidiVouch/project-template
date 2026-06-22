@@ -1,0 +1,19 @@
+config/asgi.py
+  s_eef0c01ffe4331::t_60ae49b57acd84 14-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "addbb8e7a7219cd9d7375141672266203b147dc3",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
