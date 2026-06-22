@@ -1,0 +1,23 @@
+apps/catalog/tests/test_promote_eventpilot.py
+  s_0276221d01c0b0::t_f7752e7fa78149 318
+  s_0276221d01c0b0::t_db2861e357e1e5 13
+  s_0276221d01c0b0::t_d3187c237bfb85 303-317,319-324
+apps/catalog/handlers/eventpilot.py
+  s_0276221d01c0b0::t_3c5d7e455472ba 253-260,262-271
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "97a77cd757e087bc24c351170c7064d0555ccc16",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
