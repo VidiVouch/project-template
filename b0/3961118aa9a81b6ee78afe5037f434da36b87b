@@ -1,0 +1,21 @@
+apps/catalog/handlers/gatherdigital.py
+  s_0276221d01c0b0::t_e786fca9034ee1 229-237
+apps/catalog/handlers/eventpilot.py
+  s_0276221d01c0b0::t_826c20bfde9869 262-270
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "b03961118aa9a81b6ee78afe5037f434da36b87b",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
