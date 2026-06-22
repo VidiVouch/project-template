@@ -1,0 +1,70 @@
+apps/sales/delivery.py
+  s_0276221d01c0b0::t_d30014e5e12b26 1-120
+apps/sales/management/commands/seed_design_preview.py
+  s_0276221d01c0b0::t_d30014e5e12b26 1-726
+apps/sales/registrations.py
+  s_0276221d01c0b0::t_8d1c44a3378ea1 28-36,42-43
+apps/sales/tests/test_icp_scoring.py
+  s_0276221d01c0b0::t_9b46ce3922ffb2 1-200
+apps/sales/migrations/0009_icpscore_deliveryrecord_rls.py
+  s_0276221d01c0b0::t_ebde677eab0871 1-23
+apps/sales/tests/test_scoring_service.py
+  s_0276221d01c0b0::t_9b46ce3922ffb2 1-229
+apps/sales/domain/__init__.py
+  s_0276221d01c0b0::t_d30014e5e12b26 1-8
+apps/sales/domain/parsing.py
+  s_0276221d01c0b0::t_d30014e5e12b26 1-167
+apps/sales/domain/criteria.py
+  s_0276221d01c0b0::t_d30014e5e12b26 1-214
+apps/sales/tests/test_seed_design_preview.py
+  s_0276221d01c0b0::t_9b46ce3922ffb2 1-180
+apps/sales/tests/test_merge_rehome.py
+  s_0276221d01c0b0::t_dd656cca1a09db 3-4,19-29,31-41,47-58,62,66,74,86,89,106-107,122,125-126,134-243,250,264,310-313,317-318
+apps/sales/management/commands/score_icp.py
+  s_0276221d01c0b0::t_d30014e5e12b26 1-65
+apps/sales/migrations/0008_icpprofile_criteria_version_deliveryrecord_icpscore.py
+  s_0276221d01c0b0::t_d08ed7f62c6cb9 1-57
+apps/sales/tests/test_icp_criteria.py
+  s_0276221d01c0b0::t_9b46ce3922ffb2 1-106
+apps/sales/tests/test_icp_parsing.py
+  s_0276221d01c0b0::t_9b46ce3922ffb2 1-78
+apps/sales/scoring_service.py
+  s_0276221d01c0b0::t_d30014e5e12b26 1-165
+apps/sales/limits.py
+  s_0276221d01c0b0::t_7820cd1a42a2f7 31
+  s_0276221d01c0b0::t_4fc08086c712a8 51-69
+  s_0276221d01c0b0::t_02ca88741791b4 17-19
+config/settings/base.py
+  s_0276221d01c0b0::t_4527adff474916 622-624
+apps/sales/tests/factories.py
+  s_0276221d01c0b0::t_e1691a08d69338 146-185
+  s_0276221d01c0b0::t_1c571d22a50ec4 13-14
+  s_0276221d01c0b0::t_b17616cc381fb6 27-37
+apps/sales/models.py
+  s_0276221d01c0b0::t_d904de02d37bdd 226
+  s_0276221d01c0b0::t_3ee6a33392bc40 245-354
+  s_0276221d01c0b0::t_716d90b6a50019 195-209
+  s_0276221d01c0b0::t_d11e333f5fbefb 34
+apps/sales/tests/test_rls.py
+  s_0276221d01c0b0::t_3f9ddd06814f0e 76-78
+apps/sales/domain/scoring.py
+  s_0276221d01c0b0::t_d30014e5e12b26 1-261
+apps/sales/tests/test_delivery.py
+  s_0276221d01c0b0::t_9b46ce3922ffb2 1-176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "bd9b9a366eb5a6970c6414d4f2c199dc81a842a2",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
