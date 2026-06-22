@@ -1,0 +1,45 @@
+apps/tracking/management/commands/configure_mailgun_tracking.py
+  s_17405aaf91a59b::t_a24bde205a2f8a 49
+templates/identity/access_request_form.html
+  s_17405aaf91a59b::t_a24bde205a2f8a 11,14
+config/urls.py
+  s_17405aaf91a59b::t_9595ffa73eb4e6 13-14
+templates/account/login.html
+  s_17405aaf91a59b::t_a24bde205a2f8a 17
+config/settings/base.py
+  s_17405aaf91a59b::t_a24bde205a2f8a 1,20-21,299,446-447
+.env.sample
+  s_17405aaf91a59b::t_a24bde205a2f8a 24,30-31,49
+templates/identity/access_request_thanks.html
+  s_17405aaf91a59b::t_a24bde205a2f8a 10
+README.md
+  s_17405aaf91a59b::t_9595ffa73eb4e6 1
+apps/identity/apps.py
+  s_17405aaf91a59b::t_a24bde205a2f8a 10
+LICENSE.md
+  s_17405aaf91a59b::t_a24bde205a2f8a 1
+templates/hijack/notification.html
+  s_17405aaf91a59b::t_9595ffa73eb4e6 4
+render.yaml
+  s_17405aaf91a59b::t_9595ffa73eb4e6 1
+config/asgi.py
+  s_17405aaf91a59b::t_a24bde205a2f8a 1
+pyproject.toml
+  s_17405aaf91a59b::t_a24bde205a2f8a 8,13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "06685411817e0b3e4ebd7cfb9aec98ba54cd7cbb",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
