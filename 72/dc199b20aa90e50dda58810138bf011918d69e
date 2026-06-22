@@ -5,7 +5,7 @@ pyproject.toml
   s_9cc359b33535bd::t_bf1ef54f6c19af 97
   s_9cc359b33535bd::t_cd912d9cdec808 112
   s_9cc359b33535bd::t_af0dca38e85386 267-269
-  h_795c5e33ecc5af 31,35,37,77,79,181-189,190-199,224-226
+  h_795c5e33ecc5af 31,35,37,77-79,181-199,224-226,254
 tests/hooks/conftest.py
   s_9cc359b33535bd::t_8c6e9ac76a1f26 1-8,19-20,22-24
 .agents/skills/check-coverage/SKILL.md
