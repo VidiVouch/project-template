@@ -1,0 +1,67 @@
+templates/provenance/coverage_matrix.html
+  s_c3bfa30f51a6e1::t_291b90757a9d24 270-275,277-281,284-287,297-306,310,345,347
+templates/provenance/tokens.html
+  s_c3bfa30f51a6e1::t_d40495f4ee7c1f 119-121,123-126,128-129,137,139
+templates/app/base.html
+  s_c3bfa30f51a6e1::t_2ae4b051eab7c4 14-50
+templates/provenance/reviewers_list.html
+  s_c3bfa30f51a6e1::t_25b1501c82ec27 90-92,94-98
+  s_c3bfa30f51a6e1::t_84a0633753560f 114,117
+templates/billing/home.html
+  s_c3bfa30f51a6e1::t_73b3f6d8589f63 14-17
+templates/base.html
+  s_c3bfa30f51a6e1::t_aafe15b25b792d 13
+  s_c3bfa30f51a6e1::t_b3afb62910cf53 48-59
+  s_c3bfa30f51a6e1::t_ae59182dd86dec 60-66
+templates/provenance/repo_report.html
+  s_c3bfa30f51a6e1::t_15a996b87e000e 141-143,145-149
+  s_c3bfa30f51a6e1::t_17295e76b4d861 194,196
+templates/billing/pricing.html
+  s_c3bfa30f51a6e1::t_ccc0df194ed0c1 51-54
+templates/provenance/connect_repo.html
+  s_c3bfa30f51a6e1::t_1ca2a7d2536394 83-85,87-90,92-93,101,103
+templates/app/_nav.html
+  s_c3bfa30f51a6e1::t_9eb29fce2a18ab 60-66,75
+apps/provenance/tests/test_htmx_nav.py
+  s_c3bfa30f51a6e1::t_63243c635aae20 1-24,26-29,31-38,41-120,123,125-127,129-130,142-144,146-155,157-164,166,172-183,185-204,206-207,209,214-218,221,223-224,226,228-232,234,263-267
+  s_c3bfa30f51a6e1::t_270f4bba24824a 39-40
+  s_c3bfa30f51a6e1::t_a8ccd3d77be235 122,124,128,131-141,165,167-171,205,210-211,213,220,222,227,235-239,249,258,260-261
+  s_c3bfa30f51a6e1::t_2b58cb4852c9c9 240-248,251-252,256
+  s_c3bfa30f51a6e1::t_92524c53a71faf 250,253-255,257,259
+  s_c3bfa30f51a6e1::t_61723abf794081 25,30
+assets/js/app-enhance.js
+  s_c3bfa30f51a6e1::t_6f0620422c6098 1-91
+templates/provenance/org_dashboard.html
+  s_c3bfa30f51a6e1::t_a0e65cda57b183 158,161
+  s_c3bfa30f51a6e1::t_f9333993160b17 130-132,134-137,141
+templates/billing/pay.html
+  s_c3bfa30f51a6e1::t_0b4857b50a2045 16-19
+  s_c3bfa30f51a6e1::t_d2c5b842bd0cb7 29-35,37-44,46-49
+  s_c3bfa30f51a6e1::t_249e71b2946e4a 77,79-81,101-129,131
+templates/provenance/reviewer_profile.html
+  s_c3bfa30f51a6e1::t_fd07acc5096336 152-154,156-160,162
+  s_c3bfa30f51a6e1::t_a359799dd780d3 177,179
+templates/provenance/repo_detail.html
+  s_c3bfa30f51a6e1::t_825b1f563c2d8f 90-92,94-97,99-100,108,110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "066a34a3bde517b9f50d0c2282a7cb9fb44187fc",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
