@@ -1,0 +1,26 @@
+render.yaml
+  s_c3bfa30f51a6e1::t_f09b22d49657b2 79-80
+  s_c3bfa30f51a6e1::t_d63f4334a904e5 1,10,28,76,93,120,126,144,152,180,184,196,204
+  s_c3bfa30f51a6e1::t_7d79d2c990d664 58-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4f39adce4f425821acb1b75cde20a727162b1c3a",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
