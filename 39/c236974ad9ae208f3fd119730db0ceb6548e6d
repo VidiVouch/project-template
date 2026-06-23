@@ -1,0 +1,27 @@
+README.md
+  s_c3bfa30f51a6e1::t_88d009e3d300b3 64-99
+  s_c3bfa30f51a6e1::t_990dd429d83d56 7
+scripts/dev_app_role.sql
+  s_c3bfa30f51a6e1::t_dcd6a7ad2e21d2 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "39c236974ad9ae208f3fd119730db0ceb6548e6d",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
