@@ -1,0 +1,88 @@
+apps/identity/tests/test_entitlements.py
+  s_17405aaf91a59b::t_9c529f1764d08a 113
+  s_17405aaf91a59b::t_52dff47e06fa43 218
+  s_17405aaf91a59b::t_04b349f0a81af3 171
+  s_17405aaf91a59b::t_439e411776cc13 3-15,17,23,75-111,114-115,121,125-130,132-136,140-170,172-173,176-196,198-205,210,212,216-217,219-224,237-245
+  s_17405aaf91a59b::t_0a822b70ac483c 211
+  s_17405aaf91a59b::t_452c07ed33d8cf 56
+apps/identity/tests/test_tenant.py
+  s_17405aaf91a59b::t_de6e320933e55e 48-69,71-113
+  s_17405aaf91a59b::t_2e1890ada79700 3-4,9,12
+  s_17405aaf91a59b::t_fe9a30ae168683 70
+apps/identity/signals.py
+  s_17405aaf91a59b::t_09b716466b6083 1,4,21,28-34,47-84
+apps/identity/migrations/0007_tenant_trial_ends_at.py
+  s_17405aaf91a59b::t_4d3759566f4bc6 1-18
+apps/identity/management/commands/trial_sweep.py
+  s_17405aaf91a59b::t_fe1a307d373164 68
+  s_17405aaf91a59b::t_115ffb0aa38c85 1-67,69-97,101-191
+  s_17405aaf91a59b::t_149afeead915f3 98-100
+apps/identity/migrations/0008_trialnotice.py
+  s_17405aaf91a59b::t_3dbfe601099770 1-27
+apps/provenance/tests/test_badge.py
+  s_17405aaf91a59b::t_3329f884192d28 81-86,93-107
+  s_17405aaf91a59b::t_aeed2e283f42c6 27
+  s_17405aaf91a59b::t_c9d80807b8bf01 123,138,148,159,171,187,286
+apps/provenance/tests/test_views.py
+  s_17405aaf91a59b::t_b980732c01c9a6 47-59
+  s_17405aaf91a59b::t_a11254e1570db8 94
+  s_17405aaf91a59b::t_3ad14c710574ad 108
+  s_17405aaf91a59b::t_6e64c5baf90304 75
+  s_17405aaf91a59b::t_0dc8a8d8f10383 119,126-127,129-132,134,140-152
+apps/provenance/tests/test_connect_repo.py
+  s_17405aaf91a59b::t_62f5356c075e60 134-141
+templates/provenance/platform_upgrade.html
+  s_17405aaf91a59b::t_c2db436d9190a4 9-15,18-54
+apps/provenance/views.py
+  s_17405aaf91a59b::t_5fdb8dd801d676 142-147
+  s_17405aaf91a59b::t_b6bbf32dbae3ff 112-141,148-155,160-165,173
+  s_17405aaf91a59b::t_bc4ebb0379e5f0 1050
+  s_17405aaf91a59b::t_68b1befc47e16b 4
+apps/identity/tests/factories.py
+  s_17405aaf91a59b::t_07ba9e7f16dd0f 13-14
+  s_17405aaf91a59b::t_4a545a6b16f28d 30-34,39,41,43-48,54,59,67-72,76,78-80,84-85,93
+  s_17405aaf91a59b::t_56b4356433cacc 77,81-83,86-92,94-100
+  s_17405aaf91a59b::t_149afeead915f3 36-38
+apps/identity/tests/test_trial_sweep.py
+  s_17405aaf91a59b::t_47ef4d4e502e92 1-60,62-85,87-144
+  s_17405aaf91a59b::t_612233cafe85a8 86
+  s_17405aaf91a59b::t_2d4f69081a3b6a 61
+apps/provenance/tests/test_repo_detail.py
+  s_17405aaf91a59b::t_a03ff3daf1fd0a 45-56
+  s_17405aaf91a59b::t_56af05d0ad3c6f 20
+apps/provenance/tests/test_org_dashboard.py
+  s_17405aaf91a59b::t_a05bfda64b13f0 299-300,302-306,308-320
+  s_17405aaf91a59b::t_9b7140dff980ed 346-387
+  s_17405aaf91a59b::t_08db215255db24 19,27
+apps/provenance/tests/test_matrix.py
+  s_17405aaf91a59b::t_f56bcacb6bf184 215-227
+  s_17405aaf91a59b::t_b0c1f58a007d6c 20
+apps/identity/entitlements.py
+  s_17405aaf91a59b::t_f60f9967241fd6 1,8-30,34-44,55-56,58,62-64,66-67,70-77,79-85,93-102,105-106,116-161,165-184,191-192,204-205,207-211,214-228,236-237
+apps/identity/models.py
+  s_17405aaf91a59b::t_50698476399377 168-185
+  s_17405aaf91a59b::t_5ff02fd6f6255b 235-238
+  s_17405aaf91a59b::t_9f0ffde7996dd1 195-229,231-234,239-240
+  s_17405aaf91a59b::t_149afeead915f3 230
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "74e24c40e0c277590cbf012ff043b0aebb52e312",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
