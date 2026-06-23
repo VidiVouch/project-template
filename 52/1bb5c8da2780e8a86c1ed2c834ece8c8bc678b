@@ -1,0 +1,42 @@
+templates/base.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 39-40
+templates/provenance/org_dashboard.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 9-10,18,21,36,39,73,75,85,87,104,106
+templates/provenance/coverage_matrix.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 36-37,100,102,127-128
+templates/provenance/connect_repo.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 29-30,45-46,62-63,84-85
+templates/provenance/platform_upgrade.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 9,15
+templates/provenance/portal.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 9-10,18,20,27,29,72,74
+templates/app/_nav.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 26-27
+templates/provenance/repo_detail.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 14,17,30-31,67,70,90-91
+templates/provenance/repo_report.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 15-16
+templates/provenance/tokens.html
+  s_c3bfa30f51a6e1::t_5ee2925443943d 34-35,53-54,68,70,99-100,119,121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "521bb5c8da2780e8a86c1ed2c834ece8c8bc678b",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
