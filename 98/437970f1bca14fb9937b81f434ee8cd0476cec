@@ -1,0 +1,36 @@
+apps/provenance/tests/test_vouch_verify.py
+  s_c3bfa30f51a6e1::t_40c9127b667379 158
+  s_c3bfa30f51a6e1::t_41a359bc23f36a 43
+  s_c3bfa30f51a6e1::t_8eb83e9b6fa1a8 175-176
+  s_c3bfa30f51a6e1::t_8552055ed2873e 1-42,44-84,86-89,92-157,159-174,177-249
+  s_c3bfa30f51a6e1::t_bb701845fba5e4 85,90-91
+apps/provenance/tests/fixtures/README.md
+  s_c3bfa30f51a6e1::t_066fcaf2fd7512 1-31
+apps/provenance/vouch_verify.py
+  s_c3bfa30f51a6e1::t_11b3a4d5c10595 15-22,36,41-43,67,69,80-81,99,139-144,167,169-171,174,176-178,182,186,196-198,231
+  s_c3bfa30f51a6e1::t_2e8f951c2d1f71 62
+  s_c3bfa30f51a6e1::t_cf8d42d44cad27 212
+  s_c3bfa30f51a6e1::t_ff9debe12c6d76 227
+  s_c3bfa30f51a6e1::t_138840aa49389d 1-14,23-35,37-40,44-61,63-66,68,70-79,82-98,100-138,145-166,168,172-173,175,179-181,183-185,187-195,199-211,213-226,228-230,232-261
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "98437970f1bca14fb9937b81f434ee8cd0476cec",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
