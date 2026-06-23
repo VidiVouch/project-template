@@ -1,0 +1,79 @@
+apps/deviceauth/tests/test_ci_tokens.py
+  s_17405aaf91a59b::t_1693f56188bce4 1-69
+apps/deviceauth/apps.py
+  s_17405aaf91a59b::t_5221b107c14f51 1-21
+apps/deviceauth/models.py
+  s_17405aaf91a59b::t_c78d1b58287911 185-186
+  s_17405aaf91a59b::t_e0a9ff9527cb87 1-31,33-38,42-46,50-184,187-293
+  s_17405aaf91a59b::t_49e8cda23b2c95 47-49
+  s_17405aaf91a59b::t_3c3a777f2b9209 32,39-41
+tests/architecture/test_base_no_product_imports.py
+  s_17405aaf91a59b::t_c72040c5ac8f78 30-34
+apps/deviceauth/tests/test_activate.py
+  s_17405aaf91a59b::t_78e4ff30e52f98 1-127
+apps/notary/api.py
+  s_17405aaf91a59b::t_df134905f4acd8 150-180,186-187,198
+  s_17405aaf91a59b::t_637454118c141c 68-75,78-79,82
+  s_17405aaf91a59b::t_9667c48a4229ae 97-104,106-108
+apps/deviceauth/views.py
+  s_17405aaf91a59b::t_59fd5a02a2127e 1-197
+apps/deviceauth/urls.py
+  s_17405aaf91a59b::t_cf2c84e2c079a1 2-22
+  s_17405aaf91a59b::t_f65eb23f9751a3 1
+apps/notary/tests/test_api.py
+  s_17405aaf91a59b::t_ae1e58997316fa 158,160-219
+  s_17405aaf91a59b::t_5bd1f1115b8615 159
+templates/deviceauth/activate_done.html
+  s_17405aaf91a59b::t_6dabefe2e197a3 1-37
+apps/deviceauth/__init__.py
+  s_17405aaf91a59b::t_f8a90d4b1a1ebe 1-38
+apps/deviceauth/tests/test_token_endpoint.py
+  s_17405aaf91a59b::t_3bbea904295775 2-175,177-182
+  s_17405aaf91a59b::t_82081a6dfba60a 1
+  s_17405aaf91a59b::t_912e622c12a679 176
+apps/deviceauth/tokens.py
+  s_17405aaf91a59b::t_81df6fd9dfac08 104
+  s_17405aaf91a59b::t_843aa68aa21f66 129
+  s_17405aaf91a59b::t_a9058e5f1de97e 91
+  s_17405aaf91a59b::t_de4cc31bc3a6cf 1-31,34-90,92-103,105-128,130
+  s_17405aaf91a59b::t_529d064d6ec35c 32-33
+apps/deviceauth/api.py
+  s_17405aaf91a59b::t_522af0a0ac3b25 1-5,8-11,14-20,24-39,41-50,55-70,76-77,80-82,84-86,88-97,102-105,107,120-123,125-127,130-137,141-143,145-147,149,151-152,155-156,162-164,168-169,175,177,203,205-212,214-222,228,230-238
+  s_17405aaf91a59b::t_792037a1e81eda 6-7,12-13
+  s_17405aaf91a59b::t_2689c629cfdb81 21-23,40,51-54,71-75,78,83,108-119,124,128,138-140,144,148,150,153,165,167,176,204,213,223-227,229,239-251
+  s_17405aaf91a59b::t_50f434195efc79 79
+  s_17405aaf91a59b::t_7472f8e3522d89 154,157-161,166,170-174,178-182,184-202
+  s_17405aaf91a59b::t_a7babbd541ad06 129
+  s_17405aaf91a59b::t_2094a730448a3b 183
+  s_17405aaf91a59b::t_07759cee726a65 87,98-101,106
+config/urls.py
+  s_17405aaf91a59b::t_62918a287d5f66 64-70
+  s_17405aaf91a59b::t_546def61cc1280 9
+apps/deviceauth/migrations/0001_initial.py
+  s_17405aaf91a59b::t_a8d3b830ea7e24 17-23
+config/settings/base.py
+  s_17405aaf91a59b::t_01d61721c1c8d3 631-647
+  s_17405aaf91a59b::t_7496092255d07f 125-127
+apps/deviceauth/tests/test_person_for_token.py
+  s_17405aaf91a59b::t_16ee96f2aa63e9 1-107
+templates/deviceauth/activate.html
+  s_17405aaf91a59b::t_881d5d9ab7a198 1-72
+templates/deviceauth/ci_tokens.html
+  s_17405aaf91a59b::t_321c54a641da75 1-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "7183564ba0cbaa7e5ee7142a5c11e770b2ac1662",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
