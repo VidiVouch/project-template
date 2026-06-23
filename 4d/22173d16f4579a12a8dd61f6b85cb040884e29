@@ -1,0 +1,28 @@
+templates/billing/home.html
+  s_c3bfa30f51a6e1::t_e85f48c9891ec2 14,16
+templates/billing/pricing.html
+  s_c3bfa30f51a6e1::t_57cc2fa6dd9943 51,53
+templates/billing/pay.html
+  s_c3bfa30f51a6e1::t_0ab17d40aa8b09 16,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "4d22173d16f4579a12a8dd61f6b85cb040884e29",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
