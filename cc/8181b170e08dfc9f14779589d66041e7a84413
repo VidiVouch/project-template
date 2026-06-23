@@ -1,0 +1,60 @@
+apps/notary/dsse.py
+  s_17405aaf91a59b::t_d436acf503692f 35,37,40
+  s_17405aaf91a59b::t_2ec61492e70165 192-238,243-244,262-263,273-277,281-282
+  s_17405aaf91a59b::t_6a1bbfa5f1d892 180-191,239-242,245-261,264-272,278-280,283-286
+config/urls.py
+  s_17405aaf91a59b::t_5744ea69d1b253 12
+  s_17405aaf91a59b::t_ed10f115fab125 62-67
+apps/notary/tests/test_dsse.py
+  s_17405aaf91a59b::t_c86091b70b3f65 96-101,103-115,117-123,125-136
+  s_17405aaf91a59b::t_9f66ec0af0c22f 15
+  s_17405aaf91a59b::t_5a4cc14cd6c08e 116
+  s_17405aaf91a59b::t_34bd80a6bebbe4 124
+  s_17405aaf91a59b::t_f25fd7e0ce302b 102
+apps/notary/tests/test_reviews.py
+  s_17405aaf91a59b::t_6539023ac0caf9 1-98,100-154,156-178
+  s_17405aaf91a59b::t_abe728c0595dfb 99
+  s_17405aaf91a59b::t_fd908cad3909d2 155
+apps/notary/reviews.py
+  s_17405aaf91a59b::t_973da7847624c6 63
+  s_17405aaf91a59b::t_acb06317c79f28 162
+  s_17405aaf91a59b::t_bd7eabc44a6bf3 1-62,64-125,128,131-138,141-161,163-170,173,176-212,214-222,228-240
+  s_17405aaf91a59b::t_ac9127eebaabf2 213,223-227
+  s_17405aaf91a59b::t_503ff7636532f5 126-127,129-130,139-140
+  s_17405aaf91a59b::t_5cf9cf4571f93e 171-172,174-175
+apps/notary/migrations/0003_reviewline.py
+  s_17405aaf91a59b::t_398e56b1fd5faa 7-40
+apps/notary/tests/test_tenant_rls.py
+  s_17405aaf91a59b::t_b3b186fd4ce471 21
+  s_17405aaf91a59b::t_296cf88ac39f62 78-88,95
+apps/notary/reviews_api.py
+  s_17405aaf91a59b::t_b2aa47fc21e320 180
+  s_17405aaf91a59b::t_2b99f5bf2bd8d7 1-93,95-102,104-111,113-161,163-179,181-191
+  s_17405aaf91a59b::t_14129babf3feed 94
+  s_17405aaf91a59b::t_bd03752d720eca 103
+  s_17405aaf91a59b::t_c271877750bae3 112
+apps/notary/models.py
+  s_17405aaf91a59b::t_b47e5aeeb1acbd 194-202,207-208,211-215,218-219,222-235,237-290
+  s_17405aaf91a59b::t_aa3e0e5df6e992 203-206,209-210,216-217,220-221
+  s_17405aaf91a59b::t_368bd371c1c984 236
+apps/notary/tests/test_reviews_api.py
+  s_17405aaf91a59b::t_4be13878ef05e9 2-185,199-206
+  s_17405aaf91a59b::t_99f170e71beed1 186-198
+  s_17405aaf91a59b::t_0b1cafc1ed69f3 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "cc8181b170e08dfc9f14779589d66041e7a84413",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
