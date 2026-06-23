@@ -1,0 +1,25 @@
+crates/vid-cli/src/main.rs
+  s_cf46f2a9c74543::t_f7440d44307817 238-241
+  s_cf46f2a9c74543::t_7ab0cb42e5e863 235-237,244-247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "19472ac0d36da03cb47a0293ea8c4697d0b9f802",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
