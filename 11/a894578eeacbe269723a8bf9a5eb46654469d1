@@ -1,0 +1,79 @@
+apps/githubapp/tests/test_comments.py
+  s_17405aaf91a59b::t_2043f305edb5e9 16-18
+  s_17405aaf91a59b::t_cd4b25addbff04 186-187,189-193,196-201,203,207,209-211
+  s_17405aaf91a59b::t_15f901633e1897 188
+  s_17405aaf91a59b::t_f35e8419ae8680 194-195,202,204-206,208
+apps/githubapp/recompute.py
+  s_17405aaf91a59b::t_b3f8b8d13b7b03 122-130
+  s_17405aaf91a59b::t_658d2fb580e553 336-366
+  s_17405aaf91a59b::t_8e216e67de1905 42
+apps/githubapp/retroactive.py
+  s_17405aaf91a59b::t_5ad0f05f4c6ff9 101-112
+  s_17405aaf91a59b::t_54579f677d4dbe 50-51
+  s_17405aaf91a59b::t_451e7dbd23cf9e 266-267,275-314
+  s_17405aaf91a59b::t_f14ec50552cff1 315-317
+  s_17405aaf91a59b::t_6b7c39d699380a 36
+  s_17405aaf91a59b::t_23a0de29ada422 135-148,150-151,153-166,173-180,185-204
+apps/deviceauth/tests/test_token_endpoint.py
+  s_17405aaf91a59b::t_5651cfe0b9223b 13
+  s_17405aaf91a59b::t_6c29aac2f2c721 151-179,183-185
+  s_17405aaf91a59b::t_2c3c9651fd9248 180-182
+  s_17405aaf91a59b::t_6421ba3aa818d5 20
+apps/githubapp/tests/test_retroactive.py
+  s_17405aaf91a59b::t_b2fe6e6fdc597e 201-202
+  s_17405aaf91a59b::t_a2012bf4c76d5b 23
+  s_17405aaf91a59b::t_d24105b9697143 263
+  s_17405aaf91a59b::t_13cfdc513ae8c4 260-262,264-268,274-276,280,290-301
+  s_17405aaf91a59b::t_1586c37167c47b 196-200,203-259,269-273,277-279,281-289
+apps/deviceauth/api.py
+  s_17405aaf91a59b::t_275db18c9ff341 164-172,176,178-197
+  s_17405aaf91a59b::t_065abbd4f83957 40
+  s_17405aaf91a59b::t_41d8602b5e9679 173-175,177
+  s_17405aaf91a59b::t_c92a03d0b9202b 220-227,231-237
+apps/notary/api.py
+  s_17405aaf91a59b::t_1b7c42996668c1 130
+  s_17405aaf91a59b::t_e762886ee902ed 112-126,129,136-140,149
+  s_17405aaf91a59b::t_7e097b45a46846 95-97
+  s_17405aaf91a59b::t_f483ac8b7cf5b1 7-12
+apps/githubapp/comments.py
+  s_17405aaf91a59b::t_00a0770f1347b7 41
+  s_17405aaf91a59b::t_3ff859c0323a91 73
+  s_17405aaf91a59b::t_e6ac0e4a5e0c87 117-120,122-127,131
+  s_17405aaf91a59b::t_04288a564282ee 121
+  s_17405aaf91a59b::t_91fab279f1d40e 95-100
+  s_17405aaf91a59b::t_5e0f3a8a8dd951 72,74-81
+apps/notary/tests/test_api.py
+  s_17405aaf91a59b::t_0f0f55f89541c2 168-177,181-182
+  s_17405aaf91a59b::t_5b7cbec7eeb5e3 257-263
+  s_17405aaf91a59b::t_704c6697580ce4 5
+apps/githubapp/notary.py
+  s_17405aaf91a59b::t_a3d667b3a07f58 245-252,254
+  s_17405aaf91a59b::t_6ec1557abbda85 48
+apps/githubapp/tests/test_recompute.py
+  s_17405aaf91a59b::t_2535fcdf550762 274,277-285,288,294,297-301,303-304,307-316,321-324
+  s_17405aaf91a59b::t_7d6a7cc45a5430 326-331
+  s_17405aaf91a59b::t_f8f7a91a5939fd 275
+  s_17405aaf91a59b::t_b078604983ffd5 24-25
+  s_17405aaf91a59b::t_3867c0760adfe7 276,286-287,289-290,293,296,302,305-306,317-320,325,332-333
+  s_17405aaf91a59b::t_ffaacd4db008cd 295
+  s_17405aaf91a59b::t_81e3072360471c 291-292
+apps/githubapp/tests/test_notary.py
+  s_17405aaf91a59b::t_7b3135a110b8d2 162,164-175
+  s_17405aaf91a59b::t_9a71819ad523db 163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "11a894578eeacbe269723a8bf9a5eb46654469d1",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
