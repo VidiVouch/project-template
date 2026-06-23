@@ -1,0 +1,28 @@
+scripts/check_template_comments.py
+  s_c3bfa30f51a6e1::t_c8be84ffbd9202 41
+  s_c3bfa30f51a6e1::t_956ed0cfe20c41 1-40,42-49,51-53,55,57-61
+  s_c3bfa30f51a6e1::t_4dc73542aebaa7 50,54,56
+.pre-commit-config.yaml
+  s_c3bfa30f51a6e1::t_b2adf5800de445 50-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "d4fe680659a4b039fa20296196a7e3cc48506f26",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
