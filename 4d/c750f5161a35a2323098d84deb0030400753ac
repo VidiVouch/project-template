@@ -1,0 +1,46 @@
+apps/billing/receivers.py
+  s_17405aaf91a59b::t_f9455f7ec87221 78-90,92-99
+  s_17405aaf91a59b::t_42622f355fb8bb 121-154
+  s_17405aaf91a59b::t_b0aa73b8f3112e 3,9-17
+  s_17405aaf91a59b::t_5552a299432758 91
+apps/billing/tests/test_receivers.py
+  s_17405aaf91a59b::t_119703bb172d5a 75-142,144-178
+  s_17405aaf91a59b::t_cda746c4b5e807 3-6,11-16,18,29-46
+  s_17405aaf91a59b::t_b42a65cd1c376e 1
+  s_17405aaf91a59b::t_144a560556fa3f 143
+apps/billing/subscriptions.py
+  s_17405aaf91a59b::t_62ebaf100b9233 151
+  s_17405aaf91a59b::t_a3873126f66d30 102-113
+  s_17405aaf91a59b::t_f0a33ace9d8abe 71-78
+  s_17405aaf91a59b::t_79325a4b275463 150,152-153
+apps/billing/tests/test_subscriptions.py
+  s_17405aaf91a59b::t_eb5ecef511cd56 453-490,492-500,507-526,530-549,554-556
+  s_17405aaf91a59b::t_9cbd99cd1e9a35 491
+  s_17405aaf91a59b::t_5191d4975ab0ca 501-506,527-529,550-553
+  s_17405aaf91a59b::t_89ac6c70c7774d 135-137,143-156
+  s_17405aaf91a59b::t_238372eb7fb94e 37
+templates/billing/pricing.html
+  s_17405aaf91a59b::t_f235be52645c62 18
+  s_17405aaf91a59b::t_67d817cdfd9f5c 55-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4dc750f5161a35a2323098d84deb0030400753ac",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
