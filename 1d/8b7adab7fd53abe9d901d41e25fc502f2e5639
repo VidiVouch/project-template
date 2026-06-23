@@ -1,0 +1,58 @@
+crates/vid-lang/src/configs/javascript.rs
+  s_cf46f2a9c74543::t_56027f0ae8eed9 121
+crates/vid-lang/src/configs/kotlin.rs
+  s_cf46f2a9c74543::t_7838b891de2bed 121
+crates/vid-lang/src/configs/rust.rs
+  s_cf46f2a9c74543::t_c92ba2b808268a 403-442
+  s_cf46f2a9c74543::t_460a24dd2cb695 139
+crates/vid-lang/src/configs/python.rs
+  s_cf46f2a9c74543::t_6ec6d6c2a43ef6 65
+crates/vid-lang/src/configs/csharp.rs
+  s_cf46f2a9c74543::t_6fbde3cf877bee 250-265
+  s_cf46f2a9c74543::t_000f2d7e6b92f4 15-23
+  s_cf46f2a9c74543::t_21249ec198c9d4 398-404,414-415,419-421,425-450
+crates/vid-lang/src/engine.rs
+  s_cf46f2a9c74543::t_a4279e85287162 51-58
+  s_cf46f2a9c74543::t_ecdea4ec04bab9 109-111,118,123-126,135
+  s_cf46f2a9c74543::t_04bde45618bdf4 516-521
+  s_cf46f2a9c74543::t_7e50a647f4ce71 596-637
+  s_cf46f2a9c74543::t_9b8e76cc46efb7 270-271,287-296
+  s_cf46f2a9c74543::t_8110945038565a 103-108,115-117,119-122,136-139
+  s_cf46f2a9c74543::t_6e269279af04a1 127-134
+  s_cf46f2a9c74543::t_90f689b96a44ba 286
+crates/vid-lang/src/configs/java.rs
+  s_cf46f2a9c74543::t_8faafe9c98d8be 171
+crates/vid-lang/src/configs/zig.rs
+  s_cf46f2a9c74543::t_807b893e6a32be 79
+crates/vid-lang/examples/probe.rs
+  s_cf46f2a9c74543::t_2b97027f916af8 77-79
+crates/vid-lang/src/configs/go.rs
+  s_cf46f2a9c74543::t_aff2d692daf421 84
+crates/vid-lang/src/configs/swift.rs
+  s_cf46f2a9c74543::t_b1f5afa751a467 230
+crates/vid-lang/src/config.rs
+  s_cf46f2a9c74543::t_9e6bf304d25aa1 38-47
+crates/vid-lang/src/configs/haskell.rs
+  s_cf46f2a9c74543::t_430e0d96a62dec 138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "1d8b7adab7fd53abe9d901d41e25fc502f2e5639",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
