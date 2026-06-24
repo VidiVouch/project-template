@@ -1,0 +1,30 @@
+apps/provenance/tests/test_members_view.py
+  s_c3bfa30f51a6e1::t_e877cb00f7c7e3 79-98
+templates/provenance/members.html
+  s_c3bfa30f51a6e1::t_98f2e4c4d0d83f 78
+  s_c3bfa30f51a6e1::t_dc3c4a81b9547e 43,46,48
+  s_c3bfa30f51a6e1::t_1bd927c78dcf7a 32
+apps/provenance/views.py
+  s_c3bfa30f51a6e1::t_4bfce6ef4127f1 1937,1948-1949
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "bf5831d2d23c3fe48c15b239b450b59f5d45b9a6",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
