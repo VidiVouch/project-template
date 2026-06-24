@@ -1,0 +1,35 @@
+apps/provenance/tests/test_members_view.py
+  s_c3bfa30f51a6e1::t_bdf6f0360c4488 1-87
+apps/provenance/views.py
+  s_c3bfa30f51a6e1::t_06d786d92711d5 1909-1955,1957-2009
+  s_c3bfa30f51a6e1::t_8248027a9d42d4 1956
+  s_c3bfa30f51a6e1::t_aa64fa7817350b 19-20
+  s_c3bfa30f51a6e1::t_ea0628f66d096e 11
+templates/app/_nav.html
+  s_c3bfa30f51a6e1::t_087b51891559be 51-60
+templates/provenance/members.html
+  s_c3bfa30f51a6e1::t_f4b782a9666ffa 1-87
+apps/provenance/urls.py
+  s_c3bfa30f51a6e1::t_c283a415b24682 21-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "5f0a99ec6d78a23c4a56e2d98c83888167a66d1f",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
