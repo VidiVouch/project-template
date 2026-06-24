@@ -1,0 +1,31 @@
+schemas/README.md
+  s_17405aaf91a59b::t_b386a6f1c9225e 44-56
+README.md
+  s_17405aaf91a59b::t_ab57137bf0c35e 33,39-43,46-47
+  s_17405aaf91a59b::t_b50f38b42fed5e 83-95
+  s_17405aaf91a59b::t_8e919b4ae0a04b 164-165
+  s_17405aaf91a59b::t_02da4b53bd70ab 65-81
+  s_17405aaf91a59b::t_76c0e6b2662e7b 21-29
+docs/DESIGN.html
+  s_17405aaf91a59b::t_8eb6235a297e58 722-723
+  s_17405aaf91a59b::t_3793eff09bbbb0 144
+  s_17405aaf91a59b::t_e368ce795603d0 317,323-325,327-328,331-334
+  s_17405aaf91a59b::t_ca24c5ee942564 384,386
+  s_17405aaf91a59b::t_4a94405a81184a 407
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "f46a1e5383c5ab40787fae09281f986714cbc718",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
