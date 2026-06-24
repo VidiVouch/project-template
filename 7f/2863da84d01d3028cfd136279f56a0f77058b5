@@ -1,0 +1,25 @@
+templates/provenance/directory_heatmap.html
+  s_c3bfa30f51a6e1::t_caf914d3fa1ca3 28
+  s_c3bfa30f51a6e1::t_1481b2bb18faed 36-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "7f2863da84d01d3028cfd136279f56a0f77058b5",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
