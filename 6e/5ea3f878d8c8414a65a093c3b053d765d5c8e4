@@ -1,0 +1,46 @@
+crates/vid-cli/src/main.rs
+  s_17405aaf91a59b::t_7eae4d262d8cd3 187-188
+  s_17405aaf91a59b::t_9ea34c9ae99add 169-170
+  s_17405aaf91a59b::t_4427010a42e4ed 202-205
+  s_17405aaf91a59b::t_5a395ecd98047b 288-293
+  s_17405aaf91a59b::t_2982534ad15115 377-379
+  s_17405aaf91a59b::t_e1b5de6e1eaa10 69-72
+  s_17405aaf91a59b::t_1d410fa31316f8 89-91,95-96
+crates/vid-cli/src/push.rs
+  s_17405aaf91a59b::t_993b42aa48a08e 20-27
+  s_17405aaf91a59b::t_383b9e0b16766c 6-8
+  s_17405aaf91a59b::t_f39a2512e26667 365-368
+  s_17405aaf91a59b::t_77c3464c92f8b4 405
+  s_17405aaf91a59b::t_7609385fce7601 47-52,54-55,61-62,70-97
+  s_17405aaf91a59b::t_bcf634011c39f2 356-364,369-393,400,404,415-416
+  s_17405aaf91a59b::t_9807e4fd38b00c 394-399,401-403,406-414
+README.md
+  s_17405aaf91a59b::t_6d0a8a4c6c0d30 86-110
+crates/vid-cli/src/notary.rs
+  s_17405aaf91a59b::t_9cb791ff8f57bc 188,192-193,198-203,206-223,225-228,235-240,248
+  s_17405aaf91a59b::t_d36def28624435 243
+  s_17405aaf91a59b::t_b383580bc4ff09 155-156,158-161,163-174,229-234,242
+  s_17405aaf91a59b::t_4de9056315b80b 30
+  s_17405aaf91a59b::t_d013f4f97cde95 910-911
+  s_17405aaf91a59b::t_7dc3fe8ecceb09 184-187,189-191,194-197,204-205,224
+  s_17405aaf91a59b::t_59161c44b64e14 926-927
+  s_17405aaf91a59b::t_6e30eb1181fd39 241,244-247,249-251,253
+  s_17405aaf91a59b::t_d930b7e9791d26 945-947,949
+  s_17405aaf91a59b::t_77337849d46a30 876-909,912-925,928-944,948,950-959
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "6e5ea3f878d8c8414a65a093c3b053d765d5c8e4",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
