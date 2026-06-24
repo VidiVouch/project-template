@@ -1,0 +1,47 @@
+apps/provenance/vouch_verify.py
+  s_c3bfa30f51a6e1::t_124b29d31a392b 54
+  s_c3bfa30f51a6e1::t_9b294ac944ead8 18-21
+  s_c3bfa30f51a6e1::t_b1f3eb9c106016 83
+  s_c3bfa30f51a6e1::t_056dce59a4f3a0 39
+  s_c3bfa30f51a6e1::t_6a3d6177e788d1 164
+  s_c3bfa30f51a6e1::t_082b016fd1e9a5 9-12,14-16
+  s_c3bfa30f51a6e1::t_60f02e625d6e0f 82,84-85
+  s_c3bfa30f51a6e1::t_bb1aa9e992da76 56-58
+  s_c3bfa30f51a6e1::t_3b9247b0a180e1 60
+  s_c3bfa30f51a6e1::t_8fe635c5ee0f6c 98-101
+  s_c3bfa30f51a6e1::t_f11c1377bdf6ad 138-140,152,154,161-163
+  s_c3bfa30f51a6e1::t_15aed274902ab7 141-143
+apps/provenance/tests/test_vouch_verify.py
+  s_c3bfa30f51a6e1::t_62d3685046393e 237
+  s_c3bfa30f51a6e1::t_916b69d3af25bd 121
+  s_c3bfa30f51a6e1::t_f03b55ac080154 149,154
+  s_c3bfa30f51a6e1::t_8f44c316fa18e2 167
+  s_c3bfa30f51a6e1::t_7be46e1838867f 181-186,189,191
+  s_c3bfa30f51a6e1::t_9e59e4e8195f8c 87
+  s_c3bfa30f51a6e1::t_9df9748d4544f8 20
+  s_c3bfa30f51a6e1::t_b40d41c26ed754 42-48,53-66
+  s_c3bfa30f51a6e1::t_11ed6c2ad30d02 157,159-165,172-173
+  s_c3bfa30f51a6e1::t_b88a6a9b421c94 158
+  s_c3bfa30f51a6e1::t_d7e91534144392 236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "0d56bc3aeeb92f4bc4f751a1636d276862d07a1c",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
