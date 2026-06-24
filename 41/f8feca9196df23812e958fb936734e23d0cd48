@@ -1,0 +1,32 @@
+apps/notary/api.py
+  s_b771d99100a061::t_28b3ec4c79028d 251-263,272-273,275-278
+apps/notary/tests/test_people.py
+  s_b771d99100a061::t_037d3a85344bc1 195-236
+apps/notary/tests/test_reposlug.py
+  s_b771d99100a061::t_16621e0df8c7ee 1-48
+apps/notary/tests/test_api.py
+  s_b771d99100a061::t_471452a7238052 57-59,64-66,68-71,74
+apps/notary/people.py
+  s_b771d99100a061::t_d10e72bf2b9e69 32
+  s_b771d99100a061::t_3afcde5b360f86 332-347,352-354,356
+apps/notary/reposlug.py
+  s_b771d99100a061::t_eb13107a1760ce 1-19,25-66,72,77-78
+  s_b771d99100a061::t_5fcf5c81e182d7 67-71,73-76,79
+  s_b771d99100a061::t_6c058781fd8a40 20-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "41f8feca9196df23812e958fb936734e23d0cd48",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
