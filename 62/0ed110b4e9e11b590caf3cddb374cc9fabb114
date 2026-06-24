@@ -1,0 +1,19 @@
+apps/deviceauth/api.py
+  s_17405aaf91a59b::t_cc1330145db34e 38-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "620ed110b4e9e11b590caf3cddb374cc9fabb114",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
