@@ -1,0 +1,40 @@
+apps/notary/seats.py
+  s_17405aaf91a59b::t_74f31791da2c85 258-272,276-284,286-292
+  s_17405aaf91a59b::t_db668e966492eb 328-345
+  s_17405aaf91a59b::t_ea4c7966d2d517 483-499,504
+  s_17405aaf91a59b::t_e4bd1e0e6c83c4 153
+  s_17405aaf91a59b::t_0d738d14097790 285
+  s_17405aaf91a59b::t_b759f805606056 273-275
+  s_17405aaf91a59b::t_e1619c9d4b5692 46,60
+  s_17405aaf91a59b::t_b15a529c77a0fc 151-152,165-179,189-190,193,197-204
+  s_17405aaf91a59b::t_d64841bed57cb5 390-441,443-444
+  s_17405aaf91a59b::t_959c5684d87f9b 500-503
+apps/notary/tests/test_seats_rls.py
+  s_17405aaf91a59b::t_090a65185e4623 113-114
+  s_17405aaf91a59b::t_2a40deeaa264e8 201-204
+  s_17405aaf91a59b::t_8f238f1d28e166 229
+  s_17405aaf91a59b::t_b4000b74dd2994 181-183,185-188,195-200,205-228,230-233,236-255
+  s_17405aaf91a59b::t_0b6fd3eadc3594 173-174
+  s_17405aaf91a59b::t_f116988b888d6f 175-176
+  s_17405aaf91a59b::t_20d7527dc302ca 189-194
+  s_17405aaf91a59b::t_665c61d8863cc9 234-235
+  s_17405aaf91a59b::t_d60d8247d788b8 111-112,123-125
+  s_17405aaf91a59b::t_f3a012d4ea5615 184
+  s_17405aaf91a59b::t_238c9c7c71d49e 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "a645713887645b6d82caebad0fb39c2243e6c610",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
