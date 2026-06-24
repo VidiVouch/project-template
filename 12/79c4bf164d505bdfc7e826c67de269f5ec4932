@@ -1,0 +1,33 @@
+apps/billing/views.py
+  s_c3bfa30f51a6e1::t_758aba7d29b080 475-476
+  s_c3bfa30f51a6e1::t_f5fa009ed1c91b 471
+templates/billing/pricing.html
+  s_c3bfa30f51a6e1::t_0ad352dea60c61 40,42
+  s_c3bfa30f51a6e1::t_6a1cca881c0348 62
+  s_c3bfa30f51a6e1::t_cfe5e8571347a1 72
+  s_c3bfa30f51a6e1::t_930127e90d42b3 36-39
+  s_c3bfa30f51a6e1::t_a4780a8050d26e 58,60
+  s_c3bfa30f51a6e1::t_db41ce47ea2c85 102-104,106,109,130,133-135,137-138,143,151-158
+  s_c3bfa30f51a6e1::t_a7e3f4494c5cac 50-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "1279c4bf164d505bdfc7e826c67de269f5ec4932",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
