@@ -1,0 +1,48 @@
+crates/vid-graph/src/lib.rs
+  s_17405aaf91a59b::t_bcabaeb08f27ab 387-390
+  s_17405aaf91a59b::t_cb4eff8aaafba9 379-383
+  s_17405aaf91a59b::t_372407e1e07788 28-31
+  s_17405aaf91a59b::t_ae5f03fd3c316b 293-352
+crates/vid-graph/src/score.rs
+  s_17405aaf91a59b::t_bc97eb3d5c80b1 150-151
+  s_17405aaf91a59b::t_c8c85870aa9410 82-83
+  s_17405aaf91a59b::t_8a60249a273c71 117-124,131-140,146,152-156,163,174-176,183-192
+  s_17405aaf91a59b::t_de2373e40d8318 55-60,62-67
+  s_17405aaf91a59b::t_65d8a5c39719ad 19-22,27-43
+  s_17405aaf91a59b::t_b0aa45811cb87e 49
+  s_17405aaf91a59b::t_27ab252774da46 165-169,171
+  s_17405aaf91a59b::t_a6f94d68fd8bf0 99-106
+crates/vid-graph/src/significance.rs
+  s_17405aaf91a59b::t_4aa3f119280ad4 65-66
+schemas/vid-json-v3.schema.json
+  s_17405aaf91a59b::t_7ebb781d53d12c 334
+  s_17405aaf91a59b::t_f3c62e616d87f2 385
+crates/vid-cli/src/significance/deps.rs
+  s_17405aaf91a59b::t_2cd551775bfb76 13-20
+crates/vid-cli/src/significance.rs
+  s_17405aaf91a59b::t_34603e132fa9c5 169,207-220,228-277,279-286
+  s_17405aaf91a59b::t_2f45f61993bdca 278
+  s_17405aaf91a59b::t_c5a54681e7d979 111-119,127-130,140,150-168
+  s_17405aaf91a59b::t_c774405c64c3f2 605-659,663-665,667-669,681-706
+  s_17405aaf91a59b::t_00458668dc27b7 660-662,666,670-680
+crates/vid-graph/src/resolve.rs
+  s_17405aaf91a59b::t_fe6433a43ca8e2 287-303
+  s_17405aaf91a59b::t_afde0a85cf864c 33
+  s_17405aaf91a59b::t_fefa8d23d56264 28-32,34-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "e77656081cf02eaa13635b6f5c0ecea96c3b1d71",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
