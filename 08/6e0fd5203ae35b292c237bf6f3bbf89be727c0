@@ -1,0 +1,30 @@
+apps/notary/seat_actions.py
+  s_c3bfa30f51a6e1::t_4be2f0d0278068 28,30
+  s_c3bfa30f51a6e1::t_fda0823dd99c3b 1-27,29,31-33,35-40,42-46,48-52,54-55
+  s_c3bfa30f51a6e1::t_35a9f0460c07d9 34,41,47,53
+apps/notary/tests/test_seat_actions.py
+  s_c3bfa30f51a6e1::t_d55f5bb1980349 38
+  s_c3bfa30f51a6e1::t_a686f55294df6f 54
+  s_c3bfa30f51a6e1::t_40373e99972f3a 1-37,39-53,55-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "086e0fd5203ae35b292c237bf6f3bbf89be727c0",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
