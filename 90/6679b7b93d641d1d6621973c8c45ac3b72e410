@@ -1,0 +1,33 @@
+crates/vidi-core/src/node.rs
+  s_3389ba2812099c::t_706764578e5464 1-303
+crates/vidi-core/src/version.rs
+  s_3389ba2812099c::t_c4d4088ed907f7 1-30
+crates/vidi-core/src/digest.rs
+  s_3389ba2812099c::t_c007a75930486b 1-176
+crates/vidi-core/src/severity.rs
+  s_3389ba2812099c::t_812649d6fedd94 1-328
+crates/vidi-core/src/lib.rs
+  s_3389ba2812099c::t_e9179c731fc5e7 14
+  s_3389ba2812099c::t_1997b19971acc5 1,3-5,9-13,15,18-20,22-25,27-54
+  s_3389ba2812099c::t_3bb2ad190728d9 6-8,16-17,21,26
+crates/vidi-core/Cargo.toml
+  s_3389ba2812099c::t_6b2a2f4a6c733f 15-17
+Cargo.lock
+  s_3389ba2812099c::t_2b88873f4f9c77 204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "906679b7b93d641d1d6621973c8c45ac3b72e410",
+  "prompts": {},
+  "sessions": {
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
