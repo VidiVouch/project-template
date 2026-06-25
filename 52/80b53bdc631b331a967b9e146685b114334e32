@@ -7,6 +7,8 @@ crates/vid-cli/src/main.rs
   s_3389ba2812099c::t_398113ecee3b67 820,822
   s_3389ba2812099c::t_bfaf81fca083c3 801-805
   s_3389ba2812099c::t_375af944d1349f 29
+  s_b771d99100a061::t_e7c9c0cc2c0638 340
+  s_b771d99100a061::t_201bc91b7e58d0 419
 crates/vid-cli/src/cache.rs
   s_3389ba2812099c::t_dce72e0cb1679d 1-33,35-46,48-159,161-180,188-274,286,298-308,311,315-466
   s_3389ba2812099c::t_54b68062487b6e 34
@@ -36,6 +38,14 @@ crates/vid-cli/src/engine.rs
       "agent_id": {
         "tool": "claude",
         "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
         "model": "claude-opus-4-8"
       },
       "human_author": "Tom Price <tom@tomprice.ca>"
