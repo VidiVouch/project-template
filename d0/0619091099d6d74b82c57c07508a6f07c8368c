@@ -1,0 +1,28 @@
+docs/DESIGN.html
+  s_3389ba2812099c::t_287117fbf2462b 372
+  s_3389ba2812099c::t_868713aad65ac8 787
+  s_3389ba2812099c::t_c96877ee7f50da 205
+  s_3389ba2812099c::t_d2c333ee1fb999 258
+  s_3389ba2812099c::t_980e9a680c9d85 191
+  s_3389ba2812099c::t_47e699165efc22 243
+crates/vidi-cli/src/push.rs
+  s_3389ba2812099c::t_ecfb9f240f1727 130
+REVIEW.md
+  s_3389ba2812099c::t_44d87f3160b7d0 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "d00619091099d6d74b82c57c07508a6f07c8368c",
+  "prompts": {},
+  "sessions": {
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
