@@ -1,0 +1,25 @@
+schemas/vidi-json-v3.schema.json
+  s_b771d99100a061::t_4f4746fa629b94 1-295
+schemas/vidi-sarif-v1.schema.json
+  s_b771d99100a061::t_436a6d2fef2b58 1-139
+schemas/examples/sample.sarif
+  s_b771d99100a061::t_1ca2e531626317 1-80
+schemas/examples/vidi.json
+  s_b771d99100a061::t_876092d007161d 1-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "2d0044aad3776f1b376b49ee016abd574756b45e",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
