@@ -1,0 +1,40 @@
+crates/vidi-cli/src/significance.rs
+  s_b771d99100a061::t_1e8c49f9b42201 1-921
+  s_b771d99100a061::t_c43a16420bad6d 922-925
+crates/vidi-cli/Cargo.toml
+  s_b771d99100a061::t_8dbbad6eefd810 26-28
+crates/vidi-cli/src/engine.rs
+  s_b771d99100a061::t_f003d841bd6d30 436-455
+crates/vidi-cli/src/significance/deps.rs
+  s_b771d99100a061::t_97bcffdbb24d74 1-556
+crates/vidi-cli/src/significance/git.rs
+  s_b771d99100a061::t_e7b1d3f518908e 1-118
+crates/vidi-cli/tests/contract_conformance.rs
+  s_b771d99100a061::t_3dd8dfdc46e831 550-629
+crates/vidi-cli/src/main.rs
+  s_b771d99100a061::t_30cf3f4c02d8d8 78-87
+  s_b771d99100a061::t_e84403eed1596c 1183-1193,1198,1206-1208
+  s_b771d99100a061::t_1036e10d683cb0 25
+  s_b771d99100a061::t_40fa432549256e 1242,1250-1269
+  s_b771d99100a061::t_b2e6c31d70b5ea 1280-1283,1298,1308-1312
+  s_b771d99100a061::t_35bbad0e4f48bc 209,215-222,225
+  s_b771d99100a061::t_a60d11ee60995d 1270-1271
+Cargo.lock
+  s_b771d99100a061::t_9284471c28f1e2 2623
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "9c8bed1e6e172d08abf1648334a2858f3c986672",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
