@@ -1,0 +1,25 @@
+.editorconfig
+  s_b771d99100a061::t_d4a0db79c9a923 1-32
+.gitattributes
+  s_b771d99100a061::t_1d53de4e5ee589 1-22
+.worktreeinclude
+  s_b771d99100a061::t_b167579f16c7af 1-2
+project-words.dic
+  s_b771d99100a061::t_7f261215b740ac 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "a24c67fb682a37d328cadef92ddd954bf79482a7",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
