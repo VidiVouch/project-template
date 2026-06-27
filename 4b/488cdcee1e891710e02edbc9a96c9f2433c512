@@ -1,0 +1,21 @@
+tests/gen-demo-repo.sh
+  s_b771d99100a061::t_e7612d597e73b1 1-149
+tests/screenshot-checklist.html
+  s_b771d99100a061::t_74da9e07af8e8c 1-309
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "4b488cdcee1e891710e02edbc9a96c9f2433c512",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
