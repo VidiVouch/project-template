@@ -1,0 +1,27 @@
+PLUGINS.md
+  s_b771d99100a061::t_1bd30883b39672 1-53
+TOOLS.md
+  s_b771d99100a061::t_b773346b18ff6d 1-34
+docs/DESIGN.html
+  s_b771d99100a061::t_d5b554a59217e6 1-851
+docs/RELEASE.md
+  s_b771d99100a061::t_e3acc8d88a0ce0 1-148
+docs/VOUCH-ARCHITECTURE.html
+  s_b771d99100a061::t_3bb989efb6695f 1-201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "3b7b8e5f9815fadab985a942dfe3ddd76dce8c79",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
