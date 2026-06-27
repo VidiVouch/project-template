@@ -1,0 +1,107 @@
+PLUGINS.md
+  s_b771d99100a061::t_40ad4ec5fec22d 1-53
+TOOLS.md
+  s_b771d99100a061::t_0b589dcd2f4969 1-34
+assets/eye.svg
+  s_b771d99100a061::t_37f7b679af9f84 1-6
+assets/vid-wordmark.svg
+  s_b771d99100a061::t_307c2701cd023f 1-13
+docs/DESIGN.html
+  s_b771d99100a061::t_767b83442fd05a 1-851
+docs/RELEASE.md
+  s_b771d99100a061::t_6c8dd2e5d9f756 1-148
+docs/VOUCH-ARCHITECTURE.html
+  s_b771d99100a061::t_1261a24308d7f3 1-201
+editors/claude-code/README.md
+  s_b771d99100a061::t_07d9bc0ff63dcd 1-140
+editors/claude-code/vidi-attribute-hook.py
+  s_b771d99100a061::t_2d1eb4539027f5 1-229
+editors/claude-code/vidi-finalize-hook.sh
+  s_b771d99100a061::t_e216793ac70df1 1-70
+editors/jetbrains/.gitignore
+  s_b771d99100a061::t_68a6907e5aa6da 1-3
+editors/jetbrains/README.md
+  s_b771d99100a061::t_9bbc59baff92c5 1-33
+editors/jetbrains/build.gradle.kts
+  s_b771d99100a061::t_215432cdb57798 1-56
+editors/jetbrains/gradle.properties
+  s_b771d99100a061::t_d87e1565ed4b82 1-7
+editors/jetbrains/gradle/wrapper/gradle-wrapper.properties
+  s_b771d99100a061::t_c4ca7e5a1f8e9e 1-9
+editors/jetbrains/gradlew
+  s_b771d99100a061::t_c83de8c9dc69fc 1-248
+editors/jetbrains/gradlew.bat
+  s_b771d99100a061::t_e0310f0a53c030 1-82
+editors/jetbrains/settings.gradle.kts
+  s_b771d99100a061::t_4719f18ab03521 1-8
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCoverageService.kt
+  s_b771d99100a061::t_b2d11fe6c5e65a 1-240
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiLineMarkerProvider.kt
+  s_b771d99100a061::t_67a680d7986639 1-99
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPalette.kt
+  s_b771d99100a061::t_f5de4da5c113dc 1-61
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiRunner.kt
+  s_b771d99100a061::t_e580d48de68d8f 1-64
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiToolWindowFactory.kt
+  s_b771d99100a061::t_e797fd3f3595d4 1-159
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VouchAction.kt
+  s_b771d99100a061::t_a49165aefbe100 1-177
+editors/jetbrains/src/main/resources/META-INF/plugin.xml
+  s_b771d99100a061::t_a6146c52449c53 1-30
+editors/jetbrains/src/main/resources/META-INF/pluginIcon.svg
+  s_b771d99100a061::t_f43952e861c777 1-4
+editors/jetbrains/src/main/resources/META-INF/pluginIcon_dark.svg
+  s_b771d99100a061::t_7251b9ab31b91d 1-4
+editors/jetbrains/src/main/resources/icons/vidi.svg
+  s_b771d99100a061::t_0a3451e2559391 1-4
+editors/jetbrains/src/main/resources/icons/vidi_dark.svg
+  s_b771d99100a061::t_140e2a157cc97d 1-4
+editors/vscode/.gitignore
+  s_b771d99100a061::t_7bc557de7a1fc5 1-5
+editors/vscode/.vscodeignore
+  s_b771d99100a061::t_4ce25f41dc4f49 1-8
+editors/vscode/README.md
+  s_b771d99100a061::t_ca93a578dd39fa 1-45
+editors/vscode/media/eye.svg
+  s_b771d99100a061::t_f24d31a869f578 1-4
+editors/vscode/package.json
+  s_b771d99100a061::t_eb0ca1126289d6 1-63
+editors/vscode/src/contract.ts
+  s_b771d99100a061::t_38332caa691075 1-113
+editors/vscode/src/decorations.ts
+  s_b771d99100a061::t_5ba4cd96ee9bc2 1-78
+editors/vscode/src/extension.ts
+  s_b771d99100a061::t_a45cffe339788a 1-280
+editors/vscode/src/hover.ts
+  s_b771d99100a061::t_cbf26483ac60da 1-93
+editors/vscode/src/webview.ts
+  s_b771d99100a061::t_ceb9bfd1250f98 1-161
+editors/vscode/tsconfig.json
+  s_b771d99100a061::t_74c6df3f52d0f9 1-15
+editors/xcode/Info.plist
+  s_b771d99100a061::t_dc44d26579969d 1-33
+editors/xcode/README.md
+  s_b771d99100a061::t_c9495a62158253 1-30
+editors/xcode/SourceEditorCommand.swift
+  s_b771d99100a061::t_f680ac4a7dc4c1 1-65
+tests/gen-demo-repo.sh
+  s_b771d99100a061::t_449df3af615e3d 1-149
+tests/screenshot-checklist.html
+  s_b771d99100a061::t_1c8a07fbaa6c94 1-309
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "ce2936039aaae71d00d750a8ed8eeb35a339d100",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
