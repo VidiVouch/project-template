@@ -1,0 +1,26 @@
+REVIEW.md
+  s_17405aaf91a59b::t_cac43daa9a7a67 31-54
+schemas/README.md
+  s_17405aaf91a59b::t_b7de651f9e3c93 20-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "beb66fc9c57e06ff55dc514b700ae5270b7f9d30",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

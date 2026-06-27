@@ -1,0 +1,110 @@
+crates/vid-lang/src/configs/rust.rs
+  s_cf46f2a9c74543::t_ec6953a981c001 145
+  s_cf46f2a9c74543::t_9bef88c72dc8df 317-320,327-330
+  s_cf46f2a9c74543::t_f2682babecc472 309-313,321-326
+  s_cf46f2a9c74543::t_e6cad988c1e360 314-316
+crates/vid-lang/src/configs/go.rs
+  s_cf46f2a9c74543::t_65f40e50af163b 92
+crates/vid-lang/src/configs/zig.rs
+  s_cf46f2a9c74543::t_b7c81e848f2894 87
+crates/vid-lang/src/configs/kotlin.rs
+  s_cf46f2a9c74543::t_b1c043049bbeb1 229-239
+  s_cf46f2a9c74543::t_172d355ffd71e5 130-132
+crates/vid-lang/src/configs/swift.rs
+  s_cf46f2a9c74543::t_a993bf502ae841 463-466
+  s_cf46f2a9c74543::t_03f51ca33cfe57 239-241
+  s_cf46f2a9c74543::t_2ed79b0b38ce01 24-27
+  s_cf46f2a9c74543::t_f613f2cc624f11 28-33
+  s_cf46f2a9c74543::t_4738057648b088 408-421,477
+  s_cf46f2a9c74543::t_57fbd070d4f5cd 457-462,467-476
+crates/vid-lang/src/config.rs
+  s_cf46f2a9c74543::t_6b82edc3d32310 169-174
+  s_cf46f2a9c74543::t_bb0b4a97ee7d89 61-67
+  s_cf46f2a9c74543::t_475c6b9602b99c 220-225
+crates/vid-lang/src/engine.rs
+  s_cf46f2a9c74543::t_0c38ee9dd332b8 146
+  s_cf46f2a9c74543::t_0d9d44e682696f 892-916,922-936,942,945,947-949,957-981
+  s_cf46f2a9c74543::t_4639a2baf9c74f 347-355,357
+  s_cf46f2a9c74543::t_ef9f81211b8c6f 473-486,488,491,502-505,512,516-518,523-524,534
+  s_cf46f2a9c74543::t_d568eb9665c667 795
+  s_cf46f2a9c74543::t_d0307c837eb5e8 766
+  s_cf46f2a9c74543::t_a3d4ae1c167595 414-420,425-428
+  s_cf46f2a9c74543::t_dfe5cb5a2f705d 94-100
+  s_cf46f2a9c74543::t_8dc86a4a3d4e8c 863
+  s_cf46f2a9c74543::t_e31a39fe804346 344-346,356
+  s_cf46f2a9c74543::t_23e4350118787b 278
+  s_cf46f2a9c74543::t_be50bfe51a6855 953-955
+  s_cf46f2a9c74543::t_1b088a55f907f7 606-613
+  s_cf46f2a9c74543::t_08483aa6b51ea3 247,265
+  s_cf46f2a9c74543::t_eec96c474f903e 312-318,332,334-336,340
+  s_cf46f2a9c74543::t_5d4eecbc8585ad 703,707-720
+  s_cf46f2a9c74543::t_5150b62393adc0 940,944
+  s_cf46f2a9c74543::t_54f18742bf9aa6 233-236
+  s_cf46f2a9c74543::t_1fbd76d4fe30df 47-55,59-70
+  s_cf46f2a9c74543::t_d97a9d74865449 519-522
+  s_cf46f2a9c74543::t_419980eca6e366 487,515
+  s_cf46f2a9c74543::t_15939620d356b9 43
+  s_cf46f2a9c74543::t_7a0b568f545cd9 110-120,446-448,917-921,951,956
+  s_cf46f2a9c74543::t_578fd306e88439 494-501
+  s_cf46f2a9c74543::t_00f4a068bed1ab 150-155,164
+  s_cf46f2a9c74543::t_243b6f37d604c5 937-939,941,943,946,950,952
+  s_cf46f2a9c74543::t_871da92135320c 319-323
+crates/vid-lang/src/configs/haskell.rs
+  s_cf46f2a9c74543::t_85980ae9865f8f 255
+  s_cf46f2a9c74543::t_7d8f3023eaf319 244-245
+  s_cf46f2a9c74543::t_5553e9d74bd08b 130-133
+  s_cf46f2a9c74543::t_7cd08bc0fa5e67 102-104,108
+  s_cf46f2a9c74543::t_97148ee606921f 11-16
+  s_cf46f2a9c74543::t_05adf3f68a89d2 147
+  s_cf46f2a9c74543::t_a5ebebd6e61a9d 246-254,256-274
+crates/vid-lang/src/configs/csharp.rs
+  s_cf46f2a9c74543::t_f703445eab9b9b 4-8
+  s_cf46f2a9c74543::t_4c0488cd57aada 10-13
+  s_cf46f2a9c74543::t_cb5913f11832f2 381,403,411-493
+  s_cf46f2a9c74543::t_7a0b568f545cd9 387-391
+  s_cf46f2a9c74543::t_a31d712d94958e 382-386,392-402
+  s_cf46f2a9c74543::t_4b3dd913a55835 142-165
+  s_cf46f2a9c74543::t_509f0c7b928a42 409-410
+  s_cf46f2a9c74543::t_6454934aa91840 1,3,9,14-23
+  s_cf46f2a9c74543::t_8ce55b6bbba8a5 259-261
+crates/vid-lang/src/configs/python.rs
+  s_cf46f2a9c74543::t_0e9d0ab8040f13 178-182,191-197,206-207
+  s_cf46f2a9c74543::t_8e0d30e53aff25 183-190,198-205
+  s_cf46f2a9c74543::t_f5a600f86dff02 87
+crates/vid-lang/src/configs/javascript.rs
+  s_cf46f2a9c74543::t_9bef88c72dc8df 301-306
+  s_cf46f2a9c74543::t_539a4d4466836c 201-212,282
+  s_cf46f2a9c74543::t_efe9bdeb1254b1 217-219,227
+  s_cf46f2a9c74543::t_46ccd5367659a4 11-24
+  s_cf46f2a9c74543::t_1684e13aa2c675 132
+  s_cf46f2a9c74543::t_65aa22d26b5bbe 283-300,307-308
+  s_cf46f2a9c74543::t_8ba310f9eca295 213-216,220-226,228-234,309
+crates/vid-lang/examples/probe.rs
+  s_cf46f2a9c74543::t_aae80f4df0b58c 75-78
+  s_cf46f2a9c74543::t_b2fbf14634fe8a 45
+  s_cf46f2a9c74543::t_4f190919710347 95-97
+crates/vid-lang/src/configs/java.rs
+  s_cf46f2a9c74543::t_2cf23c205134ab 9-12
+  s_cf46f2a9c74543::t_bb1a5df2187302 180-182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "5506eff16817ab11f111aa4d17098210bc64e6cb",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

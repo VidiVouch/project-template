@@ -1,0 +1,71 @@
+Cargo.toml
+  s_a8fa6210c93696::t_d8428dc1ab98fe 26
+.vid/trust.toml
+  s_a8fa6210c93696::t_a45656a0e3d469 9-11,24-37
+crates/vid-core/Cargo.toml
+  s_a8fa6210c93696::t_d7d87c4373d7f2 18
+crates/vid-cli/src/engine.rs
+  s_a8fa6210c93696::t_c1a8bb1ed3ad45 589
+  s_a8fa6210c93696::t_90beec333e7949 645-656,662-686
+  s_a8fa6210c93696::t_4d19b0a3fcd29e 19,23
+  s_a8fa6210c93696::t_a891443b90872f 627
+  s_a8fa6210c93696::t_fcb88c6684d43a 299,302,657-661
+  s_a8fa6210c93696::t_c0ece6374cdc65 337-339
+  s_a8fa6210c93696::t_e741a956166afd 214-233,236-238,243-248,250-254,256,260,263-271,281-282,289-298,303,305-322,330-334
+  s_a8fa6210c93696::t_49f48f88fd38ad 46,48-51
+  s_a8fa6210c93696::t_baba39f681a5f9 96-98
+  s_a8fa6210c93696::t_c317ae3dcdaa8f 457-461
+  s_a8fa6210c93696::t_5f38393c95b092 300-301,304,335-336,340-392
+  s_a8fa6210c93696::t_42d73186856d6c 613
+  s_a8fa6210c93696::t_ba3eed690629d8 78,80-82
+crates/vid-cli/src/main.rs
+  s_a8fa6210c93696::t_f55fa32d85cc85 163-164,182-187,191-198
+  s_a8fa6210c93696::t_c64a088d8a3a74 20-21
+  s_a8fa6210c93696::t_5c2b2e77a3fe84 221,224,226-228,234
+  s_a8fa6210c93696::t_23b5919009e301 262
+  s_a8fa6210c93696::t_fcb88c6684d43a 177-181,231-233
+  s_a8fa6210c93696::t_b279c13349baa9 208,210,214
+  s_a8fa6210c93696::t_df734ecfc4d999 115,117
+  s_a8fa6210c93696::t_93391057ff9b36 290,295,299
+editors/vscode/src/extension.ts
+  s_a8fa6210c93696::t_e5d640b5b8d1cf 18,24-32,35,40
+  s_a8fa6210c93696::t_172ab4d3b2b44d 102,104
+crates/vid-core/src/lib.rs
+  s_a8fa6210c93696::t_b15134f4c30c79 36
+crates/vid-core/src/trust.rs
+  s_a8fa6210c93696::t_6c6f5189f73c2d 457-458
+  s_a8fa6210c93696::t_ca73057e038c08 189
+  s_a8fa6210c93696::t_1adcfb34877f8e 330-359
+  s_a8fa6210c93696::t_50c16ae8b3500e 486-492
+  s_a8fa6210c93696::t_f156677bf28bb2 891-943,956-977
+  s_a8fa6210c93696::t_1bc562bc7f6c01 944-955
+  s_a8fa6210c93696::t_1c2ff0cc127d8e 53-56,64-78
+  s_a8fa6210c93696::t_b84a0c28e7b158 160-166
+  s_a8fa6210c93696::t_a590a384df5a33 204-205
+  s_a8fa6210c93696::t_9efc3f351bd878 269-292,302
+  s_a8fa6210c93696::t_610617b14dc622 23
+  s_a8fa6210c93696::t_3b8f9b8b867e45 57-63
+Cargo.lock
+  s_a8fa6210c93696::t_35e5fdf01b3c0d 142-150,420-432,1472
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "98ac995643884e7a08c2f23e012a867f185dd43d",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

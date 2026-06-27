@@ -1,0 +1,26 @@
+.github/workflows/vid.yml
+  s_a8fa6210c93696::t_589fdb934fa891 46,54
+.github/workflows/release.yml
+  s_a8fa6210c93696::t_589fdb934fa891 36,50,78,89,95,106,111,124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6de5f69ba7ddaef760de89d3af0251a644b27d1b",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

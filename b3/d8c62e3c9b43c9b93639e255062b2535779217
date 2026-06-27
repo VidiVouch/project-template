@@ -1,0 +1,31 @@
+.pre-commit-config.yaml
+  s_3eef9ab50d8f0a::t_3452b8eb45c238 3-4,23-25
+deny.toml
+  s_77406b1cfb1f8f::t_21fa4bf65775d8 1-37
+.github/workflows/audit.yml
+  s_77406b1cfb1f8f::t_ee6b179cac37be 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b3d8c62e3c9b43c9b93639e255062b2535779217",
+  "prompts": {},
+  "sessions": {
+    "s_3eef9ab50d8f0a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "638f27da-6a9a-4d38-92d6-71670a382c12",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_77406b1cfb1f8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "96bcb36a-5ba6-434a-bfd7-777e21388cfa",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

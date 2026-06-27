@@ -1,0 +1,30 @@
+editors/xcode/SourceEditorCommand.swift
+  s_a8fa6210c93696::t_f0b5a17b1dfc63 35-40,44
+editors/vscode/src/extension.ts
+  s_a8fa6210c93696::t_b81f36f23b24eb 111-113
+  s_a8fa6210c93696::t_331bbe72339376 18,20-21,31-32,36,41,49
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidRunner.kt
+  s_a8fa6210c93696::t_dd28a5b3b1a872 46
+  s_a8fa6210c93696::t_05f3c554257a9b 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "727ddc44830d8ef85028d9e085417c44cb2e7db1",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

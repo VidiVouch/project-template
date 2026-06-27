@@ -1,0 +1,59 @@
+crates/vid-lang/src/configs/zig.rs
+  s_17405aaf91a59b::t_b64df8bc778b2f 1-196
+crates/vid-lang/src/configs/go.rs
+  s_17405aaf91a59b::t_937dc3496c417b 1-210
+Cargo.toml
+  s_17405aaf91a59b::t_277a0a7ed878a5 3
+crates/vid-lang/src/engine.rs
+  s_17405aaf91a59b::t_6db5ee08c7c731 1-746
+crates/vid-lang/examples/probe.rs
+  s_17405aaf91a59b::t_2a16e66fd5b35d 1-99
+crates/vid-lang/src/config.rs
+  s_17405aaf91a59b::t_469e66506130a3 1-260
+crates/vid-lang/src/registry.rs
+  s_17405aaf91a59b::t_09d7a82fe25f75 1-41
+crates/vid-lang/src/configs/rust.rs
+  s_17405aaf91a59b::t_d0db867d77db00 1-337
+crates/vid-lang/src/testkit.rs
+  s_17405aaf91a59b::t_1147b792b260a0 1-38
+_typos.toml
+  s_17405aaf91a59b::t_ed8738a28fa1ef 12
+crates/vid-lang/src/configs/swift.rs
+  s_17405aaf91a59b::t_c64605679744be 1-435
+crates/vid-lang/benches/parse_hash.rs
+  s_17405aaf91a59b::t_6452db7b066bed 1-62
+crates/vid-lang/src/configs/csharp.rs
+  s_17405aaf91a59b::t_24da5cf10af293 1-344
+crates/vid-lang/src/configs/javascript.rs
+  s_17405aaf91a59b::t_5147f306a0b779 1-237
+crates/vid-lang/Cargo.toml
+  s_17405aaf91a59b::t_ee1bbc45bcee54 1-42
+crates/vid-lang/src/configs/java.rs
+  s_17405aaf91a59b::t_d55c02a42de491 1-310
+crates/vid-lang/src/configs/kotlin.rs
+  s_17405aaf91a59b::t_8ff5f6f8aa0856 1-236
+crates/vid-lang/src/configs/python.rs
+  s_17405aaf91a59b::t_a8b22afc6954e6 1-217
+crates/vid-lang/src/configs.rs
+  s_17405aaf91a59b::t_870d165c008ef7 1-16
+crates/vid-lang/src/configs/haskell.rs
+  s_17405aaf91a59b::t_88a0474a1099f2 1-235
+crates/vid-lang/src/lib.rs
+  s_17405aaf91a59b::t_e84aeb54e31629 1-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "a8fae279f23a6c5e46f0fc6a0456dd0a35fff6c5",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

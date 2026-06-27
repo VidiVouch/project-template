@@ -1,0 +1,35 @@
+editors/jetbrains/settings.gradle.kts
+  s_a8fa6210c93696::t_62ce8fd0183455 2-8
+editors/jetbrains/gradlew
+  s_a8fa6210c93696::t_8da764fa79d6e8 1-248
+editors/jetbrains/gradle/wrapper/gradle-wrapper.properties
+  s_a8fa6210c93696::t_8da764fa79d6e8 1-9
+editors/jetbrains/build.gradle.kts
+  s_a8fa6210c93696::t_238949c3d8a702 3-7,11,17-30,32-33,36-42
+  s_a8fa6210c93696::t_ba4386917a4bf3 10
+editors/jetbrains/.gitignore
+  s_a8fa6210c93696::t_c71d3b418c3d22 1-2
+editors/jetbrains/gradlew.bat
+  s_a8fa6210c93696::t_8da764fa79d6e8 1-82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "0a2b133a4c7dc6ab58cccbc4669dc2550779994c",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

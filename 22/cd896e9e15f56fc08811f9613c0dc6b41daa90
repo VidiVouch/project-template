@@ -1,0 +1,29 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidLineMarkerProvider.kt
+  s_17405aaf91a59b::t_de3d4c339552e9 1-77
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidPalette.kt
+  s_17405aaf91a59b::t_c038148bf0cbe1 1-61
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidToolWindowFactory.kt
+  s_17405aaf91a59b::t_ed0ecc4a82b09f 1-114
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidRunner.kt
+  s_17405aaf91a59b::t_8f63bc421defb3 1-60
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VouchAction.kt
+  s_17405aaf91a59b::t_1045ddf635a377 1-49
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidCoverageService.kt
+  s_17405aaf91a59b::t_d8edb1bbac9d4c 1-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "22cd896e9e15f56fc08811f9613c0dc6b41daa90",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

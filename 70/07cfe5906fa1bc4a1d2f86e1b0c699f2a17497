@@ -1,0 +1,22 @@
+docs/DESIGN.html
+  s_3389ba2812099c::t_bc5ae9f7981b9d 781
+  s_3389ba2812099c::t_8e05b01e566acf 776
+docs/INTEGRATION-CONTRACT.md
+  s_3389ba2812099c::t_9b0b70f2309e24 93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "7007cfe5906fa1bc4a1d2f86e1b0c699f2a17497",
+  "prompts": {},
+  "sessions": {
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

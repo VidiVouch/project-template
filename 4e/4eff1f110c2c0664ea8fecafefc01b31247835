@@ -1,0 +1,46 @@
+Cargo.toml
+  s_17405aaf91a59b::t_11787d90a31951 74,84-87
+  s_17405aaf91a59b::t_3c0b53a3cb95d6 75-83
+  s_17405aaf91a59b::t_3da0187c6fb71e 3
+crates/vid-py/Cargo.toml
+  s_17405aaf91a59b::t_47b1f47e66303a 15-17,19-26
+  s_17405aaf91a59b::t_88f71350d5c6ee 31-33
+  s_17405aaf91a59b::t_7f29e03afb7d79 1-14,18,27-30,34-37
+crates/vid-py/pyproject.toml
+  s_17405aaf91a59b::t_616128f71f442b 1-34
+crates/vid-py/src/lib.rs
+  s_17405aaf91a59b::t_4f63b7f3d6ccfb 136-164,166,168-169,171-210,228-238,244,251-256,263,270-272,279-284
+  s_17405aaf91a59b::t_fe61128d8593d0 211-215,219-227
+  s_17405aaf91a59b::t_3c7a7325a25bd7 20-26
+  s_17405aaf91a59b::t_eb5dce766515fe 216-218
+  s_17405aaf91a59b::t_08023b1af7cdc9 2-19,27-34,36-118,123-135
+  s_17405aaf91a59b::t_d88125f5ff427a 119-122
+  s_17405aaf91a59b::t_e93539a1a1db66 35
+  s_17405aaf91a59b::t_a96ba185141205 1
+  s_17405aaf91a59b::t_055df5bf49889e 245-247,249-250
+  s_17405aaf91a59b::t_928f1daa5efe02 248,257-262,264-269,273-278
+  s_17405aaf91a59b::t_d41dccf14d2f56 239-243
+  s_17405aaf91a59b::t_89123584ebe64c 165,167,170
+crates/vid-core/src/store.rs
+  s_17405aaf91a59b::t_7d184e508db1d3 92-116
+crates/vid-py/README.md
+  s_17405aaf91a59b::t_effcd2ea489cbf 1-99
+crates/vid-core/src/lib.rs
+  s_17405aaf91a59b::t_0b488f36d53434 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "4e4eff1f110c2c0664ea8fecafefc01b31247835",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

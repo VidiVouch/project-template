@@ -1,0 +1,23 @@
+.github/CODEOWNERS
+  s_17405aaf91a59b::t_787b1c4a020041 1-10
+.github/workflows/vid.yml
+  s_17405aaf91a59b::t_0aba5a7c1b05bc 1-60
+.github/actions/vid-gate/action.yml
+  s_17405aaf91a59b::t_becfda7e275d38 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "dbf27f8da01a054bf7d0439e97200955f3490d26",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

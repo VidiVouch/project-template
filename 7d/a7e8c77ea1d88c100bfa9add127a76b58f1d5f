@@ -1,0 +1,25 @@
+crates/vid-lang/benches/parse_hash.rs
+  s_3389ba2812099c::t_ce92cd1ba4e984 157
+  s_3389ba2812099c::t_9b88ae4402d677 170
+  s_3389ba2812099c::t_df2a351f132f69 172
+  s_3389ba2812099c::t_e2f4c65a9b7cb7 32-40
+  s_3389ba2812099c::t_f319cb8df2e0e9 1,3-18,26-27,53-99,103,105-106,108,110-114,146-156,158-169,171,173-194
+  s_3389ba2812099c::t_6763961c888677 100-101,104,107,109
+  s_3389ba2812099c::t_136fff305357cb 102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "7da7e8c77ea1d88c100bfa9add127a76b58f1d5f",
+  "prompts": {},
+  "sessions": {
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

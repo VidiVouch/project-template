@@ -1,0 +1,25 @@
+editors/vscode/src/extension.ts
+  s_cf46f2a9c74543::t_b9020f49bc7ec1 68,70-74,76,80-81,83-84,87-88,91-101
+  s_cf46f2a9c74543::t_589163cbebd284 54-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "3679bbe64e6498c590eca6046db178d9f977641e",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

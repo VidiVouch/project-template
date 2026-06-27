@@ -1,0 +1,36 @@
+.claude/hooks/review-gate.sh
+  s_77406b1cfb1f8f::t_c87f2c7c8d5cb6 1-83
+.codex/hooks.json
+  s_77406b1cfb1f8f::t_d0e0ecae18a489 1-16
+.agents/hooks/enforce_cargo.py
+  s_77406b1cfb1f8f::t_39938b470893ea 1-118
+.claude/loop.md
+  s_77406b1cfb1f8f::t_4196acb1ae4eb5 124-126
+  s_77406b1cfb1f8f::t_e3254d61acce34 136-138
+.claude/commands/deep-review.md
+  s_77406b1cfb1f8f::t_6b59e26049bb9a 4
+  s_77406b1cfb1f8f::t_01d0c4a88e7336 83-95
+  s_77406b1cfb1f8f::t_cb0abb5677c0e6 97-98
+  s_77406b1cfb1f8f::t_7771bca9d786a8 108-110
+  s_77406b1cfb1f8f::t_aba45e692b79f5 277-278
+.mcp.json
+  s_77406b1cfb1f8f::t_a3927dbfd55a72 1-8
+.claude/settings.json
+  s_77406b1cfb1f8f::t_927091be91e89a 1-127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "dab11a6b2144663e4835ec8cf0b76feadbc1b8de",
+  "prompts": {},
+  "sessions": {
+    "s_77406b1cfb1f8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "96bcb36a-5ba6-434a-bfd7-777e21388cfa",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

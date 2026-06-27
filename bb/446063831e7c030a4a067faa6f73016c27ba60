@@ -1,0 +1,32 @@
+.github/actions/vid-gate/action.yml
+  s_a8fa6210c93696::t_5d3d94b55a5c7c 1-35
+.github/CODEOWNERS
+  s_a8fa6210c93696::t_489fdf356d3856 1-10
+.gitattributes
+  s_a8fa6210c93696::t_49cd39be96ae24 16-20
+.vid/trust.toml
+  s_a8fa6210c93696::t_f86ac241bfe59c 1-30
+.github/workflows/vid.yml
+  s_a8fa6210c93696::t_0fa20a11dcd8e4 1-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "bb446063831e7c030a4a067faa6f73016c27ba60",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

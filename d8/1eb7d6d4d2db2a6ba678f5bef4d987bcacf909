@@ -1,0 +1,19 @@
+.gitignore
+  s_77406b1cfb1f8f::t_68d9ef4014f717 4-7,51-52,54-55,119,139,143,151-153,157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "d81eb7d6d4d2db2a6ba678f5bef4d987bcacf909",
+  "prompts": {},
+  "sessions": {
+    "s_77406b1cfb1f8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "96bcb36a-5ba6-434a-bfd7-777e21388cfa",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

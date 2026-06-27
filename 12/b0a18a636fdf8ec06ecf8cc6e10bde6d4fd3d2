@@ -1,0 +1,26 @@
+.github/workflows/release.yml
+  s_17405aaf91a59b::t_f1b863bf117f4c 327-331
+  s_17405aaf91a59b::t_b303a09c60ebbb 3-42,46,48,52-58,60-65,70,75-76,83-132,134-135,142-146,148-149,153-154,156,158,161-162,166-167,172,174,177-181,188-192,194-196,199-204,206-207,209-225,227-229,234,239-240,243,245-249,251-276,280,283,285,288,290,293-295,297,300-301,305-307,310,315-326,332-394,396,398-413
+  s_17405aaf91a59b::t_4b675493ba9265 395,397
+  s_17405aaf91a59b::t_7c15b9b57539ec 133
+Formula/vid.rb
+  s_17405aaf91a59b::t_1570861a4ef8dd 1-49
+docs/RELEASE.md
+  s_17405aaf91a59b::t_ec55bb0a7f76d7 1-148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "12b0a18a636fdf8ec06ecf8cc6e10bde6d4fd3d2",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

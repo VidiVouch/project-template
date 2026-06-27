@@ -1,0 +1,47 @@
+crates/vid-lang/src/configs/csharp.rs
+  s_cf46f2a9c74543::t_ba363b80338041 426-467
+crates/vid-lang/src/configs/rust.rs
+  s_cf46f2a9c74543::t_d237290231da48 421,439
+  s_cf46f2a9c74543::t_7ff29731a3ceec 381-420,422-438,440-445
+crates/vid-lang/src/engine.rs
+  s_cf46f2a9c74543::t_04f4afed54518b 316-318,326,338-349,368
+  s_cf46f2a9c74543::t_6d4af447eb1c46 266-269
+  s_cf46f2a9c74543::t_dcbaf7834e0533 274-290,299-301
+  s_cf46f2a9c74543::t_0dd8a3341447c6 291-298
+  s_cf46f2a9c74543::t_99547af9d59cfb 109-115
+  s_cf46f2a9c74543::t_bfcbf288679423 149
+  s_cf46f2a9c74543::t_eb36f7be60c47e 81-91,100
+  s_cf46f2a9c74543::t_e891539bada2d8 442
+  s_cf46f2a9c74543::t_720dc10bfaf692 797-803
+  s_cf46f2a9c74543::t_1cb5ed5f34fb9b 44-45
+  s_cf46f2a9c74543::t_625991b6bd1391 192
+  s_cf46f2a9c74543::t_e426de76b061c3 498-501,508,527-529,556
+  s_cf46f2a9c74543::t_018299660eeb6b 403-405,412,428
+  s_cf46f2a9c74543::t_b17c32b91ebade 231
+  s_cf46f2a9c74543::t_d25d2b6825cea9 240-253
+  s_cf46f2a9c74543::t_843077e38c31b0 168-175
+  s_cf46f2a9c74543::t_d237290231da48 46-54,350-360,533-543
+  s_cf46f2a9c74543::t_d5712229346a24 630-634,640,651
+  s_cf46f2a9c74543::t_7b1a9dbcea06f6 868-884
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "17b7259bc2e77f33c8d6c63e5167a81340c21ba7",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+editors/claude-code/vid-finalize-hook.sh
+  s_17405aaf91a59b::t_36a2fcf24f6157 1-59
+README.md
+  s_17405aaf91a59b::t_b8658f9c81e3e9 93-105
+editors/claude-code/vid-attribute-hook.py
+  s_17405aaf91a59b::t_a903efdd38e651 1-217
+editors/claude-code/README.md
+  s_17405aaf91a59b::t_242e32da2df73b 1-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "0281310382fef2a76db0a13674cf49497cd264f0",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,165 @@
+.github/workflows/release.yml
+  s_3389ba2812099c::t_edb3977ab485d6 270
+  s_3389ba2812099c::t_96f19d0f3b0f5f 13-14
+  s_3389ba2812099c::t_ace5aa7fd15c95 177
+README.md
+  s_3389ba2812099c::t_86af213a32d07e 170-174
+crates/vidi-cli/tests/contract_conformance.rs
+  s_3389ba2812099c::t_0b7666f9b7581b 667-676
+  s_3389ba2812099c::t_61709a7cae5937 280
+  s_3389ba2812099c::t_7317a005e54b7e 84
+Formula/vidi.rb
+  s_3389ba2812099c::t_fd7b48771dd2cb 14-17
+  s_3389ba2812099c::t_cb8cd1f2850cc5 48-51
+crates/vidi-cli/src/engine.rs
+  s_3389ba2812099c::t_ec97a655f9ad7b 1654
+  s_3389ba2812099c::t_95edf15fd3ce13 2083
+  s_3389ba2812099c::t_c1c95985dfd71e 1350
+schemas/vidi-json-v3.schema.json
+  s_3389ba2812099c::t_dfe23bfec8dbcc 247-248
+  s_3389ba2812099c::t_61932b8124131d 150
+  s_3389ba2812099c::t_a8d50e9ce01d94 227,230
+  s_3389ba2812099c::t_b4cb09a6729e2f 106
+  s_3389ba2812099c::t_9fc3c944139ecf 5
+  s_3389ba2812099c::t_1000c97db24d3a 91
+  s_3389ba2812099c::t_9f7bcd6765e853 124
+  s_3389ba2812099c::t_299ea927e86fb0 85
+crates/vidi-py/src/lib.rs
+  s_3389ba2812099c::t_7144ca5c35e9e4 3
+  s_3389ba2812099c::t_ee4d30f7ef1b49 173
+  s_3389ba2812099c::t_8133d9291df415 167
+  s_3389ba2812099c::t_82811b9fa0bdb1 143,145
+  s_3389ba2812099c::t_79d793463e0c97 181
+npm/install.js
+  s_3389ba2812099c::t_3a3a38ff857a33 59-88,99
+  s_3389ba2812099c::t_b7a089ce40c2be 11
+crates/vidi-py/Cargo.toml
+  s_3389ba2812099c::t_a9f30ec631a235 3
+crates/vidi-py/README.md
+  s_3389ba2812099c::t_c07234371b3703 3-4
+  s_3389ba2812099c::t_323b0094d2790c 70
+  s_3389ba2812099c::t_a911c757abcf0b 76
+docs/RELEASE.md
+  s_3389ba2812099c::t_0b7ce68023ac3b 123,125,129,134,137-138,141,146-147
+  s_3389ba2812099c::t_07d1815523b85a 14
+npm/README.md
+  s_3389ba2812099c::t_f0061d840e003f 12-14
+crates/vidi-cli/src/main.rs
+  s_3389ba2812099c::t_6273de66020b5a 497,600
+  s_3389ba2812099c::t_6e94200afbe5cf 1881
+  s_3389ba2812099c::t_6608f0d1c92a9d 538-542,544-547
+  s_3389ba2812099c::t_2b833cd1604474 581
+  s_3389ba2812099c::t_70e510d6d56863 213
+  s_3389ba2812099c::t_68d1d7c35f9839 1940
+  s_3389ba2812099c::t_599a9a3953a470 183
+  s_3389ba2812099c::t_6566499f120d2b 567
+REVIEW.md
+  s_3389ba2812099c::t_aa96d768fae648 53
+dist/vidi.rb
+  s_3389ba2812099c::t_594102cab7f052 35-38
+  s_3389ba2812099c::t_60186833399461 7-10
+Cargo.toml
+  s_3389ba2812099c::t_7dc41a92b6d63a 72
+  s_3389ba2812099c::t_9653d98b5108e1 88
+  s_3389ba2812099c::t_144c3a2b02989f 48
+crates/vidi-cli/tests/credential_resolution_order.rs
+  s_3389ba2812099c::t_61709a7cae5937 31
+docs/DESIGN.html
+  s_3389ba2812099c::t_6092c2748e2b54 831
+  s_3389ba2812099c::t_2d52244e037a22 737
+  s_3389ba2812099c::t_72676b93ca3ce0 837
+  s_3389ba2812099c::t_c344ba8c2c4844 828
+  s_3389ba2812099c::t_3c16b6c0e378c5 663
+  s_3389ba2812099c::t_03897e7d4b7fef 839-840
+crates/vidi-cli/src/login.rs
+  s_3389ba2812099c::t_62d835e57a1a77 601,603,669,674
+crates/vidi-core/src/notary.rs
+  s_3389ba2812099c::t_82d3218a3af178 3-5,8,11
+  s_3389ba2812099c::t_4f7703cde18562 130
+  s_3389ba2812099c::t_048faf43379caa 146
+  s_3389ba2812099c::t_adcb53106bac54 40
+crates/vidi-cli/tests/signed_review_gitignore.rs
+  s_3389ba2812099c::t_61709a7cae5937 26
+crates/vidi-cli/Cargo.toml
+  s_3389ba2812099c::t_9dc624cb4768bf 14-18
+crates/vidi-core/src/reposlug.rs
+  s_3389ba2812099c::t_e6400419cca82b 2
+crates/vidi-core/src/authorship.rs
+  s_3389ba2812099c::t_b585c2a451f4bc 16
+  s_3389ba2812099c::t_a0d9ad3cb8f59f 23
+  s_3389ba2812099c::t_90fe3936a15705 59
+  s_3389ba2812099c::t_6b898365ca1dbf 83
+  s_3389ba2812099c::t_6228549612b83f 13
+crates/vidi-cli/src/push.rs
+  s_3389ba2812099c::t_c4fb1e5e622fa3 31,40,45,64,78,81,96,115,118,187,540-541,612,660,670
+  s_3389ba2812099c::t_a0106fd4b63cf3 475-477
+  s_3389ba2812099c::t_e2b4de1e31d757 614,618
+crates/vidi-cli/tests/attribute_cli.rs
+  s_3389ba2812099c::t_ad97509b946d2c 323
+  s_3389ba2812099c::t_61709a7cae5937 24
+  s_3389ba2812099c::t_f16debb2612dac 319
+crates/vidi-cli/tests/revoke_cli.rs
+  s_3389ba2812099c::t_61709a7cae5937 19
+schemas/examples/vidi.json
+  s_3389ba2812099c::t_6aaf98b36a5466 101
+crates/vidi-core/src/dsse.rs
+  s_3389ba2812099c::t_65a7c6b6495b77 7-8
+  s_3389ba2812099c::t_b11beb740108af 59
+  s_3389ba2812099c::t_83d72db10d7b53 78
+  s_3389ba2812099c::t_d5e0c5b26df8a7 47
+docs/INTEGRATION-CONTRACT.md
+  s_3389ba2812099c::t_eab6ee53760308 1,3
+  s_3389ba2812099c::t_5d6340459c81cf 87
+  s_3389ba2812099c::t_bf9770e30b264c 111
+  s_3389ba2812099c::t_513b70afe347b3 102-103
+  s_3389ba2812099c::t_f8b500b77a302b 115
+  s_3389ba2812099c::t_370ca67683db64 23
+docs/VOUCH-ARCHITECTURE.html
+  s_3389ba2812099c::t_252e54c1a5ed48 110
+  s_3389ba2812099c::t_21e97acbc8ccd2 172
+  s_3389ba2812099c::t_6ae175815a299f 141
+  s_3389ba2812099c::t_36f9fe213f8801 113
+  s_3389ba2812099c::t_f64dd34968efad 123
+crates/vidi-cli/src/notary.rs
+  s_3389ba2812099c::t_6cd618ea79c7d2 911
+  s_3389ba2812099c::t_713e20e20bcd77 1
+  s_3389ba2812099c::t_da02bd64b49c5d 84
+  s_3389ba2812099c::t_d4d0176af2fc8c 39
+  s_3389ba2812099c::t_6273de66020b5a 31,41,54,62,281,289,750,825,950,997
+  s_3389ba2812099c::t_3659cbd288f706 43
+  s_3389ba2812099c::t_a2442bdcc96e32 60
+  s_3389ba2812099c::t_becff4a2f3c33d 91
+  s_3389ba2812099c::t_d8143ef4729bd7 271
+crates/vidi-cli/src/sync.rs
+  s_3389ba2812099c::t_8557368e6e77a0 117
+  s_3389ba2812099c::t_a0106fd4b63cf3 392
+  s_3389ba2812099c::t_94af37e6e8cb75 668
+  s_3389ba2812099c::t_9e48f6236029b6 44
+  s_3389ba2812099c::t_dc6a01ababd680 35
+  s_3389ba2812099c::t_6273de66020b5a 33,83,122,420-421
+  s_3389ba2812099c::t_53eec9846911c5 74,77
+  s_3389ba2812099c::t_938fc3e68d6d66 54
+  s_3389ba2812099c::t_0f55cc99178062 65
+  s_3389ba2812099c::t_efa8479ce05216 348
+  s_3389ba2812099c::t_afa58235298df1 10-11,13
+  s_3389ba2812099c::t_b5bb354fe33ae5 1
+  s_3389ba2812099c::t_5d255672cfe0c5 18
+  s_3389ba2812099c::t_a724463c1d0a5e 39
+  s_3389ba2812099c::t_bb6de9e08c4479 685
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "ec88696da837e18fc84b7f379e19fe700290358e",
+  "prompts": {},
+  "sessions": {
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
