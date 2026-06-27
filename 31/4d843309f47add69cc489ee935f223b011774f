@@ -1,0 +1,27 @@
+.github/CODEOWNERS
+  s_b771d99100a061::t_2b68c1978fa966 1-15
+.github/actions/vidi-gate/action.yml
+  s_b771d99100a061::t_ed6286a5f701a1 1-53
+.github/dependabot.yml
+  s_b771d99100a061::t_7eea0ab5d55133 1-10
+.github/workflows/audit.yml
+  s_b771d99100a061::t_10fb70ebe25d70 1-20
+.github/workflows/ci.yml
+  s_b771d99100a061::t_aefdf7973a5614 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "314d843309f47add69cc489ee935f223b011774f",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
