@@ -1,0 +1,54 @@
+crates/vidi-cli/src/sync.rs
+  s_a9f07316d2a020::t_d23bf325f2786a 358
+  s_a9f07316d2a020::t_2ac82b9554f45e 335-336
+  s_a9f07316d2a020::t_7387740f4c6576 345-346
+crates/vidi-cli/tests/credential_resolution_order.rs
+  s_a9f07316d2a020::t_7249d4de863b69 72
+  s_a9f07316d2a020::t_4ac08589ff5257 66
+crates/vidi-cli/src/engine.rs
+  s_a9f07316d2a020::t_3fd8de48798faf 798-804
+  s_a9f07316d2a020::t_ac840097a42484 971
+  s_a9f07316d2a020::t_5accb7f33c2a4a 711
+  s_a9f07316d2a020::t_337d3426bded67 1990-1993
+  s_a9f07316d2a020::t_758cb0b53ec5ba 953-958
+  s_a9f07316d2a020::t_e9b8682e47af2d 1998,2000-2007,2010-2011
+  s_a9f07316d2a020::t_f898ded0f9848a 2029-2030
+  s_a9f07316d2a020::t_fe4dd18c844c5f 691-692,695-696,701-703,705
+  s_a9f07316d2a020::t_ef87f6f76fb2fe 875,959
+  s_a9f07316d2a020::t_434ac255935e61 982
+crates/vidi-cli/tests/signed_review_gitignore.rs
+  s_a9f07316d2a020::t_48aa640ad0d40f 167
+  s_a9f07316d2a020::t_7816c4c52709af 189
+  s_a9f07316d2a020::t_7c9d1c644d6332 44,146,194,196,201,203
+  s_a9f07316d2a020::t_b14ff11063d026 25,155
+  s_a9f07316d2a020::t_f18e90833b3ba0 4,43,46,53,72,77,82
+  s_a9f07316d2a020::t_01dfddd032872c 66
+crates/vidi-cli/tests/revoke_cli.rs
+  s_a9f07316d2a020::t_e676753f939e9a 72
+crates/vidi-cli/tests/contract_conformance.rs
+  s_a9f07316d2a020::t_35130976c80999 313
+crates/vidi-cli/src/notary.rs
+  s_a9f07316d2a020::t_88aa1a2371b692 295
+  s_a9f07316d2a020::t_b2173f3df7fb41 471
+  s_a9f07316d2a020::t_1deb8ea4caa538 34-35
+crates/vidi-cli/src/remote.rs
+  s_a9f07316d2a020::t_eb558f05b53162 7
+crates/vidi-cli/src/main.rs
+  s_a9f07316d2a020::t_42f7f844b4bb0f 280
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "2e0e514e093179909fad5040b7f0d26608b7e8c9",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
