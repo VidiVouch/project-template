@@ -1,0 +1,21 @@
+apps/catalog/handlers/stova.py
+  s_0276221d01c0b0::t_2d970e99e26273 94-101
+REVIEW.md
+  s_0276221d01c0b0::t_e49550365cc95d 41-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f7895541947c6a99714b98731e668c26c989aac3",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

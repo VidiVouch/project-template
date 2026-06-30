@@ -1,0 +1,23 @@
+apps/jobs/tests/test_schedules.py
+  s_eef0c01ffe4331::t_8951732fca9230 6
+  s_eef0c01ffe4331::t_2d1f5e4704e4bc 27-34
+apps/jobs/apps.py
+  s_eef0c01ffe4331::t_f099e140053752 4-5,7
+  s_eef0c01ffe4331::t_fcac82d16cb4d7 67-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "dc2d8d0cd0f91dea3ce0bf962178c0317addcd2d",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
