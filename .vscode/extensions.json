@@ -1,11 +1,25 @@
 {
   "recommendations": [
     "EdwinHuiSH.better-comments-next",
+    "charliermarsh.ruff",
     "christian-kohler.path-intellisense",
+    "detachhead.basedpyright",
     "Gruntfuggly.todo-tree",
     "mechatroner.rainbow-csv",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-python-envs",
     "streetsidesoftware.code-spell-checker",
+    "tamasfe.even-better-toml",
     "usernamehw.errorlens"
   ],
-  "unwantedRecommendations": []
+  "unwantedRecommendations": [
+    "ms-python.autopep8",
+    "ms-python.black-formatter",
+    "ms-python.flake8",
+    "ms-python.isort",
+    "ms-python.mypy-type-checker",
+    "ms-python.pylint",
+    "ms-python.vscode-pylance"
+  ]
 }

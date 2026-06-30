@@ -5,6 +5,13 @@
       72
     ]
   },
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "always",
+      "source.organizeImports": "always"
+    },
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
   "cSpell.customDictionaries": {
     "project-words": {
       "addWords": true,
@@ -30,8 +37,12 @@
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1000,
   "files.exclude": {
-    "**/.DS_Store": true
+    "**/.DS_Store": true,
+    "**/.pytest_cache": true,
+    "**/__pycache__": true,
+    ".ruff_cache": true
   },
+  "flake8.enabled": false,
   "git.allowForcePush": false,
   "git.autoStash": true,
   "git.autofetch": true,
@@ -39,6 +50,20 @@
   "git.branchProtection": [
     "main"
   ],
+  "pylint.enabled": false,
+  "python.languageServer": "None",
+  "python.terminal.activateEnvironment": true,
+  "python.terminal.useEnvFile": true,
+  "python.testing.pytestArgs": [],
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "ruff.enable": true,
+  "ruff.nativeServer": "on",
+  "search.exclude": {
+    "**/*.egg-info": true,
+    "**/__pycache__": true,
+    "**/venv*": true
+  },
   "terminal.integrated.cwd": "${workspaceFolder}",
   "todo-tree.filtering.excludeGlobs": [
     "**/.git"

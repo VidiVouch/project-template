@@ -1,0 +1,56 @@
+{
+  "tasks": [
+    {
+      "args": [
+        "lock",
+        "--upgrade"
+      ],
+      "command": "uv",
+      "detail": "Update uv.lock from pyproject.toml",
+      "group": "build",
+      "label": "UV Lock (Update Lockfile)",
+      "presentation": {
+        "echo": true,
+        "focus": false,
+        "panel": "shared",
+        "reveal": "always"
+      },
+      "type": "shell"
+    },
+    {
+      "args": [
+        "sync",
+        "--all-extras"
+      ],
+      "command": "uv",
+      "detail": "Sync venv with all dependencies (including extras)",
+      "group": "build",
+      "label": "UV Sync (All Dependencies)",
+      "presentation": {
+        "echo": true,
+        "focus": false,
+        "panel": "shared",
+        "reveal": "always"
+      },
+      "type": "shell"
+    },
+    {
+      "args": [
+        "sync",
+        "--no-dev"
+      ],
+      "command": "uv",
+      "detail": "Sync venv with production dependencies only",
+      "group": "build",
+      "label": "UV Sync (Prod Dependencies Only)",
+      "presentation": {
+        "echo": true,
+        "focus": false,
+        "panel": "shared",
+        "reveal": "always"
+      },
+      "type": "shell"
+    }
+  ],
+  "version": "2.0.0"
+}
