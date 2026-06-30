@@ -1,0 +1,31 @@
+.python-version
+  s_a9f07316d2a020::t_2316e42b3092cc 1
+project_template.egg-info/PKG-INFO
+  s_a9f07316d2a020::t_4793ead40ad5e5 1-130
+project_template.egg-info/SOURCES.txt
+  s_a9f07316d2a020::t_8c3bcbf97ab71c 1-38
+project_template.egg-info/dependency_links.txt
+  s_a9f07316d2a020::t_87fc5bb7bb4d0f 1
+project_template.egg-info/top_level.txt
+  s_a9f07316d2a020::t_44b03e74f21499 1
+pyproject.toml
+  s_a9f07316d2a020::t_0ad78b8ea5f43f 1-117
+uv.lock
+  s_a9f07316d2a020::t_8b97e8ce0279a3 1-364
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "9e52284a15d526c3e300d7ea68abd6e8bb8cb471",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
