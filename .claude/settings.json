@@ -3,6 +3,9 @@
     "commit": "Co-Authored-By: Claude <noreply@anthropic.com>",
     "pr": ""
   },
+  "enabledPlugins": {
+    "context7@claude-plugins-official": true
+  },
   "env": {
     "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
   },
@@ -21,7 +24,9 @@
       "Bash(touch:*)",
       "WebFetch(domain:docs.claude.com)",
       "WebFetch(domain:www.anthropic.com)",
-      "WebSearch"
+      "WebSearch",
+      "mcp__plugin_context7_context7__query-docs",
+      "mcp__plugin_context7_context7__resolve-library-id"
     ],
     "ask": [
       "Bash(rm *)",
