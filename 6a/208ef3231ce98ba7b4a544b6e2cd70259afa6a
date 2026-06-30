@@ -1,0 +1,21 @@
+.idea/pyLspTools.xml
+  s_a9f07316d2a020::t_6bc44ea8be9a45 1-9
+.idea/ruff.xml
+  s_a9f07316d2a020::t_6ee4ce9a7f2085 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "6a208ef3231ce98ba7b4a544b6e2cd70259afa6a",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
