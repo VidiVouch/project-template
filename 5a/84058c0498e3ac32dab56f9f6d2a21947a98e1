@@ -1,0 +1,25 @@
+apps/billing/tests/test_webhooks.py
+  s_b380a8ea486da9::t_e1350ca10fc6d1 23-24,39-44,63,83-84,124-126,172-331
+apps/billing/models.py
+  s_b380a8ea486da9::t_e1350ca10fc6d1 4-35,38,40,49-95,99-107,112-121,125-128,136-221,232-233,250-251,260,279-281,288-296,303-306,317-323,331-332,334-338
+apps/billing/webhooks.py
+  s_b380a8ea486da9::t_e1350ca10fc6d1 3-5,8-55,79,84-85,88,103-104,121-128,133-137,141-160,162-169,174,176,178
+apps/billing/migrations/0002_stripecustomer_deleted_stripecustomer_event_created_and_more.py
+  s_b380a8ea486da9::t_395eec005e7b0b 1-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "5a84058c0498e3ac32dab56f9f6d2a21947a98e1",
+  "prompts": {},
+  "sessions": {
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
