@@ -1,0 +1,51 @@
+apps/billing/webhooks.py
+  s_b380a8ea486da9::t_3c5d3105826d0e 3-5,8-55,85-86,89,104-105,122-129,134-138,142-161,163,165-169,175,177,180-182,185
+templates/app/_nav.html
+  s_b380a8ea486da9::t_2ee890e8cc522b 79-80
+apps/billing/views.py
+  s_b380a8ea486da9::t_3c5d3105826d0e 116,140,229-230,232-238,271
+pyproject.toml
+  s_b380a8ea486da9::t_d9db927ab74f57 45
+  s_b380a8ea486da9::t_b829e981817f92 285
+apps/billing/tests/test_views.py
+  s_b380a8ea486da9::t_3c5d3105826d0e 1,10-11,15-40,50,61-62,78,85,90-95,97-99,102-106,109-111
+templates/app/base.html
+  s_b380a8ea486da9::t_b9a94e24e72990 14-25
+apps/billing/tests/test_models.py
+  s_b380a8ea486da9::t_3c5d3105826d0e 19-22,30-31,35,37,43,45-46,49-53,57,63,65-66,68,75-77,79,84,88-89,91,93-94,99-101,103,106-109,111,115-116,124-125,130,134,137
+templates/base.html
+  s_b380a8ea486da9::t_c35b533564b932 47-63
+  s_b380a8ea486da9::t_7e2dd349ee73e2 13
+apps/billing/tests/test_htmx_nav.py
+  s_b380a8ea486da9::t_3c5d3105826d0e 1-125
+apps/billing/tests/test_webhooks.py
+  s_b380a8ea486da9::t_3c5d3105826d0e 13,28-29,44-49,68,88-89,129-131,145,150,177-369
+apps/billing/migrations/0002_stripecustomer_deleted_stripecustomer_event_created_and_more.py
+  s_b380a8ea486da9::t_3c5d3105826d0e 1-58
+apps/billing/models.py
+  s_b380a8ea486da9::t_3c5d3105826d0e 4-35,38,46,49-59,62-73,76-77,83-96,100-108,113-121,126-129,137,140-164,166-170,172-181,183-190,192,196-208,212-214,217-220,223-231,234-236,248-249,266-267,295-297,304-312,319-322,333-339,347-348,350-354
+templates/billing/home.html
+  s_b380a8ea486da9::t_925b7131c1a5cf 2-6
+templates/billing/pay.html
+  s_b380a8ea486da9::t_a1f6419ca61c32 3-15,18,20-21,26-31,34,39-42,44-51,53-56,61-63,66-67,69,71-73,76-77,86,88-90,97-99,110-146,148
+templates/billing/payment_return.html
+  s_b380a8ea486da9::t_72c2f6fadc6be0 2-9,13-22,24
+uv.lock
+  s_b380a8ea486da9::t_2f9cbb3c201709 1795,2670,2676,2678
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "2dc544feef40799b128a0ee5665cd30fb35f4292",
+  "prompts": {},
+  "sessions": {
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
