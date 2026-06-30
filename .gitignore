@@ -522,3 +522,29 @@ FodyWeavers.xsd
 
 .cursorignore
 .cursorindexingignore
+
+
+# Project specific Gitignore
+
+# database & logs
+*.db
+*.sqlite3
+*.dump
+*.zip
+
+# generic data
+/*.csv
+/*.json
+/*.jsonl
+/*.xml
+/*.jl
+/*.pickle
+/*.pkl
+/*.xlsx
+
+# other
+.DS_Store
+/*.pem
+/*.pdf
+/*.mermaid
+
