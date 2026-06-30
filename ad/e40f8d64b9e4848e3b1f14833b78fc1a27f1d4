@@ -1,0 +1,26 @@
+apps/billing/models.py
+  s_b380a8ea486da9::t_d182bc447ba8b1 70-72
+  s_b380a8ea486da9::t_d6addd1aa6a08f 181-187,190
+  s_b380a8ea486da9::t_4c6d2bd7dbe5f8 122
+  s_b380a8ea486da9::t_678b1b7b38ba1c 80
+apps/billing/migrations/0002_alter_stripecustomer_deleted_and_more.py
+  s_b380a8ea486da9::t_54ca24aa30a19c 1-33
+apps/billing/tests/test_models.py
+  s_b380a8ea486da9::t_98379e72b4b9c4 1-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "ade40f8d64b9e4848e3b1f14833b78fc1a27f1d4",
+  "prompts": {},
+  "sessions": {
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
