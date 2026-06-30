@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="com.anthropic.code.plugin" />
+    <plugin id="dev.tachilabs.mermaidstudio.core" />
+  </component>
+</project>
