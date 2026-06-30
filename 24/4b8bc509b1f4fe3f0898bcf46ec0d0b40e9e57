@@ -1,0 +1,21 @@
+pyproject.toml
+  s_b380a8ea486da9::t_1d9ffbc4f297e9 34
+uv.lock
+  s_b380a8ea486da9::t_9b4b65542437f8 1259,1716,1722,1724
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "244b8bc509b1f4fe3f0898bcf46ec0d0b40e9e57",
+  "prompts": {},
+  "sessions": {
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
