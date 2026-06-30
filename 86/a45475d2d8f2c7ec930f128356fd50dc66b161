@@ -1,0 +1,23 @@
+.agents/hooks/enforce_cargo.py
+  s_a9f07316d2a020::t_2d377a7d8c1338 1-118
+.claude/settings.json
+  s_a9f07316d2a020::t_a9caa7f7077a82 15,35-45,61-68,83-84,96-97
+.codex/hooks.json
+  s_a9f07316d2a020::t_86fc5fff72951c 2-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "86a45475d2d8f2c7ec930f128356fd50dc66b161",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
