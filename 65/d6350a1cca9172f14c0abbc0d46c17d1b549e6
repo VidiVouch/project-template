@@ -1,0 +1,39 @@
+README.md
+  s_a9f07316d2a020::t_d0d99f33cc60bc 1-114
+.claude/commands/deep-review.md
+  s_a9f07316d2a020::t_245e274da031d6 4
+  s_a9f07316d2a020::t_c8dc32b0b538d9 297-298
+  s_a9f07316d2a020::t_4e3e602c09277c 82-126
+  s_a9f07316d2a020::t_466801dc796100 1-3
+  s_a9f07316d2a020::t_6581a5cf30e09f 5-7,79-81
+  s_a9f07316d2a020::t_a688a2be8fe457 127-129,294-296
+  s_a9f07316d2a020::t_dba44ba9854819 299-301
+.claude/hooks/review-gate.sh
+  s_a9f07316d2a020::t_60b7d5b0b6f75d 1-77
+.agents/skills/local-review/SKILL.md
+  s_a9f07316d2a020::t_1afa0982161657 1-110
+.claude/settings.json
+  s_a9f07316d2a020::t_5b4757a49794ae 25-38,44,46,49,53
+.claude/skills
+  s_a9f07316d2a020::t_c1577f5bdaba09 1
+.gitignore
+  s_a9f07316d2a020::t_b849061082eaa9 547-548
+REVIEW.md
+  s_a9f07316d2a020::t_5a1cacdbc28dfd 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "65d6350a1cca9172f14c0abbc0d46c17d1b549e6",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
