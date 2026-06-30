@@ -1,0 +1,51 @@
+{
+  "attribution": {
+    "commit": "Co-Authored-By: Claude <noreply@anthropic.com>",
+    "pr": ""
+  },
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+  "feedbackSurveyRate": 0,
+  "forceLoginMethod": "claudeai",
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(git add:*)",
+      "Bash(git bisect:*)",
+      "Bash(git log:*)",
+      "Bash(git show:*)",
+      "Bash(grep:*)",
+      "Bash(mkdir:*)",
+      "Bash(pbcopy:*)",
+      "Bash(touch:*)",
+      "WebFetch(domain:docs.claude.com)",
+      "WebFetch(domain:www.anthropic.com)",
+      "WebSearch"
+    ],
+    "ask": [
+      "Bash(rm *)",
+      "Bash(rmdir *)",
+      "Bash(shred *)",
+      "Bash(unlink *)",
+      "Bash(dd *)",
+      "Bash(mkfs *)",
+      "Bash(fdisk *)",
+      "Bash(chmod *)",
+      "Bash(chown *)",
+      "Bash(npm *)",
+      "Bash(yarn *)",
+      "Bash(pnpm *)",
+      "Bash(docker *)",
+      "Bash(kubectl *)",
+      "Bash(firebase *)",
+      "Bash(gcloud *)",
+      "Bash(wget *)",
+      "Bash(kill *)",
+      "Bash(killall *)",
+      "Bash(pkill *)"
+    ],
+    "deny": []
+  },
+  "spinnerTipsEnabled": false
+}

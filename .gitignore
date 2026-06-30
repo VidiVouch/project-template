@@ -542,6 +542,9 @@ FodyWeavers.xsd
 /*.pkl
 /*.xlsx
 
+# AI tooling
+.claude/settings.local.json
+
 # other
 .DS_Store
 /*.pem
