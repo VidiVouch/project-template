@@ -1,0 +1,30 @@
+config/settings/base.py
+  s_b380a8ea486da9::t_a8cc0064f6b2ec 31-33
+  s_b380a8ea486da9::t_d42ecdc7fd704f 349-351
+config/settings/production.py
+  s_b380a8ea486da9::t_607d592e04140e 10-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "cbc30ff6330bbe619139940c6109627829131d2b",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+apps/billing/tests/test_views.py
+  s_b380a8ea486da9::t_3b8011d3ad8cd3 1,5-10,12,39-85
+  s_b380a8ea486da9::t_1f52f86e7ed180 86-98,100-103,107-110,112
+  s_17405aaf91a59b::t_c8e63fa2ffde25 63-75,77,79-84,86-89,96,100-101,107-108,112
+  s_b380a8ea486da9::t_c456b826891c59 99,104-106,111
+templates/billing/pay.html
+  s_b380a8ea486da9::t_8c40fd32225f59 1-74
+  s_17405aaf91a59b::t_c8e63fa2ffde25 2,5,21,27,36,51
+templates/billing/payment_return.html
+  s_b380a8ea486da9::t_34aaee15a5f632 1-2,9,13-15,19,21,23,25,28-30
+  s_17405aaf91a59b::t_c8e63fa2ffde25 15,28,30
+  s_b380a8ea486da9::t_0c26a56e9f1f44 3-8,10-12,16-18,20,22,24,26-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "c995906bf208331200a586276fc0fee30505c256",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
