@@ -1,0 +1,14 @@
+pyproject.toml
+  h_795c5e33ecc5af 63-64,68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "398326a6f5d5462656bc7294d99453a608109039",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
