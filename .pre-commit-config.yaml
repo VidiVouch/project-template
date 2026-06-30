@@ -1,0 +1,7 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: pretty-format-json
+        args: [--autofix, --indent, '2']
+        files: ^\.claude/settings\.json$|^\.codex/.*\.json$|^\.mcp\.json$|^\.vscode/.*\.json$
