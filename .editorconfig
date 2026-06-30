@@ -12,4 +12,20 @@ charset = utf-8
 
 [*.py]
 indent_size = 4
+# Docstrings and comments use max_line_length = 88
+max_line_length = 120
 
+[.idea/**]
+insert_final_newline = unset
+
+# Markdown files read by Claude (CLAUDE.md, REVIEW.md, .claude/**/*.md) follow
+# the Anthropic skills convention: unwrapped paragraphs, one line per paragraph.
+# See https://github.com/anthropics/skills for examples. Markdown is hand- or
+# agent-authored; PyCharm's reformat reflows it into noise, so disable it.
+[**.md]
+max_line_length = off
+ij_formatter_enabled = false
+
+[*.{yaml,yml}]
+ij_yaml_spaces_within_brackets = false
+ij_yaml_spaces_within_braces = false
