@@ -20,6 +20,11 @@ cd <project-name>
 
 # Install pre-commit hooks
 pre-commit install
+
+# Enable rerere (reuse recorded resolution) — Git caches how you resolve a
+# merge conflict and auto-applies the same resolution if it recurs. Useful
+# for workflows where the same conflicts recur on cascade rebases.
+git config rerere.enabled true
 ```
 
 Open the project in your IDE — see [IDE Setup](#ide-setup) for configuration.
