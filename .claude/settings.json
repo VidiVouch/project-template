@@ -4,6 +4,7 @@
     "pr": ""
   },
   "enabledPlugins": {
+    "astral@astral-sh": true,
     "chrome-devtools-mcp@chrome-devtools-plugins": true,
     "codex@openai-codex": true,
     "context7@claude-plugins-official": true,
@@ -14,6 +15,12 @@
     "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
   },
   "extraKnownMarketplaces": {
+    "astral-sh": {
+      "source": {
+        "repo": "astral-sh/claude-code-plugins",
+        "source": "github"
+      }
+    },
     "chrome-devtools-plugins": {
       "source": {
         "repo": "ChromeDevTools/chrome-devtools-mcp",
@@ -42,6 +49,10 @@
           {
             "command": "${CLAUDE_PROJECT_DIR}/.claude/hooks/block-no-verify.sh",
             "timeout": 10,
+            "type": "command"
+          },
+          {
+            "command": "${CLAUDE_PROJECT_DIR}/.agents/hooks/enforce_uv.py",
             "type": "command"
           }
         ],
@@ -72,8 +83,15 @@
       "Bash(mkdir:*)",
       "Bash(pbcopy:*)",
       "Bash(touch:*)",
+      "Bash(uv pip show:*)",
+      "Bash(uv run basedpyright:*)",
+      "Bash(uv run pytest:*)",
+      "Bash(uv run ruff check:*)",
+      "Bash(uv run ruff format:*)",
+      "Bash(uv sync:*)",
       "Bash(wc:*)",
       "WebFetch(domain:docs.claude.com)",
+      "WebFetch(domain:pypi.org)",
       "WebFetch(domain:www.anthropic.com)",
       "WebSearch",
       "mcp__plugin_chrome-devtools-mcp_chrome-devtools__click",

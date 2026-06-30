@@ -27,6 +27,19 @@ Delegate tasks, code reviews, and bug investigations to Codex from within Claude
   /codex:setup                          # Verify Codex readiness
   ```
 
+## astral - Ruff & UV Tools
+
+Ruff and UV integration for linting, formatting, and package management.
+
+- **Plugin**: `astral@astral-sh`
+- **Marketplace**: `astral-sh/claude-code-plugins` (GitHub)
+- **Key Commands**
+
+  ```
+  /astral:ruff                          # Linting and formatting guidance
+  /astral:uv                            # Package management guidance
+  ```
+
 ## vidi-skills - Vidi AI Development Skills
 
 Shared Vidi workflow skills for AI-driven development, reviews, reports, and

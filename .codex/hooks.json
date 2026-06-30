@@ -1,3 +1,16 @@
 {
-  "hooks": {}
+  "hooks": {
+    "PreToolUse": [
+      {
+        "hooks": [
+          {
+            "command": "python3 \"$(git rev-parse --show-toplevel)/.agents/hooks/enforce_uv.py\"",
+            "statusMessage": "Enforcing uv over bare python/pip/pytest",
+            "type": "command"
+          }
+        ],
+        "matcher": "Bash"
+      }
+    ]
+  }
 }
