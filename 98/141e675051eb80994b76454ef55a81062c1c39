@@ -1,0 +1,37 @@
+apps/billing/tests/test_webhooks.py
+  s_b380a8ea486da9::t_b96ea23ff1164e 13-19
+  s_b380a8ea486da9::t_1c16a35c659b7d 269-301
+apps/billing/webhooks.py
+  s_b380a8ea486da9::t_4002af12464e5e 177-183
+  s_b380a8ea486da9::t_70a6b5afb67b7e 73
+apps/billing/tests/test_models.py
+  s_b380a8ea486da9::t_ba445331f2eb50 1-137
+apps/billing/models.py
+  s_b380a8ea486da9::t_9a35a863e55ce6 215-220,232,237
+  s_b380a8ea486da9::t_53525bc1ca9e5a 80
+  s_b380a8ea486da9::t_1c93a84471579b 182-188,191
+  s_b380a8ea486da9::t_d62f111a7b7116 151-153
+  s_b380a8ea486da9::t_a5d315ad2304b9 160
+  s_b380a8ea486da9::t_a288bd242b053f 150
+  s_b380a8ea486da9::t_9210fab3eee02c 196
+  s_b380a8ea486da9::t_4ac286bad09b7f 122
+  s_b380a8ea486da9::t_95cfbf15385270 70-72
+apps/billing/migrations/0002_stripecustomer_deleted_stripecustomer_event_created_and_more.py
+  s_b380a8ea486da9::t_da108839b2df01 16,31,41,51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "98141e675051eb80994b76454ef55a81062c1c39",
+  "prompts": {},
+  "sessions": {
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
