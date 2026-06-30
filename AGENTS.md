@@ -4,6 +4,11 @@
 
 Pre-production, no users. Prefer the best design over backwards compatibility. Destructive migrations are fine. Don't add compatibility shims.
 
+## Tooling
+
+- **Toolchain**: Rust **stable** (via rustup). Components `rustfmt` + `clippy` are required.
+- **Build/run**: `cargo build`, `cargo run`.
+
 ## Skills layout
 
 - Workflow skills (`deep-review`, `local-review`, `check-coverage`,
@@ -16,10 +21,18 @@ Pre-production, no users. Prefer the best design over backwards compatibility. D
   **portable**: no `` !` `` dynamic-context injection, no `@path` imports —
   those are Claude Code runtime features that Codex reads as literal text.
 
+## Commands
+
+- **Build**: `cargo build` (release: `cargo build --release`)
+- **Tests**: `cargo test` (single test: `cargo test <name> -- --nocapture`)
+- **Lint**: `cargo clippy --all-targets --all-features` (must be clean)
+- **Format**: `cargo fmt` (check-only: `cargo fmt --check`)
+
 ## Code Standards
 
-- Keep changes small and well-scoped; document non-obvious intent.
-- Language-specific tooling and standards are layered on top of this base by the per-language toolchain.
+- Rustdoc doc comments (`///`) on public items; `#![forbid(unsafe_code)]` — any `unsafe` needs a `// SAFETY:` justification and a lint-allow.
+- Lints live in `Cargo.toml` `[lints]` (strict: clippy pedantic/nursery on).
+- Errors: prefer `?` and typed errors over `unwrap`/`panic` outside tests.
 
 ## Notes & docs
 
