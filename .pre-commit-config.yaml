@@ -5,3 +5,19 @@ repos:
       - id: pretty-format-json
         args: [--autofix, --indent, '2']
         files: ^\.claude/settings\.json$|^\.codex/.*\.json$|^\.mcp\.json$|^\.vscode/.*\.json$
+  - repo: local
+    hooks:
+      - id: cargo-fmt
+        name: cargo fmt
+        entry: cargo fmt --all -- --check
+        language: system
+        types: [rust]
+        pass_filenames: false
+        stages: [pre-commit]
+      - id: cargo-clippy
+        name: cargo clippy
+        entry: cargo clippy --all-targets --all-features --locked -- -D warnings
+        language: system
+        types: [rust]
+        pass_filenames: false
+        stages: [pre-commit]
