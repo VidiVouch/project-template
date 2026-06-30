@@ -1,0 +1,36 @@
+assets/js/app-enhance.js
+  s_b380a8ea486da9::t_9857fd3fdb2139 1-126
+templates/billing/pay.html
+  s_b380a8ea486da9::t_fc372ba195206f 1,4,6-13,15-18,20-24,26-38,40-47,49-59,61-144,147
+templates/billing/home.html
+  s_b380a8ea486da9::t_deb31f9d8ab1f7 1-75
+templates/app/_nav.html
+  s_b380a8ea486da9::t_735dc777ddb677 1-42
+templates/app/base.html
+  s_b380a8ea486da9::t_5943069b1fdae1 1-67
+templates/billing/payment_return.html
+  s_b380a8ea486da9::t_358a7ed2036c34 1,6-7,9-11
+apps/billing/tests/test_htmx_nav.py
+  s_b380a8ea486da9::t_4d6cde3f70ffd4 1-28,31-59,61-87,89-123
+  s_b380a8ea486da9::t_09a305c2f0b424 29-30
+  s_b380a8ea486da9::t_88a6aa871e6b1f 124-125
+  s_b380a8ea486da9::t_18c57e50e89a50 60,88
+templates/base.html
+  s_b380a8ea486da9::t_98ab463f9694af 2-3,5-7,9-14,16,23-24,74-93,97-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "b041fda3b199b8124f9f5623858ce63cb6351ee7",
+  "prompts": {},
+  "sessions": {
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
