@@ -1,0 +1,19 @@
+.github/workflows/lint.yml
+  s_a9f07316d2a020::t_a0964112d76762 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "0f70f277f4da5a4c7a5396acced29dd43da024ad",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
