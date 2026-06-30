@@ -19,10 +19,14 @@ dev = [
   "it2>=0.2.3,<0.2.4 ; sys_platform == 'darwin'",
   "pre-commit>=4.6.0,<4.7.0",
   { include-group = "lint" },
+  { include-group = "typing" },
 ]
 lint = [
   "ruff>=0.15.20,<0.15.21",
   "uv-sort>=0.7.1,<0.7.2",
+]
+typing = [
+  "basedpyright>=1.39.0,<1.40.0",
 ]
 
 [tool.setuptools]
@@ -115,3 +119,35 @@ section-order = [
 docstring-code-format = true
 skip-magic-trailing-comma = true
 line-ending = "lf"
+
+# Use [tool.pyright] (not [tool.basedpyright]) so both checkers read one config:
+# basedpyright falls back to [tool.pyright] when [tool.basedpyright] is absent,
+# and stock pyright (bundled by most editor/IDE language servers) only reads
+# [tool.pyright]. Under [tool.basedpyright], stock pyright couldn't find the uv
+# venv (venvPath/venv) and emitted spurious reportMissingImports. basedpyright
+# refuses to run if both tables exist.
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+typeCheckingMode = "standard"
+pythonVersion = "3.14"
+pythonPlatform = "All"
+exclude = [
+  ".claude/worktrees/**",
+  ".venv/**",
+  "**/node_modules/**",
+]
+# Hook scripts live outside the import path; ``tests/hooks/conftest.py``
+# adds these directories to ``sys.path`` at runtime so each hook can be
+# imported by module name from its tests. ``.agents/hooks`` holds hooks
+# shared with other agent harnesses (Codex); ``.claude/hooks`` holds
+# Claude Code-specific ones.
+extraPaths = [".agents/hooks", ".claude/hooks"]
+
+# Framework callbacks and handler signatures legitimately have unused params
+# (mock callbacks, **kwargs); pytest fixtures look unused to a static checker
+# but run via autouse. basedpyright's executionEnvironments can't scope rules
+# by glob (pyright #8108, closed not planned), so disable these two reports
+# globally rather than enumerating every tests/ dir.
+reportUnusedParameter = false
+reportUnusedFunction = false
