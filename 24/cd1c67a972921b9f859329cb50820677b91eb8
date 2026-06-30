@@ -1,0 +1,22 @@
+apps/billing/views.py
+  s_0276221d01c0b0::t_b43f7cd7dbf4d0 230-237,240,244-245
+apps/billing/tests/test_views.py
+  s_0276221d01c0b0::t_32ad271782d6a6 262,271-273
+  s_0276221d01c0b0::t_ba323c0fd5fca2 305,310
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "24cd1c67a972921b9f859329cb50820677b91eb8",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

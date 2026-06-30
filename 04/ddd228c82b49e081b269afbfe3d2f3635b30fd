@@ -1,0 +1,19 @@
+pyproject.toml
+  s_05525a9fcafe1d::t_0754a260a59ac6 2-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "04ddd228c82b49e081b269afbfe3d2f3635b30fd",
+  "prompts": {},
+  "sessions": {
+    "s_05525a9fcafe1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0c8f4b2-6561-4b84-aefd-a41bc02eff30",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

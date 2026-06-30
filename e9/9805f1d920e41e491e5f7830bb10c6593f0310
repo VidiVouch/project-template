@@ -1,0 +1,25 @@
+templates/billing/pay.html
+  s_17405aaf91a59b::t_c8e63fa2ffde25 1-89
+templates/billing/payment_return.html
+  s_17405aaf91a59b::t_c8e63fa2ffde25 1-18
+templates/billing/home.html
+  s_17405aaf91a59b::t_c8e63fa2ffde25 40-41
+apps/billing/tests/test_views.py
+  s_17405aaf91a59b::t_c8e63fa2ffde25 12,189-295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "e99805f1d920e41e491e5f7830bb10c6593f0310",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

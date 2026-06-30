@@ -1,0 +1,24 @@
+apps/catalog/tests/test_promote_swapcard.py
+  s_0276221d01c0b0::t_eddbf5ee2aa61a 33
+  s_0276221d01c0b0::t_d45f83b28258b1 351-369
+apps/catalog/models.py
+  s_0276221d01c0b0::t_21b33eec92f6ae 39-46,56-57
+apps/catalog/migrations/0006_alter_eventparticipation_role.py
+  s_0276221d01c0b0::t_614308dbd5d3ca 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "541a5b867387fc8e11ce1c0b3895a567dd0e1542",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
