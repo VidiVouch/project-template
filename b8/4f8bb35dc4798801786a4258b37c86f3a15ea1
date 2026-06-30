@@ -1,0 +1,33 @@
+.idea/.gitignore
+  s_a9f07316d2a020::t_c4406111946601 1-10
+.editorconfig
+  s_a9f07316d2a020::t_0bfaffc9e1e263 1-15
+.idea/project-template.iml
+  s_a9f07316d2a020::t_8f85af483e3df5 1-8
+.idea/modules.xml
+  s_a9f07316d2a020::t_84f8ca49f95c7d 1-8
+.idea/misc.xml
+  s_a9f07316d2a020::t_d1ccb715c92b91 1-4
+.gitignore
+  s_a9f07316d2a020::t_da97bc87e81b5e 1-87
+.idea/inspectionProfiles/Project_Default.xml
+  s_a9f07316d2a020::t_f978d3d2c29af2 1-6
+.idea/vcs.xml
+  s_a9f07316d2a020::t_ad4c63d2ad5445 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "b84f8bb35dc4798801786a4258b37c86f3a15ea1",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
