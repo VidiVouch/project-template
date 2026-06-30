@@ -1,21 +1,27 @@
 assets/js/app-enhance.js
   s_b380a8ea486da9::t_9857fd3fdb2139 1-126
+  s_b380a8ea486da9::t_56e47244607c2b 4,12,42,51,60,76-77,79,83,89
 templates/billing/pay.html
   s_b380a8ea486da9::t_fc372ba195206f 1,4,6-13,15-18,20-24,26-38,40-47,49-59,61-144,147
   s_b380a8ea486da9::t_f01d658c923a4f 16,32-33,74-75,80-81
+  s_b380a8ea486da9::t_630a12cc6c56fc 16,18,32-33,44,74-75,80-81,117-118,123,137
 templates/billing/home.html
   s_b380a8ea486da9::t_deb31f9d8ab1f7 1-75
   s_b380a8ea486da9::t_f01d658c923a4f 8,12,20,26-29,31-33,35-37,42,44-45,59,62,64,73
+  s_b380a8ea486da9::t_e1ca589f0e1d1f 8,12,20,26-29,31-33,35-37,42,44-45,59,62,64,73
 templates/app/_nav.html
   s_b380a8ea486da9::t_735dc777ddb677 1-42
   s_0276221d01c0b0::t_023183b6c0cbd5 15-16
   s_b380a8ea486da9::t_f01d658c923a4f 12,14,20-21,23
+  s_b380a8ea486da9::t_c7b396a24b28ee 12,14,20-21,23,30
 templates/app/base.html
   s_b380a8ea486da9::t_5943069b1fdae1 1-67
   s_b380a8ea486da9::t_f01d658c923a4f 39-40,42,44,48,51,61
+  s_b380a8ea486da9::t_4b8bdb0c106a2e 33,35-36,39-40,42,44,48,51,61
 templates/billing/payment_return.html
   s_b380a8ea486da9::t_358a7ed2036c34 1,6-7,9-11
   s_b380a8ea486da9::t_f01d658c923a4f 10
+  s_b380a8ea486da9::t_836235dc0351ed 10
 apps/billing/tests/test_htmx_nav.py
   s_b380a8ea486da9::t_4d6cde3f70ffd4 1-28,31-59,61-87,89-123
   s_b380a8ea486da9::t_09a305c2f0b424 29-30
@@ -132,6 +138,8 @@ apps/billing/webhooks.py
   s_0276221d01c0b0::t_0612bbea25dbbc 178
 apps/billing/views.py
   s_0276221d01c0b0::t_82d415fa845448 241
+.env.sample
+  s_b380a8ea486da9::t_574b1a8050b790 50-57
 ---
 {
   "schema_version": "authorship/3.0.0",
