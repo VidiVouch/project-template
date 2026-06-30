@@ -1,0 +1,7 @@
+approval_policy = "on-request"
+
+[features]
+codex_hooks = true
+
+[shell_environment_policy]
+inherit = "core"
