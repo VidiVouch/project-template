@@ -5,6 +5,10 @@
       72
     ]
   },
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true
+  },
   "cSpell.customDictionaries": {
     "project-words": {
       "addWords": true,
@@ -39,6 +43,7 @@
   "git.branchProtection": [
     "main"
   ],
+  "rust-analyzer.check.command": "clippy",
   "terminal.integrated.cwd": "${workspaceFolder}",
   "todo-tree.filtering.excludeGlobs": [
     "**/.git"
