@@ -514,3 +514,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+## Ignore Cursor files.
+##
+## Get latest from https://github.com/github/gitignore/blob/main/Global/Cursor.gitignore
+
+.cursorignore
+.cursorindexingignore
