@@ -1,0 +1,17 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "a33c3cb18a9bb33fa81e7aa43811a0d497582b7e",
+  "prompts": {},
+  "sessions": {
+    "s_05525a9fcafe1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0c8f4b2-6561-4b84-aefd-a41bc02eff30",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+apps/billing/tests/test_webhooks.py
+  s_0276221d01c0b0::t_51ef059291cc0e 141-151,157,160
+  s_0276221d01c0b0::t_c2a9ea55c67c95 210-213,218
+apps/sales/limits.py
+  s_0276221d01c0b0::t_d3b8ecccef821e 81-83
+  s_0276221d01c0b0::t_65c89399be9d63 86
+apps/billing/migrations/0003_stripecustomer_deleted_stripeinvoice_deleted_and_more.py
+  s_0276221d01c0b0::t_4f6e6dbfb10602 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "043e315b902647ad1aadff6fcb4c4cdf553f05ab",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

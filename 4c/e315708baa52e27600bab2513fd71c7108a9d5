@@ -1,0 +1,28 @@
+apps/data/grip/mapping.py
+  s_0276221d01c0b0::t_b1233a21a55953 52-54,59-62
+  s_0276221d01c0b0::t_6189bf978df5ce 153
+  s_0276221d01c0b0::t_b06bfd28f2e923 16-18
+apps/data/grip/tests/test_mapping.py
+  s_0276221d01c0b0::t_00eb15fd4a7c9f 112-117,119-121
+  s_0276221d01c0b0::t_684a77ec8b1a45 118
+apps/catalog/tests/test_promote_grip.py
+  s_0276221d01c0b0::t_27325c619c70f3 214-227
+apps/catalog/handlers/grip.py
+  s_0276221d01c0b0::t_93a4461b87b3bc 186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4ce315708baa52e27600bab2513fd71c7108a9d5",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
