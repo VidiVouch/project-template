@@ -18,12 +18,23 @@ dependencies = []
 dev = [
   "it2>=0.2.3,<0.2.4 ; sys_platform == 'darwin'",
   "pre-commit>=4.6.0,<4.7.0",
+  { include-group = "coverage" },
   { include-group = "lint" },
+  { include-group = "testing" },
   { include-group = "typing" },
+]
+coverage = [
+  "diff-cover>=10.3.0,<10.4.0",
+  "pytest-cov>=7.1.0,<7.2.0",
 ]
 lint = [
   "ruff>=0.15.20,<0.15.21",
   "uv-sort>=0.7.1,<0.7.2",
+]
+testing = [
+  "pytest-randomly>=4.1.0,<4.2.0",
+  "pytest-xdist>=3.8.0,<3.9.0",
+  "pytest>=9.1.0,<9.2.0",
 ]
 typing = [
   "basedpyright>=1.39.0,<1.40.0",
@@ -119,6 +130,32 @@ section-order = [
 docstring-code-format = true
 skip-magic-trailing-comma = true
 line-ending = "lf"
+
+[tool.pytest.ini_options]
+addopts = "-n auto --dist worksteal"
+pythonpath = ["."]
+
+[tool.coverage.run]
+branch = true
+# Uncomment and extend once this project has source packages to measure.
+# Without an explicit source list, pytest-cov only tracks files actually
+# imported during the test run, so new modules that no test imports are
+# invisible to coverage reports — and /check-coverage can't flag them.
+# source = ["my_package"]
+omit = [
+  "**/tests/**",
+]
+
+[tool.coverage.report]
+show_missing = true
+skip_empty = true
+exclude_also = [
+  'if (typing\.)?TYPE_CHECKING:',
+  "raise NotImplementedError",
+  "raise AssertionError",
+  "def __repr__",
+  "if __name__ == .__main__.:",
+]
 
 # Use [tool.pyright] (not [tool.basedpyright]) so both checkers read one config:
 # basedpyright falls back to [tool.pyright] when [tool.basedpyright] is absent,
