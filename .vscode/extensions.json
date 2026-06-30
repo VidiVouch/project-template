@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "EdwinHuiSH.better-comments-next",
+    "christian-kohler.path-intellisense",
+    "Gruntfuggly.todo-tree",
+    "mechatroner.rainbow-csv",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens"
+  ],
+  "unwantedRecommendations": []
+}

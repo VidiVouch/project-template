@@ -1,0 +1,57 @@
+{
+  "[git-commit]": {
+    "editor.rulers": [
+      50,
+      72
+    ]
+  },
+  "cSpell.customDictionaries": {
+    "project-words": {
+      "addWords": true,
+      "description": "Words used in this project",
+      "name": "project-words",
+      "path": "${workspaceFolder}/project-words.dic"
+    }
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.minimap.enabled": true,
+  "editor.renderWhitespace": "trailing",
+  "editor.rulers": [
+    120
+  ],
+  "editor.stickyScroll.enabled": true,
+  "editor.wordWrap": "off",
+  "errorLens.enabledDiagnosticLevels": [
+    "error",
+    "warning"
+  ],
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.exclude": {
+    "**/.DS_Store": true
+  },
+  "git.allowForcePush": false,
+  "git.autoStash": true,
+  "git.autofetch": true,
+  "git.blame.editorDecoration.enabled": true,
+  "git.branchProtection": [
+    "main"
+  ],
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "todo-tree.filtering.excludeGlobs": [
+    "**/.git"
+  ],
+  "todo-tree.general.tags": [
+    "TODO",
+    "FIXME",
+    "BUG",
+    "HACK",
+    "NOTE",
+    "[ ]",
+    "[x]"
+  ],
+  "todo-tree.highlights.enabled": true,
+  "todo-tree.highlights.highlightDelay": 200
+}
