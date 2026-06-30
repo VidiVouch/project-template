@@ -1,7 +1,39 @@
+default_install_hook_types:
+  - pre-commit
+  - post-checkout
+  - post-merge
+  - post-rewrite
 repos:
+  - repo: https://github.com/astral-sh/uv-pre-commit
+    rev: 0.11.26
+    hooks:
+      - id: uv-lock
+        stages: [pre-commit, post-rewrite]
+      - id: uv-sync
+  - repo: https://github.com/ninoseki/uv-sort
+    rev: v0.7.1
+    hooks:
+      - id: uv-sort
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
     hooks:
       - id: pretty-format-json
         args: [--autofix, --indent, '2']
         files: ^\.claude/settings\.json$|^\.codex/.*\.json$|^\.mcp\.json$|^\.vscode/.*\.json$
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.15.20
+    hooks:
+      - id: ruff-check
+        types_or: [python, pyi]
+        args: [--fix]
+      - id: ruff-format
+        types_or: [python, pyi]
+  - repo: local
+    hooks:
+      - id: basedpyright
+        name: basedpyright
+        entry: uv run basedpyright
+        language: system
+        types: [python]
+        stages: [pre-commit]
+        pass_filenames: false
