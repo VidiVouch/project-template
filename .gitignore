@@ -544,6 +544,8 @@ FodyWeavers.xsd
 
 # AI tooling
 .claude/settings.local.json
+.claude/scheduled_tasks.lock
+.review-cache/
 .codex/config.local.toml
 # Personal, per-project Claude prefs imported by CLAUDE.md; never committed.
 CLAUDE.local.md

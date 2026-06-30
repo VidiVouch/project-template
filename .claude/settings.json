@@ -20,17 +20,35 @@
   },
   "feedbackSurveyRate": 0,
   "forceLoginMethod": "claudeai",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "command": "${CLAUDE_PROJECT_DIR}/.claude/hooks/review-gate.sh",
+            "timeout": 30000,
+            "type": "command"
+          }
+        ],
+        "matcher": ""
+      }
+    ]
+  },
   "permissions": {
     "allow": [
       "Bash(find:*)",
       "Bash(git add:*)",
       "Bash(git bisect:*)",
+      "Bash(git commit:*)",
       "Bash(git log:*)",
+      "Bash(git ls-tree:*)",
       "Bash(git show:*)",
       "Bash(grep:*)",
+      "Bash(ls:*)",
       "Bash(mkdir:*)",
       "Bash(pbcopy:*)",
       "Bash(touch:*)",
+      "Bash(wc:*)",
       "WebFetch(domain:docs.claude.com)",
       "WebFetch(domain:www.anthropic.com)",
       "WebSearch",
