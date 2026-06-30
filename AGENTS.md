@@ -2,7 +2,20 @@
 
 ## Project Maturity
 
-Pre-production, no users. Prefer the best design over backwards compatibility. Destructive migrations are fine. Don't add compatibility shims.
+Pre-production, no users. Prefer the best design over backwards compatibility.
+Destructive migrations are fine. Don't add compatibility shims.
+
+## Tooling
+
+- **Package manager**: `uv`. Always use `uv run` to execute commands (e.g. `uv run ruff check`).
+- **Virtual environment**: the default `.venv/` works on native macOS, Linux,
+  and Windows PowerShell — no setup needed.
+- **WSL-on-Windows only**: if the same checkout is also accessed from Windows
+  PowerShell, `.venv/` can't be shared (WSL expects `bin/python`, PowerShell
+  creates `Scripts/python.exe`). Install [direnv](https://direnv.net/) and
+  run `direnv allow` in the repo — the committed `.envrc` sets
+  `UV_PROJECT_ENVIRONMENT=.venv-wsl` when it detects WSL via `/proc/version`.
+  No-op on native macOS/Linux.
 
 ## Skills layout
 
@@ -16,10 +29,16 @@ Pre-production, no users. Prefer the best design over backwards compatibility. D
   **portable**: no `` !` `` dynamic-context injection, no `@path` imports —
   those are Claude Code runtime features that Codex reads as literal text.
 
+## Commands
+
+- **Tests**: `uv run pytest` (`addopts` defaults to `-n auto --dist worksteal` (pytest-xdist) — pass `-n0` to disable parallelism for single-test debugging.
+
 ## Code Standards
 
-- Keep changes small and well-scoped; document non-obvious intent.
-- Language-specific tooling and standards are layered on top of this base by the per-language toolchain.
+- Google-style docstrings
+- Linting: `uv run ruff check`
+- Formatting: `uv run ruff format .`
+- Type checking: `uv run basedpyright`
 
 ## Notes & docs
 

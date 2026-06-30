@@ -15,6 +15,14 @@ indent_size = 4
 # Docstrings and comments use max_line_length = 88
 max_line_length = 120
 
+# uv is the authoritative formatter for uv.lock. PyCharm's TOML formatter
+# rewrites array continuation indent (4 -> 2 spaces) and wraps long URLs,
+# producing huge no-op diffs. Disable the IDE formatter for this file.
+[uv.lock]
+indent_size = 4
+max_line_length = off
+ij_formatter_enabled = false
+
 [.idea/**]
 insert_final_newline = unset
 
