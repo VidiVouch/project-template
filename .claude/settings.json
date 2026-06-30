@@ -4,10 +4,19 @@
     "pr": ""
   },
   "enabledPlugins": {
+    "codex@openai-codex": true,
     "context7@claude-plugins-official": true
   },
   "env": {
     "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+  "extraKnownMarketplaces": {
+    "openai-codex": {
+      "source": {
+        "repo": "openai/codex-plugin-cc",
+        "source": "github"
+      }
+    }
   },
   "feedbackSurveyRate": 0,
   "forceLoginMethod": "claudeai",
