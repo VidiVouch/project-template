@@ -14,6 +14,14 @@ REVIEW.md
         "model": "claude-opus-4-8"
       },
       "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
     }
   }
 }

@@ -2,8 +2,12 @@ apps/billing/tests/test_webhooks.py
   s_b380a8ea486da9::t_e1350ca10fc6d1 23-24,39-44,63,83-84,124-126,172-331
 apps/billing/models.py
   s_b380a8ea486da9::t_e1350ca10fc6d1 4-35,38,40,49-95,99-107,112-121,125-128,136-221,232-233,250-251,260,279-281,288-296,303-306,317-323,331-332,334-338
+  s_0276221d01c0b0::t_8e793a5847a886 260
+  s_0276221d01c0b0::t_401e2970eaa127 137-138,163
 apps/billing/webhooks.py
   s_b380a8ea486da9::t_e1350ca10fc6d1 3-5,8-55,79,84-85,88,103-104,121-128,133-137,141-160,162-169,174,176,178
+  s_0276221d01c0b0::t_8c0619d7e512f5 163,169
+  s_0276221d01c0b0::t_95d49cdd9f902e 79
 apps/billing/migrations/0002_stripecustomer_deleted_stripecustomer_event_created_and_more.py
   s_b380a8ea486da9::t_395eec005e7b0b 1-58
 ---
@@ -13,6 +17,14 @@ apps/billing/migrations/0002_stripecustomer_deleted_stripecustomer_event_created
   "base_commit_sha": "5a84058c0498e3ac32dab56f9f6d2a21947a98e1",
   "prompts": {},
   "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
     "s_b380a8ea486da9": {
       "agent_id": {
         "tool": "claude",

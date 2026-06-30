@@ -10,6 +10,14 @@ config/settings/production.py
   "base_commit_sha": "ab17bb8cb51e2a9c70d4bea51582b1420339765f",
   "prompts": {},
   "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
     "s_b380a8ea486da9": {
       "agent_id": {
         "tool": "claude",
