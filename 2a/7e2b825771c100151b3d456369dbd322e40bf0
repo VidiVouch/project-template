@@ -1,0 +1,33 @@
+.vscode/extensions.json
+  s_a9f07316d2a020::t_f7ce7ff5b6dcd5 10
+.vscode/settings.json
+  s_a9f07316d2a020::t_08ee358fe58933 33
+.gitignore
+  s_a9f07316d2a020::t_f6a95b248935d5 1-2,4,23-27,42-49,51,53-56
+.claude/settings.json
+  s_a9f07316d2a020::t_741c6695220aa6 38
+.codex/hooks.json
+  s_a9f07316d2a020::t_124110f7517f23 2
+.idea/misc.xml
+  s_a9f07316d2a020::t_bb932df96742b8 3-4
+.vscode/tasks.json
+  s_a9f07316d2a020::t_7105807a7ed336 2
+.idea/portal-update.iml
+  s_a9f07316d2a020::t_29ab0c7d5645b2 2,12,15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "2a7e2b825771c100151b3d456369dbd322e40bf0",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
