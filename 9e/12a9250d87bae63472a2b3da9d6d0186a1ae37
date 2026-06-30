@@ -1,0 +1,23 @@
+project_template.egg-info/PKG-INFO
+  s_a9f07316d2a020::t_de9e83379797b2 3
+pyproject.toml
+  s_a9f07316d2a020::t_cd5dc9bc8c1848 21,23,26-29,34-38,134-159
+uv.lock
+  s_a9f07316d2a020::t_b2ca3720616b6b 35-53,75-128,138-146,165-173,202-213,226-255,308-316,338-341,344,347-350,358-362,370-373,376,379-382,390-394,416-470
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "9e12a9250d87bae63472a2b3da9d6d0186a1ae37",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}

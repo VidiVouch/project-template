@@ -1,0 +1,29 @@
+.idea/codeStyles/Project.xml
+  s_a9f07316d2a020::t_5ba9e53ae8ef10 1-10
+.idea/inspectionProfiles/Project_Default.xml
+  s_a9f07316d2a020::t_543f59067ff363 5-18,20
+.idea/misc.xml
+  s_a9f07316d2a020::t_448f6238b8a1ff 3-7
+.idea/project-template.iml
+  s_a9f07316d2a020::t_18a3ff7ae97cc6 2,5-6,8-11,13,15,18-25
+.idea/pyProjectModel.xml
+  s_a9f07316d2a020::t_892776ba9fdf43 1-7
+.idea/pySourceRootDetection.xml
+  s_a9f07316d2a020::t_fc5c890f9dfd2d 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "deadf29cb8c8e95b9fbde0ba501fdc8970b39ec0",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}

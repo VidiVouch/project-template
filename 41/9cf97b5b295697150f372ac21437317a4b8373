@@ -1,0 +1,19 @@
+README.md
+  s_a9f07316d2a020::t_d774e68edc0ee7 1,5,7-11,13-14,17-23,31-33,35,37-40,46-48,50,53-85,88-90,92-114,116-134,136-138,142-148,150,154-159,163,167,180-193,197,209,212,215,219
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "419cf97b5b295697150f372ac21437317a4b8373",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
