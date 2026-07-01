@@ -1,0 +1,111 @@
+editors/jetbrains/src/main/resources/icons/vidi@20x20_dark.svg
+  s_c42ac4ade5bb14::t_5a30940429eb30 2-3
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStripeAnnotator.kt
+  s_bef12b0547eda5::t_958cd8593ffcfc 21
+  s_bef12b0547eda5::t_29b9cec02336a1 1-20,22-46
+editors/jetbrains/src/main/resources/icons/vidi@20x20.svg
+  s_c42ac4ade5bb14::t_a4e60c8a1653b1 2-3
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiBadges.kt
+  s_bef12b0547eda5::t_c19f6032eeae87 28-31
+  s_bef12b0547eda5::t_b691567d846243 1-27,32-71,73-82,84-87,89-90,92-126
+  s_bef12b0547eda5::t_d1dc85859accf3 72,83,88,91
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPalette.kt
+  s_c42ac4ade5bb14::t_1a21fd9c8e78da 23-38,47,56-57,60-61
+  s_db3ca8be3d7da9::t_e3ea9cf28d356d 62
+  s_bef12b0547eda5::t_b7966eb50e217b 50-55,58-59,63-68,70-77
+  s_db3ca8be3d7da9::t_4b55f0c2041370 69
+editors/jetbrains/swap.sh
+  s_ef8da785b3028e::t_1b8de31d8f2868 1-60,63-71
+  s_ef8da785b3028e::t_91abce25d53ad5 61-62
+editors/jetbrains/dev-runide.sh
+  s_bef12b0547eda5::t_5d5e46d4ca894e 1-19,21-32,42-71
+  s_bef12b0547eda5::t_dbbc3cd343cc5a 39
+  s_bef12b0547eda5::t_574b1d1246fa79 33-38,40-41
+  s_bef12b0547eda5::t_862b78d895777b 20
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiText.kt
+  s_bef12b0547eda5::t_4230f14b4a33e2 14
+  s_bef12b0547eda5::t_9a44faffd1e453 1-13,15-62
+".run/Run vidi plugin (sandbox IDE).run.xml"
+  s_b771d99100a061::t_1de7618158d185 16
+  s_b771d99100a061::t_29fca1fca27a72 1-5,7-15,17-20
+  s_b771d99100a061::t_72b159d6f1b90b 6
+editors/jetbrains/DEVELOPMENT.md
+  s_ef8da785b3028e::t_24b6472aad9900 1-60
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStatusBar.kt
+  s_bef12b0547eda5::t_94dd8ade41d36a 1-67
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStartupActivity.kt
+  s_bef12b0547eda5::t_277f7bee1eda26 1-18
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiLineMarkerProvider.kt
+  s_bef12b0547eda5::t_4b32f8c36dfe65 13-17,21-25
+  s_bef12b0547eda5::t_9ddc48d9700a3c 3,7-10,18-19,29
+  s_db3ca8be3d7da9::t_91ba1e861256b4 11
+editors/jetbrains/src/main/resources/icons/vidi_dark.svg
+  s_c42ac4ade5bb14::t_deb8364ffa7b2a 2-3
+editors/jetbrains/src/main/resources/icons/vidi.svg
+  s_c42ac4ade5bb14::t_0ef134cd89440a 2-3
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReviewFromAction.kt
+  s_bef12b0547eda5::t_b2c127656f578c 1-67
+editors/jetbrains/src/main/resources/META-INF/plugin.xml
+  s_bef12b0547eda5::t_065eb27f4eb66d 44-45
+  s_bef12b0547eda5::t_960a2a6884da96 48-52
+  s_db3ca8be3d7da9::t_4b55f0c2041370 53
+  s_bef12b0547eda5::t_e1ef8a06091b68 21-22
+  s_bef12b0547eda5::t_c2777a4d26afa9 29-30
+  s_bef12b0547eda5::t_5fcd9cdf7a6133 27-28
+  s_bef12b0547eda5::t_f9ecfb6fc82fcb 17-20,23-26
+_typos.toml
+  s_db3ca8be3d7da9::t_90a627207eccae 12
+project-words.dic
+  s_db3ca8be3d7da9::t_d31395fd201cb2 11
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiSettings.kt
+  s_bef12b0547eda5::t_2e1ac0f1dfed97 17-27,44-62
+  s_db3ca8be3d7da9::t_4b55f0c2041370 63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "b52fc7f47e890f4f8650ebf275d7d0ba6a087ea0",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_bef12b0547eda5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f165ca40-9cc1-412d-80a3-bffeff7fd7e9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_c42ac4ade5bb14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b13c952f-1626-40dd-9c05-92562963bcbb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_db3ca8be3d7da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f1938f61-9820-4c5a-823c-4dd771402dc4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ef8da785b3028e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "69cf7203-fdab-45ba-b092-fb7846f7680c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
