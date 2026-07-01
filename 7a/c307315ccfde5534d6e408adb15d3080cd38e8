@@ -1,0 +1,14 @@
+pyproject.toml
+  h_bd7048833a64f4 31-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "7ac307315ccfde5534d6e408adb15d3080cd38e8",
+  "prompts": {},
+  "humans": {
+    "h_bd7048833a64f4": {
+      "author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
