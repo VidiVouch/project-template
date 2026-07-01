@@ -1,0 +1,25 @@
+editors/jetbrains/src/main/resources/META-INF/plugin.xml
+  s_a9f07316d2a020::t_359bd5be827c24 19-23
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiSettings.kt
+  s_a9f07316d2a020::t_2170496e9cd39f 1-38
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiRunner.kt
+  s_a9f07316d2a020::t_a38fd94489ec79 24-28,30
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiConfigurable.kt
+  s_a9f07316d2a020::t_6eb9127e8007f6 1-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "49a1284f5fa99533240b9dbeee6bcb132245b485",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

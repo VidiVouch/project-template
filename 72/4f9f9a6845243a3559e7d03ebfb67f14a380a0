@@ -1,0 +1,26 @@
+crates/vidi-cli/src/significance/git.rs
+  s_c42ac4ade5bb14::t_119615278905ac 156-182,184-185,190-198,204-206
+  s_c42ac4ade5bb14::t_ab5b29ab0350ee 60-64,66
+  s_c42ac4ade5bb14::t_7473e606442cf3 183,186-189,199-203
+crates/vidi-cli/src/significance.rs
+  s_c42ac4ade5bb14::t_00bfacdf8c8be6 28
+  s_c42ac4ade5bb14::t_d6b55fa00f3037 155-161,167-190
+  s_c42ac4ade5bb14::t_65a8ef721370a9 588-610
+  s_c42ac4ade5bb14::t_030aa5643c4047 587
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "c1216e305237713f2b6cccb6090417955c9cef54",
+  "prompts": {},
+  "sessions": {
+    "s_c42ac4ade5bb14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b13c952f-1626-40dd-9c05-92562963bcbb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
