@@ -1,0 +1,14 @@
+.github/workflows/lint.yml
+  h_bd7048833a64f4 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "2ebb06e3b6f510a2c91913f68fad2073d28fd6a6",
+  "prompts": {},
+  "humans": {
+    "h_bd7048833a64f4": {
+      "author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
