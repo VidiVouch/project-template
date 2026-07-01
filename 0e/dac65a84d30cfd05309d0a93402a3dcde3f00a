@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "0edac65a84d30cfd05309d0a93402a3dcde3f00a",
+  "prompts": {},
+  "humans": {
+    "h_bd7048833a64f4": {
+      "author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
