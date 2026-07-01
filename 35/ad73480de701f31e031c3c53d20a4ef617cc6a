@@ -1,0 +1,69 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiMatrixPanel.kt
+  s_db3ca8be3d7da9::t_44c1b8b49f34f2 88,93-98
+  s_db3ca8be3d7da9::t_cf5072ec07315c 99
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiGutterHighlighter.kt
+  s_bef12b0547eda5::t_8edb2f6b031457 1-60,67-93,95-109,117-131
+  s_bef12b0547eda5::t_6f724383f6c13c 94
+  s_db3ca8be3d7da9::t_87121a5b8d41dc 61-66
+  s_bef12b0547eda5::t_92c8d5b0294fbc 110-116
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VouchAction.kt
+  s_bef12b0547eda5::t_0b12c87db6c654 27-31,36-37,39,53-60,63
+  s_bef12b0547eda5::t_837f7cc09bb734 178
+  s_bef12b0547eda5::t_b8feffdb85e8b1 78-95,107-110
+  s_db3ca8be3d7da9::t_7d114b43d1977c 96-106
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiToolWindowFactory.kt
+  s_bef12b0547eda5::t_d12bc4668d30a2 5,9,19,21,23,26-36,38-54,57-62,67,72,79-80,82-97,99-102,104-105,109,111-114,117,121,123-124,126-239,241-260,263-265,275-279,281-282,285-298,303,318-319,321,323-332,335-421,426-443,447,449,451-452,454-456,459-478,480-481,483,486-496,498,500-506
+  s_db3ca8be3d7da9::t_44c1b8b49f34f2 261-262,320,322,479,497,499
+  s_bef12b0547eda5::t_64d5b79cd30d5d 73-75
+  s_db3ca8be3d7da9::t_00b6a31612ce7d 266-274,280
+  s_bef12b0547eda5::t_f0969087f67fdb 66,68-71
+  s_bef12b0547eda5::t_6c3b96c4c8da9c 76-78
+  s_db3ca8be3d7da9::t_e3ea9cf28d356d 333-334
+  s_db3ca8be3d7da9::t_9239470c2064dc 299-300,448
+  s_db3ca8be3d7da9::t_f5796dfe8c69d9 301,304-317
+  s_db3ca8be3d7da9::t_dc77f5a6846754 110
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReviewPanel.kt
+  s_db3ca8be3d7da9::t_44c1b8b49f34f2 122-125,128,132-138,291-297
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiInlayHints.kt
+  s_bef12b0547eda5::t_10340ad78e35be 1-54,61-72,81-130
+  s_db3ca8be3d7da9::t_9d8bacdc333431 55-60
+  s_db3ca8be3d7da9::t_d2ed7a5a372ec5 73-80
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCheckinHandler.kt
+  s_db3ca8be3d7da9::t_3e462d3e4ab62d 95-99,101-108
+  s_db3ca8be3d7da9::t_c0258d11ca6bc1 71-75,79-85
+  s_bef12b0547eda5::t_cb5b916b1145df 1-70,76-78,86-94,100,109-112
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiRunner.kt
+  s_bef12b0547eda5::t_6c20bd7cb368e6 153,159-162
+  s_db3ca8be3d7da9::t_4a2fb9263a768c 35-39
+  s_bef12b0547eda5::t_b7484e95b9c96c 3,8-19,28-34,40-68,75-76,128-131,134-135,142-147,152,154-158,163-175,184-218,220-224,227-230
+  s_bef12b0547eda5::t_1fb0de3c5a5ca7 176-183
+  s_bef12b0547eda5::t_894cf55b00a896 69-72
+  s_db3ca8be3d7da9::t_44c1b8b49f34f2 219
+  s_bef12b0547eda5::t_5382ef4678ed60 78-81
+  s_db3ca8be3d7da9::t_1febbc62d91b9e 148-149
+  s_db3ca8be3d7da9::t_b700f9e4f72f85 77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "35ad73480de701f31e031c3c53d20a4ef617cc6a",
+  "prompts": {},
+  "sessions": {
+    "s_bef12b0547eda5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f165ca40-9cc1-412d-80a3-bffeff7fd7e9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_db3ca8be3d7da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f1938f61-9820-4c5a-823c-4dd771402dc4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
