@@ -1,0 +1,77 @@
+apps/disambiguator/management/commands/queue_serper_prospect_lookup.py
+  s_0276221d01c0b0::t_f8827af5161313 1-400
+apps/disambiguator/tests/factories.py
+  s_0276221d01c0b0::t_f8827af5161313 1-198
+apps/disambiguator/management/commands/disambiguate_inspect.py
+  s_0276221d01c0b0::t_f8827af5161313 1-47
+apps/disambiguator/management/commands/enrichment_apply.py
+  s_0276221d01c0b0::t_f8827af5161313 1-46
+apps/disambiguator/models.py
+  s_0276221d01c0b0::t_f8827af5161313 1-433
+apps/disambiguator/registrations.py
+  s_0276221d01c0b0::t_f8827af5161313 1-28
+apps/disambiguator/management/commands/disambiguate_review.py
+  s_0276221d01c0b0::t_f8827af5161313 1-150
+apps/disambiguator/migrations/0002_disambiguationcandidate_disambiguationverdict_and_more.py
+  s_0276221d01c0b0::t_f8827af5161313 1-92
+apps/disambiguator/tests/test_queue_serper_prospect_lookup.py
+  s_0276221d01c0b0::t_f8827af5161313 1-474
+apps/disambiguator/tests/test_registrations.py
+  s_0276221d01c0b0::t_f8827af5161313 1-94
+apps/disambiguator/tests/test_applier.py
+  s_0276221d01c0b0::t_f8827af5161313 1-446
+apps/disambiguator/tests/test_policy.py
+  s_0276221d01c0b0::t_f8827af5161313 1-204
+apps/disambiguator/tests/test_strategies.py
+  s_0276221d01c0b0::t_f8827af5161313 1-154
+apps/disambiguator/apps.py
+  s_0276221d01c0b0::t_f8827af5161313 1-10
+apps/disambiguator/tests/test_models.py
+  s_0276221d01c0b0::t_f8827af5161313 1-401
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_0276221d01c0b0::t_f8827af5161313 1-467
+apps/disambiguator/strategies.py
+  s_0276221d01c0b0::t_f8827af5161313 1-147
+apps/disambiguator/management/commands/disambiguate_apply.py
+  s_0276221d01c0b0::t_f8827af5161313 1-53
+apps/disambiguator/tests/test_audit_linkage.py
+  s_0276221d01c0b0::t_f8827af5161313 1-133
+apps/disambiguator/enricher.py
+  s_0276221d01c0b0::t_f8827af5161313 1-154
+apps/disambiguator/migrations/0001_initial.py
+  s_0276221d01c0b0::t_f8827af5161313 1-79
+apps/disambiguator/providers.py
+  s_0276221d01c0b0::t_f8827af5161313 1-211
+apps/disambiguator/tests/test_enricher.py
+  s_0276221d01c0b0::t_f8827af5161313 1-343
+apps/disambiguator/applier.py
+  s_0276221d01c0b0::t_f8827af5161313 1-221
+apps/disambiguator/tests/test_providers.py
+  s_0276221d01c0b0::t_f8827af5161313 1-142
+apps/disambiguator/management/_args.py
+  s_0276221d01c0b0::t_f8827af5161313 1-32
+apps/disambiguator/migrations/0003_organizationenrichmentproposal.py
+  s_0276221d01c0b0::t_f8827af5161313 1-36
+apps/disambiguator/tests/test_commands.py
+  s_0276221d01c0b0::t_f8827af5161313 1-226
+apps/disambiguator/management/commands/queue_apify_company_resolution.py
+  s_0276221d01c0b0::t_f8827af5161313 1-305
+apps/disambiguator/policy.py
+  s_0276221d01c0b0::t_f8827af5161313 1-156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "d64e06b1de5f4796350826824f00c2fd1caa288c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

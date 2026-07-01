@@ -1,0 +1,48 @@
+templates/app/_nav.html
+  s_0276221d01c0b0::t_023183b6c0cbd5 16,20-23,60-64
+templates/sales/conference_detail.html
+  s_0276221d01c0b0::t_544035da41a19c 1-58
+apps/sales/urls.py
+  s_0276221d01c0b0::t_010d438a1041a4 1-28
+templates/sales/event_index.html
+  s_0276221d01c0b0::t_544035da41a19c 1-37
+config/urls.py
+  s_0276221d01c0b0::t_b4be1807c9ffe7 47-52
+templates/sales/prospect_lists.html
+  s_0276221d01c0b0::t_544035da41a19c 1-35
+templates/sales/dashboard.html
+  s_0276221d01c0b0::t_544035da41a19c 1-62
+templates/sales/icp_profiles.html
+  s_0276221d01c0b0::t_544035da41a19c 1-53
+apps/sales/exports_views.py
+  s_0276221d01c0b0::t_a5e1b9eb14e526 1-139
+templates/sales/prospect_list_detail.html
+  s_0276221d01c0b0::t_544035da41a19c 1-107
+templates/sales/icp_profile_detail.html
+  s_0276221d01c0b0::t_544035da41a19c 1-67
+assets/js/count-up.js
+  s_0276221d01c0b0::t_4db1a114061df3 1-46
+templates/sales/conference_list.html
+  s_0276221d01c0b0::t_544035da41a19c 1-49
+apps/sales/views.py
+  s_0276221d01c0b0::t_8492b48b31a977 1-348,350-633
+  s_0276221d01c0b0::t_f69ddd800058ec 349
+templates/sales/event_detail.html
+  s_0276221d01c0b0::t_544035da41a19c 1-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "688bbe1ee4dd440ec6ad99aefb64e8f465e3d132",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+apps/sales/event_tokens.py
+  s_0276221d01c0b0::t_6e7e97429680be 1-80
+apps/sales/entitlements.py
+  s_0276221d01c0b0::t_6e7e97429680be 1-139
+apps/sales/person_tokens.py
+  s_0276221d01c0b0::t_6e7e97429680be 1-75
+apps/sales/tests/test_entitlements.py
+  s_0276221d01c0b0::t_e16238fa5ff248 1-112
+apps/sales/tests/test_placeholders.py
+  s_0276221d01c0b0::t_e16238fa5ff248 1-58
+apps/sales/placeholders.py
+  s_0276221d01c0b0::t_6e7e97429680be 1-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "c948adc8ed6e155d7ba4abd0468f3fd70fb7c42b",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

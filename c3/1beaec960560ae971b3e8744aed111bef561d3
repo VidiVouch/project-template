@@ -1,0 +1,19 @@
+apps/sales/tests/test_seed_design_preview.py
+  s_33f9c21df35ec6::t_d362cec9608cb2 168-171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c31beaec960560ae971b3e8744aed111bef561d3",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

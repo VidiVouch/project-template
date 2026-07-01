@@ -1,0 +1,42 @@
+apps/identity/models.py
+  s_5b002650df0863::t_62824de019117c 14,22-45,60-69,86-97,102-124,240-245,301-309,313-314,317-319,345-353,445-449,484,544-550,554-557,583-584,587,593,600,602-603,606,610,615-618,622-623,627,634,637,642,646-648,651-652,654,662,666
+  s_5b002650df0863::t_599664c4f1d8b6 480-483
+apps/identity/receivers.py
+  s_03d4e22efd389d::t_b41fc52bc95f80 28
+apps/identity/events.py
+  s_5b002650df0863::t_62824de019117c 1-21,28
+  s_5b002650df0863::t_d370916daaf493 22-27
+  s_5b002650df0863::t_378508dc4cb8ad 29-37
+apps/identity/forms.py
+  s_5b002650df0863::t_62824de019117c 13-16,80-82
+  s_5b002650df0863::t_018d2cf91e3d4c 19
+  s_5b002650df0863::t_9d9bf95bcba234 107-146,224-225,228,233,240-241,249,256
+  s_5b002650df0863::t_d4b2bbfb0ecba7 179-181
+  s_5b002650df0863::t_3c23518a31978d 194-196
+  s_5b002650df0863::t_115f5f8dd4bbc4 200-202
+  s_5b002650df0863::t_26f044b1db3f51 209-212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b5e5f8ce48f757bf4aca7200c525ede5874835cd",
+  "prompts": {},
+  "sessions": {
+    "s_03d4e22efd389d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eee70820-4840-46c0-ac73-0c0a42bab83f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

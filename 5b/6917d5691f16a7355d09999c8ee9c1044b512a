@@ -1,0 +1,60 @@
+apps/data/guidebook/tests/test_transformers.py
+  s_ffd92932362e87::t_93d34c6990f234 8
+apps/catalog/tests/test_promote_guidebook.py
+  s_ffd92932362e87::t_50cdd1544ecfb6 48
+  s_ffd92932362e87::t_4b3d487db018a7 110
+  s_ffd92932362e87::t_a62566c338a7f4 245
+apps/bootstrap.py
+  s_ffd92932362e87::t_d92a09266d58ef 98-110
+  s_ffd92932362e87::t_e2782b66ee1e1c 92
+scrapers/event_spiders/guidebook.py
+  s_ffd92932362e87::t_122a5d2ff88488 46
+scrapers/event_spiders/tests/test_guidebook_spider.py
+  s_ffd92932362e87::t_563f840580bf20 19
+apps/data/guidebook/models.py
+  s_ffd92932362e87::t_6e72e39a06f44a 48
+  s_ffd92932362e87::t_7685ef6d2333b3 59-171
+apps/data/guidebook/tests/test_app_registration.py
+  s_ffd92932362e87::t_5f30f9d1a76667 26
+envelopes/guidebook/versions.py
+  s_ffd92932362e87::t_1c70207c2dc89b 1-22
+apps/catalog/handlers/guidebook.py
+  s_ffd92932362e87::t_ad65c6b1dd8f03 268
+  s_ffd92932362e87::t_485c56a2912224 234
+  s_ffd92932362e87::t_0aa20d084eee2c 164
+  s_ffd92932362e87::t_894ca88246155c 190
+  s_ffd92932362e87::t_076dc8bfcc0250 311
+  s_ffd92932362e87::t_20c7673eff4409 126
+config/settings/base.py
+  s_ffd92932362e87::t_f94695ef887366 112
+apps/data/guidebook/tests/test_contracts.py
+  s_ffd92932362e87::t_9afc84dd89b1bd 20
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_90a89d7d51b253 98-105
+  s_ffd92932362e87::t_41e0daed1936cd 59-66
+  s_ffd92932362e87::t_5259446e296af0 143-146
+  s_ffd92932362e87::t_aab037c95374f8 124-125
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_e5029397898e13 47-54
+  s_ffd92932362e87::t_4e6cc4fd688cc6 273-278
+  s_ffd92932362e87::t_95f02fbfcf3bab 94-101
+apps/data/guidebook/transformers.py
+  s_ffd92932362e87::t_e88883016eb225 29-30
+  s_ffd92932362e87::t_c7a664cd5be6ae 47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "5b6917d5691f16a7355d09999c8ee9c1044b512a",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

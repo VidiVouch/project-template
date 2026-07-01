@@ -1,0 +1,24 @@
+apps/analytics/signals.py
+  s_16b898829b41be::t_4255149630ef35 27-30,46,221-230
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b854560573b8e76cb2c2d112b0996eb027722b71",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_16b898829b41be": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7ba2adf3-2584-47e8-bc12-f334d64a9fdf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

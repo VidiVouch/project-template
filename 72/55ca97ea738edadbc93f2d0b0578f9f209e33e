@@ -1,0 +1,24 @@
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_5b002650df0863::t_96c557d01700ff 334
+apps/catalog/tests/test_export_events.py
+  s_5b002650df0863::t_f05a2ac6a4bdc2 1-197,199-206
+  s_5b002650df0863::t_e4cc8c6ee62b60 198
+apps/catalog/management/commands/export_events.py
+  s_5b002650df0863::t_0c2ed4a8cb11db 1-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "7255ca97ea738edadbc93f2d0b0578f9f209e33e",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

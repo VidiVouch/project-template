@@ -1,0 +1,41 @@
+apps/sales/tests/test_scoring_service.py
+  s_33f9c21df35ec6::t_eb39334713d62c 16,21,38,48,53,169
+apps/sales/tests/test_prospect_lists.py
+  s_33f9c21df35ec6::t_eb39334713d62c 18,28
+apps/sales/tests/test_seed_design_preview.py
+  s_33f9c21df35ec6::t_eb39334713d62c 21,83
+apps/sales/tests/test_middleware.py
+  s_33f9c21df35ec6::t_eb39334713d62c 12,42,104,132
+apps/sales/tests/factories.py
+  s_33f9c21df35ec6::t_1e48dcb96dbfbd 1-181
+apps/sales/tests/test_models.py
+  s_33f9c21df35ec6::t_eb39334713d62c 12,15,22,115,119
+apps/sales/tests/test_limits.py
+  s_33f9c21df35ec6::t_eb39334713d62c 10-11,15,18-20,26
+apps/sales/tests/test_export_flow.py
+  s_33f9c21df35ec6::t_eb39334713d62c 12-13,23,25,35,50
+  s_33f9c21df35ec6::t_d6a965a9c86474 15,26-28
+  s_33f9c21df35ec6::t_8657568da60ab6 158-159,171
+apps/sales/tests/test_delivery.py
+  s_33f9c21df35ec6::t_eb39334713d62c 15,27,168
+apps/sales/tests/test_merge_rehome.py
+  s_33f9c21df35ec6::t_eb39334713d62c 3-4,19,30-33,40,45,50,114,177,222
+apps/sales/tests/test_conferences.py
+  s_33f9c21df35ec6::t_eb39334713d62c 19,28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2893d1ce1662ebce2a40a9366cab934869e487c7",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

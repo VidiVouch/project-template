@@ -1,0 +1,58 @@
+apps/sales/tests/test_merge_rehome.py
+  s_5b002650df0863::t_5568bc30180f3b 146-162,165-168,170
+apps/sales/models.py
+  s_5b002650df0863::t_2a615852249a8c 30,38-100
+apps/sales/views.py
+  s_5b002650df0863::t_1ae2ac1234169e 1-98,100
+  s_5b002650df0863::t_0d46701db9494e 99
+templates/sales/conference_detail.html
+  s_5b002650df0863::t_f9d6d45c564db2 1-26
+apps/sales/tests/test_limits.py
+  s_5b002650df0863::t_b08929671963a7 1-112
+apps/sales/limits.py
+  s_5b002650df0863::t_88aa30c24232a2 1-92
+templates/app/_nav.html
+  s_5b002650df0863::t_5a21a51785c137 16-20
+templates/sales/conference_list.html
+  s_5b002650df0863::t_c317b23bee8bd1 1-45
+config/urls.py
+  s_5b002650df0863::t_bc1ff741571a12 28-29
+apps/sales/tests/test_rls.py
+  s_5b002650df0863::t_0d46701db9494e 60
+  s_5b002650df0863::t_b8acd17316e70a 21
+  s_5b002650df0863::t_34a85ab274021e 28,38
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_5b002650df0863::t_8f4f8b0f910c38 328
+apps/sales/urls.py
+  s_5b002650df0863::t_dcd1a1d9a51095 1-12
+apps/sales/tests/test_conferences.py
+  s_5b002650df0863::t_d5f37ac29935f6 1-222
+apps/sales/admin.py
+  s_5b002650df0863::t_27a00527d853af 10-26
+config/settings/base.py
+  s_5b002650df0863::t_3b609469ed5037 409-413
+apps/sales/migrations/0003_conference.py
+  s_5b002650df0863::t_618d24324c86d4 1-35
+apps/sales/conference_sections.py
+  s_5b002650df0863::t_5e44432fd545b5 1-75
+apps/sales/migrations/0004_conference_rls.py
+  s_5b002650df0863::t_63d2ba06788f1b 1-18
+apps/sales/registrations.py
+  s_5b002650df0863::t_b5b416f1a544b5 20-27,31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "44e9746477e5d8e0ed68ea68c9c5a987fadc5f75",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

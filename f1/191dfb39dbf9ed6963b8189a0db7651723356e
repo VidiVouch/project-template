@@ -1,0 +1,20 @@
+apps/identity/tests/test_impersonation.py
+  s_eef0c01ffe4331::t_57477111f82b33 27
+  s_eef0c01ffe4331::t_2fb6a9fb48ffa9 88-89,102-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f1191dfb39dbf9ed6963b8189a0db7651723356e",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+apps/data/grip/admin.py
+  s_5b002650df0863::t_6a1a44400da3f4 1-21
+apps/data/grip/management/commands/import_portal_grip.py
+  s_5b002650df0863::t_6a1a44400da3f4 1-29,31-92
+apps/data/grip/tests/test_admin.py
+  s_5b002650df0863::t_6a1a44400da3f4 1-34
+apps/data/grip/tests/test_import_portal_grip.py
+  s_5b002650df0863::t_6a1a44400da3f4 1-14,16-81,83-102
+  s_5b002650df0863::t_1381e36a765b3d 82
+REVIEW.md
+  s_5b002650df0863::t_17dfcd19c25803 43-44
+  s_5b002650df0863::t_91f22074c68087 45-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "779f36f44a8f7f0d8e468199f2e1932ec63638ff",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

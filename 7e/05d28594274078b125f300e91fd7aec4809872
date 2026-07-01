@@ -1,0 +1,20 @@
+.github/workflows/lint.yml
+  s_9cc359b33535bd::t_40ea4582e125a8 1
+  s_9cc359b33535bd::t_f098bc4d52398c 32-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "7e05d28594274078b125f300e91fd7aec4809872",
+  "prompts": {},
+  "sessions": {
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

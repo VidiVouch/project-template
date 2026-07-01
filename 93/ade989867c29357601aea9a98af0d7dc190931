@@ -1,0 +1,117 @@
+apps/catalog/tests/test_promote_websummit.py
+  s_b9243291ebcd83::t_f5f5bd3db2562c 283-309
+  s_b9243291ebcd83::t_a885f6eea1f8c5 1-6,8-233,235-242,246-282
+  s_b9243291ebcd83::t_255cad8018e03b 7
+  s_b9243291ebcd83::t_67bf8a2da7d528 243-245
+  s_b9243291ebcd83::t_61f155d3f5ab3b 234
+apps/data/websummit/admin.py
+  s_b9243291ebcd83::t_5cba0801963b38 1-52
+apps/catalog/handlers/websummit.py
+  s_b9243291ebcd83::t_33ecc25a4ab0e0 1-82,84-246,248-277
+  s_b9243291ebcd83::t_b452b9df987632 83
+  s_b9243291ebcd83::t_6f22af819ba7b2 247
+apps/data/websummit/tests/test_contracts.py
+  s_b9243291ebcd83::t_d398981fa8a7c5 8-12,21-23,173,190-194,196-200,207
+  s_b9243291ebcd83::t_663d48174c41ad 148-153
+  s_b9243291ebcd83::t_05a90008586588 1-7,13-20,24-147,154-172,174-189,195,201-206
+config/settings/base.py
+  s_b9243291ebcd83::t_a87201122e9218 101
+apps/data/websummit/tests/test_mapping.py
+  s_b9243291ebcd83::t_489323340590a1 1-115
+apps/data/websummit/registrations.py
+  s_b9243291ebcd83::t_1b4f977c4fc79b 1,4-7,9-13,15,19-51,53-70,72-77
+  s_b9243291ebcd83::t_d398981fa8a7c5 2-3,8,14,16-18,52,71,78
+apps/data/websummit/tests/test_import_portal_websummit.py
+  s_b9243291ebcd83::t_5a33697d792173 1-17,19-105
+  s_b9243291ebcd83::t_67bf8a2da7d528 18
+apps/catalog/promoters.py
+  s_b9243291ebcd83::t_cdbcd8d794128c 102-106
+  s_b9243291ebcd83::t_991d02d2f713e4 90
+  s_b9243291ebcd83::t_bb4fa1eb773926 73-80
+  s_b9243291ebcd83::t_26d6b929e3227a 48-55
+apps/data/websummit/transformers.py
+  s_b9243291ebcd83::t_d398981fa8a7c5 18-22,42-47,50,56,61,69,74,76-79
+  s_b9243291ebcd83::t_42c77afbe37964 1-17,23-41,48-49,51-55,57-60,62-68,70-73,75,80-184
+apps/data/websummit/tests/test_app_registration.py
+  s_b9243291ebcd83::t_b48f61121f48db 1-61
+apps/bootstrap.py
+  s_b9243291ebcd83::t_37b6f1d7f2cf43 90,92
+apps/data/websummit/response.py
+  s_b9243291ebcd83::t_d8b521a8678a0c 1-19,22-23,26-90,92-95,97-100,102-105,107-110,112-115,117-120,122-125,127-130,132-135,139-144,146-149,151-153,158-187,195-201,210-243,245-282,284-290
+  s_b9243291ebcd83::t_af74be0c34ab38 244
+  s_b9243291ebcd83::t_24d5cdc11bc416 91,96,101,106,111,116,121,126,131,145,150
+  s_b9243291ebcd83::t_d398981fa8a7c5 20-21,24-25,283
+  s_b9243291ebcd83::t_c980f087633fab 188-194,202-209
+  s_b9243291ebcd83::t_162cd8207900e6 154-157
+  s_b9243291ebcd83::t_e5f0c16e95df0a 136
+  s_b9243291ebcd83::t_4eb7655cb90fc5 137-138
+apps/data/websummit/tests/test_admin.py
+  s_b9243291ebcd83::t_883fa9316118a3 1-66
+apps/data/websummit/apps.py
+  s_b9243291ebcd83::t_d398981fa8a7c5 1-8
+apps/data/websummit/migrations/0001_initial.py
+  s_b9243291ebcd83::t_d9a717d278f723 1-317
+scrapers/event_spiders/tests/test_websummit_spider.py
+  s_b9243291ebcd83::t_19683a7c71b5be 1-82,88-92,96-118,120-121,125-130,133-184
+  s_b9243291ebcd83::t_67bf8a2da7d528 83-87,93-95
+  s_b9243291ebcd83::t_e5f5534b6713d2 119,122-124
+  s_b9243291ebcd83::t_8171b21e5fcfa7 185-187
+  s_b9243291ebcd83::t_02feaf2473cad5 131-132
+apps/data/websummit/models.py
+  s_b9243291ebcd83::t_d398981fa8a7c5 33-36,47-49,61,65-67,71-74,253
+  s_b9243291ebcd83::t_b2e2c0eacf7f5c 1-32,37-46,50-60,62-64,68-70,75-252,254-255
+apps/data/websummit/management/commands/import_portal_websummit.py
+  s_b9243291ebcd83::t_922b42845c4059 1-106
+apps/data/websummit/tests/test_response.py
+  s_b9243291ebcd83::t_d9e08d3b589cfd 51-58,62-66
+  s_b9243291ebcd83::t_67bf8a2da7d528 60
+  s_b9243291ebcd83::t_4e0d34f05533f2 1-50,59,61,67-120
+apps/data/websummit/mapping.py
+  s_b9243291ebcd83::t_dddd06bb6b9386 128-130,145
+  s_b9243291ebcd83::t_89907235626662 103
+  s_b9243291ebcd83::t_d398981fa8a7c5 19-24,72,111,114,118,136-137,146
+  s_b9243291ebcd83::t_87ee5bacdae0ac 1-18,25-71,73-102,104-105,108-110,119-127,131-134,138-144
+  s_b9243291ebcd83::t_317bc25551484f 106-107
+  s_b9243291ebcd83::t_b37f7fc5b54b92 112-113,115-117,135
+scrapers/event_spiders/websummit.py
+  s_b9243291ebcd83::t_836eb2cc62c9fb 483
+  s_b9243291ebcd83::t_c2722497150f7c 500
+  s_b9243291ebcd83::t_5a2ee629d1bc5e 532
+  s_b9243291ebcd83::t_9c923b57182e3d 497-499
+  s_b9243291ebcd83::t_26f23f76d1820b 1-82,84-144,149,151-153,156-189,195-213,219-220,222-255,257-266,269-294,296-300,302-312,314-377,379-417,422-423,429-468,473-482,484-496,501-512,514-530,533,549
+  s_b9243291ebcd83::t_a11fe504a027fc 83
+  s_b9243291ebcd83::t_55920049431eeb 295
+  s_b9243291ebcd83::t_e47bd99546a2b6 378
+  s_b9243291ebcd83::t_e6e973e929ec1f 190-194
+  s_b9243291ebcd83::t_31fe0bef9c3584 513
+  s_b9243291ebcd83::t_0c8fda3fd4db90 301
+  s_b9243291ebcd83::t_c23482e74d2d07 418-421
+  s_b9243291ebcd83::t_d403c02ec4915d 214-218
+  s_b9243291ebcd83::t_7fea211ab331ee 469-471
+  s_b9243291ebcd83::t_88cfb47851343c 472
+  s_b9243291ebcd83::t_0e05a3412299ec 531,537-543,546-548
+  s_b9243291ebcd83::t_f74f8b0716ebd8 534-536
+  s_b9243291ebcd83::t_a9520cad9f6cfe 145-148,150,154-155
+  s_b9243291ebcd83::t_0d73db8864bee0 313
+  s_b9243291ebcd83::t_a0d1bcc308a44a 544-545
+  s_b9243291ebcd83::t_2eaded51fba986 221
+  s_b9243291ebcd83::t_b49d47239f3178 267-268
+  s_b9243291ebcd83::t_d9a5669763ff79 256
+  s_b9243291ebcd83::t_663d48174c41ad 424-428
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "93ade989867c29357601aea9a98af0d7dc190931",
+  "prompts": {},
+  "sessions": {
+    "s_b9243291ebcd83": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b2007758-e3a7-479c-b521-14bd4103f1e0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

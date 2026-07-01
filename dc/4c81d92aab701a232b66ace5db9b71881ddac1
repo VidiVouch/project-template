@@ -1,0 +1,40 @@
+apps/provenance/selectors.py
+  s_c3bfa30f51a6e1::t_05200f4e3dd964 229-370
+  s_c3bfa30f51a6e1::t_ed53ac8e3de793 26-27,30
+apps/provenance/views.py
+  s_c3bfa30f51a6e1::t_b72d2793f672f3 1058,1067-1070
+  s_c3bfa30f51a6e1::t_ffb73245333ed9 26-34
+  s_c3bfa30f51a6e1::t_42947b9cc01287 1048-1057,1059-1066,1071-1105
+templates/provenance/reviewers_list.html
+  s_c3bfa30f51a6e1::t_6ea0fa6c296fee 1-117
+apps/provenance/urls.py
+  s_c3bfa30f51a6e1::t_0935de6bd916b3 13-16
+apps/provenance/tests/test_reviewers_list.py
+  s_c3bfa30f51a6e1::t_fc2a4fe96dfbd1 194-196,201
+  s_c3bfa30f51a6e1::t_4066d3dd0c75df 1
+  s_c3bfa30f51a6e1::t_34f48529b4f3e7 2-193,197-200,202-228,230-278
+  s_c3bfa30f51a6e1::t_65454084d107b9 229
+templates/app/_nav.html
+  s_c3bfa30f51a6e1::t_6eeaa306e38ab2 33-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "dc4c81d92aab701a232b66ace5db9b71881ddac1",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

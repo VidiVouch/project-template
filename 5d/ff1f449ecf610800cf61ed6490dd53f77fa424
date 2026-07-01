@@ -1,0 +1,23 @@
+apps/sales/domain/criteria.py
+  s_5b002650df0863::t_652b753198aa29 45-51,54
+apps/sales/migrations/0011_icpscore_rls.py
+  s_5b002650df0863::t_0d2241a2ea5b43 4-5
+apps/sales/tests/test_icp_criteria.py
+  s_5b002650df0863::t_e31fd580adf6e8 68-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5dff1f449ecf610800cf61ed6490dd53f77fa424",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

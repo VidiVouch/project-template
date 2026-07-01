@@ -1,0 +1,30 @@
+templates/provenance/tokens.html
+  s_c3bfa30f51a6e1::t_00ae1e33a14908 60-62
+config/settings/base.py
+  s_c3bfa30f51a6e1::t_774498261554bf 190-191
+templates/app/_nav.html
+  s_c3bfa30f51a6e1::t_899a555a9d103f 17
+assets/css/source.css
+  s_c3bfa30f51a6e1::t_a5352cfd5af831 242-245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "7c3ff0d3f3cd0c78070812fed0ed2515ac3faf81",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

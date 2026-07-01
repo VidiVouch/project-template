@@ -1,0 +1,201 @@
+apps/provenance/tests/test_contract.py
+  s_3389ba2812099c::t_059d117ec7e3de 67
+  s_3389ba2812099c::t_e94769476526b1 1,14,20,57,59,62-64,69,71,74-75,80,83-85,92,95,97,102,112,118,125,130,135,144,166,176,189,193-194
+pyproject.toml
+  s_3389ba2812099c::t_d4970c3264978f 38-40,42-43
+  s_3389ba2812099c::t_c254722f200889 94
+apps/provenance/vouch_verify.py
+  s_3389ba2812099c::t_d9b7d42a609967 37
+  s_3389ba2812099c::t_c024c0ec2bc6a8 64
+  s_3389ba2812099c::t_b61d45b3e94f4f 168
+  s_3389ba2812099c::t_8b3341722d65fb 207,214
+  s_3389ba2812099c::t_f3988d999b3b02 9,11-12,18,20,42,45,58,60,87,142-143,145,200,202
+apps/githubapp/notary.py
+  s_3389ba2812099c::t_7a914639de454e 193-197
+  s_3389ba2812099c::t_bbc5d7c946bac5 86-87
+  s_3389ba2812099c::t_6eccc4c561442d 292
+  s_3389ba2812099c::t_3e49b5717fa235 244,248-249
+  s_3389ba2812099c::t_be244db5ee6ad5 6,15,23,57,77,97,160-161,172,188,218-219,266,312,332
+apps/githubapp/models.py
+  s_3389ba2812099c::t_5111c7444dbb64 190-193
+apps/provenance/api.py
+  s_3389ba2812099c::t_f1f1a5ea737597 112
+apps/notary/reviews_api.py
+  s_3389ba2812099c::t_2aa368566d4888 112
+  s_3389ba2812099c::t_a65a3e8f191f4e 118
+  s_3389ba2812099c::t_bab214ef3a5159 1,7,18,88,105,142,178
+apps/notary/tests/test_interop_vector.py
+  s_3389ba2812099c::t_be144f173b8ef8 61
+  s_3389ba2812099c::t_768f86cb9daa1a 66-67
+  s_3389ba2812099c::t_6e19d5a0f2e17d 44
+  s_3389ba2812099c::t_a221daca0a72e3 3,7,20,38,87
+apps/notary/dsse.py
+  s_3389ba2812099c::t_7a39b10183251f 101
+  s_3389ba2812099c::t_a9df2d4a45bb7d 1,3,7-8,11-13,16,23,25,38,45,64-65,69,82,84,87,105,107-108,111,114,121,125,127,151,168,171,179,186,203,208,215,219,223,228,230,234,239,248,251,253,256,275,277,283,289
+apps/notary/reviews.py
+  s_3389ba2812099c::t_b74c6882820f2a 92-93,106
+  s_3389ba2812099c::t_f5e5c11619bef9 36
+  s_3389ba2812099c::t_0a46f9514d17d9 35
+apps/githubapp/handlers.py
+  s_3389ba2812099c::t_01cdcccf54414c 316
+apps/notary/models.py
+  s_3389ba2812099c::t_9e6fccddde63ba 261-262
+  s_3389ba2812099c::t_e651f6dc477490 7,231,234-235,239,243,298-299
+apps/notary/tests/test_dsse.py
+  s_3389ba2812099c::t_50b61653ef310e 30
+  s_3389ba2812099c::t_93bba5cec26f4b 69-70
+apps/provenance/tests/test_tokens.py
+  s_3389ba2812099c::t_92902110f725fb 62
+  s_3389ba2812099c::t_b15ecd17648cb9 66
+apps/provenance/tests/fixtures/vouch_vectors.json
+  s_3389ba2812099c::t_609d2fb7679d72 3-4,7-8,12-13,16,20-21
+.gitignore
+  s_3389ba2812099c::t_6aece91f2f0d84 792-793
+  s_157d2b80a20810::t_181161894777ea 791
+apps/billing/tests/test_pricing.py
+  s_3389ba2812099c::t_c44e813d0cfbc1 55,60
+apps/deviceauth/__init__.py
+  s_3389ba2812099c::t_d1f46213735ded 3,34
+apps/deviceauth/models.py
+  s_3389ba2812099c::t_45063fa13815ba 24,189,250
+apps/deviceauth/tokens.py
+  s_3389ba2812099c::t_2d4f78a79db436 6,9
+apps/deviceauth/views.py
+  s_3389ba2812099c::t_e7a2dcb0b9cccf 12,189
+apps/githubapp/auth.py
+  s_3389ba2812099c::t_d1694ff52f5a87 14
+apps/githubapp/identity.py
+  s_3389ba2812099c::t_c5fcf2bcb452f5 22,50,117
+apps/githubapp/recompute.py
+  s_3389ba2812099c::t_5c209b963535cd 23,46,221,223,235,362
+apps/githubapp/tests/test_comments.py
+  s_3389ba2812099c::t_06d7cc3c5b3aaf 43,45
+apps/githubapp/tests/test_notary.py
+  s_3389ba2812099c::t_93d2d4a3b5aea2 4,11,79,131,156,161,170,234
+apps/githubapp/tests/test_recompute.py
+  s_3389ba2812099c::t_cca700a7f6b7e1 40,42
+apps/githubapp/views.py
+  s_3389ba2812099c::t_c0ada9a8276c48 79,114
+apps/identity/entitlements.py
+  s_3389ba2812099c::t_146b3c05be147a 4,254
+apps/identity/groups.py
+  s_3389ba2812099c::t_11fbf3e93a88bf 49
+apps/identity/management/commands/trial_sweep.py
+  s_3389ba2812099c::t_519fb97e0da3b6 179,185
+apps/identity/tests/test_entitlements.py
+  s_3389ba2812099c::t_1d0c00da83a2e0 17,38,48
+apps/notary/README.md
+  s_3389ba2812099c::t_b3553b46cdafd9 6,8-12,17,21,24,30-32,37,44-46,49,56,59-61,66,72
+apps/notary/__init__.py
+  s_3389ba2812099c::t_2260d143143cbe 1,7,10,13-14,16,20
+apps/notary/api.py
+  s_3389ba2812099c::t_7918a150946225 70,92,204,206,236,253,488-489,495
+apps/notary/checks.py
+  s_3389ba2812099c::t_69601a6d5b3ecd 5,54
+apps/notary/keys.py
+  s_3389ba2812099c::t_a90975b129d439 129
+apps/notary/reposlug.py
+  s_3389ba2812099c::t_d09a85fcd781a9 1,11
+apps/notary/tests/test_api.py
+  s_3389ba2812099c::t_588f70666fbf3e 57,66,149,395
+apps/notary/tests/test_cross_impl.py
+  s_3389ba2812099c::t_457d7451f49913 1,4,6,9,12,14,30,41,45,50,52,58,77,79,111,117
+apps/notary/tests/test_keys.py
+  s_3389ba2812099c::t_c855152f7ba329 30
+apps/notary/tests/test_reposlug.py
+  s_3389ba2812099c::t_018ebf039ad076 1
+apps/notary/tests/test_reviews.py
+  s_3389ba2812099c::t_2a526987375317 48,50,56,90
+apps/notary/tests/test_reviews_api.py
+  s_3389ba2812099c::t_b28863cec5be05 3,50-51,57,88,230
+apps/provenance/admin.py
+  s_3389ba2812099c::t_5ae4a1f8d59f5a 46
+apps/provenance/apps.py
+  s_3389ba2812099c::t_340859cb644bda 7
+apps/provenance/contract.py
+  s_3389ba2812099c::t_f1f8fb5dd60777 1,5-7,14,34,53,55,57,61,71-72,74,82,131-132,140,147,151,156,160
+apps/provenance/hashing.py
+  s_3389ba2812099c::t_c450e6409a9297 1,9
+apps/provenance/heatmap.py
+  s_3389ba2812099c::t_44f87eae9d0a3e 5,12,34,216,234
+apps/provenance/management/commands/ingest_snapshot.py
+  s_3389ba2812099c::t_4431f6f0544b61 1,8,24,26,29,33
+apps/provenance/matrix.py
+  s_3389ba2812099c::t_9856ee29a75a33 4,12,15,40,42,92,111,365,422,427,438
+apps/provenance/migrations/0003_payloadblob_dedup.py
+  s_3389ba2812099c::t_d3bb36b7f61cc9 4
+apps/provenance/migrations/0004_coveragesnapshot_total_units.py
+  s_3389ba2812099c::t_bf0098539f6205 5
+apps/provenance/models.py
+  s_3389ba2812099c::t_3b418b9bb758dd 3-4,7,12,61,63,65,90,93,117,121,227,234,257,284,293,297
+apps/provenance/selectors.py
+  s_3389ba2812099c::t_205a9f371921d2 27,192,203,244,393
+apps/provenance/services.py
+  s_3389ba2812099c::t_abed45debd7a6f 1,12,21,65,120,122,125,147,150
+apps/provenance/tests/test_authorship_view.py
+  s_3389ba2812099c::t_aedb061a398079 3-4,29,43-44,143
+apps/provenance/tests/test_badge.py
+  s_3389ba2812099c::t_27e178bada1bad 4,63,73
+apps/provenance/tests/test_heatmap.py
+  s_3389ba2812099c::t_5ad4c3de8985d0 30,40,56,74,277
+apps/provenance/tests/test_htmx_nav.py
+  s_3389ba2812099c::t_a5e8b12018f928 53
+apps/provenance/tests/test_ingest.py
+  s_3389ba2812099c::t_91dfcc3e48f88f 30,38,43,96,163,197,202,204,209,235
+apps/provenance/tests/test_matrix.py
+  s_3389ba2812099c::t_c48f24de58319d 8,22,42,61,88,113,123,132,143,153,162,170,179,184,192,199,206,278,342
+apps/provenance/tests/test_org_dashboard.py
+  s_3389ba2812099c::t_80439324cfd12e 45,285,387
+apps/provenance/tests/test_push_integration.py
+  s_3389ba2812099c::t_9266f4b6047c6d 1,5,28,62,75
+apps/provenance/tests/test_repo_detail.py
+  s_3389ba2812099c::t_9a93db79108280 34
+apps/provenance/tests/test_repo_report.py
+  s_3389ba2812099c::t_a032138693e6bf 22,138
+apps/provenance/tests/test_review_events.py
+  s_3389ba2812099c::t_1f6dc40f0680b4 6,38-39,44
+apps/provenance/tests/test_reviewer_profile.py
+  s_3389ba2812099c::t_bc319d63277b43 3,42,232
+apps/provenance/tests/test_reviewers_list.py
+  s_3389ba2812099c::t_319c70925e4bbc 38-39,44
+apps/provenance/tests/test_selectors.py
+  s_3389ba2812099c::t_66ae6dcc6541d6 29,154
+apps/provenance/tests/test_unit_detail.py
+  s_3389ba2812099c::t_130e684067d11b 3,54,320
+apps/provenance/tests/test_views.py
+  s_3389ba2812099c::t_b667e912b9d63b 32
+apps/provenance/tests/test_vouch_verify.py
+  s_3389ba2812099c::t_52ccec5b539548 5,45,47,54,123,151,162,186,269,285,299,316
+apps/provenance/tests/test_voucher_count.py
+  s_3389ba2812099c::t_72fd9afe868799 29,31
+apps/provenance/urls.py
+  s_3389ba2812099c::t_6d68bbc4c78058 17
+apps/provenance/views.py
+  s_3389ba2812099c::t_699b8ec2cb8c24 1,21,45,55,293,300,314,316,326,328,396,434,444,455,577,597,609,625,643,696,704,732,777,789,802,815,866,1081,1148,1158,1438,1452,1545,1650,2006,2055,2062,2128,2137
+uv.lock
+  s_3389ba2812099c::t_8ae0aec96b0888 1252,1323,2023-2024
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "a90acd0d8992064571f3e299ede1d643aca6f0e5",
+  "prompts": {},
+  "sessions": {
+    "s_157d2b80a20810": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019efdeb-3340-7cc1-a0ac-a0835d9cfcf5",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

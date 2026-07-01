@@ -1,0 +1,45 @@
+apps/provenance/views.py
+  s_c3bfa30f51a6e1::t_8301e766308848 1928-1943,1947,1955-1965,2000
+  s_c3bfa30f51a6e1::t_5e5d880d956f2c 1995-1999
+  s_c3bfa30f51a6e1::t_da669de1395e0f 1989,1994,2025
+  s_c3bfa30f51a6e1::t_d53038d65a737d 2001-2005,2007-2011,2021-2024,2026-2028,2031-2032,2034-2037,2039,2041
+  s_c3bfa30f51a6e1::t_c07128395cce3a 2006
+apps/notary/people.py
+  s_c3bfa30f51a6e1::t_6ecfc45a77f009 36
+  s_c3bfa30f51a6e1::t_199d63ad51415f 194,199-220
+  s_c3bfa30f51a6e1::t_3ae80f3712ca8f 195-198
+apps/notary/tests/test_seat_actions.py
+  s_c3bfa30f51a6e1::t_72fa97a9f1d1f5 74-89
+apps/notary/seats.py
+  s_c3bfa30f51a6e1::t_0929b39c396bb8 472-473,476-486
+  s_c3bfa30f51a6e1::t_3d8ca662fe9545 450-471,474-475,487-489
+templates/provenance/members.html
+  s_c3bfa30f51a6e1::t_83b88d2b92cd5c 24
+apps/notary/seat_actions.py
+  s_c3bfa30f51a6e1::t_cf4a922fa53c05 56-61
+templates/provenance/_members_body.html
+  s_c3bfa30f51a6e1::t_d8346fba6b5b1d 1-2,7-24,26-56,58-92,94-107
+  s_c3bfa30f51a6e1::t_b3ad7126648536 25,57,93
+  s_c3bfa30f51a6e1::t_78aece5c629dad 3-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "a1e93d748d2a2ccde5617d1956f68abe5eb78469",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

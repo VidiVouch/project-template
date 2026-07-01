@@ -1,0 +1,54 @@
+apps/catalog/handlers/serper.py
+  s_3748ef8a5eb7ff::t_cdedae58662513 121
+  s_3748ef8a5eb7ff::t_0e99bba9668a78 220
+  s_3748ef8a5eb7ff::t_ca5ac885131d45 111
+  s_3748ef8a5eb7ff::t_7904e675bb2062 138
+  s_3748ef8a5eb7ff::t_c412dbe7040b20 168
+  s_3748ef8a5eb7ff::t_15d5ecb356b89d 88
+  s_3748ef8a5eb7ff::t_a5f74b69780bda 183
+  s_3748ef8a5eb7ff::t_1661b1b65e0a98 104
+  s_3748ef8a5eb7ff::t_5f6d4b313d5a63 211
+apps/catalog/services.py
+  s_3748ef8a5eb7ff::t_ec5d95a83d964a 64-72,75-78
+apps/catalog/handlers/cadmium/orgs.py
+  s_3748ef8a5eb7ff::t_04afaa3a5b1e5d 54
+apps/catalog/management/commands/promote_unprocessed.py
+  s_3748ef8a5eb7ff::t_12762269759e18 305
+  s_3748ef8a5eb7ff::t_227cf41729ce6c 552-558
+  s_3748ef8a5eb7ff::t_3bfba5b5f178b1 567-571
+  s_3748ef8a5eb7ff::t_52dbf7277893d3 307-311
+  s_3748ef8a5eb7ff::t_736af8f6fc81e7 452,457-460,462
+  s_3748ef8a5eb7ff::t_154c06cdde8c0a 110-112
+apps/catalog/tests/test_promote_unprocessed.py
+  s_3748ef8a5eb7ff::t_22004b80677acf 129,139-140,145-164
+apps/catalog/handlers/swapcard.py
+  s_3748ef8a5eb7ff::t_dcf0cfa867531f 210
+apps/catalog/handlers/grip.py
+  s_3748ef8a5eb7ff::t_f42af4019a1042 274
+  s_3748ef8a5eb7ff::t_8ba03a80b588d1 222
+apps/catalog/handlers/play_store.py
+  s_3748ef8a5eb7ff::t_6c18bd876341c1 39
+apps/catalog/handlers/expoplatform.py
+  s_3748ef8a5eb7ff::t_c0e53e39665b8d 220
+apps/catalog/handlers/brella.py
+  s_3748ef8a5eb7ff::t_70c3f32d6410d6 269
+apps/catalog/handlers/cadmium/stats.py
+  s_3748ef8a5eb7ff::t_3255b5d008921d 44
+  s_3748ef8a5eb7ff::t_f37ebb5be1a1a0 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b6038abff27430636de4bb4c5f9028ce60d71cd0",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

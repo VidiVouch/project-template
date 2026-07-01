@@ -1,0 +1,28 @@
+scrapers/tests/test_spider_integration.py
+  s_33f9c21df35ec6::t_861d93606ba788 104
+  s_33f9c21df35ec6::t_00a0fd3eb03de8 16,23
+  s_33f9c21df35ec6::t_a7f58718fbb1bd 101
+  s_33f9c21df35ec6::t_d71dd82ea87fa4 10,17,22,24-44
+  s_33f9c21df35ec6::t_44a4cc53a9395f 114
+  s_33f9c21df35ec6::t_ef900083154f25 121,124
+  s_33f9c21df35ec6::t_e5572bcee9d6ae 95
+  s_33f9c21df35ec6::t_5339a0c2177c2f 131
+  s_33f9c21df35ec6::t_41fab74780a16e 79
+  s_33f9c21df35ec6::t_19c9c7c96cb993 134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c69e38305d88979c96cf04c23f696eb4c29f1563",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

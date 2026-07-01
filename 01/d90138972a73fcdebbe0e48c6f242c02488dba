@@ -1,0 +1,19 @@
+templates/deviceauth/ci_tokens.html
+  s_17405aaf91a59b::t_fa8cefb4e6648a 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "01d90138972a73fcdebbe0e48c6f242c02488dba",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

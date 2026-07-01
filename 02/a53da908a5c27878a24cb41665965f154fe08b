@@ -1,0 +1,23 @@
+apps/catalog/management/commands/reexamine_claims.py
+  s_0276221d01c0b0::t_048d22ad15e398 17-23,47,194-204,208
+apps/catalog/tests/test_reexamine_claims.py
+  s_0276221d01c0b0::t_048d22ad15e398 4,9,11,15-17,94-95,200-322
+apps/catalog/org_collision.py
+  s_0276221d01c0b0::t_048d22ad15e398 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "02a53da908a5c27878a24cb41665965f154fe08b",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

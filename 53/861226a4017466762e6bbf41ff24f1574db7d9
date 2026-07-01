@@ -1,0 +1,49 @@
+.agents/skills/integration-django/references/EXAMPLE.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-1167
+.agents/skills/integration-django/references/3-revise.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-22
+.agents/skills/integration-django/references/basic-integration-1.0-begin.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-56
+.agents/skills/integration-django/references/2-edit.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-36
+.agents/skills/integration-django/references/identify-users.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-272
+render.yaml
+  s_0276221d01c0b0::t_08d868d33ac62a 106,110,170
+.agents/skills/integration-django/references/django.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-261
+.agents/skills/integration-django/references/4-conclude.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-54
+.agents/skills/integration-django/SKILL.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-64
+.agents/skills/integration-django/references/basic-integration-1.3-conclude.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-39
+posthog-setup-report.html
+  s_0276221d01c0b0::t_08d868d33ac62a 1-306
+.agents/skills/integration-django/references/basic-integration-1.2-revise.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-22
+.pre-commit-config.yaml
+  s_0276221d01c0b0::t_08d868d33ac62a 8,24
+.agents/skills/integration-django/references/1-begin.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-56
+pyproject.toml
+  s_0276221d01c0b0::t_08d868d33ac62a 99
+.agents/skills/integration-django/references/basic-integration-1.1-edit.md
+  s_0276221d01c0b0::t_08d868d33ac62a 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "53861226a4017466762e6bbf41ff24f1574db7d9",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

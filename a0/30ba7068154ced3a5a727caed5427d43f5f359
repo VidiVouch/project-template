@@ -1,0 +1,45 @@
+CLIENT_RESEARCH_DESIGN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-559
+docs/archive/PORTAL_V4_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-831
+docs/DATA_PIPELINE_COMPARISON.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-374
+docs/archive/PORTAL_V2_ARCHITECTURE.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-2610
+docs/archive/PORTAL_V2_ARCHITECTURE_REBUILD.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-1355
+docs/archive/PORTAL_V2_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-1008
+PORTAL_V5_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-629
+POST_GRIP_REBUILD_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-591
+NEXT_BUILD_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-340
+PORT_REVIEW_PACKET.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-1072
+SAAS_PLANNING_INTERVIEW.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-951
+docs/archive/email_handling_report.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-802
+docs/archive/PORTAL_V3_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-562
+CLIENT_VISIBILITY_INTERVIEW.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-863
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a030ba7068154ced3a5a727caed5427d43f5f359",
+  "prompts": {},
+  "sessions": {
+    "s_3aab6f0d381ac9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28403637-3131-4df6-a9d3-4159d5748b62",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

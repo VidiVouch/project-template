@@ -1,0 +1,42 @@
+apps/catalog/promoters.py
+  s_5b002650df0863::t_595a244f83985f 87
+  s_5b002650df0863::t_0f2769639fd274 49-53
+  s_5b002650df0863::t_a6e05ed7960f02 119-120
+  s_5b002650df0863::t_08e89424380a34 104
+apps/catalog/handlers/expoplatform.py
+  s_5b002650df0863::t_53799f32381dbd 1-272
+apps/data/expoplatform/tests/test_contracts.py
+  s_5b002650df0863::t_595a244f83985f 15
+  s_5b002650df0863::t_2b4c5d8d3e97d6 17,121,135,151
+  s_5b002650df0863::t_53799f32381dbd 3-8,16,18,24-117,123-132,136-141,145-147,149,153-154
+apps/data/expoplatform/registrations.py
+  s_5b002650df0863::t_595a244f83985f 27
+  s_5b002650df0863::t_53799f32381dbd 5-7,9-11,13-15,21-26,53-57
+apps/catalog/tests/test_promote_expoplatform.py
+  s_5b002650df0863::t_53799f32381dbd 1-44,46-191
+  s_5b002650df0863::t_a8f24e3efdc7b8 45
+apps/data/expoplatform/tests/test_mapping.py
+  s_5b002650df0863::t_53799f32381dbd 1-137
+apps/data/expoplatform/mapping.py
+  s_5b002650df0863::t_53799f32381dbd 4-28,33-46,58-142
+apps/catalog/tests/test_promoter_registry.py
+  s_5b002650df0863::t_6bb36eb8ce349b 249-251
+  s_5b002650df0863::t_8d9cb0847a028b 37-41
+  s_5b002650df0863::t_595a244f83985f 83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "bb5c47f9acc6edb9dcfd6e425ab9372e8a45acb0",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

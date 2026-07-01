@@ -1,0 +1,27 @@
+apps/demo/views.py
+  s_062b4d28690cee::t_bf1f783c039016 94-97,99-101
+apps/sales/views.py
+  s_062b4d28690cee::t_98fb5c82aa25c8 384
+  s_062b4d28690cee::t_7d0b7d486e8e1d 365-368
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c95735806fc68dfe5fad4f266f54363c5853f874",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

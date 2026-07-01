@@ -1,0 +1,21 @@
+apps/sales/tests/test_seed_design_preview.py
+  s_5b002650df0863::t_24101effc964bf 11-12,16,37-47,156-176
+apps/sales/management/commands/seed_design_preview.py
+  s_5b002650df0863::t_24101effc964bf 37,49,355,544,557,559-564,566
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "34135c92fc289838844bf1a5c3cd1f682e5191ff",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

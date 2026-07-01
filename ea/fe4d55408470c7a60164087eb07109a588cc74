@@ -1,0 +1,33 @@
+apps/data/swapcard/mapping.py
+  s_0276221d01c0b0::t_3453225c706fbb 14,31
+apps/data/swapcard/tests/test_contracts.py
+  s_0276221d01c0b0::t_3453225c706fbb 12
+apps/data/swapcard/tests/test_mapping.py
+  s_0276221d01c0b0::t_3453225c706fbb 1-193
+apps/data/swapcard/registrations.py
+  s_0276221d01c0b0::t_3453225c706fbb 4-8,11-12,15-27,40-42,56-62
+apps/catalog/tests/test_promote_swapcard.py
+  s_0276221d01c0b0::t_3453225c706fbb 1-426
+apps/catalog/handlers/swapcard.py
+  s_0276221d01c0b0::t_3453225c706fbb 1-295
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_3453225c706fbb 55-59,84-88,99,115-116
+apps/catalog/tests/test_promoter_registry.py
+  s_0276221d01c0b0::t_3453225c706fbb 20-26,43-47,61-67,80-84,230-234,247-249
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "eafe4d55408470c7a60164087eb07109a588cc74",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

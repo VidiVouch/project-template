@@ -1,0 +1,21 @@
+traffic_adapters/tests/test_yc_bookface.py
+  s_5b002650df0863::t_979ba7e8f77b18 153
+  s_5b002650df0863::t_e6a23a655a14af 97,107-152,154-158
+  s_5b002650df0863::t_5db9ee1507ce60 98-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c4c1ffee45942b53d9ea2421fad09e29dbd80de6",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

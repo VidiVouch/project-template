@@ -1,0 +1,30 @@
+apps/data/core_apps/tests/test_models.py
+  s_33f9c21df35ec6::t_730c7785fb51db 8,14,26-28,45
+apps/data/core_apps/tests/test_transformers.py
+  s_33f9c21df35ec6::t_730c7785fb51db 12,21-22,27
+apps/data/cadmium/tests/test_transformers.py
+  s_33f9c21df35ec6::t_730c7785fb51db 21,27-28,39
+apps/data/cadmium/tests/test_models.py
+  s_33f9c21df35ec6::t_730c7785fb51db 10,25,28-30,47
+apps/data/awsummit/tests/test_models.py
+  s_33f9c21df35ec6::t_730c7785fb51db 11,27,30-32,49
+apps/data/capture/tests/factories.py
+  s_33f9c21df35ec6::t_8c1bb3a9d91800 1-9,11-78
+  s_33f9c21df35ec6::t_b50ab689d38d9c 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "889eee2dd780ab02213edba0ccea938773484e67",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

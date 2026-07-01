@@ -1,0 +1,40 @@
+apps/data/brella/tests/test_import_portal_brella.py
+  s_ffd92932362e87::t_377876c62e2401 137-142,146-151
+  s_ffd92932362e87::t_591987a0a60698 143-145
+  s_ffd92932362e87::t_1f58fa290a804e 9-10
+apps/data/capture/portal_import.py
+  s_ffd92932362e87::t_37d7158b7f6533 334-337,339,345,347
+  s_ffd92932362e87::t_15e532ed0d9d1d 50
+  s_ffd92932362e87::t_a6be88fff02340 271
+  s_ffd92932362e87::t_b0d3eb702d3e9c 120-123,126-137,139-165
+  s_ffd92932362e87::t_8c2ed417bf90d7 56-57
+  s_ffd92932362e87::t_c41bd7daeb2a1e 39,51,67-72,79,81-82,87,91-105,112,117
+  s_ffd92932362e87::t_3d1a260652a144 80,83-86,88-90
+  s_ffd92932362e87::t_591987a0a60698 114
+  s_ffd92932362e87::t_2fcc99ec59d526 107-111,113,115-116
+  s_ffd92932362e87::t_e7865cb7cb250e 106
+  s_ffd92932362e87::t_cb0b4f86b7db5c 32
+  s_ffd92932362e87::t_730a62c4995c8e 138
+  s_ffd92932362e87::t_1362716339f171 124-125,166-167
+  s_ffd92932362e87::t_643efc1f445322 54,58-59
+  s_ffd92932362e87::t_4ef18301e092a9 209-218,224
+  s_ffd92932362e87::t_5ba624aea7977f 272,274-276
+  s_ffd92932362e87::t_35944734d979e9 176
+  s_ffd92932362e87::t_32350786d85060 273,277,280-282,292-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b5c60ae344b7234a7abd3f9fd5615549fb57a074",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

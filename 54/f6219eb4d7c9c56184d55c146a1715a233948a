@@ -1,0 +1,68 @@
+envelopes/mapyourshow/versions.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-22
+apps/data/mapyourshow/registrations.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-37
+apps/data/mapyourshow/tests/test_admin.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-38
+apps/catalog/handlers/mapyourshow.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-219
+apps/data/mapyourshow/tests/test_app_registration.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-37
+config/settings/base.py
+  s_0276221d01c0b0::t_80bbbea2a7cbf4 131
+apps/data/mapyourshow/models.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-83
+apps/bootstrap.py
+  s_0276221d01c0b0::t_66c509e392fe2b 121,136
+apps/data/mapyourshow/tests/test_response.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-147
+apps/data/mapyourshow/tests/test_contracts.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-70
+apps/data/mapyourshow/admin.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-24
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_adc18c99513caf 108-112
+  s_0276221d01c0b0::t_2a6633fd48012a 202
+  s_0276221d01c0b0::t_c5840d1f2453b9 242-243
+  s_0276221d01c0b0::t_8e3517445b8f60 178-182
+apps/catalog/tests/test_promote_mapyourshow.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-293
+apps/data/mapyourshow/tests/test_import_portal_mapyourshow.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-106
+apps/data/mapyourshow/tests/test_transformers.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-67
+research/event_research/mapyourshow.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-270
+research/event_research/tests/test_mapyourshow_spider.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-220
+apps/data/mapyourshow/migrations/0001_initial.py
+  s_0276221d01c0b0::t_72c496e72b416d 1-80
+envelopes/mapyourshow/response.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-147
+apps/data/mapyourshow/management/commands/import_portal_mapyourshow.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-96
+apps/data/mapyourshow/mapping.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-130
+apps/data/mapyourshow/tests/test_mapping.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-111
+apps/data/mapyourshow/apps.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-8
+apps/data/mapyourshow/transformers.py
+  s_0276221d01c0b0::t_1f3950aa50f102 1-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "54f6219eb4d7c9c56184d55c146a1715a233948a",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

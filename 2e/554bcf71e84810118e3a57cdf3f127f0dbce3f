@@ -1,0 +1,25 @@
+apps/billing/urls.py
+  s_17405aaf91a59b::t_567f4bf50b8a6e 1-14
+apps/billing/templatetags/billing_format.py
+  s_17405aaf91a59b::t_567f4bf50b8a6e 1-30
+apps/billing/views.py
+  s_17405aaf91a59b::t_567f4bf50b8a6e 1-303
+config/urls.py
+  s_17405aaf91a59b::t_475dcfcc12a31b 40,42-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "2e554bcf71e84810118e3a57cdf3f127f0dbce3f",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

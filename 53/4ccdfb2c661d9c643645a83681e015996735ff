@@ -1,0 +1,14 @@
+.claude/settings.json
+  h_795c5e33ecc5af 83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "534ccdfb2c661d9c643645a83681e015996735ff",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

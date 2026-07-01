@@ -1,0 +1,66 @@
+traffic_analysis/tests/test_provider_registry.py
+  h_795c5e33ecc5af 1-155
+traffic_analysis/tests/test_csv_pipeline.py
+  h_795c5e33ecc5af 1-113
+traffic_analysis/pipelines.py
+  h_795c5e33ecc5af 1-308
+traffic_analysis/exceptions.py
+  h_795c5e33ecc5af 1-19
+traffic_analysis/rules.py
+  h_795c5e33ecc5af 1-426
+traffic_analysis/discovery.py
+  h_795c5e33ecc5af 1-164
+traffic_analysis/cli/__init__.py
+  h_795c5e33ecc5af 1-8
+traffic_analysis/tests/test_discovery.py
+  h_795c5e33ecc5af 1-240
+traffic_analysis/analysis/__init__.py
+  h_795c5e33ecc5af 1-59
+traffic_analysis/flow_readers/quotes_scroll.py
+  h_795c5e33ecc5af 1-51
+traffic_analysis/tests/test_jsonl_pipeline.py
+  h_795c5e33ecc5af 1-111
+traffic_analysis/tests/test_flow_analysis.py
+  h_795c5e33ecc5af 1-48
+traffic_analysis/base.py
+  h_795c5e33ecc5af 1-279
+traffic_analysis/tests/__init__.py
+  h_795c5e33ecc5af 1
+traffic_analysis/analysis/providers.py
+  h_795c5e33ecc5af 1-98
+traffic_analysis/tests/test_base.py
+  h_795c5e33ecc5af 1-165
+traffic_analysis/tests/test_rules.py
+  h_795c5e33ecc5af 1-405
+traffic_analysis/analysis/reports.py
+  h_795c5e33ecc5af 1-164
+traffic_analysis/flow_readers/__init__.py
+  h_795c5e33ecc5af 1
+pyproject.toml
+  h_795c5e33ecc5af 17,53-54,128-137,172
+traffic_analysis/settings.py
+  h_795c5e33ecc5af 1-15
+traffic_analysis/cli/analyze_flow.py
+  h_795c5e33ecc5af 1-400
+traffic_analysis/flow_readers/example_rules.py
+  h_795c5e33ecc5af 1-139
+traffic_analysis/__init__.py
+  h_795c5e33ecc5af 1
+traffic_analysis/tests/test_pipeline_manager.py
+  h_795c5e33ecc5af 1-115
+traffic_analysis/provider_registry.py
+  h_795c5e33ecc5af 1-113
+traffic_analysis/analysis/flow_analysis.py
+  h_795c5e33ecc5af 1-706
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "caea8edceaa25e23c984549357df47a6bc85576c",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

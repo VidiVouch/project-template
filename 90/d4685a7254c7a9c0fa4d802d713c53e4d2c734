@@ -1,0 +1,37 @@
+apps/identity/tests/test_forms.py
+  s_5b002650df0863::t_62824de019117c 171-178
+apps/identity/events.py
+  s_5b002650df0863::t_62824de019117c 1-35
+apps/identity/signals.py
+  s_5b002650df0863::t_62824de019117c 16,389,478-482,522-528
+apps/identity/tests/test_invite_issue.py
+  s_5b002650df0863::t_62824de019117c 96,388,402
+apps/identity/forms.py
+  s_5b002650df0863::t_62824de019117c 12-15,79-81
+apps/identity/models.py
+  s_5b002650df0863::t_62824de019117c 14,22-45,60-69,86-97,102-124,240-245,301-309,313-314,317-319,345-353,445-449,483-484,544-550,554-557
+apps/identity/invites.py
+  s_5b002650df0863::t_62824de019117c 47-48,98-105,107-110,125-127,129,210-230,242-246,562-564
+apps/identity/tests/test_canonical_email.py
+  s_5b002650df0863::t_62824de019117c 1-157
+apps/identity/migrations/0004_add_canonical_email_fields.py
+  s_5b002650df0863::t_62824de019117c 1-97
+apps/identity/tests/test_events.py
+  s_5b002650df0863::t_62824de019117c 1-210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "90d4685a7254c7a9c0fa4d802d713c53e4d2c734",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+REVIEW.md
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 37-39
+apps/data/capture/management/commands/startsource.py
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 1-91
+apps/data/capture/management/source_template/response.py-tpl
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 1-17
+apps/data/capture/management/source_template/apps.py-tpl
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 1-8
+apps/data/capture/management/source_template/mapping.py-tpl
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 1-24
+apps/data/capture/management/source_template/transformers.py-tpl
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 1-38
+apps/data/capture/tests/test_startsource.py
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 1-87
+apps/data/capture/management/source_template/registrations.py-tpl
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 1-23
+apps/data/capture/management/source_template/models.py-tpl
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 1-33
+apps/data/capture/management/source_template/tests/test_contracts.py-tpl
+  s_0276221d01c0b0::t_1bc6a5f2f53ede 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "7ad8801105a765b07dba8b7296e1128f80b452a8",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

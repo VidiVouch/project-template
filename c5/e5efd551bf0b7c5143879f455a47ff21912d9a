@@ -1,0 +1,53 @@
+apps/data/play_store_listing/registrations.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-18
+apps/data/play_store_listing/models.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-34
+apps/data/play_store_listing/tests/test_contracts.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-36,39
+  s_5b002650df0863::t_b99b1319e6a648 37-38,40
+apps/data/play_store_listing/transformers.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-34
+apps/data/play_store_listing/migrations/0001_initial.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-37
+apps/catalog/handlers/play_store.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-45
+config/settings/base.py
+  s_5b002650df0863::t_b82f85f3ae94eb 101,148-150
+  s_5b002650df0863::t_aad84bce2383cc 97
+apps/catalog/tests/test_promote_presence.py
+  s_5b002650df0863::t_3430bb842d25bf 1-23,25-29,32-236
+  s_5b002650df0863::t_aad84bce2383cc 24,30-31,237-289
+apps/catalog/promoters.py
+  s_5b002650df0863::t_3f21ce7fbc8843 34
+  s_5b002650df0863::t_b51d8220710c69 45
+  s_5b002650df0863::t_d16a603d1fcf30 60,63
+  s_5b002650df0863::t_412c3cdade975f 80,82
+  s_5b002650df0863::t_aad84bce2383cc 47,64,84
+apps/data/play_store_listing/apps.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-10
+apps/bootstrap.py
+  s_5b002650df0863::t_d2994d49d50947 116,118-119,121
+  s_5b002650df0863::t_b82f85f3ae94eb 117,124,126
+  s_5b002650df0863::t_aad84bce2383cc 88,90
+apps/catalog/tests/test_promoter_registry.py
+  s_5b002650df0863::t_b2b5239f5774d4 28,33,56,59,212,214
+  s_5b002650df0863::t_aad84bce2383cc 35,60,217
+apps/data/play_store_listing/response.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c5e5efd551bf0b7c5143879f455a47ff21912d9a",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+apps/catalog/handlers/expoplatform.py
+  s_ffd92932362e87::t_7fa06945b452d7 103
+  s_ffd92932362e87::t_553c10c6613cd8 138
+  s_ffd92932362e87::t_e731dcf5061bd3 178
+  s_ffd92932362e87::t_50340e5b7ee4ab 220
+apps/catalog/tests/test_promote_expoplatform.py
+  s_ffd92932362e87::t_abbee2707cdb64 108
+  s_ffd92932362e87::t_f46880cc9eb455 205-207,211
+  s_ffd92932362e87::t_83973a5bace7c5 228-230,234
+apps/catalog/tests/test_promoter_registry.py
+  s_5b002650df0863::t_b2b5239f5774d4 54-58,208,210,212,214,218,220,222,28,33,74-75,35,45,80,84,247,252
+  s_5b002650df0863::t_aad84bce2383cc 59,215,217,225,76,47,85,255
+  s_7c6c92400c7448::t_444ed4a67eefe4 60,91,100,31,36,77,82,19,65,46,26,52,72,90
+  s_5b002650df0863::t_e5a1068fc145b1 98-99,79,81
+  s_5b002650df0863::t_a20a6be81cee31 228-229,260-261,232,259,234-235
+  s_5b002650df0863::t_8e6127b2265ad1 246,245,254
+  s_5b002650df0863::t_6bb36eb8ce349b 248
+  s_5b002650df0863::t_5de9fe3697e3ca 78,61-64
+  s_5b002650df0863::t_695a5a434e139b 43-44
+apps/catalog/promoters.py
+  s_5b002650df0863::t_c3f087f82a845b 17,97
+  s_5b002650df0863::t_f2884c44b56850 19,99,78,80,115,65-68,100-101,107
+  s_7c6c92400c7448::t_f11c65c481bc27 20,126,42,86,82,25,69,48,135,58,32,76,94
+  s_5b002650df0863::t_412c3cdade975f 96,103,77,79,81,117,121
+  s_5b002650df0863::t_9247efaace29fe 98,83,85
+  s_5b002650df0863::t_cdd3b144664d3b 127,113-114,122
+  s_5b002650df0863::t_3f21ce7fbc8843 34,39,41
+  s_5b002650df0863::t_a6e05ed7960f02 118
+  s_5b002650df0863::t_b51d8220710c69 45,57
+  s_5b002650df0863::t_aad84bce2383cc 47,59,89,123
+  s_5b002650df0863::t_c04b83d2fb5ffb 55-56
+  s_5b002650df0863::t_d16a603d1fcf30 84,88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6bdb2dd53fa99e30d0d1d3a265fd45600ec4b769",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

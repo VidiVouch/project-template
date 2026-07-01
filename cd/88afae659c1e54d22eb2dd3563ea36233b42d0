@@ -1,0 +1,44 @@
+apps/notary/models.py
+  s_17405aaf91a59b::t_945f9e419a05d3 1-178
+apps/notary/migrations/0001_initial.py
+  s_17405aaf91a59b::t_ce0e108e220674 53-58
+  s_17405aaf91a59b::t_e5f2962c1f59ae 8-9
+apps/notary/tests/test_tenant_rls.py
+  s_17405aaf91a59b::t_db62db519cad41 1-99
+apps/identity/tests/test_access_request_admin.py
+  s_17405aaf91a59b::t_0e7cd8e0b9cd0d 92-95
+apps/notary/tests/test_people.py
+  s_17405aaf91a59b::t_2ca26c95e88e70 19
+  s_17405aaf91a59b::t_f657389692594c 17-18
+  s_17405aaf91a59b::t_b5db2327d614b6 45-47
+  s_17405aaf91a59b::t_28125e021710b3 244
+  s_17405aaf91a59b::t_8afb81de72c6e7 107-108
+  s_17405aaf91a59b::t_df046d42f52c54 1-16,20-44,48-106,109-226,228-243,245-275
+  s_17405aaf91a59b::t_5430e4580d1206 227
+tests/architecture/test_base_no_product_imports.py
+  s_17405aaf91a59b::t_3e29d46baf51cf 27-31
+apps/notary/signals.py
+  s_17405aaf91a59b::t_763f675265c149 1-38,40-66
+  s_17405aaf91a59b::t_b3b2d3ec507c3c 39
+apps/notary/people.py
+  s_17405aaf91a59b::t_8e3fee72aeed22 1-281
+apps/notary/apps.py
+  s_17405aaf91a59b::t_295ea801617cdb 26,30-33,36
+  s_17405aaf91a59b::t_addaff74a5df92 6-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "cd88afae659c1e54d22eb2dd3563ea36233b42d0",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

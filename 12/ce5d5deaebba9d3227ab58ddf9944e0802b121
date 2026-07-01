@@ -1,0 +1,51 @@
+apps/data/capture/models.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 28-36
+apps/data/credentials/tests/conftest.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 1-27
+apps/data/credentials/management/commands/drain_logins.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 1,5,7-8,15,17,20-21,25-26,29-33,36
+traffic_adapters/rules.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 13,16,360-401
+traffic_adapters/tests/test_grip_events.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 167-208
+REVIEW.md
+  s_0276221d01c0b0::t_8f447ba85d29d3 47-49
+traffic_adapters/adapters/grip_events.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 11-13,26,106,124,140
+apps/data/capture/views.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 20,38-75,120,123,125,128
+apps/data/credentials/drain.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 1-142
+apps/data/grip/registrations.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 13-16,24,34
+apps/data/grip/sessions.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 1,5-7,9-10,17-19,24-25,34-47,49-63
+apps/data/credentials/drain_registry.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 1-53
+apps/data/capture/tests/test_upload_view.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 26-27,29,253-367
+traffic_adapters/tests/test_rules.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 10,14-22,58-63,228-305,400-405
+apps/bootstrap.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 30,33-35,45,48,83-98
+tests/architecture/test_bootstrap_sorted.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 6-8,55-66
+tests/architecture/test_no_composition_in_ready.py
+  s_0276221d01c0b0::t_8f447ba85d29d3 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "12ce5d5deaebba9d3227ab58ddf9944e0802b121",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

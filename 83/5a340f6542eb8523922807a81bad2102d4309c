@@ -1,0 +1,28 @@
+apps/identity/tests/test_operations.py
+  s_5b002650df0863::t_6ccde20e66ceff 42-55,62
+  s_5b002650df0863::t_1ea198f53a32ac 1,5
+tests/architecture/test_rls_via_operation.py
+  s_5b002650df0863::t_2e630a9e5f3913 7,13-21,24-25,28,36,38-40,42-46,55-57,59-68,70
+apps/identity/operations.py
+  s_5b002650df0863::t_38837fa779667d 141
+  s_5b002650df0863::t_5e1388820448f7 137
+  s_5b002650df0863::t_83c7cf8ac6d291 45-57
+  s_5b002650df0863::t_ff37bea549ee94 24-29
+  s_5b002650df0863::t_e1c68f46ac3351 140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "835a340f6542eb8523922807a81bad2102d4309c",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

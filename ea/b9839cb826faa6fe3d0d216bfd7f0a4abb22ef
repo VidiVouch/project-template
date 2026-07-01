@@ -1,0 +1,23 @@
+apps/catalog/tests/test_merge_fk_registry.py
+  s_33f9c21df35ec6::t_8d26c53ee9da85 33,157,161
+apps/catalog/tests/test_resolution_goldens.py
+  s_33f9c21df35ec6::t_8d26c53ee9da85 83-86
+apps/catalog/tests/test_supervisor.py
+  s_33f9c21df35ec6::t_8d26c53ee9da85 17-18,138-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "eab9839cb826faa6fe3d0d216bfd7f0a4abb22ef",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

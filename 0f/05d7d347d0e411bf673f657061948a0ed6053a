@@ -1,0 +1,36 @@
+apps/billing/keys.py
+  s_998d95b9de4b0f::t_baf82181c00540 9-18
+templates/billing/pay.html
+  s_998d95b9de4b0f::t_49d5d855847f1d 1-89
+apps/billing/tests/test_webhooks.py
+  s_998d95b9de4b0f::t_bd8f2ae3925231 119-135
+apps/billing/tests/test_views.py
+  s_998d95b9de4b0f::t_a761c9f2b41346 190-296
+templates/billing/home.html
+  s_998d95b9de4b0f::t_47818fff3d1e54 39-40
+apps/billing/views.py
+  s_998d95b9de4b0f::t_f08e78cc02a6f0 34-35
+  s_998d95b9de4b0f::t_12ea77446e4ec6 114
+apps/billing/urls.py
+  s_998d95b9de4b0f::t_987cbf14e31ef2 9-14
+assets/css/source.css
+  s_998d95b9de4b0f::t_c36861dabbc878 523-554
+templates/billing/payment_return.html
+  s_998d95b9de4b0f::t_e83e15444565e9 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "0f05d7d347d0e411bf673f657061948a0ed6053a",
+  "prompts": {},
+  "sessions": {
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

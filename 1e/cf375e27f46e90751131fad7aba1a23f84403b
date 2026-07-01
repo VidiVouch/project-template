@@ -1,0 +1,63 @@
+config/settings/base.py
+  s_ffd92932362e87::t_9a0288d343831e 110
+apps/bootstrap.py
+  s_ffd92932362e87::t_4c6ac9dcadc4b5 90
+  s_ffd92932362e87::t_86ef5f424e14ae 98-110
+apps/data/eventleaf/tests/test_contracts.py
+  s_ffd92932362e87::t_14b6763574eb77 19
+apps/catalog/tests/test_promote_eventleaf.py
+  s_ffd92932362e87::t_6edaf393cd2bac 217
+  s_ffd92932362e87::t_74cef17f727b9a 45
+  s_ffd92932362e87::t_8dc338373fd9ca 112
+  s_ffd92932362e87::t_d77bb65d043fee 307
+  s_ffd92932362e87::t_84e8b529249fd0 226
+apps/data/eventleaf/transformers.py
+  s_ffd92932362e87::t_113f8654979edd 48
+  s_ffd92932362e87::t_244e7325a12a6d 28-29
+  s_ffd92932362e87::t_f0e8fb1d8b2655 13
+apps/data/eventleaf/tests/test_app_registration.py
+  s_ffd92932362e87::t_a8b7b092d37695 20
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_c44c2cf27468f1 134-136
+  s_ffd92932362e87::t_cf285b0a657d80 49-54
+  s_ffd92932362e87::t_79efd316f378aa 94-99
+  s_ffd92932362e87::t_94dd0d50fe253a 118
+apps/data/eventleaf/tests/test_response.py
+  s_ffd92932362e87::t_5bf63ffe10937c 11
+envelopes/eventleaf/versions.py
+  s_ffd92932362e87::t_2c97a8b981bef9 1-21
+apps/catalog/handlers/eventleaf.py
+  s_ffd92932362e87::t_4b63109cdc1989 96
+  s_ffd92932362e87::t_752a6940302066 191
+  s_ffd92932362e87::t_6906cbc6885d84 227
+  s_ffd92932362e87::t_660c2ae7a13f00 154
+scrapers/event_spiders/eventleaf.py
+  s_ffd92932362e87::t_c68534063e4db0 13
+  s_ffd92932362e87::t_6493db72984ab9 44
+apps/data/eventleaf/tests/test_models.py
+  s_ffd92932362e87::t_ca50445ae0ab1d 28
+apps/data/eventleaf/models.py
+  s_ffd92932362e87::t_26c40fd89b314a 49
+  s_ffd92932362e87::t_1e58649301e00d 56-108,123
+  s_ffd92932362e87::t_ebf7993ff98d0a 120
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_cce9c166993ea9 90-95
+  s_ffd92932362e87::t_61a70468c1855b 263-266
+  s_ffd92932362e87::t_7da5c1231b944d 37-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "1ecf375e27f46e90751131fad7aba1a23f84403b",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

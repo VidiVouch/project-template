@@ -1,0 +1,79 @@
+apps/sales/tests/test_event_detail.py
+  s_5b002650df0863::t_1f08ab5f1ff13f 178
+  s_5b002650df0863::t_2abcb8659eb9fe 115
+  s_5b002650df0863::t_5b9e0cf0c0b7a6 163-165,168-169
+  s_5b002650df0863::t_7c4ec294e0cb64 1-5,8-16,25-99,103-105,109-114,116-162,166-167,170,174-177,179-282
+  s_5b002650df0863::t_3866f7df2e3a30 17-24,100-102,106-108,171-173
+  s_5b002650df0863::t_6b8a6de81f8aba 6-7
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_5b002650df0863::t_158669c61b448c 27
+  s_5b002650df0863::t_585376601fbb94 304
+  s_5b002650df0863::t_43d6c2a0d0e719 329-331
+apps/sales/urls.py
+  s_5b002650df0863::t_191953890c4097 11-14
+apps/sales/placeholders.py
+  s_5b002650df0863::t_336e52349b41a5 1-81
+apps/sales/views.py
+  s_5b002650df0863::t_506deccbd24f92 1
+  s_5b002650df0863::t_dbb66530719469 21,27-28,30-31,33
+  s_5b002650df0863::t_9ef621f5dc0f5d 61-68,70-74,76-79,81,91-234
+apps/sales/models.py
+  s_5b002650df0863::t_9c8c6cfb6a262e 43-46,51
+apps/sales/entitlements.py
+  s_5b002650df0863::t_8ad768287e8908 1-64,66-69
+  s_5b002650df0863::t_8a67314cc9f994 65
+apps/sales/migrations/0005_conference_status_unlocked.py
+  s_5b002650df0863::t_78be113ba54f98 1-18
+apps/sales/event_tokens.py
+  s_5b002650df0863::t_f3e9719c9cfbef 1-26,28-65
+  s_5b002650df0863::t_5930ea8222d9c9 27
+apps/sales/tests/test_dashboard.py
+  s_5b002650df0863::t_aed6d967128ef1 1,6-8,20-21,42-48,60,70,75
+  s_5b002650df0863::t_718ef9d8145ae9 200-202,204-205
+  s_5b002650df0863::t_a7a6b3ca6b798b 203
+  s_5b002650df0863::t_73d79d7ba1cf4a 148-191
+apps/sales/templatetags/sales_format.py
+  s_5b002650df0863::t_e8410e1fc0108a 78
+templates/app/_nav.html
+  s_5b002650df0863::t_db6d7577cac4ae 20-24
+apps/sales/tests/test_entitlements.py
+  s_5b002650df0863::t_b71550c670997a 1-104
+templates/sales/event_detail.html
+  s_5b002650df0863::t_c7b7e54f35ce87 1-89
+apps/sales/tests/test_event_tokens.py
+  s_5b002650df0863::t_55edcc10d87202 1-64
+templates/sales/dashboard.html
+  s_5b002650df0863::t_3bf8fde914a671 7,9-11
+  s_5b002650df0863::t_dd2c13a4cf039f 45,47-51
+REVIEW.md
+  s_5b002650df0863::t_6620dffca3b609 60
+templates/sales/event_index.html
+  s_5b002650df0863::t_de455bc770ab0c 1-37
+apps/sales/tests/test_placeholders.py
+  s_5b002650df0863::t_c0d607f0058f08 1-25,27-58
+  s_5b002650df0863::t_3866f7df2e3a30 26
+apps/sales/tests/test_event_index.py
+  s_5b002650df0863::t_909b3c8dc23edb 90-91,98,100
+  s_5b002650df0863::t_8b15ec23e80bb0 1-89,92-97,99,101-136
+apps/sales/tests/test_format.py
+  s_5b002650df0863::t_7ea513c9b29fc3 5
+  s_5b002650df0863::t_55a139020b2bb7 26-31
+assets/css/source.css
+  s_5b002650df0863::t_b4bfc74dcb026f 649-660
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ddda8f3cf6c06b60c98d513831fd677788d99d52",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

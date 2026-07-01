@@ -1,0 +1,19 @@
+config/settings/base.py
+  s_e56ce2b58a8c83::t_4da93f89f50813 245-247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6a2d996cb738ef30c10fe42198928a8e2ae90a72",
+  "prompts": {},
+  "sessions": {
+    "s_e56ce2b58a8c83": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "03ab4183-9002-4a4d-8992-a34ef77a54f9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

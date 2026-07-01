@@ -1,0 +1,40 @@
+apps/data/capture/constants/enums.py
+  s_0276221d01c0b0::t_39509a9c884c58 18
+apps/data/capture/tests/test_capture_inventory.py
+  s_0276221d01c0b0::t_3c65299e4e9706 32
+apps/data/capture/dtos.py
+  s_0276221d01c0b0::t_0b610fa47da85b 24
+apps/data/capture/tests/test_land_scraped_record.py
+  s_0276221d01c0b0::t_891de57c0b525b 95
+apps/data/capture/management/commands/transform_unprocessed.py
+  s_0276221d01c0b0::t_3bbe06fb72c4e9 13
+apps/data/capture/migrations/0001_initial.py
+  s_0276221d01c0b0::t_0b85a8396c8b43 36
+apps/data/base/hashing.py
+  s_0276221d01c0b0::t_2ce7cd206e1abf 20
+apps/data/capture/services.py
+  s_0276221d01c0b0::t_36b472c84fc163 181
+apps/data/capture/models.py
+  s_0276221d01c0b0::t_8957b0344cbc5b 126
+  s_0276221d01c0b0::t_775ec983e96339 24-26
+envelopes/__init__.py
+  s_0276221d01c0b0::t_b9705961908032 4
+apps/data/capture/tests/test_models.py
+  s_0276221d01c0b0::t_ee31d7dd4378bc 88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "728fe2cfb729f382205e55a7a2ab4410ad832901",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

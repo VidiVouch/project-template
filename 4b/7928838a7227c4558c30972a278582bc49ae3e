@@ -1,0 +1,45 @@
+apps/provenance/views.py
+  s_17405aaf91a59b::t_7643fa9a65640b 156-184,191-213,216-231,233-241,243-246,248-249
+  s_17405aaf91a59b::t_d6ac150ac448c5 185-190
+  s_17405aaf91a59b::t_b900209e9fa138 21
+  s_17405aaf91a59b::t_718b30db345523 7
+  s_17405aaf91a59b::t_66b147629dba0a 214,232,242,247
+  s_17405aaf91a59b::t_bc966a11540ae4 215
+  s_17405aaf91a59b::t_a656691434c92f 5,9-10,13
+templates/provenance/portal.html
+  s_17405aaf91a59b::t_e77a8a077d7b94 8-13
+  s_17405aaf91a59b::t_c886a3365a008c 72-74,78,83
+apps/provenance/tests/test_connect_repo.py
+  s_17405aaf91a59b::t_bdd25d9c89e627 1-2,11-22,25-78,80-145,147-179
+  s_17405aaf91a59b::t_f744e8534ed634 3-10,23-24
+  s_17405aaf91a59b::t_23c02fc58da432 146
+  s_17405aaf91a59b::t_a8be905abe2d7d 79
+apps/provenance/urls.py
+  s_17405aaf91a59b::t_e2e514e4d94429 11
+assets/css/source.css
+  s_17405aaf91a59b::t_534f0ab5e69de9 1814
+  s_17405aaf91a59b::t_91af95d132505e 1804-1813,1815-1824
+templates/provenance/connect_repo.html
+  s_17405aaf91a59b::t_590cb104e7f353 1-101
+apps/provenance/forms.py
+  s_17405aaf91a59b::t_b900209e9fa138 64
+  s_17405aaf91a59b::t_bece36e65f90d5 1-4,8-12,14-63,65-66
+  s_17405aaf91a59b::t_a8c5f8f9ad3e2f 5-7
+  s_17405aaf91a59b::t_427c04d26873db 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4b7928838a7227c4558c30972a278582bc49ae3e",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

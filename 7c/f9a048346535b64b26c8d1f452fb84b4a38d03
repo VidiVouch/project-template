@@ -1,0 +1,31 @@
+apps/identity/groups.py
+  s_c3bfa30f51a6e1::t_c6a15a9eb8a2c9 5-7
+apps/identity/tests/test_roles.py
+  s_c3bfa30f51a6e1::t_ae696c7b52c81a 87-104
+apps/identity/signals.py
+  s_c3bfa30f51a6e1::t_f53e8e6a9e236b 260-268,272-273
+  s_c3bfa30f51a6e1::t_43df3106bfe1b3 583-589,593-594
+apps/identity/apps.py
+  s_c3bfa30f51a6e1::t_6d69bf3b64f836 160,172-176,180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "7cf9a048346535b64b26c8d1f452fb84b4a38d03",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

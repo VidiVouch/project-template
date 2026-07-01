@@ -1,0 +1,20 @@
+apps/identity/tests/test_invite_issue.py
+  s_33f9c21df35ec6::t_3e032ec732ebbd 28
+  s_33f9c21df35ec6::t_10f541bb8712ce 343
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "e7d6bb602c52b25e740ebf8fe2440d452bb30410",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

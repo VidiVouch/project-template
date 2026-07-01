@@ -1,0 +1,57 @@
+templates/identity/access_request_thanks.html
+  s_062b4d28690cee::t_36e70b9aa93671 2-12,14-17,23-24,26-27,31-34,38-42,89-91
+  s_062b4d28690cee::t_927ecb69c5e8bb 30,43-49,54,75-78,84-85,88
+  s_062b4d28690cee::t_00cf98d7cd74b4 79-83,86-87
+  s_062b4d28690cee::t_4d80c2800b88a3 50-53,55-74
+  s_062b4d28690cee::t_dc992aa2d4dd27 35-36
+apps/identity/tests/test_access_request.py
+  s_062b4d28690cee::t_5e58394ccfbcb1 3-4
+  s_062b4d28690cee::t_c6c0d209656f36 32-38
+  s_062b4d28690cee::t_7dbc94830de973 117
+  s_062b4d28690cee::t_0ae5941501b837 68-79
+  s_062b4d28690cee::t_9eeac8c5ce4386 86-87,91-94,96,100-101,112-113,115-116
+  s_062b4d28690cee::t_ee31d28d7c2cbd 98
+  s_062b4d28690cee::t_633b7b48ed8d47 106
+  s_062b4d28690cee::t_faad524958a216 90,102
+  s_062b4d28690cee::t_e424f789eeffbb 95,97,99,103-105,107-109,111,114
+  s_062b4d28690cee::t_ac5af7134f609f 81
+  s_062b4d28690cee::t_4352a24bfd57c2 110
+assets/css/source.css
+  s_062b4d28690cee::t_40e5af4a169a80 1263-1268
+  s_062b4d28690cee::t_f977174a1fd901 1203-1208,1213-1221,1223-1235,1237-1256,1259-1261
+  s_062b4d28690cee::t_1482ca894c5d0c 1209-1212,1222,1236,1257-1258,1262
+templates/identity/access_request_form.html
+  s_062b4d28690cee::t_fa229e3e84dc6d 53
+  s_062b4d28690cee::t_cb937f27931f06 2,13-14,18
+  s_062b4d28690cee::t_022b86b167edf9 3-6,8-12,20-21,24-31,33-52,54-71,75
+apps/identity/views.py
+  s_062b4d28690cee::t_ce76062f23645e 317-321,325
+  s_062b4d28690cee::t_a87c9889e8ec20 324,326
+  s_062b4d28690cee::t_fdeb4fde05c052 310-316,322,327,331,334-346,350,366-371,380-382,386
+  s_062b4d28690cee::t_769120814571bf 383-385,387,389
+  s_062b4d28690cee::t_ee31d28d7c2cbd 323,388
+apps/identity/forms.py
+  s_062b4d28690cee::t_d647f802d766e6 245
+  s_062b4d28690cee::t_ac88c940c68986 13-17
+  s_062b4d28690cee::t_75f469508653a9 252-259,261-262,264-267
+apps/identity/migrations/0006_alter_accessrequest_company_name.py
+  s_062b4d28690cee::t_457d7df1271cd4 1-18
+apps/identity/models.py
+  s_062b4d28690cee::t_5535c555690bad 624
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "93737bba403a788fe2040d714685d2541e521f34",
+  "prompts": {},
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

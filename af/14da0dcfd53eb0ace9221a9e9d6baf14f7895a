@@ -1,0 +1,70 @@
+apps/data/luma/tests/test_models.py
+  s_0276221d01c0b0::t_880694da8292d7 1-41
+apps/data/luma/tests/test_import_portal_luma.py
+  s_0276221d01c0b0::t_880694da8292d7 1-103
+apps/data/luma/apps.py
+  s_0276221d01c0b0::t_880694da8292d7 1-8
+apps/data/luma/management/commands/import_portal_luma.py
+  s_0276221d01c0b0::t_880694da8292d7 1-92
+apps/bootstrap.py
+  s_0276221d01c0b0::t_c375e7dda20d18 120,134
+apps/data/luma/tests/test_mapping.py
+  s_0276221d01c0b0::t_880694da8292d7 1-174
+apps/data/luma/tests/test_response.py
+  s_0276221d01c0b0::t_880694da8292d7 1-103
+apps/data/luma/registrations.py
+  s_0276221d01c0b0::t_880694da8292d7 1-40
+apps/catalog/tests/test_promote_luma.py
+  s_0276221d01c0b0::t_880694da8292d7 1-223
+envelopes/luma/response.py
+  s_0276221d01c0b0::t_880694da8292d7 1-112
+envelopes/luma/versions.py
+  s_0276221d01c0b0::t_880694da8292d7 1-23
+apps/data/luma/migrations/0001_initial.py
+  s_0276221d01c0b0::t_01dfb812eaa501 1-100
+apps/data/luma/models.py
+  s_0276221d01c0b0::t_880694da8292d7 1-94
+apps/data/luma/tests/test_admin.py
+  s_0276221d01c0b0::t_880694da8292d7 1-34
+apps/data/luma/transformers.py
+  s_0276221d01c0b0::t_880694da8292d7 1-105
+apps/data/luma/tests/test_transformers.py
+  s_0276221d01c0b0::t_880694da8292d7 1-71
+research/event_research/tests/test_luma_spider.py
+  s_0276221d01c0b0::t_880694da8292d7 1-157
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_e48490d931c744 230
+  s_0276221d01c0b0::t_133a3e94e4e525 190-191
+  s_0276221d01c0b0::t_b819ce0e9d25ec 172
+  s_0276221d01c0b0::t_d40b39ef8b1289 107
+apps/catalog/handlers/luma.py
+  s_0276221d01c0b0::t_880694da8292d7 1-154
+apps/data/luma/tests/test_app_registration.py
+  s_0276221d01c0b0::t_880694da8292d7 1-38
+config/settings/base.py
+  s_0276221d01c0b0::t_a702c1baaac948 130
+research/event_research/luma.py
+  s_0276221d01c0b0::t_880694da8292d7 1-297
+apps/data/luma/mapping.py
+  s_0276221d01c0b0::t_880694da8292d7 1-192
+apps/data/luma/admin.py
+  s_0276221d01c0b0::t_880694da8292d7 1-20
+apps/data/luma/tests/test_contracts.py
+  s_0276221d01c0b0::t_880694da8292d7 1-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "af14da0dcfd53eb0ace9221a9e9d6baf14f7895a",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

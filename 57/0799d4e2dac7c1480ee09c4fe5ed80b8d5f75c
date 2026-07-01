@@ -1,0 +1,70 @@
+apps/data/core_apps/tests/test_response.py
+  s_ffd92932362e87::t_674b041a73356b 1-3
+scrapers/event_spiders/tests/test_core_apps_spider.py
+  s_ffd92932362e87::t_a78de68ad4871a 21
+apps/data/core_apps/tests/test_transformers.py
+  s_ffd92932362e87::t_52a02b0db2ce0c 19
+apps/data/core_apps/tests/test_import_portal_core_apps.py
+  s_ffd92932362e87::t_1b61dab4d4fbee 16
+apps/data/core_apps/tests/test_app_registration.py
+  s_ffd92932362e87::t_592ae6f30b3ae8 20
+apps/data/core_apps/mapping.py
+  s_ffd92932362e87::t_2bc3312f5a89f6 19
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_c06bf96b910571 37-43
+  s_ffd92932362e87::t_e775a5a75ead16 91-97
+  s_ffd92932362e87::t_ac787a6698c9ba 265-269
+envelopes/core_apps/versions.py
+  s_ffd92932362e87::t_fcec57e684a15a 1-21
+apps/catalog/handlers/core_apps.py
+  s_ffd92932362e87::t_ab41924d015cbf 192
+  s_ffd92932362e87::t_bf973b1e17004a 98
+  s_ffd92932362e87::t_1df9f05b976790 138
+  s_ffd92932362e87::t_78fc6bc84c49f6 241
+apps/data/core_apps/models.py
+  s_ffd92932362e87::t_0d960e8b703a84 46
+  s_ffd92932362e87::t_69f78b0486bf26 52-131
+apps/data/core_apps/tests/test_models.py
+  s_ffd92932362e87::t_909c509ef402ed 26-28
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_b3918425789818 95-101
+  s_ffd92932362e87::t_0e207bcadc2673 120
+  s_ffd92932362e87::t_9b023c51cadfab 49-55
+  s_ffd92932362e87::t_2e779a6ecbc6e2 136-139
+apps/catalog/tests/test_promote_core_apps.py
+  s_ffd92932362e87::t_5e33bee4bcb138 40-43
+  s_ffd92932362e87::t_354e80c4226bd6 94
+  s_ffd92932362e87::t_14e2aafc488dc3 187
+scrapers/event_spiders/core_apps.py
+  s_ffd92932362e87::t_8796d184f45bb8 43
+  s_ffd92932362e87::t_2f07ec7fd96879 11
+apps/bootstrap.py
+  s_ffd92932362e87::t_377d2d59f8a763 89
+  s_ffd92932362e87::t_0b6d3fcac267ba 98-110
+apps/data/core_apps/management/commands/import_portal_core_apps.py
+  s_ffd92932362e87::t_a8f0d361eaa9e0 25
+apps/data/core_apps/tests/test_contracts.py
+  s_ffd92932362e87::t_b992da7467e188 18
+apps/data/core_apps/transformers.py
+  s_ffd92932362e87::t_3903bf1d444e71 44
+  s_ffd92932362e87::t_5f024918935dc7 52
+  s_ffd92932362e87::t_180cc1aa9bdb18 30-31
+config/settings/base.py
+  s_ffd92932362e87::t_349bf278117ace 108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "570799d4e2dac7c1480ee09c4fe5ed80b8d5f75c",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

@@ -1,0 +1,23 @@
+tests/hooks/conftest.py
+  s_9cc359b33535bd::t_8c6e9ac76a1f26 1-8,19-20,22-24
+.agents/skills/local-review/SKILL.md
+  s_9cc359b33535bd::t_8c6e9ac76a1f26 1-110
+.agents/skills/check-coverage/SKILL.md
+  s_9cc359b33535bd::t_8c6e9ac76a1f26 1-419
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "477ee7282f332382c259246328250c7b986bf666",
+  "prompts": {},
+  "sessions": {
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+apps/provenance/api.py
+  s_17405aaf91a59b::t_7d01d75e0d02cb 16,23-24
+  s_17405aaf91a59b::t_0e1a5a09723223 88-90,94
+apps/provenance/management/commands/ingest_snapshot.py
+  s_17405aaf91a59b::t_0ea794c3b3caab 31
+  s_17405aaf91a59b::t_157dfb99b0f939 29
+  s_17405aaf91a59b::t_bb87a423374705 1
+  s_17405aaf91a59b::t_3b058be60a4b41 2-28,30,32-67
+assets/css/source.css
+  s_17405aaf91a59b::t_5e2b23d002e854 37-39,41-49,51,53-54,56-61
+  s_17405aaf91a59b::t_548660302f1b1c 74-99
+templates/provenance/repo_report.html
+  s_17405aaf91a59b::t_2e1e220203bafb 1-65
+apps/provenance/services.py
+  s_17405aaf91a59b::t_de2667743f13c2 27
+  s_17405aaf91a59b::t_819b615481c196 1-20,22-26,28-45
+  s_17405aaf91a59b::t_9354ff851610e4 21
+apps/provenance/views.py
+  s_17405aaf91a59b::t_c281f0e5830bd4 23-32,71,82,91-94,97-105
+  s_17405aaf91a59b::t_d07b43ee9174a8 1,3,6-8,13-22,33-36,42-70,72-81,83-90,106-113
+  s_17405aaf91a59b::t_71622a3ab69599 95-96
+apps/provenance/tests/test_repo_report.py
+  s_17405aaf91a59b::t_adfc7d56b88b0b 1-79
+apps/provenance/urls.py
+  s_17405aaf91a59b::t_332786fea63508 9-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "50c1eccea012995f53a32df63459d7606b0fbd8c",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

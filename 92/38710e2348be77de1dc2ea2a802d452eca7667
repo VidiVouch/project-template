@@ -1,0 +1,37 @@
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_fb75e0121a1150 11,29-43,47-53
+apps/catalog/handlers/_shared.py
+  s_0276221d01c0b0::t_7fa893d67b107b 1-316
+apps/catalog/domain/ports.py
+  s_0276221d01c0b0::t_3d96b121ab923f 134,138-140
+apps/catalog/fakes.py
+  s_0276221d01c0b0::t_182fbb6d25728b 209-211,214,222
+apps/catalog/handlers/allintheloop.py
+  s_0276221d01c0b0::t_7fa893d67b107b 1-299
+apps/catalog/tests/test_promote_allintheloop.py
+  s_0276221d01c0b0::t_121576aa07ba27 1-357
+apps/catalog/repositories.py
+  s_0276221d01c0b0::t_aa5d368dd55f81 329,332-335
+apps/catalog/migrations/0005_eventorganizationrelationship_booth_number.py
+  s_0276221d01c0b0::t_83c57c193a8b0b 1-18
+apps/catalog/models.py
+  s_0276221d01c0b0::t_c71e02c84567b5 484-488
+apps/catalog/tests/test_promoter_registry.py
+  s_0276221d01c0b0::t_fd3af3e914042d 161-167
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "9238710e2348be77de1dc2ea2a802d452eca7667",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

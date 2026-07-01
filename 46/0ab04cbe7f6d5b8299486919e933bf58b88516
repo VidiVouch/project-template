@@ -1,0 +1,22 @@
+apps/data/capture/transport.py
+  s_33f9c21df35ec6::t_3447618de362f6 176
+  s_33f9c21df35ec6::t_c55497d97f5e42 34-35
+  s_33f9c21df35ec6::t_8e12aec2a3b64a 54
+  s_33f9c21df35ec6::t_d89497efc3d310 53,55-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "460ab04cbe7f6d5b8299486919e933bf58b88516",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

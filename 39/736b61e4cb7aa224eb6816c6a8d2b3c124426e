@@ -1,0 +1,85 @@
+apps/data/yc_bookface/management/commands/import_portal_yc_bookface.py
+  s_5b002650df0863::t_58bf2e80f33457 1-21,25-160
+  s_5b002650df0863::t_1030051e82351a 22-24
+apps/data/yc_bookface/transformers.py
+  s_5b002650df0863::t_9834df1e6649e3 1-98
+apps/bootstrap.py
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+  s_5b002650df0863::t_e245d029f0edc3 52-53,116-117,119-120,127-128,132-135
+  s_5b002650df0863::t_95bbf6ddcd5ec1 114-115,138-139,141-143,145-146,148-149
+  s_5b002650df0863::t_08566a2df15b56 152-159,161,163,166,168-169,118,125,130,136-137,56,60,68,72,75-76,140,144,147,150-151
+  s_5b002650df0863::t_d59d051562f4ac 50
+  s_5b002650df0863::t_0b0d577d37bdf3 49,54-55,57-59,61-67,69-71,73-74
+  s_5b002650df0863::t_d2994d49d50947 121,123-124,126
+  s_5b002650df0863::t_b82f85f3ae94eb 122,129,131
+  s_5b002650df0863::t_aad84bce2383cc 91
+  s_5b002650df0863::t_d7551d070bf5c6 45,51
+  s_5b002650df0863::t_ddca3c96e7ae2c 86,160
+  s_5b002650df0863::t_42dd5ac172a677 92,164
+  s_5b002650df0863::t_64fd1f4221b16b 89,162
+  s_5b002650df0863::t_151a54d17a1f0b 93,165
+apps/data/yc_bookface/migrations/0001_initial.py
+  s_5b002650df0863::t_1e6a7dacb04d25 1-77
+apps/data/yc_bookface/tests/test_import_portal_yc_bookface.py
+  s_5b002650df0863::t_500d9760a2069b 1-85
+apps/data/yc_bookface/sessions.py
+  s_5b002650df0863::t_e5ff4268f06cb5 1-105
+apps/data/yc_bookface/tests/test_sessions.py
+  s_5b002650df0863::t_0851c59258a770 1-75
+  s_5b002650df0863::t_1030051e82351a 76-95
+traffic_adapters/tests/test_yc_bookface.py
+  s_5b002650df0863::t_6b7ae2617c996d 1-96
+  s_5b002650df0863::t_1030051e82351a 97-158
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 428-430,16,91,170-172,348-353,356-358,360,363-373,376-379,382-390
+  s_5b002650df0863::t_90400a7abda1ff 107,545-548,494,496,507,354-355,359,361-362,374-375,380-381,391-392,414,419
+  s_5b002650df0863::t_5804aba2648a0d 549-552
+  s_5b002650df0863::t_7dc34e1fe62abe 106
+  s_5b002650df0863::t_b82f85f3ae94eb 111,166-168
+  s_5b002650df0863::t_aad84bce2383cc 102
+  s_5b002650df0863::t_3414e7b0b4527a 90
+  s_5b002650df0863::t_ff619b430102c0 487-493,495,497-506
+  s_5b002650df0863::t_ec27907ff5a786 110
+  s_5b002650df0863::t_4b47bc34478b19 516-523,526-529,532-534,539-542
+  s_5b002650df0863::t_7b601b147a8e02 92,342-343,397-401
+  s_5b002650df0863::t_3b609469ed5037 415,418
+  s_5b002650df0863::t_5730fdc83b6853 109
+  s_5b002650df0863::t_e1deb24cd0711a 105
+  s_5b002650df0863::t_e74251149466fa 96
+  s_5b002650df0863::t_a58725b59d4b17 103
+  s_5b002650df0863::t_4cd6a5e0b65d2e 100
+  s_5b002650df0863::t_a3f29645c8e8f0 104
+apps/data/yc_bookface/registrations.py
+  s_5b002650df0863::t_303ebcaf4efdcf 1-40
+apps/data/yc_bookface/admin.py
+  s_5b002650df0863::t_a86a7a349bc995 1-26
+apps/data/yc_bookface/apps.py
+  s_5b002650df0863::t_6b3e73a1096959 1-8
+apps/data/yc_bookface/models.py
+  s_5b002650df0863::t_a8c59ca5ac7d7e 1-83
+apps/data/yc_bookface/response.py
+  s_5b002650df0863::t_9c1d7a8cce04a7 1-106
+traffic_adapters/adapters/yc_bookface.py
+  s_5b002650df0863::t_961c1a1e4454d9 1-91,93-149
+  s_5b002650df0863::t_7fe5093c4967c7 92
+apps/data/yc_bookface/tests/test_contracts.py
+  s_5b002650df0863::t_d42079e8861bc5 1-85
+  s_5b002650df0863::t_1030051e82351a 86-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "39736b61e4cb7aa224eb6816c6a8d2b3c124426e",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

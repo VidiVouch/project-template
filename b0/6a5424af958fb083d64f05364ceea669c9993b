@@ -1,0 +1,31 @@
+apps/data/brella/mapping.py
+  s_0276221d01c0b0::t_b7bfe01a4aa40a 1,3-27,30,33-189,191-192,194-196,198-209
+apps/data/brella/tests/test_contracts.py
+  s_0276221d01c0b0::t_b7bfe01a4aa40a 13
+apps/catalog/tests/test_promote_brella.py
+  s_0276221d01c0b0::t_b7bfe01a4aa40a 1-384
+apps/catalog/handlers/brella.py
+  s_0276221d01c0b0::t_b7bfe01a4aa40a 1-305
+apps/data/brella/registrations.py
+  s_0276221d01c0b0::t_b7bfe01a4aa40a 9-13,17-18,24-38,116-124
+apps/data/brella/tests/test_mapping.py
+  s_0276221d01c0b0::t_b7bfe01a4aa40a 1-164
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_b7bfe01a4aa40a 26-32,60-66,86,90-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b06a5424af958fb083d64f05364ceea669c9993b",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

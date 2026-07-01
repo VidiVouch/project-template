@@ -1,0 +1,21 @@
+.agents/skills/port-source/references/legacy-map.md
+  s_5b002650df0863::t_600458f4e44da2 4-9
+  s_5b002650df0863::t_739f9474d0439c 12,19,47,82,86,89-90
+  s_5b002650df0863::t_125ff57963a047 16-18,20-21,30-38,40,44-46,52,96-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "5839836ad3d26fcc90fedcc7087c622608003dba",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

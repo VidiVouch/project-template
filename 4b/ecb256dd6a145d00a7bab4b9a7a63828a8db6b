@@ -1,0 +1,87 @@
+apps/notary/seats.py
+  s_3389ba2812099c::t_c05afbba929d79 564-577,583-609,611
+apps/billing/tests/test_receivers.py
+  s_3389ba2812099c::t_9202b1f0864f27 14-15
+  s_3389ba2812099c::t_c898a7bdc2558a 128-138,140-183
+  s_3389ba2812099c::t_6d6d90ead7aa6e 139
+apps/notary/tests/test_seats.py
+  s_3389ba2812099c::t_0c726c1b6077a7 240-283
+apps/notary/tests/test_reviews.py
+  s_3389ba2812099c::t_3e2242bea23fd3 97-109
+  s_3389ba2812099c::t_a6b7f58bb788f1 22,28
+  s_3389ba2812099c::t_f7a0600dfe590c 179-214
+apps/notary/reviews.py
+  s_3389ba2812099c::t_8fb064a01584ce 29
+  s_3389ba2812099c::t_0286a7f1de7e2c 140-141,167
+  s_3389ba2812099c::t_f93f7c2db28ba4 240-242,248
+  s_3389ba2812099c::t_9f9b9270b2fd79 56-58,60-66,69,74
+  s_3389ba2812099c::t_c316095e0822ea 70
+  s_3389ba2812099c::t_060cc68c0675e5 222-229
+  s_3389ba2812099c::t_1e78b4a6c3ae64 188-215,221,245-247,249
+apps/notary/dsse.py
+  s_3389ba2812099c::t_ff9e7261612fff 225-227,244-245,248-249,255-260,262-268
+  s_3389ba2812099c::t_52388409482ce7 228-236
+  s_3389ba2812099c::t_bd0bc0541ac7c7 33
+apps/billing/receivers.py
+  s_3389ba2812099c::t_e2d4afb1526528 193,195-196,201-217,220-221,226,229-261
+  s_3389ba2812099c::t_8b0a40063b79b6 420-422
+  s_3389ba2812099c::t_2c9bbe05fe98c7 194,197-200
+  s_3389ba2812099c::t_4e676132b3405a 417-419,423
+  s_3389ba2812099c::t_8a882818e2a400 218-219,222-225,227-228
+apps/provenance/views.py
+  s_3389ba2812099c::t_e04838b8a3cf7c 2117
+  s_3389ba2812099c::t_84f0730bec6f48 2044-2092,2102-2105,2118-2120
+apps/notary/tests/test_reviews_api.py
+  s_3389ba2812099c::t_8510503265397d 101-115
+  s_3389ba2812099c::t_768d52fb2e942c 20
+  s_3389ba2812099c::t_34be0767b5dad7 177,179-215
+  s_3389ba2812099c::t_6d2af03fdcbd1c 178
+  s_3389ba2812099c::t_efa092194fb7c4 235
+  s_3389ba2812099c::t_4e901fcfcca599 131,140
+apps/provenance/tests/test_vouch_verify.py
+  s_3389ba2812099c::t_6fbea2de407c08 308-311
+  s_3389ba2812099c::t_91d89534b359ba 270,282-285,287-290,299-300,305-307,312-336
+  s_3389ba2812099c::t_06f5a5b807c47d 23,26
+apps/billing/views.py
+  s_3389ba2812099c::t_f1eddf3b0bacd3 335-336
+  s_3389ba2812099c::t_a88a1a12b07bb3 330-334,337-342,354-355
+  s_3389ba2812099c::t_15ad64b70a3f1f 98-103,106-107
+  s_3389ba2812099c::t_66192c47398d5a 298-310
+apps/notary/tests/test_dsse.py
+  s_3389ba2812099c::t_a0c77ba19d6897 127-149
+apps/provenance/tests/test_authorship_view.py
+  s_3389ba2812099c::t_8903c53a5a8bcb 180-183
+  s_3389ba2812099c::t_8060ca25bd65da 133,137,141,144-145,152-170
+  s_3389ba2812099c::t_db15b22990dbb8 71-74,77
+  s_3389ba2812099c::t_da2b578e590603 174-179,184-206
+  s_3389ba2812099c::t_ee312b825b5e0f 130-132,134-136,138-140,142-143,146-151,171-172
+  s_3389ba2812099c::t_a99d665b5c7f5d 66-70,75-76,78-80
+apps/provenance/vouch_verify.py
+  s_3389ba2812099c::t_cd68685246a5a0 45-50
+  s_3389ba2812099c::t_87a3a2b62d619e 156
+  s_3389ba2812099c::t_b5b150b0ad9faf 242-244
+  s_3389ba2812099c::t_da669a054b6d18 153-155
+  s_3389ba2812099c::t_804e58712d5d9c 200-207,209-210,212
+apps/billing/tests/test_views.py
+  s_3389ba2812099c::t_72630cd186f72e 259-272,274-306
+  s_3389ba2812099c::t_46cdf7ba5f7d64 168-178
+  s_3389ba2812099c::t_e2b19368959c7b 273
+apps/identity/migrations/0010_tenantmembership.py
+  s_3389ba2812099c::t_369d318f96b81c 16-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "4becb256dd6a145d00a7bab4b9a7a63828a8db6b",
+  "prompts": {},
+  "sessions": {
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

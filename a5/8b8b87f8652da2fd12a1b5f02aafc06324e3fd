@@ -1,0 +1,43 @@
+templates/allauth/elements/fields.html
+  s_062b4d28690cee::t_3afdfe5f58c6b4 1-2,6
+  s_062b4d28690cee::t_1eb74aa98da9a2 3-5,7
+templates/allauth/layouts/base.html
+  s_062b4d28690cee::t_4e4a9873d379d8 26-28,31-35
+apps/identity/templatetags/gz_forms.py
+  s_062b4d28690cee::t_d5cb06dc59fd7f 13-14
+  s_062b4d28690cee::t_42517125a9620c 43-46
+  s_062b4d28690cee::t_a2115210e273b0 1-12,17,22-42
+  s_062b4d28690cee::t_76fcbdf02b1ade 15-16,18-21
+apps/identity/forms.py
+  s_062b4d28690cee::t_84d59008cda883 245-259,261,263
+templates/identity/access_request_form.html
+  s_062b4d28690cee::t_d981d6050c2eeb 33
+templates/allauth/elements/field.html
+  s_062b4d28690cee::t_f1cdcd48dcde20 1-61
+assets/css/source.css
+  s_062b4d28690cee::t_bf88c39827af26 1254-1284
+  s_062b4d28690cee::t_4c542c5629a590 552
+templates/_gz_form_fields.html
+  s_062b4d28690cee::t_1190b59805cf11 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "a58b8b87f8652da2fd12a1b5f02aafc06324e3fd",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

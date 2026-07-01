@@ -1,0 +1,21 @@
+apps/sales/tests/test_scoring_service.py
+  s_33f9c21df35ec6::t_c0a74f8413763e 49,71-72,86,89-90,93,110
+  s_33f9c21df35ec6::t_dd1b4c486b675f 11
+  s_33f9c21df35ec6::t_802473249f180c 12-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f83194fd1becd7e8ced2c79a84e72e5b43e3f3dd",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

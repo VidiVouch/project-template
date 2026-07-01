@@ -1,0 +1,60 @@
+render.yaml
+  s_5b002650df0863::t_80dd0c6d11f722 39-40
+apps/analytics/scrub.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-99
+apps/analytics/tests/test_track.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-148
+apps/analytics/signals.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-184
+apps/analytics/tests/test_signals.py
+  s_5b002650df0863::t_c6b5c98832a4d9 13
+  s_5b002650df0863::t_dde9d069e1fdb7 1-12,14-128
+config/urls.py
+  s_5b002650df0863::t_80dd0c6d11f722 20-23
+apps/analytics/context_processors.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-96
+apps/analytics/urls.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-18
+apps/analytics/tests/test_proxy.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-349
+config/settings/production.py
+  s_5b002650df0863::t_80dd0c6d11f722 56-65
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 16,91,155-157,332-376,390-392
+uv.lock
+  s_5b002650df0863::t_8bbbfb2e91fece 166-173,678-686,1498,1577,1636-1648
+pyproject.toml
+  s_5b002650df0863::t_80dd0c6d11f722 33
+apps/analytics/templates/analytics/_snippet.html
+  s_5b002650df0863::t_dde9d069e1fdb7 1-220
+apps/analytics/__init__.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1
+apps/analytics/proxy.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-400
+tests/architecture/test_no_forbidden_imports.py
+  s_5b002650df0863::t_80dd0c6d11f722 36
+apps/analytics/tests/test_context_processors.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-189
+apps/analytics/tests/test_scrub.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-110
+apps/analytics/apps.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-39
+apps/analytics/track.py
+  s_5b002650df0863::t_dde9d069e1fdb7 1-146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a59a09eab539a00f57947090c53ba23c5a68cfcd",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

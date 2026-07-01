@@ -1,0 +1,25 @@
+apps/identity/tests/test_tenant.py
+  s_0276221d01c0b0::t_1e10b054e7520d 1-44
+README.md
+  s_0276221d01c0b0::t_1e10b054e7520d 17,346-373
+apps/identity/models.py
+  s_0276221d01c0b0::t_1e10b054e7520d 1,3,13-15,39-42,61-81,94-95,98-99
+apps/identity/migrations/0002_tenant_profile_tenant.py
+  s_0276221d01c0b0::t_1e10b054e7520d 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "ed1e3e6b5177356a717d0d4c5ee89c2973d89b6c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

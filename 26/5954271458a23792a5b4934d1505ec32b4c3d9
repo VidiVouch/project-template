@@ -1,0 +1,25 @@
+.gitignore
+  s_9cc359b33535bd::t_cb5c5eafd208fb 780
+.idea/inspectionProfiles/Project_Default.xml
+  s_9cc359b33535bd::t_63698bf4d37622 15
+pyproject.toml
+  s_9cc359b33535bd::t_bf1ef54f6c19af 61
+  s_9cc359b33535bd::t_af0dca38e85386 147-149
+  s_9cc359b33535bd::t_cd912d9cdec808 75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "265954271458a23792a5b4934d1505ec32b4c3d9",
+  "prompts": {},
+  "sessions": {
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

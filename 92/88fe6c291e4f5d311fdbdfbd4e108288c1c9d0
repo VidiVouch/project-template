@@ -1,0 +1,35 @@
+apps/demo/tests/factories.py
+  s_0276221d01c0b0::t_b79f12added272 1-78
+apps/demo/tests/test_models.py
+  s_0276221d01c0b0::t_b79f12added272 1-68
+apps/demo/tests/test_ingest.py
+  s_0276221d01c0b0::t_b79f12added272 1-289
+apps/demo/tests/test_readers.py
+  s_0276221d01c0b0::t_b79f12added272 1-115
+apps/demo/tests/test_staff_views.py
+  s_0276221d01c0b0::t_b79f12added272 1-178
+apps/demo/tests/test_presentation.py
+  s_0276221d01c0b0::t_b79f12added272 1-49
+apps/demo/tests/test_rls.py
+  s_0276221d01c0b0::t_b79f12added272 1-133
+apps/demo/tests/test_views.py
+  s_0276221d01c0b0::t_b79f12added272 1-337
+apps/demo/tests/test_schema.py
+  s_0276221d01c0b0::t_b79f12added272 1-126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "9288fe6c291e4f5d311fdbdfbd4e108288c1c9d0",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

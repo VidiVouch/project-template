@@ -1,0 +1,93 @@
+apps/data/grip/sessions.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-102
+.claude/commands/deep-review.md
+  s_0276221d01c0b0::t_85987819e64a6b 232,234
+apps/catalog/handlers/grip.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-254
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_85987819e64a6b 41-44,59,68,76
+apps/data/grip/tests/test_transformers.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-106
+apps/data/grip/mapping.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-176
+apps/data/grip/models.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-87
+apps/data/grip/tests/test_response.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-106
+apps/data/grip/tests/test_mapping.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-122
+apps/bootstrap.py
+  s_0276221d01c0b0::t_85987819e64a6b 59,61
+envelopes/grip/versions.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-53
+scrapers/event_spiders/tests/test_grip_spider.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-399
+apps/data/grip/transformers.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-118
+apps/data/grip/login.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-81
+tests/architecture/test_collection_layer_django_free.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-69
+apps/catalog/tests/test_promoter_registry.py
+  s_0276221d01c0b0::t_85987819e64a6b 29-32,55,208-209
+config/settings/base.py
+  s_0276221d01c0b0::t_85987819e64a6b 96
+apps/data/grip/migrations/0001_initial.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-97
+apps/data/grip/tests/test_app_registration.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-39
+mitm_interceptor/tests/test_base.py
+  s_0276221d01c0b0::t_85987819e64a6b 12-13,16,168-314
+mitm_interceptor/interceptors/grip_events.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-175
+envelopes/grip/response.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-134
+mitm_interceptor/base.py
+  s_0276221d01c0b0::t_85987819e64a6b 6,11,19,25-26,33-52,304-406
+.claude/settings.json
+  s_0276221d01c0b0::t_85987819e64a6b 87
+apps/catalog/tests/test_promote_grip.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-330
+docs/archive/PORTAL_V2_ARCHITECTURE.md
+  s_0276221d01c0b0::t_85987819e64a6b 248-249,2008-2019,2021-2024
+apps/data/credentials/login.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-49
+apps/data/grip/management/commands/drain_grip_logins.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-32
+mitm_interceptor/tests/test_grip_events.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-212
+apps/catalog/handlers/cadmium/orgs.py
+  s_0276221d01c0b0::t_85987819e64a6b 20,73
+apps/data/grip/apps.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-8
+scrapers/event_spiders/grip.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-384
+.agents/skills/port-source/references/legacy-map.md
+  s_0276221d01c0b0::t_85987819e64a6b 3-9,98
+apps/data/grip/tests/test_sessions.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-187
+apps/catalog/handlers/_shared.py
+  s_0276221d01c0b0::t_85987819e64a6b 287-316
+apps/data/grip/registrations.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-32
+.agents/skills/port-drain/references/harvest-legacy-drain.md
+  s_0276221d01c0b0::t_85987819e64a6b 3-5
+apps/data/grip/tests/test_login.py
+  s_0276221d01c0b0::t_85987819e64a6b 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f47a8dd571a1b01579bc8d0bac8ef5c10af748e9",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

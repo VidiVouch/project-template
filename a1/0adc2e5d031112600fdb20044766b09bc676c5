@@ -1,0 +1,49 @@
+scrapers/event_spiders/__init__.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 1-7
+scrapers/event_spiders/cadmium.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 1-509
+scrapers/pipelines.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 1-136
+scrapers/tests/test_pipelines.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 1-230
+uv.lock
+  s_0276221d01c0b0::t_1e1c0611bbb896 1341,1413,2303-2309
+envelopes/cadmium/response.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 37-43,46-53
+scrapers/event_spiders/tests/test_cadmium_utils.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 1-127
+scrapers/event_spiders/cadmium_utils.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 1-131
+pyproject.toml
+  s_0276221d01c0b0::t_1e1c0611bbb896 36
+scrapers/tests/test_settings.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 1-25
+config/settings/base.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 395-399
+scrapers/settings.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 11-40,45,74-77,87-97
+apps/data/capture/tests/test_transport.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 127-154
+apps/data/capture/transport.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 48,68-77,188-199,201
+scrapers/event_spiders/tests/test_cadmium_e2e.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 1-139
+scrapers/event_spiders/tests/test_cadmium_spider.py
+  s_0276221d01c0b0::t_1e1c0611bbb896 1-641
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "a10adc2e5d031112600fdb20044766b09bc676c5",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

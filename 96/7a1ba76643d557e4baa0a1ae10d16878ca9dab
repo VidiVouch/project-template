@@ -1,0 +1,22 @@
+.claude/settings.json
+  s_eef0c01ffe4331::t_c4f428945484c5 85-95
+  s_eef0c01ffe4331::t_37793aaff15627 42-52
+.claude/hooks/seed_worktree_env.py
+  s_eef0c01ffe4331::t_60b1be0a698038 1-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "967a1ba76643d557e4baa0a1ae10d16878ca9dab",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

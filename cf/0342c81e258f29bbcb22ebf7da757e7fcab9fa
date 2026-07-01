@@ -1,0 +1,19 @@
+.idea/inspectionProfiles/Project_Default.xml
+  s_9cc359b33535bd::t_63698bf4d37622 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "cf0342c81e258f29bbcb22ebf7da757e7fcab9fa",
+  "prompts": {},
+  "sessions": {
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

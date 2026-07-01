@@ -1,0 +1,33 @@
+apps/catalog/fakes.py
+  s_0276221d01c0b0::t_b54b3808c0a877 1-227
+apps/catalog/tests/test_domain_events.py
+  s_0276221d01c0b0::t_b54b3808c0a877 1-50
+apps/catalog/repositories.py
+  s_0276221d01c0b0::t_b54b3808c0a877 1-389
+apps/catalog/tests/test_fakes.py
+  s_0276221d01c0b0::t_b54b3808c0a877 1-552
+apps/catalog/tests/test_domain_entities.py
+  s_0276221d01c0b0::t_b54b3808c0a877 1-80
+apps/catalog/domain/entities.py
+  s_0276221d01c0b0::t_b54b3808c0a877 1-134
+apps/catalog/domain/ports.py
+  s_0276221d01c0b0::t_b54b3808c0a877 1-156
+apps/catalog/domain/events.py
+  s_0276221d01c0b0::t_b54b3808c0a877 1-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "37af4614ef91393180fb6758be6d4ed08190546d",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

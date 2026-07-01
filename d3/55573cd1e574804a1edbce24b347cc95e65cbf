@@ -1,0 +1,76 @@
+apps/data/cvent/models.py
+  s_5b002650df0863::t_2c9715f3294327 1-134
+apps/data/cvent/tests/test_app_registration.py
+  s_5b002650df0863::t_559eef2fbc4110 1-26
+apps/data/cvent/tests/test_admin.py
+  s_5b002650df0863::t_3f22f79136b273 1-32
+apps/data/cvent/tests/test_contracts.py
+  s_5b002650df0863::t_4d18a8d47623bb 1-13,15-90
+  s_5b002650df0863::t_1030051e82351a 14,91-99
+apps/data/cvent/mapping.py
+  s_5b002650df0863::t_a14c24535ec7c2 1-26
+apps/bootstrap.py
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+  s_5b002650df0863::t_e245d029f0edc3 52-53,115-116,118-119,126-127,131-134
+  s_5b002650df0863::t_95bbf6ddcd5ec1 113-114,137-138,140-142,144-145,147-148
+  s_5b002650df0863::t_08566a2df15b56 151-158,160-161,163,165-166,117,124,129,135-136,56,60,68,72,75-76,139,143,146,149-150
+  s_5b002650df0863::t_d59d051562f4ac 50
+  s_5b002650df0863::t_0b0d577d37bdf3 49,54-55,57-59,61-67,69-71,73-74
+  s_5b002650df0863::t_d2994d49d50947 120,122-123,125
+  s_5b002650df0863::t_b82f85f3ae94eb 121,128,130
+  s_5b002650df0863::t_aad84bce2383cc 91
+  s_5b002650df0863::t_d7551d070bf5c6 45,51
+  s_5b002650df0863::t_ddca3c96e7ae2c 86,159
+  s_5b002650df0863::t_42dd5ac172a677 92,162
+  s_5b002650df0863::t_64fd1f4221b16b 89
+apps/data/cvent/apps.py
+  s_5b002650df0863::t_6ab47cfe7fceaf 1-8
+apps/data/cvent/admin.py
+  s_5b002650df0863::t_0f74fbebc76ebe 1-40
+apps/data/cvent/tests/test_response.py
+  s_5b002650df0863::t_173fdcf2bf6eff 1-88
+  s_5b002650df0863::t_1030051e82351a 89-120
+apps/data/cvent/response.py
+  s_5b002650df0863::t_1ade1e1c6053e7 1-210
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 427-429,16,91,169-171,347-352,355-357,359,362-372,375-378,381-389
+  s_5b002650df0863::t_90400a7abda1ff 106,544-547,493,495,506,353-354,358,360-361,373-374,379-380,390-391,413,418
+  s_5b002650df0863::t_5804aba2648a0d 548-551
+  s_5b002650df0863::t_7dc34e1fe62abe 105
+  s_5b002650df0863::t_b82f85f3ae94eb 110,165-167
+  s_5b002650df0863::t_aad84bce2383cc 102
+  s_5b002650df0863::t_3414e7b0b4527a 90
+  s_5b002650df0863::t_ff619b430102c0 486-492,494,496-505
+  s_5b002650df0863::t_ec27907ff5a786 109
+  s_5b002650df0863::t_4b47bc34478b19 515-522,525-528,531-533,538-541
+  s_5b002650df0863::t_7b601b147a8e02 92,341-342,396-400
+  s_5b002650df0863::t_3b609469ed5037 414,417
+  s_5b002650df0863::t_5730fdc83b6853 108
+  s_5b002650df0863::t_e1deb24cd0711a 104
+  s_5b002650df0863::t_e74251149466fa 96
+  s_5b002650df0863::t_a58725b59d4b17 103
+  s_5b002650df0863::t_4cd6a5e0b65d2e 100
+apps/data/cvent/transformers.py
+  s_5b002650df0863::t_1fa83d68f58374 1-129
+apps/data/cvent/registrations.py
+  s_5b002650df0863::t_aa8e69a9d20b3f 1-11,14-40,42-43
+apps/data/cvent/migrations/0001_initial.py
+  s_5b002650df0863::t_77a89d51feef7b 1-157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d355573cd1e574804a1edbce24b347cc95e65cbf",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

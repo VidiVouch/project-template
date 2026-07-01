@@ -1,0 +1,50 @@
+apps/catalog/tests/test_promote_serper.py
+  s_ffd92932362e87::t_3ad43f77906b65 26-28
+  s_ffd92932362e87::t_225e8551e5baa2 78,93,314
+apps/catalog/handlers/serper.py
+  s_ffd92932362e87::t_d2d0c0300c5ba6 48
+apps/data/serper/tests/test_contracts.py
+  s_ffd92932362e87::t_e40a9ff5ccdd62 12
+apps/disambiguator/tests/test_queue_serper_prospect_lookup.py
+  s_ffd92932362e87::t_c34bd53723a08c 25,27-28
+  s_ffd92932362e87::t_2b1e62f0ed2766 167
+  s_ffd92932362e87::t_9854a63f423547 314
+  s_ffd92932362e87::t_691f6ba6834b6e 328-329,338-341
+  s_ffd92932362e87::t_53055493585437 331
+envelopes/serper/response.py
+  s_ffd92932362e87::t_be7aa63a255d3a 38-40
+apps/data/serper/tests/test_models.py
+  s_ffd92932362e87::t_bfcb7997a4b341 6-8
+  s_ffd92932362e87::t_c4fcb0f7c958b8 24
+apps/data/serper/models.py
+  s_ffd92932362e87::t_53ea427f6a57e9 28
+  s_ffd92932362e87::t_9122f3929a2ff1 50,59-61,64
+apps/data/serper/tests/test_app_registration.py
+  s_ffd92932362e87::t_1a00429d869c23 16
+apps/disambiguator/management/commands/queue_serper_prospect_lookup.py
+  s_ffd92932362e87::t_de5c99ba5864e2 23-26
+  s_ffd92932362e87::t_db3a9ff4247086 58-59,61-62
+  s_ffd92932362e87::t_4494f5059c09fb 317-321
+  s_ffd92932362e87::t_53055493585437 324-327
+  s_ffd92932362e87::t_0b5519b3cd10f1 330-332
+envelopes/serper/versions.py
+  s_ffd92932362e87::t_96857746a1aa3c 1-18
+apps/data/serper/transformers.py
+  s_ffd92932362e87::t_d0fff33136acff 19-22,44-48,53-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "1371d46afe2e70f75999a9b7a7df95f3a81aa9ad",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+LICENSE.md
+  h_795c5e33ecc5af 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "9dbfecb1e78d7eb709cb4172544c98cdd6eb3e92",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

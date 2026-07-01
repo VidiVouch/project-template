@@ -1,0 +1,25 @@
+envelopes/credentials/login.py
+  s_0276221d01c0b0::t_02263e5b3e55cb 1-68
+envelopes/_versioning.py
+  s_0276221d01c0b0::t_02263e5b3e55cb 1-52
+envelopes/credentials/ports.py
+  s_0276221d01c0b0::t_02263e5b3e55cb 1-77
+envelopes/__init__.py
+  s_0276221d01c0b0::t_02263e5b3e55cb 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "fce90a0cb6eb370b886fd7a673d4f5a00c40cd1c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

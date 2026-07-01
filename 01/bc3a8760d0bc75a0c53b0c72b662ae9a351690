@@ -1,0 +1,54 @@
+apps/identity/events.py
+  s_5b002650df0863::t_841e48953dff1f 38-42,50
+apps/identity/migrations/0005_accessrequest.py
+  s_5b002650df0863::t_af752825af81e2 1-36
+config/urls.py
+  s_5b002650df0863::t_cfeac854f91e4b 7-8,15-18
+apps/identity/apps.py
+  s_5b002650df0863::t_ec7eb2349edba5 20
+  s_5b002650df0863::t_bbb3465cf3c0e4 21
+apps/identity/tests/factories.py
+  s_5b002650df0863::t_101cdb21654b9f 20
+  s_5b002650df0863::t_fb944c8e0d8676 170-186
+apps/identity/models.py
+  s_5b002650df0863::t_21b5b7fe412997 583-666
+templates/identity/access_request_thanks.html
+  s_5b002650df0863::t_ec388a74f9ec2c 1-14
+apps/identity/tests/test_access_request.py
+  s_5b002650df0863::t_076789aa7fc6ca 1-101
+templates/identity/access_request_form.html
+  s_5b002650df0863::t_ecf4d6b4279443 1-22
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_5b002650df0863::t_8af099ddbde0f0 333
+apps/identity/views.py
+  s_5b002650df0863::t_c29139eeaf4012 12,15,17,19,21
+  s_5b002650df0863::t_c2e532a54784a1 302-353
+apps/identity/admin.py
+  s_5b002650df0863::t_a235f716c318e8 608
+  s_5b002650df0863::t_b67b98782e4b65 537-607,609-680
+  s_5b002650df0863::t_36cfa6a9c3ad85 12,19,21,23
+apps/identity/forms.py
+  s_5b002650df0863::t_29ac6943923a18 9
+  s_5b002650df0863::t_9efece58004ddf 224-256
+apps/identity/tests/test_access_request_admin.py
+  s_5b002650df0863::t_8d7f880b95ec47 1-111
+apps/identity/receivers.py
+  s_5b002650df0863::t_cddaad4fdf7c60 1-11,13-34,37-72
+  s_5b002650df0863::t_884788205a4961 12,35-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "01bc3a8760d0bc75a0c53b0c72b662ae9a351690",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

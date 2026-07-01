@@ -1,0 +1,78 @@
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_e5029397898e13 87-94
+  s_ffd92932362e87::t_4e6cc4fd688cc6 455-460
+  s_ffd92932362e87::t_95f02fbfcf3bab 211-218
+apps/data/guidebook/transformers.py
+  s_ffd92932362e87::t_5a0fa07d067694 104-108
+  s_ffd92932362e87::t_555b6ac8a9a511 15
+  s_ffd92932362e87::t_e88883016eb225 29-30
+  s_ffd92932362e87::t_f84a8b6148ce56 13
+  s_ffd92932362e87::t_297d33638f22cd 42-47,55-65
+  s_ffd92932362e87::t_c7a664cd5be6ae 53
+  s_ffd92932362e87::t_5bdbae39aac749 123
+apps/catalog/tests/test_promote_guidebook.py
+  s_ffd92932362e87::t_50cdd1544ecfb6 48
+  s_ffd92932362e87::t_4b3d487db018a7 110
+  s_ffd92932362e87::t_a62566c338a7f4 245
+config/settings/base.py
+  s_ffd92932362e87::t_f94695ef887366 117
+apps/bootstrap.py
+  s_ffd92932362e87::t_e2782b66ee1e1c 97
+  s_ffd92932362e87::t_d92a09266d58ef 121
+envelopes/guidebook/versions.py
+  s_ffd92932362e87::t_1c70207c2dc89b 1-22
+apps/data/guidebook/models.py
+  s_ffd92932362e87::t_a4dc9a3428beb5 131
+  s_ffd92932362e87::t_2834a595b97f61 98
+  s_ffd92932362e87::t_4615027e514337 142
+  s_ffd92932362e87::t_6e72e39a06f44a 49
+  s_ffd92932362e87::t_a9b3f2ccf42916 65
+  s_ffd92932362e87::t_d4d9c0ace10fdb 76
+  s_ffd92932362e87::t_c20f23e6bd4381 153
+  s_ffd92932362e87::t_7685ef6d2333b3 60-64,66-75,77-86,88-97,99-108,110-119,121-130,132-141,143-152,154-172
+  s_ffd92932362e87::t_756a6e93b70f4a 46
+  s_ffd92932362e87::t_34ffa6aad84d3d 120
+  s_ffd92932362e87::t_45ec9dd68e49d4 109
+  s_ffd92932362e87::t_1a94ffcb011bc9 87
+scrapers/event_spiders/tests/test_guidebook_spider.py
+  s_ffd92932362e87::t_563f840580bf20 19
+scrapers/event_spiders/guidebook.py
+  s_ffd92932362e87::t_122a5d2ff88488 46
+apps/data/guidebook/tests/test_app_registration.py
+  s_ffd92932362e87::t_5f30f9d1a76667 26
+apps/catalog/handlers/guidebook.py
+  s_ffd92932362e87::t_ad65c6b1dd8f03 268
+  s_ffd92932362e87::t_076dc8bfcc0250 311
+  s_ffd92932362e87::t_485c56a2912224 234
+  s_ffd92932362e87::t_0aa20d084eee2c 164
+  s_ffd92932362e87::t_20c7673eff4409 126
+  s_ffd92932362e87::t_894ca88246155c 190
+apps/data/guidebook/tests/test_transformers.py
+  s_ffd92932362e87::t_93d34c6990f234 8
+  s_ffd92932362e87::t_9ba3e2252f5a87 38
+  s_ffd92932362e87::t_175a4c065c21f0 28
+  s_ffd92932362e87::t_4575d1072c2a88 29
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_5259446e296af0 334-337
+  s_ffd92932362e87::t_90a89d7d51b253 215-222
+  s_ffd92932362e87::t_41e0daed1936cd 99-106
+  s_ffd92932362e87::t_aab037c95374f8 284-285
+apps/data/guidebook/tests/test_contracts.py
+  s_ffd92932362e87::t_9afc84dd89b1bd 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "ff27f13df4a60e1a4467c773c2ac8b9755b3f042",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

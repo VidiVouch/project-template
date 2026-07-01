@@ -1,0 +1,55 @@
+apps/identity/site_url.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-132
+apps/tracking/models.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-138
+apps/tracking/apps.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-14
+pyproject.toml
+  s_0276221d01c0b0::t_bd54a10e017129 246-254
+apps/tracking/__init__.py
+  s_0276221d01c0b0::t_bd54a10e017129 1
+apps/tracking/receivers.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-111
+apps/tracking/management/commands/configure_mailgun_tracking.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-169
+.env.sample
+  s_0276221d01c0b0::t_bd54a10e017129 28-29
+apps/identity/apps.py
+  s_0276221d01c0b0::t_bd54a10e017129 4-10,20-101
+config/urls.py
+  s_0276221d01c0b0::t_bd54a10e017129 5,11
+apps/tracking/tests/test_models.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-57
+apps/identity/checks.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-143
+apps/identity/tests/test_site_config.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-197
+config/settings/production.py
+  s_0276221d01c0b0::t_bd54a10e017129 24-27
+apps/tracking/admin.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-45
+apps/tracking/management/__init__.py
+  s_0276221d01c0b0::t_bd54a10e017129 1
+apps/tracking/management/commands/__init__.py
+  s_0276221d01c0b0::t_bd54a10e017129 1
+apps/tracking/tests/test_receivers.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-139
+apps/tracking/migrations/0001_initial.py
+  s_0276221d01c0b0::t_bd54a10e017129 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "a89dec5ecffff6cdbe94bb8d8739679277949ac5",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+apps/catalog/promoters.py
+  s_5b002650df0863::t_c3f087f82a845b 17,91
+  s_5b002650df0863::t_f2884c44b56850 19,60-63,73,75,93-95,100,108
+  s_7c6c92400c7448::t_f11c65c481bc27 20,25,42,53,64,77,81,117,126,32,71,88
+  s_5b002650df0863::t_3f21ce7fbc8843 34,39,41
+  s_5b002650df0863::t_b51d8220710c69 45,52
+  s_5b002650df0863::t_aad84bce2383cc 47,54,83,114
+  s_5b002650df0863::t_c04b83d2fb5ffb 50-51
+  s_5b002650df0863::t_412c3cdade975f 72,74,76,90,97,110,112
+  s_5b002650df0863::t_9247efaace29fe 78,80,92
+  s_5b002650df0863::t_d16a603d1fcf30 79,82
+  s_5b002650df0863::t_cdd3b144664d3b 106-107,113,118
+  s_5b002650df0863::t_a6e05ed7960f02 111
+apps/catalog/tests/test_promote_swapcard.py
+  s_ffd92932362e87::t_0d8103a209b00f 120,123
+  s_ffd92932362e87::t_e423c645ea08a3 256-257
+  s_ffd92932362e87::t_b329daf0b07541 264
+  s_ffd92932362e87::t_3fb2b9ac43af9f 288,292
+  s_ffd92932362e87::t_b7f8c1c9e6437c 409,413,416-417
+  s_ffd92932362e87::t_38345e3dbb9b50 425
+apps/catalog/tests/test_promoter_registry.py
+  s_7c6c92400c7448::t_444ed4a67eefe4 19,31,41,55,60,72,77,85,94,26,47,67,84
+  s_5b002650df0863::t_b2b5239f5774d4 28,33,35,40,49-53,69-70,75,78,202,204,206,208,212,214,216,241,243
+  s_5b002650df0863::t_695a5a434e139b 38-39
+  s_5b002650df0863::t_aad84bce2383cc 54,71,209,211,219,42,79,246
+  s_5b002650df0863::t_5de9fe3697e3ca 56-59,73
+  s_5b002650df0863::t_e5a1068fc145b1 74,76,92-93
+  s_5b002650df0863::t_a20a6be81cee31 222-223,226,228-229,250-252
+  s_5b002650df0863::t_8e6127b2265ad1 239-240,245
+  s_5b002650df0863::t_6bb36eb8ce349b 242
+apps/catalog/handlers/swapcard.py
+  s_ffd92932362e87::t_ec540608b28964 115
+  s_ffd92932362e87::t_063a58a53647a8 158
+  s_ffd92932362e87::t_c9d01e0250c522 175
+  s_ffd92932362e87::t_082d4d4044d2bb 210
+  s_ffd92932362e87::t_0c3a563e12f9e0 271
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "93a781d7ee06efd307977a411cd8e7ff4aaf6bd2",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

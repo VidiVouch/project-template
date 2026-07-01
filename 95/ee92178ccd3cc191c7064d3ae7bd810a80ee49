@@ -1,0 +1,79 @@
+apps/githubapp/signals.py
+  s_17405aaf91a59b::t_07ad4d3a152554 128-146
+  s_17405aaf91a59b::t_b8ec49c07146bc 32,52-57
+  s_17405aaf91a59b::t_bdc5b2074e7e9e 33,46
+  s_17405aaf91a59b::t_4947b91dd32742 4-13,17-18,20,22-24,60-62,64-71,76,79,81-89
+apps/notary/models.py
+  s_17405aaf91a59b::t_0cf82db74706e6 43,45-46,53-71,80,83-84,89-107
+config/settings/base.py
+  s_17405aaf91a59b::t_9f256d46000748 611-619
+  s_17405aaf91a59b::t_63a9b08153177c 513-520
+apps/billing/subscriptions.py
+  s_17405aaf91a59b::t_308e0c51465e5c 165-169
+  s_17405aaf91a59b::t_c26661d95d0335 117-124
+apps/githubapp/models.py
+  s_17405aaf91a59b::t_36d1f26fa9feba 374
+  s_17405aaf91a59b::t_f281d1405c360f 201-236,240-243,246-275,279-282,284-292,294-298,300-301,309-311,315-326,362,367-373,375-390
+  s_17405aaf91a59b::t_60e89d97d3052d 37
+  s_17405aaf91a59b::t_1fa9066f0a72f3 338,341-346,349-361
+  s_17405aaf91a59b::t_06e97136d2d7c1 347-348
+apps/notary/people.py
+  s_17405aaf91a59b::t_c49f58224586b2 153-155,160,165,171-176,178-187,194-195,198-200,202-211,217,226
+  s_17405aaf91a59b::t_95f92ea1224afc 87,90-97,101,104,108
+  s_17405aaf91a59b::t_feed36264a4058 156-159,161-164,166-170,177,188-192
+  s_17405aaf91a59b::t_21312d97b19d86 197
+apps/billing/models.py
+  s_17405aaf91a59b::t_86863b3d3ec10f 353-360
+apps/notary/seats.py
+  s_17405aaf91a59b::t_7009a4f472dbc5 376
+  s_17405aaf91a59b::t_78ada5e923ed15 409-410
+  s_17405aaf91a59b::t_7a5334428707ec 225-226
+  s_17405aaf91a59b::t_40ed7905dfc0bf 516-517,519-521
+  s_17405aaf91a59b::t_674c7090f59246 128-130
+  s_17405aaf91a59b::t_afc8049602ccb6 74
+  s_17405aaf91a59b::t_0083eaaf897af6 137-138
+  s_17405aaf91a59b::t_362acaecbde655 1-73,75-96,107-127,131-136,139-210,212-213,232-341,343-375,377-408,411-489,492-515,518,522-530
+  s_17405aaf91a59b::t_bc3870cc4a9313 97-106
+  s_17405aaf91a59b::t_b5734d42b629e3 214-224,227-231
+  s_17405aaf91a59b::t_4648d6128472f0 490-491
+apps/notary/management/commands/seat_invite_sweep.py
+  s_17405aaf91a59b::t_f110624410fb11 1-20,22-76,80-81
+  s_17405aaf91a59b::t_3e909158b771b0 21
+  s_17405aaf91a59b::t_0d39faa9a9cb97 77-79
+apps/billing/views.py
+  s_17405aaf91a59b::t_bc50809051dc3f 241-250
+  s_17405aaf91a59b::t_5e2f46ad7292e9 80-104
+  s_17405aaf91a59b::t_bdd006eccdd325 274-285
+  s_17405aaf91a59b::t_27b209256f11ce 270-273
+apps/githubapp/tests/test_signals.py
+  s_17405aaf91a59b::t_b680d20ecafd61 32-38,44-46,49,54-86
+apps/notary/tests/test_seats.py
+  s_17405aaf91a59b::t_bb43f48759a68c 232
+  s_17405aaf91a59b::t_083d31771a177c 244
+  s_17405aaf91a59b::t_61adbd72a14e0a 268
+  s_17405aaf91a59b::t_d328c1a3cddb57 114
+  s_17405aaf91a59b::t_99aab6f6b202f6 1-113,115-197,199-222,224-231,233-243,245-246,248-257,259-267,269-344
+  s_17405aaf91a59b::t_2fed450179078c 247
+  s_17405aaf91a59b::t_6dde3addbb13e6 223
+  s_17405aaf91a59b::t_670bac283eb866 198
+  s_17405aaf91a59b::t_f241f7f7cf8b63 258
+apps/billing/tests/test_subscriptions.py
+  s_17405aaf91a59b::t_7cf742ae8b4641 132-133,135-136
+  s_17405aaf91a59b::t_0e47a716b2b8f9 134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "95ee92178ccd3cc191c7064d3ae7bd810a80ee49",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

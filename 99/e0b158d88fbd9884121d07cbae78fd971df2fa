@@ -1,0 +1,27 @@
+research/pipelines.py
+  s_eef0c01ffe4331::t_b80c15d67ec1a3 1-141
+config/settings/base.py
+  s_eef0c01ffe4331::t_b80c15d67ec1a3 442-447
+research/tests/test_pipelines.py
+  s_eef0c01ffe4331::t_b80c15d67ec1a3 1-230
+research/tests/test_settings.py
+  s_eef0c01ffe4331::t_b80c15d67ec1a3 1-49
+research/settings.py
+  s_eef0c01ffe4331::t_b80c15d67ec1a3 11-40,74-77,87-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "99e0b158d88fbd9884121d07cbae78fd971df2fa",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

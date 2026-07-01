@@ -1,0 +1,23 @@
+apps/data/cvent/tests/test_response.py
+  s_5b002650df0863::t_284a7be79e6d74 89-111,120
+  s_5b002650df0863::t_98e35eac9199b7 112-119
+apps/data/cvent/tests/test_contracts.py
+  s_5b002650df0863::t_0f0a6e9204d292 14
+  s_5b002650df0863::t_7dcebdfb3013e9 91-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c7b5c4bca3e53c51f3f97cfd6ad3ad86e67d82c9",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

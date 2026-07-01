@@ -1,0 +1,85 @@
+apps/sales/templatetags/sales_format.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 101
+tests/architecture/test_bigint_boundary.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 113,132
+apps/domains/tests/test_services.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 78,104
+config/settings/base.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 416
+SAAS_PLANNING_INTERVIEW.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 324,804
+tests/architecture/test_transformers_never_clean.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 44
+apps/sales/tests/test_placeholders.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 4
+apps/sales/tests/test_dashboard.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 4
+apps/catalog/identity/emails.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 14
+apps/identity/tests/test_canonical_email.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 65
+docs/archive/PORTAL_V2_PLAN.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 221,224,227,232-233
+docs/archive/PORTAL_V4_PLAN.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 220,223,225-226
+templates/sales/event_detail.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 4
+apps/sales/views.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 99
+CLIENT_VISIBILITY_INTERVIEW.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 231
+apps/domains/tests/test_registry.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 57,149
+AGENTS.md
+  s_3aab6f0d381ac9::t_723d3de6aee249 47
+apps/sales/placeholders.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 3
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_3aab6f0d381ac9::t_723d3de6aee249 90
+docs/archive/PORTAL_V2_ARCHITECTURE_REBUILD.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 221,225
+apps/domains/domain/providers.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 27
+POST_GRIP_REBUILD_PLAN.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 221,346,358,546
+NEXT_BUILD_PLAN.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 222-223,273
+REVIEW.md
+  s_3aab6f0d381ac9::t_723d3de6aee249 77
+apps/sales/entitlements.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 3
+apps/domains/domain/registry.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 18
+docs/archive/PORTAL_V2_ARCHITECTURE.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 221
+apps/sales/tests/test_entitlements.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 3
+apps/catalog/tests/test_emails.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 84
+apps/sales/tests/test_event_index.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 3
+docs/archive/PORTAL_V3_PLAN.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 221,223,226-227
+PORTAL_V5_PLAN.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 220,224,234,529
+tests/architecture/test_rls_via_operation.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 72
+docs/DATA_PIPELINE_COMPARISON.html
+  s_3aab6f0d381ac9::t_723d3de6aee249 342
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a06d05fd171c77345831bbe3c20291cb0d0eea0f",
+  "prompts": {},
+  "sessions": {
+    "s_3aab6f0d381ac9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28403637-3131-4df6-a9d3-4159d5748b62",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

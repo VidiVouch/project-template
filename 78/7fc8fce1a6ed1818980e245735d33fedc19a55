@@ -1,0 +1,23 @@
+apps/catalog/handlers/stova.py
+  s_0276221d01c0b0::t_d85c8e25d9e95f 146
+  s_0276221d01c0b0::t_cdbd3970969f20 78-95
+  s_0276221d01c0b0::t_2cc9b9bf86324b 96
+apps/catalog/tests/test_promote_stova.py
+  s_0276221d01c0b0::t_a167f54ec40394 140-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "787fc8fce1a6ed1818980e245735d33fedc19a55",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

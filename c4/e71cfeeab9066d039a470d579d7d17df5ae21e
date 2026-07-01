@@ -1,0 +1,31 @@
+apps/data/stova/tests/test_mapping.py
+  s_3748ef8a5eb7ff::t_cb95db1e75a88f 1,8-30
+  s_3748ef8a5eb7ff::t_5b589206cf44c1 61-62,70,81-82,96-97,110-111
+apps/catalog/handlers/stova.py
+  s_3748ef8a5eb7ff::t_7204e18af47a09 310
+  s_3748ef8a5eb7ff::t_79a3625ae37f56 204,209,214
+  s_3748ef8a5eb7ff::t_c7115a1bbc903c 153,158
+apps/data/stova/mapping.py
+  s_3748ef8a5eb7ff::t_90ed1d08780cb1 142,144
+  s_3748ef8a5eb7ff::t_47bb03668d9af1 42-63
+  s_3748ef8a5eb7ff::t_13e36bbe33c7ba 86,93
+  s_3748ef8a5eb7ff::t_d8a34b43a01ba1 182,191
+  s_3748ef8a5eb7ff::t_36a0e92e4a3415 153,155
+  s_3748ef8a5eb7ff::t_b862cbdf24dffc 164,171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "c4e71cfeeab9066d039a470d579d7d17df5ae21e",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

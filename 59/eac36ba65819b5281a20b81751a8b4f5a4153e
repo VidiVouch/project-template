@@ -1,0 +1,37 @@
+apps/data/apify/admin.py
+  s_0276221d01c0b0::t_65e97c896f7eb2 1-24
+envelopes/apify/versions.py
+  s_0276221d01c0b0::t_d196f9aabda6c7 1-26
+apps/data/apify/models.py
+  s_0276221d01c0b0::t_93838cfaff08d9 1-97
+apps/data/apify/apps.py
+  s_0276221d01c0b0::t_371ccf3036db02 1-8
+envelopes/apify/response.py
+  s_0276221d01c0b0::t_4d45b883fb15ed 1-34
+apps/bootstrap.py
+  s_0276221d01c0b0::t_f4d912f77decee 109,112
+config/settings/base.py
+  s_0276221d01c0b0::t_b68c4aba55af98 117
+apps/data/apify/transformers.py
+  s_0276221d01c0b0::t_f4266678065c15 1-190
+apps/data/apify/migrations/0001_initial.py
+  s_0276221d01c0b0::t_faa1a8d60bdef1 1-77
+apps/data/apify/registrations.py
+  s_0276221d01c0b0::t_6de426655a78ce 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "59eac36ba65819b5281a20b81751a8b4f5a4153e",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

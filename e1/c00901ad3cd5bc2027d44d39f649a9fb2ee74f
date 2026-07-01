@@ -1,0 +1,34 @@
+research/fun_spiders/cognatheque.py
+  h_795c5e33ecc5af 1-47
+pyproject.toml
+  h_795c5e33ecc5af 149-150
+research/test_spiders/spiders.py
+  h_795c5e33ecc5af 1-72
+research/tutorials/quotes.py
+  h_795c5e33ecc5af 1-23
+research/tutorials/__init__.py
+  h_795c5e33ecc5af 1
+research/test_spiders/__init__.py
+  h_795c5e33ecc5af 1
+project-words.dic
+  h_795c5e33ecc5af 10,13
+research/fun_spiders/__init__.py
+  h_795c5e33ecc5af 1
+research/settings.py
+  h_795c5e33ecc5af 13-15
+research/tests/__init__.py
+  h_795c5e33ecc5af 1
+research/tutorials/quotes_scroll.py
+  h_795c5e33ecc5af 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "e1c00901ad3cd5bc2027d44d39f649a9fb2ee74f",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

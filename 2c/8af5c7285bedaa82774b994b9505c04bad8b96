@@ -1,0 +1,30 @@
+uv.lock
+  s_5b002650df0863::t_f6036e9aaadc75 5,54,57-65,174,177-179,183,185,187-189,192-193,196,198,200-201,397,400,402,405-406,609-610,613,615,623
+  s_5b002650df0863::t_8bbbfb2e91fece 181
+pyproject.toml
+  s_998d95b9de4b0f::t_335f282231f4d0 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "2c8af5c7285bedaa82774b994b9505c04bad8b96",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

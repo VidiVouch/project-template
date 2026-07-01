@@ -1,0 +1,45 @@
+apps/provenance/selectors.py
+  s_c3bfa30f51a6e1::t_1a98ffc4ae64dc 23
+  s_c3bfa30f51a6e1::t_6d266b92033d39 69
+  s_c3bfa30f51a6e1::t_ab41589816c45a 70-117
+apps/provenance/tests/test_selectors.py
+  s_c3bfa30f51a6e1::t_de244564fcd4e7 20
+  s_c3bfa30f51a6e1::t_bd7805c51728e0 98-138
+templates/provenance/org_dashboard.html
+  s_c3bfa30f51a6e1::t_2526aad31f884e 47-48
+  s_c3bfa30f51a6e1::t_bf56045cdc5fad 57-58
+  s_c3bfa30f51a6e1::t_91d0fe1e475dc5 146,148-152
+templates/provenance/coverage_matrix.html
+  s_c3bfa30f51a6e1::t_4e07b2effd6ec2 294-340
+  s_c3bfa30f51a6e1::t_eb008129eadf93 61-79
+apps/provenance/tests/test_org_dashboard.py
+  s_c3bfa30f51a6e1::t_a99aca0bcbe037 104-121,124-125
+  s_c3bfa30f51a6e1::t_197903b32b79df 30
+  s_c3bfa30f51a6e1::t_3d11f261fac2a0 122-123
+apps/provenance/tests/test_matrix.py
+  s_c3bfa30f51a6e1::t_a6f0563345afce 329,331-340,343-348
+apps/provenance/views.py
+  s_c3bfa30f51a6e1::t_78f3abd6e8a28d 1187-1191,1195-1228
+  s_c3bfa30f51a6e1::t_5b6b18b861f573 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "150ba1020a7dc844c2ea17b12b5991f4daf3cac9",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

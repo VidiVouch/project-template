@@ -1,0 +1,91 @@
+uv.lock
+  s_0276221d01c0b0::t_d1977f76c367f3 6-26,48-99,130-207,501-517,693-701,723-743,839-943,1017,1063,1148-1165,1184-1192,1202-1220,1233-1250,1436-1444,1521-1529,1554-1570,1641-1652,1691-1699,1727-1738,1759-1780
+mitm_interceptor/analysis/providers.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-98
+mitm_interceptor/cli/analyze_flow.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-400
+mitm_interceptor/rules.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-378
+mitm_interceptor/cli/__init__.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-8
+mitm_interceptor/tests/test_flow_analysis.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-48
+mitm_interceptor/tests/__init__.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1
+mitm_interceptor/tests/test_csv_pipeline.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-113
+mitm_interceptor/pipelines.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-308
+mitm_interceptor/base.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-279
+mitm_interceptor/analysis/__init__.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-59
+.idea/runConfigurations/Pytest__Scrapers_.xml
+  s_0276221d01c0b0::t_d1977f76c367f3 15,23
+.agents/skills/investigate-traffic/SKILL.md
+  s_0276221d01c0b0::t_d1977f76c367f3 1-158
+mitm_interceptor/settings.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-15
+mitm_interceptor/tests/test_jsonl_pipeline.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-111
+mitm_interceptor/interceptors/example_rules.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-139
+mitm_interceptor/tests/test_provider_registry.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-188
+pyproject.toml
+  s_0276221d01c0b0::t_d1977f76c367f3 17,53-54,128-137,163,166
+mitm_interceptor/discovery.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-164
+.agents/skills/new-source/SKILL.md
+  s_0276221d01c0b0::t_d1977f76c367f3 1-112
+mitm_interceptor/analysis/reports.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-164
+mitm_interceptor/__init__.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1
+mitm_interceptor/tests/test_pipeline_manager.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-115
+.gitignore
+  s_0276221d01c0b0::t_d1977f76c367f3 781-782
+README.md
+  s_0276221d01c0b0::t_d1977f76c367f3 16,218-284
+mitm_interceptor/analysis/flow_io.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-29
+mitm_interceptor/interceptors/__init__.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1
+mitm_interceptor/exceptions.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-19
+.agents/skills/new-source/references/interceptor.md
+  s_0276221d01c0b0::t_d1977f76c367f3 1-122
+.agents/skills/new-source/references/spider.md
+  s_0276221d01c0b0::t_d1977f76c367f3 1-131
+.claude/settings.json
+  s_0276221d01c0b0::t_d1977f76c367f3 83
+mitm_interceptor/interceptors/quotes_scroll.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-51
+mitm_interceptor/analysis/flow_analysis.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-706
+mitm_interceptor/tests/test_base.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-165
+mitm_interceptor/tests/test_rules.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-306
+mitm_interceptor/tests/test_discovery.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-240
+mitm_interceptor/provider_registry.py
+  s_0276221d01c0b0::t_d1977f76c367f3 1-124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2efb2f3a68c7ffb47192430814064d29ed160056",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+apps/catalog/handlers/apify.py
+  s_0276221d01c0b0::t_44bdf4cd6d88f0 1-389
+apps/catalog/tests/test_promote_apify.py
+  s_0276221d01c0b0::t_e7a3f1bb6a7256 540,585
+  s_0276221d01c0b0::t_a3521904adb5d7 1-539,541-584,586-678
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_92312c272693f4 36-40,48-52,59-60,65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "24b07954b93296c3ff5c20337b76213ee1dbf134",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

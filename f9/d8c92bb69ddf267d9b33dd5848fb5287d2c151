@@ -1,0 +1,36 @@
+apps/data/brella/management/commands/import_portal_brella.py
+  s_5b002650df0863::t_9ed197e3561c9c 1-13,15-17,24-112
+  s_5b002650df0863::t_3d2be2974c524c 14,18-23
+apps/data/brella/tests/test_import_portal_brella.py
+  s_5b002650df0863::t_9ed197e3561c9c 1-104
+.agents/skills/port-source/references/legacy-map.md
+  s_5b002650df0863::t_600458f4e44da2 4-9
+  s_a260275017114d::t_df9eba25ec3c5a 57
+  s_5b002650df0863::t_739f9474d0439c 12,19,47,82,86,89-90
+  s_5b002650df0863::t_125ff57963a047 16-18,20-21,30-38,40,44-46,52,96-101
+  s_5b002650df0863::t_988d03b81a2c32 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "f9d8c92bb69ddf267d9b33dd5848fb5287d2c151",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

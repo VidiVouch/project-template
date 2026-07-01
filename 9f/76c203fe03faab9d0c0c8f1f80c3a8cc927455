@@ -1,0 +1,19 @@
+apps/sales/tests/test_entitlements.py
+  s_33f9c21df35ec6::t_01cbe86bfe2976 9-12,15,24-26,37,90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "9f76c203fe03faab9d0c0c8f1f80c3a8cc927455",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

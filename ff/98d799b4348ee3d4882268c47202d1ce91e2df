@@ -1,0 +1,114 @@
+apps/data/capture/management/commands/import_portal_logins.py
+  s_ffd92932362e87::t_03c53ffdf32b7f 1-21,28-42,47-48,53-79,87-93
+  s_ffd92932362e87::t_f229b35eef12f6 22
+  s_ffd92932362e87::t_f3eae30b3217a4 43-46,49-52,80-86
+apps/catalog/handlers/grip.py
+  s_5b002650df0863::t_4d079138e9c23f 42
+  s_ffd92932362e87::t_184c5ed9a34691 96
+  s_ffd92932362e87::t_0ce817e26a74b5 138
+  s_ffd92932362e87::t_810ee2e54e811f 222
+  s_5b002650df0863::t_c8fe746549a891 257-273,275-286
+  s_ffd92932362e87::t_27eefdc8af5d2f 274
+apps/catalog/tests/test_promote_presence.py
+  s_5b002650df0863::t_3430bb842d25bf 1-23,25-27,35-75,77-239
+  s_5b002650df0863::t_aad84bce2383cc 24,240-249,251-292
+  s_ffd92932362e87::t_b7724e4497a316 30,33-34
+  s_ffd92932362e87::t_3c4f1b4bd56203 250
+apps/catalog/tests/test_promote_event.py
+  s_ffd92932362e87::t_f37ec0df310fe2 25
+  s_ffd92932362e87::t_b97c7daebc6503 93,97,100,104
+apps/catalog/tests/test_promote_expoplatform.py
+  s_ffd92932362e87::t_abbee2707cdb64 106
+  s_ffd92932362e87::t_f46880cc9eb455 203-205,209
+  s_ffd92932362e87::t_83973a5bace7c5 226-228,232
+apps/catalog/tests/test_promote_swapcard.py
+  s_ffd92932362e87::t_0d8103a209b00f 122,125
+  s_ffd92932362e87::t_e423c645ea08a3 258-259
+  s_ffd92932362e87::t_b329daf0b07541 266
+  s_ffd92932362e87::t_3fb2b9ac43af9f 290,294
+  s_ffd92932362e87::t_b7f8c1c9e6437c 411,415,418-419
+  s_ffd92932362e87::t_38345e3dbb9b50 427
+scrapers/event_spiders/brella.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 7,31
+scrapers/event_spiders/expoplatform.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 6,37
+apps/catalog/handlers/cadmium/stats.py
+  s_5b002650df0863::t_b09675a68f642b 1-14,16-51
+apps/catalog/tests/test_promote_event_organization_relationship.py
+  s_ffd92932362e87::t_e0f29847649e71 196,199
+apps/data/grip/management/commands/import_portal_grip.py
+  s_5b002650df0863::t_6a1a44400da3f4 1-29,31-92
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-17,19,21-97,117-189,233-388
+  s_5b002650df0863::t_b2597b045e8439 98-116
+  s_5b002650df0863::t_4f7f6c8d24015e 190-232
+apps/data/credentials/tests/test_drain.py
+  s_5b002650df0863::t_a901ac3ec70c4b 1-8,12,17-25,28,38-39,44-48,52-53,65-66,73-74,77-78,86-91,105-106,116-117,127-128,134-135,141-142,145-148,155-156,158-161,177-191,194-197,200-201,203-206,208,210,212-219,222-233,235
+  s_5b002650df0863::t_19e749b3c3e26e 35-36
+apps/data/cadmium/tests/test_data_stats.py
+  s_ffd92932362e87::t_34aeea3cf70179 79-85,87,92-100
+  s_ffd92932362e87::t_921d55c6d3764f 86,88-91
+apps/catalog/tests/test_promote_brella.py
+  s_ffd92932362e87::t_30ba54c6e1ea02 136
+  s_ffd92932362e87::t_d6e0988143e462 211
+  s_ffd92932362e87::t_f7d1510af2ff57 346
+apps/catalog/tests/test_promote_event_participation.py
+  s_ffd92932362e87::t_0137b6f6d96ac2 19
+  s_ffd92932362e87::t_43db5d763b6e69 131,135,138,142,145,149
+apps/catalog/tests/test_promote_event_participation_attendee.py
+  s_ffd92932362e87::t_55696587223f86 23
+  s_ffd92932362e87::t_7b13cf9f80f95a 161,164
+scrapers/event_spiders/cvent/cvent_attendees.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 17,45
+apps/data/grip/tests/test_import_portal_grip.py
+  s_5b002650df0863::t_6a1a44400da3f4 1-16,18-81,83-102
+  s_5b002650df0863::t_1381e36a765b3d 82
+apps/catalog/tests/test_promote_employment.py
+  s_ffd92932362e87::t_eeeeba675952c4 23
+  s_ffd92932362e87::t_6d9065bbe80db3 96-97,100-101
+apps/data/grip/sessions.py
+  s_5b002650df0863::t_d2b4c9ecb5e445 32-47,49-63
+apps/catalog/tests/test_promote_individual.py
+  s_ffd92932362e87::t_ba2be7a7c1d314 20
+  s_ffd92932362e87::t_8945111f475438 85-88,91-100
+scrapers/event_spiders/swapcard/swapcard.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 8,36
+traffic_adapters/adapters/grip_events.py
+  s_5b002650df0863::t_228d8e474b5bc9 11-13
+  s_5b002650df0863::t_165c59620abb7c 25
+  s_5b002650df0863::t_0f5bc2399cc0d1 105
+  s_5b002650df0863::t_08f00ad0e9394d 123
+  s_5b002650df0863::t_8283999229013f 139
+apps/catalog/tests/test_promote_company.py
+  s_ffd92932362e87::t_630558167212b4 74-77
+apps/catalog/tests/test_promote_event_participation_poster_presenter.py
+  s_ffd92932362e87::t_c35e0c63d8805e 31
+  s_ffd92932362e87::t_b366b3e2ae1963 142,145
+apps/catalog/tests/test_promote_grip.py
+  s_ffd92932362e87::t_8d2e14618d36cf 100,103
+  s_ffd92932362e87::t_b9e274e4347790 180,184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "ff98d799b4348ee3d4882268c47202d1ce91e2df",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

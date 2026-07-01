@@ -1,0 +1,20 @@
+apps/identity/tests/test_mfa_passkey.py
+  s_33f9c21df35ec6::t_c98d228aaececb 40
+  s_33f9c21df35ec6::t_10f541bb8712ce 24,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "023e97824bda694f25b40ec5eb98ec59b43a39d3",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

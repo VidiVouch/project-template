@@ -1,0 +1,55 @@
+apps/catalog/promoters.py
+  s_5b002650df0863::t_c3f087f82a845b 17,81
+  s_5b002650df0863::t_f2884c44b56850 19,83,68,70,97,55-58,84-85,89
+  s_7c6c92400c7448::t_f11c65c481bc27 20,104,42,76,72,25,59,48,113,53,32,66
+  s_5b002650df0863::t_412c3cdade975f 80,87,67,69,71,99,101
+  s_5b002650df0863::t_9247efaace29fe 82,73,75
+  s_5b002650df0863::t_cdd3b144664d3b 105,95-96,102
+  s_5b002650df0863::t_3f21ce7fbc8843 34,39,41
+  s_5b002650df0863::t_a6e05ed7960f02 100
+  s_5b002650df0863::t_b51d8220710c69 45,52
+  s_5b002650df0863::t_aad84bce2383cc 47,54,78,103
+  s_5b002650df0863::t_c04b83d2fb5ffb 50-51
+  s_5b002650df0863::t_d16a603d1fcf30 74,77
+apps/catalog/handlers/brella.py
+  s_ffd92932362e87::t_cd378c16a80f41 127
+  s_ffd92932362e87::t_51932cd922364c 172
+  s_ffd92932362e87::t_9a99416dea5db3 226
+  s_ffd92932362e87::t_e0cfe9a4551236 269
+apps/catalog/tests/test_promote_brella.py
+  s_ffd92932362e87::t_30ba54c6e1ea02 136
+  s_ffd92932362e87::t_d6e0988143e462 211
+  s_ffd92932362e87::t_f7d1510af2ff57 346
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "9e94763867f211da6b98c0296bc8ecf3cb7160a8",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

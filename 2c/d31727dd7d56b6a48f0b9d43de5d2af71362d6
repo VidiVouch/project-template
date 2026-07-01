@@ -1,0 +1,28 @@
+templates/account/email.html
+  s_062b4d28690cee::t_547e545426a70e 40,42
+assets/css/source.css
+  s_062b4d28690cee::t_639c52d59a21ec 1491-1495
+templates/socialaccount/connections.html
+  s_062b4d28690cee::t_7ee427783f04b1 1-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2cd31727dd7d56b6a48f0b9d43de5d2af71362d6",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

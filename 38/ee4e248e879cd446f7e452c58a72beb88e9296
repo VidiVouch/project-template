@@ -1,0 +1,21 @@
+apps/data/credentials/tests/test_drain.py
+  s_5b002650df0863::t_01dafbebf0fe4a 166,169-171,173-175
+  s_5b002650df0863::t_7c5c133f45f27c 167,172
+  s_5b002650df0863::t_661406c8e3b2aa 191-192,197-198,201,206,208,210,233-234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "38ee4e248e879cd446f7e452c58a72beb88e9296",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

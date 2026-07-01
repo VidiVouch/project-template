@@ -1,0 +1,25 @@
+apps/catalog/management/commands/dedupe_employments.py
+  s_0276221d01c0b0::t_a3f3f6ecb0be02 1-145
+apps/catalog/tests/test_dedupe_employments.py
+  s_0276221d01c0b0::t_a3f3f6ecb0be02 1-159
+apps/catalog/tests/test_promote_pipeline.py
+  s_0276221d01c0b0::t_a3f3f6ecb0be02 1-93
+apps/catalog/management/commands/promote_pipeline.py
+  s_0276221d01c0b0::t_927117766e31d9 6-15,17-19,22-23,28,40-41,70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "65a3c5b5c3d215794b9331b66afde183cf6eded6",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

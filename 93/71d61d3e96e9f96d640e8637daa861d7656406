@@ -1,0 +1,52 @@
+planning/DESIGN.html
+  s_3389ba2812099c::t_5e486845381988 241
+  s_3389ba2812099c::t_29c923c5959ffc 256
+  s_3389ba2812099c::t_78610e664db5ef 775
+planning/prototypes/github/vouch-app-flow.html
+  s_3389ba2812099c::t_7ddb61999b4dd1 1038
+templates/provenance/platform_upgrade.html
+  s_3389ba2812099c::t_32cda3ac1493bf 27,36,45
+templates/app/_nav.html
+  s_3389ba2812099c::t_b3ccddffe91831 43
+templates/provenance/org_dashboard.html
+  s_3389ba2812099c::t_299bc8ca4eac35 121
+planning/PORTABLE-VOUCHES.html
+  s_3389ba2812099c::t_367174a5391071 70
+templates/provenance/reviewers_list.html
+  s_3389ba2812099c::t_65a8b29188c064 81
+templates/provenance/tokens.html
+  s_3389ba2812099c::t_f843d188d68501 5,29
+config/urls.py
+  s_3389ba2812099c::t_d81ddb2402d7e3 54
+templates/provenance/authorship.html
+  s_3389ba2812099c::t_559ef028b8910c 143
+  s_3389ba2812099c::t_c0c4d745aae2da 4
+  s_3389ba2812099c::t_97eadfeed044fb 151
+templates/provenance/repo_detail.html
+  s_3389ba2812099c::t_30a1cdadf7402f 8,74
+templates/provenance/coverage_matrix.html
+  s_3389ba2812099c::t_8e1252073b66b5 7
+templates/provenance/reviewer_profile.html
+  s_3389ba2812099c::t_7da35791246152 94-95
+  s_3389ba2812099c::t_90c32a404f1c13 4
+templates/provenance/portal.html
+  s_3389ba2812099c::t_887caa9d2dc0ad 66,79
+templates/provenance/unit_detail.html
+  s_3389ba2812099c::t_7201e939578e12 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "9371d61d3e96e9f96d640e8637daa861d7656406",
+  "prompts": {},
+  "sessions": {
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

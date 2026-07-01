@@ -1,0 +1,19 @@
+apps/sales/migrations/0009_icpscore_deliveryrecord_rls.py
+  s_0276221d01c0b0::t_8a8c4cffe61db6 18,20,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f3df5f925960f73bf904d88d2d5976ad7165dc72",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

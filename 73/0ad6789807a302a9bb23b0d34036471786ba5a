@@ -1,0 +1,21 @@
+apps/catalog/tests/test_promoter_registry.py
+  s_697b5de2f41f28::t_36a77fbf365eba 37-42
+  s_697b5de2f41f28::t_f14476c1081a61 263-266
+  s_697b5de2f41f28::t_e8c0b02b293d36 90-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "730ad6789807a302a9bb23b0d34036471786ba5a",
+  "prompts": {},
+  "sessions": {
+    "s_697b5de2f41f28": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4255057b-68dc-4d5c-80b5-78c858f3d895",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

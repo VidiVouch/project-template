@@ -1,0 +1,59 @@
+apps/catalog/handlers/luma.py
+  s_ffd92932362e87::t_7de073f47b8d5f 34
+  s_ffd92932362e87::t_3fa236c7e3492a 131
+  s_ffd92932362e87::t_5c2af568be513c 84
+apps/data/luma/tests/test_mapping.py
+  s_ffd92932362e87::t_e9b788c51ab3bc 8-20
+apps/catalog/tests/test_promote_luma.py
+  s_ffd92932362e87::t_2204f130a52b22 26-28
+  s_ffd92932362e87::t_0ef5e7f3f0b2f7 222
+  s_ffd92932362e87::t_617dbd36143fc2 102
+scrapers/event_spiders/luma.py
+  s_ffd92932362e87::t_887f74375020c6 22
+  s_ffd92932362e87::t_7ce7eff51f35b2 41
+apps/data/luma/transformers.py
+  s_ffd92932362e87::t_3e0ffb4c0318f0 36
+  s_ffd92932362e87::t_752dc925cd6be5 7
+  s_ffd92932362e87::t_e701f04885e0ef 15-16
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_0118d842129859 59
+  s_ffd92932362e87::t_5cb8340389af20 91
+  s_ffd92932362e87::t_121f39ca1543c3 129
+  s_ffd92932362e87::t_e807b179002b71 110-111
+apps/data/luma/management/commands/import_portal_luma.py
+  s_ffd92932362e87::t_04429c15aed6c9 22
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_56678418c5e486 87
+  s_ffd92932362e87::t_28e08c48f4b4e6 47
+  s_ffd92932362e87::t_681be917dcbe6f 259-261
+apps/data/luma/mapping.py
+  s_ffd92932362e87::t_83c593ef077f78 139
+  s_ffd92932362e87::t_cd3a89949b55c9 172
+  s_ffd92932362e87::t_daa5f2944fd6b3 23-52
+apps/bootstrap.py
+  s_ffd92932362e87::t_8ae4da83160991 92,98-108,110
+apps/data/luma/tests/test_models.py
+  s_ffd92932362e87::t_b085204e3ca238 7-8
+apps/data/luma/models.py
+  s_ffd92932362e87::t_8f75b1199165e3 39
+config/settings/base.py
+  s_ffd92932362e87::t_bc72e1dfe06e1a 112
+envelopes/luma/versions.py
+  s_ffd92932362e87::t_8b64153357e8f7 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "50292f78f38386582c7666cce83ecc3238fea197",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

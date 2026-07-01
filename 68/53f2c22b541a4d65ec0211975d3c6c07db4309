@@ -1,0 +1,19 @@
+CLAUDE.md
+  s_f2ae29216c779d::t_604570dbab8eeb 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6853f2c22b541a4d65ec0211975d3c6c07db4309",
+  "prompts": {},
+  "sessions": {
+    "s_f2ae29216c779d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0e7dc62-2568-46bc-a283-87f8b657a04a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

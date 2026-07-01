@@ -1,0 +1,28 @@
+README.md
+  h_795c5e33ecc5af 16,221-235
+pyproject.toml
+  h_795c5e33ecc5af 16-17,46-48,113-121,146
+project-words.dic
+  h_795c5e33ecc5af 1-5,7-8
+research/settings.py
+  h_795c5e33ecc5af 1-30,31-39
+scrapy.cfg
+  h_795c5e33ecc5af 1-11
+REVIEW.md
+  h_795c5e33ecc5af 10
+AGENTS.md
+  h_795c5e33ecc5af 30-33
+research/__init__.py
+  h_795c5e33ecc5af 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "38f50fe74740fce0f1fc385f0c2d050b0a936e9b",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

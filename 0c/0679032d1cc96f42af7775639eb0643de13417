@@ -1,0 +1,23 @@
+pyproject.toml
+  s_0276221d01c0b0::t_47ebd5c040bbff 172
+  s_0276221d01c0b0::t_38b3a446d59f10 190-192
+  s_0276221d01c0b0::t_dc3a48f997e942 36
+config/settings/testing.py
+  s_0276221d01c0b0::t_7c7c39107aca60 25-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "0c0679032d1cc96f42af7775639eb0643de13417",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

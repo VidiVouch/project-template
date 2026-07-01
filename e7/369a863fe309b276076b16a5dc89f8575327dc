@@ -1,0 +1,21 @@
+tests/architecture/test_no_composition_in_ready.py
+  s_0276221d01c0b0::t_d33d4e697eac5f 19
+tests/architecture/test_no_forbidden_imports.py
+  s_0276221d01c0b0::t_8a0213ce7767e5 36-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "e7369a863fe309b276076b16a5dc89f8575327dc",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

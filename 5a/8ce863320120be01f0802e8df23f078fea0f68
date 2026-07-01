@@ -1,0 +1,38 @@
+apps/identity/models.py
+  s_c3bfa30f51a6e1::t_21ef6d8087375d 277-322
+apps/identity/migrations/0011_backfill_tenant_memberships.py
+  s_c3bfa30f51a6e1::t_2f90c1ca468f2e 2-41
+apps/identity/tests/test_roles.py
+  s_c3bfa30f51a6e1::t_e51264276bf664 1-107
+apps/identity/roles.py
+  s_c3bfa30f51a6e1::t_ffc7887e900ebe 1
+  s_c3bfa30f51a6e1::t_e0b0975f92410f 63
+  s_c3bfa30f51a6e1::t_6d89e0905cbe12 71
+  s_c3bfa30f51a6e1::t_5be132fdc114f8 2-31,34-36,40-62,64-70,72-136
+  s_c3bfa30f51a6e1::t_1b3f748a082ae7 32-33,37-39
+apps/identity/signals.py
+  s_c3bfa30f51a6e1::t_bab67d6f413240 585-587
+  s_c3bfa30f51a6e1::t_cb162b87ddd2c6 266-270
+  s_c3bfa30f51a6e1::t_050298dfabbfb7 57-62,69,72-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "5a8ce863320120be01f0802e8df23f078fea0f68",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

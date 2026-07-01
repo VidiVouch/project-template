@@ -1,0 +1,49 @@
+apps/data/cvent/models.py
+  s_5b002650df0863::t_2c9715f3294327 1-134
+apps/data/cvent/apps.py
+  s_5b002650df0863::t_6ab47cfe7fceaf 1-8
+apps/bootstrap.py
+  s_5b002650df0863::t_de08c5c0e3b6da 86
+  s_5b002650df0863::t_ddca3c96e7ae2c 159
+  s_5b002650df0863::t_42dd5ac172a677 92,162
+  s_5b002650df0863::t_64fd1f4221b16b 89
+apps/data/cvent/admin.py
+  s_5b002650df0863::t_0f74fbebc76ebe 1-40
+apps/data/cvent/registrations.py
+  s_5b002650df0863::t_aa8e69a9d20b3f 1-11,14-40,42-43
+apps/data/cvent/tests/test_admin.py
+  s_5b002650df0863::t_3f22f79136b273 1-32
+apps/data/cvent/mapping.py
+  s_5b002650df0863::t_a14c24535ec7c2 1-26
+apps/data/cvent/tests/test_app_registration.py
+  s_5b002650df0863::t_559eef2fbc4110 1-26
+apps/data/cvent/migrations/0001_initial.py
+  s_5b002650df0863::t_77a89d51feef7b 1-157
+apps/data/cvent/response.py
+  s_5b002650df0863::t_1ade1e1c6053e7 1-210
+apps/data/cvent/tests/test_contracts.py
+  s_5b002650df0863::t_4d18a8d47623bb 1-90
+apps/data/cvent/transformers.py
+  s_5b002650df0863::t_1fa83d68f58374 1-129
+apps/data/cvent/tests/test_response.py
+  s_5b002650df0863::t_173fdcf2bf6eff 1-102
+config/settings/base.py
+  s_5b002650df0863::t_a58725b59d4b17 103
+  s_5b002650df0863::t_4cd6a5e0b65d2e 100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "33e76a7f729fc5b4792049a5548353b502caba46",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+envelopes/grip/login.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 1-81
+scrapers/event_spiders/tests/test_brella_spider.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 20
+envelopes/credentials/ports.py
+  s_ffd92932362e87::t_040ad76f7e3e98 3-16
+scrapers/event_spiders/swapcard/swapcard.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 8,36
+scrapers/event_spiders/tests/test_expoplatform_spider.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 19
+scrapers/event_spiders/cvent/cvent_attendees.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 17,45
+scrapers/event_spiders/tests/test_cvent_spiders.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 18
+apps/data/credentials/providers.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 1,6
+scrapers/event_spiders/expoplatform.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 6,37
+scrapers/event_spiders/tests/test_grip_spider.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 20
+tests/architecture/test_collection_layer_django_free.py
+  s_ffd92932362e87::t_c6adc5d31185aa 86-88
+  s_ffd92932362e87::t_1a18cca7001190 61-68
+  s_ffd92932362e87::t_ba95d9639b89b4 11-18
+scrapers/event_spiders/tests/test_swapcard_spider.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 19
+envelopes/__init__.py
+  s_ffd92932362e87::t_054d157896f14f 1,8-13,15-23
+scrapers/event_spiders/brella.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 7,31
+apps/data/grip/tests/test_login.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 5
+apps/data/credentials/tests/test_source_session.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 17
+scrapers/event_spiders/grip.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 15,17,32,39-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "1c32f07624ee3bc2201e947f47c55468aa53ff07",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

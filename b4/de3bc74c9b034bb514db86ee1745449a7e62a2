@@ -1,0 +1,59 @@
+templates/provenance/repo_detail.html
+  s_17405aaf91a59b::t_e502e2516ce6f3 26
+  s_17405aaf91a59b::t_ab6b98aceb5c35 49-53
+apps/provenance/matrix.py
+  s_17405aaf91a59b::t_ad708eaee265b2 454-455
+  s_17405aaf91a59b::t_1f6c7ed712e0aa 441-443
+  s_17405aaf91a59b::t_3401d44396b4c3 398
+  s_17405aaf91a59b::t_30e62fd47ba213 297-356,372,379-383
+  s_17405aaf91a59b::t_1fdae625702c8e 1-5,7-27,30-89,91-102,104-126,131,134-135,137-138,140,145-149,152-258,260-296,357-363,366-371,373-378,384-397,399-440,444-453,456-483
+  s_17405aaf91a59b::t_7395c728bab118 127-130,132-133,136,139,141-144,150-151
+  s_17405aaf91a59b::t_ea8d059a4aef7b 259
+  s_17405aaf91a59b::t_5f9f2f4b3089e4 6,28-29,90,103,364-365
+apps/provenance/urls.py
+  s_17405aaf91a59b::t_195b0c856f3c4c 14
+templates/provenance/coverage_matrix.html
+  s_17405aaf91a59b::t_fbb890d8c313b0 1-29,31-89,91-182
+  s_17405aaf91a59b::t_3eaa8ed80b28a6 90
+  s_17405aaf91a59b::t_742bab290ba6ef 30
+templates/provenance/repo_report.html
+  s_17405aaf91a59b::t_94c38d37462ded 15-17
+apps/provenance/tests/test_matrix.py
+  s_17405aaf91a59b::t_d990eeb46f8f93 13
+  s_17405aaf91a59b::t_1f6c7ed712e0aa 196
+  s_17405aaf91a59b::t_4429f12f44a259 1-12,14-118,121-127,130-137,139-140,142-145,150-152,154-195,197-245,248,264-283,285-321
+  s_17405aaf91a59b::t_b71571a27fd029 284
+  s_17405aaf91a59b::t_bcdd65db5c933c 249-263
+  s_17405aaf91a59b::t_f434a347cc6c0c 128-129
+  s_17405aaf91a59b::t_745ca1c24796b1 246-247
+  s_17405aaf91a59b::t_6f40ae550f3f69 119-120
+  s_17405aaf91a59b::t_fe5ed3e32ff78b 153
+  s_17405aaf91a59b::t_d30c2885f34f9d 138,141
+  s_17405aaf91a59b::t_235c75a8df53ca 146-149
+templates/provenance/_policy_label.html
+  s_17405aaf91a59b::t_9b32721596e8dd 1-8
+apps/provenance/views.py
+  s_17405aaf91a59b::t_1f6c7ed712e0aa 524
+  s_17405aaf91a59b::t_0f4a512f22804c 458
+  s_17405aaf91a59b::t_bc078f207263a8 9
+  s_17405aaf91a59b::t_34c28037a08654 530,532-539,549-550,562-566
+  s_17405aaf91a59b::t_2136a54942f8da 441-457,459-522,525-529,531,540-548,551-561,567-598
+  s_17405aaf91a59b::t_da7a1a837da90f 599-605
+  s_17405aaf91a59b::t_99d85c9c036ff8 523
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "b4de3bc74c9b034bb514db86ee1745449a7e62a2",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

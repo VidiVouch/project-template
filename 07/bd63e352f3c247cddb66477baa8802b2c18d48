@@ -1,0 +1,19 @@
+apps/identity/tests/test_signals.py
+  s_33f9c21df35ec6::t_95ccadd063d877 9,15,19,25,29,35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "07bd63e352f3c247cddb66477baa8802b2c18d48",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

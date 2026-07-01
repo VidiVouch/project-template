@@ -1,0 +1,21 @@
+apps/catalog/models.py
+  s_697b5de2f41f28::t_d23f5c293c2d48 42
+apps/catalog/migrations/0005_alter_eventparticipation_role.py
+  s_697b5de2f41f28::t_d23f5c293c2d48 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "79b93bf7fb509db634f1ef6b6bad9990aade8845",
+  "prompts": {},
+  "sessions": {
+    "s_697b5de2f41f28": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4255057b-68dc-4d5c-80b5-78c858f3d895",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

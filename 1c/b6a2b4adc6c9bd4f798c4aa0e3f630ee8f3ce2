@@ -1,0 +1,94 @@
+apps/sales/registrations.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-25
+apps/sales/migrations/0002_rls.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-31
+tests/architecture/test_no_forbidden_imports.py
+  s_5b002650df0863::t_bb02d0ea0d4559 20-24
+  s_5b002650df0863::t_ff6e99ad5336bc 35-37,39-43
+  s_5b002650df0863::t_d5d5aeff01c127 38
+apps/sales/tests/test_export_event_attendees.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-107,109-231,233-245
+  s_5b002650df0863::t_bd3256e0d86af0 108,232,246
+config/settings/base.py
+  s_5b002650df0863::t_4b47bc34478b19 66,105,136,138,157,159,229,237,239,250-251,263-264,281,294,299,304,319,324,330-332,336-337,339-341,346,348-349,371,383-384,386,388,390
+  s_5b002650df0863::t_aad84bce2383cc 93
+  s_5b002650df0863::t_7b601b147a8e02 99,101
+  s_5b002650df0863::t_b82f85f3ae94eb 134-135,137,100,147-149
+  s_5b002650df0863::t_80dd0c6d11f722 142-144,213,316-318,321-323,333-335,411
+  s_5b002650df0863::t_63b7ed74f23be4 326-329
+  s_5b002650df0863::t_a58725b59d4b17 96
+  s_5b002650df0863::t_90400a7abda1ff 98,412-415
+  s_5b002650df0863::t_5804aba2648a0d 416-419
+  s_5b002650df0863::t_7dc34e1fe62abe 97
+apps/sales/middleware.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-26,39-43,46-103
+  s_5b002650df0863::t_51ac3e3779b975 27-38,44-45,111,115
+tests/architecture/test_bigint_boundary.py
+  s_5b002650df0863::t_a4e4bd34f44f66 1-5,11-29,32-33,44-48,55-80,102-106
+  s_5b002650df0863::t_0a547348905c66 6-10,34-36,40-43,49-54,81-101,124-128,130
+  s_5b002650df0863::t_e88d01f840ed9f 37-39
+  s_5b002650df0863::t_d5d5aeff01c127 30
+apps/sales/tests/test_middleware.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-150
+apps/sales/tests/test_models.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-11,13-32,34-37,40-105
+  s_5b002650df0863::t_bd3256e0d86af0 33,38-39
+apps/sales/management/commands/export_event_attendees.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-169
+apps/sales/migrations/0001_initial.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-90
+apps/bootstrap.py
+  s_5b002650df0863::t_e245d029f0edc3 51-52,85,90-91,93-95,101-102,104-105,110-111,113-114,121-122,126-129
+  s_5b002650df0863::t_0b0d577d37bdf3 78,49,53-54,56-58,60-66,68-70,72-73
+  s_5b002650df0863::t_08566a2df15b56 82-84,87,108-109,132-142,144-145,112,119,124,130-131,55,59,67,71,74-75
+  s_5b002650df0863::t_aad84bce2383cc 86
+  s_5b002650df0863::t_ddca3c96e7ae2c 88,103
+  s_5b002650df0863::t_a5014b183df652 92
+  s_5b002650df0863::t_d2994d49d50947 96,106-107,115,117-118,120
+  s_5b002650df0863::t_95bbf6ddcd5ec1 100
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+  s_5b002650df0863::t_d59d051562f4ac 50
+  s_5b002650df0863::t_b82f85f3ae94eb 116,123,125
+apps/identity/tests/test_operations.py
+  s_5b002650df0863::t_1ea198f53a32ac 1,5
+  s_5b002650df0863::t_d81ddaab1db7ab 2-4,6-10,16-29,31-37,41,43-44,46-48
+  s_5b002650df0863::t_6ccde20e66ceff 15,49-62,69,14
+  s_5b002650df0863::t_c0a9faea048f89 42
+  s_5b002650df0863::t_d5d5aeff01c127 11-13,30,38-40,45
+apps/sales/tests/test_merge_rehome.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-17,19-24,27-100,103-141,147-148,150-153
+  s_5b002650df0863::t_5568bc30180f3b 101-102,142-145
+apps/sales/models.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-52,55-81,87,89-99,105-116,119-139
+apps/sales/admin.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-7,9,13-36,42,44-47,49-55
+apps/identity/operations.py
+  s_5b002650df0863::t_92bcdb7fd22215 1-18,33-37,44-55,62-64,78-112,119,121-126,128-156,32,61,114
+  s_5b002650df0863::t_ff37bea549ee94 38-43
+  s_5b002650df0863::t_83c7cf8ac6d291 65-77
+  s_5b002650df0863::t_5e1388820448f7 163
+  s_5b002650df0863::t_e1c68f46ac3351 166
+  s_5b002650df0863::t_38837fa779667d 167
+  s_5b002650df0863::t_d5d5aeff01c127 19-31,56-60,113,115-118,120,127
+apps/sales/tests/test_rls.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-20,22-27,29-32,38-58,60-61,64-146
+apps/sales/apps.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "1cb6a2b4adc6c9bd4f798c4aa0e3f630ee8f3ce2",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

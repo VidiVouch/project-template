@@ -1,0 +1,571 @@
+.claude/CE1-PLAN.md
+  s_b380a8ea486da9::t_5569c7c27d11ab 1-37
+.github/workflows/ci.yml
+  s_b380a8ea486da9::t_45458fcb2fafd1 1-59
+.github/workflows/lint.yml
+  s_b380a8ea486da9::t_57d355ef7f9ca8 13,37
+.gitignore
+  s_b380a8ea486da9::t_e044ad1cc31209 43-48,50,55-56,60,66-67,69-70,72-75,78,80
+.pre-commit-config.yaml
+  s_b380a8ea486da9::t_0b0fa3b9f31fe0 36
+AGENTS.md
+  s_b380a8ea486da9::t_63bb22f6ceca9b 3-9,23-29,33-37,42-43,45-47
+LICENSE.md
+  s_b380a8ea486da9::t_06167e8324403e 1
+README.md
+  s_b380a8ea486da9::t_7e81d5bc3f157a 1,3-6,8-10,12,14-18,20,22-24,26-27,29-30,32-33,36,38-39,42,45-49,52,54-58,60-61,63,65-70
+REVIEW.md
+  s_b380a8ea486da9::t_ebdc684e84d08b 30-34
+apps/__init__.py
+  s_b380a8ea486da9::t_3ad9c13a57872f 1-6
+apps/analytics/proxy.py
+  s_b380a8ea486da9::t_332122ef9f01f3 314-318
+apps/billing/admin.py
+  s_b380a8ea486da9::t_a2bc1e5d5bee05 3-4
+apps/billing/apps.py
+  s_b380a8ea486da9::t_0adef8488a5d8d 16-18
+apps/billing/invoicing.py
+  s_b380a8ea486da9::t_041a0bbac791d5 5-24,45-48,56-59,65,68-74,77-80,97-98,110-112,114-120,123-135,138-142,147,149-152,164-166,176-178,184-186
+apps/billing/keys.py
+  s_b380a8ea486da9::t_fca1b9f4c9a79e 14-16,24-25
+apps/billing/management/commands/seed_prices.py
+  s_b380a8ea486da9::t_09ffe39cb81837 1-162
+apps/billing/management/commands/stripe_listen.py
+  s_b380a8ea486da9::t_91a805caf29bba 3-6
+apps/billing/management/commands/stripe_sync.py
+  s_b380a8ea486da9::t_6b95fad76e7e34 3-5,18-20,47-60
+apps/billing/migrations/0001_initial.py
+  s_b380a8ea486da9::t_2b746e2dd03433 1,13,22-23,38,47-48,64-65,78-79,94
+apps/billing/models.py
+  s_b380a8ea486da9::t_1bb4cffa75becc 3,70-71,79,121,149-151,158,180,187,217,343-350
+apps/billing/pricing.py
+  s_b380a8ea486da9::t_2490555c18d831 1-256
+apps/billing/receivers.py
+  s_b380a8ea486da9::t_cc165067fc99e6 1-43,49-50,53,56-59,61,69-70,82-115,120-121,135-463
+apps/billing/subscriptions.py
+  s_b380a8ea486da9::t_68281b1a0cecd2 1-553
+apps/billing/templatetags/__init__.py
+  s_b380a8ea486da9::t_895286b7b74b24 1
+apps/billing/templatetags/billing_format.py
+  s_b380a8ea486da9::t_9d79ce43bb2324 7-8,27-28
+apps/billing/tests/factories.py
+  s_b380a8ea486da9::t_84364a2ad2d384 3-6,9-10,33-34,47-52,62-63,76-78,85,95-97
+apps/billing/tests/test_cancel_credit.py
+  s_b380a8ea486da9::t_10da03e06716fe 1-95
+apps/billing/tests/test_invoicing.py
+  s_b380a8ea486da9::t_9121b26a918ded 8,35,40-42,49,69,80-82,91-96,106-109,113,140-141,161-163,167,186-188,192
+apps/billing/tests/test_mirror.py
+  s_b380a8ea486da9::t_581b35ad346c23 1-252
+apps/billing/tests/test_pricing.py
+  s_b380a8ea486da9::t_fb296a2a271870 1-218
+apps/billing/tests/test_receivers.py
+  s_b380a8ea486da9::t_eb63adfeec4e1d 1-7,12-17,19,30-49,76-235
+apps/billing/tests/test_subscriptions.py
+  s_b380a8ea486da9::t_e369eadd6b52db 1-1276
+apps/billing/tests/test_views.py
+  s_b380a8ea486da9::t_286e18d8e7dc1b 1,6,8-9,13-20,33-38,49-312,315-316,326,328,335-390,395,397-399,402-404,407-409,411-491
+apps/billing/tests/test_webhooks.py
+  s_b380a8ea486da9::t_822a52cf294ce8 13-14
+apps/billing/urls.py
+  s_b380a8ea486da9::t_e52abe91370086 11-13
+apps/billing/views.py
+  s_b380a8ea486da9::t_40b6b900f39bb3 3-24,27-34,45,55-73,87-113,117-120,129-133,139,144-149,154-163,166-169,171-190,202-204,227,229,236-238,255-289,294-322,328-330,333-342,344-361,379-382,385,389-390,394,399-409,439,444-446,453-643
+apps/billing/webhooks.py
+  s_b380a8ea486da9::t_d784dbbabb13a7 176
+apps/deviceauth/__init__.py
+  s_b380a8ea486da9::t_40d9f1100aff63 1-39
+apps/deviceauth/api.py
+  s_b380a8ea486da9::t_b48471c93063d3 1-245
+apps/deviceauth/apps.py
+  s_b380a8ea486da9::t_f8148052a6eb1b 1-20
+apps/deviceauth/migrations/0001_initial.py
+  s_b380a8ea486da9::t_7696ceb1f894f5 1-72
+apps/deviceauth/models.py
+  s_b380a8ea486da9::t_741f76ff7b4459 1-289
+apps/deviceauth/tests/test_activate.py
+  s_b380a8ea486da9::t_a909cfbb58b305 1-125
+apps/deviceauth/tests/test_ci_tokens.py
+  s_b380a8ea486da9::t_00aaecb3cd9b16 1-67
+apps/deviceauth/tests/test_person_for_token.py
+  s_b380a8ea486da9::t_791163a07e1bb1 1-105
+apps/deviceauth/tests/test_token_endpoint.py
+  s_b380a8ea486da9::t_e5e94a2b37b398 1-180
+apps/deviceauth/tokens.py
+  s_b380a8ea486da9::t_f045ce5ac911b8 1-131
+apps/deviceauth/urls.py
+  s_b380a8ea486da9::t_42fe864170a144 1-22
+apps/deviceauth/views.py
+  s_b380a8ea486da9::t_697dd8841a4920 1-198
+apps/githubapp/__init__.py
+  s_b380a8ea486da9::t_b5eacba18b4d0a 1-19
+apps/githubapp/apps.py
+  s_b380a8ea486da9::t_fb46545f9da91f 1-47
+apps/githubapp/auth.py
+  s_b380a8ea486da9::t_e2110ec65f2504 1-176
+apps/githubapp/checks.py
+  s_b380a8ea486da9::t_cd440742c6371c 1-127
+apps/githubapp/comments.py
+  s_b380a8ea486da9::t_df4ccfc49b7124 1-258
+apps/githubapp/handlers.py
+  s_b380a8ea486da9::t_df7921e591108e 1-340
+apps/githubapp/identity.py
+  s_b380a8ea486da9::t_905c575d0458f5 1-337
+apps/githubapp/manifest.py
+  s_b380a8ea486da9::t_a7c636fb161093 1-75
+apps/githubapp/migrations/0001_initial.py
+  s_b380a8ea486da9::t_371696e7879d44 1,3,8-9,13-14,16-17,22,24-28,30-33,35,37-39,41-45,47-52
+apps/githubapp/migrations/0002_installation.py
+  s_b380a8ea486da9::t_89dfcb47afb8d7 1,11-12,17,20-26,28,31
+apps/githubapp/migrations/0003_webhookdelivery.py
+  s_b380a8ea486da9::t_4a2f9f8897d128 1-27
+apps/githubapp/migrations/0004_installation_suspended.py
+  s_b380a8ea486da9::t_34dd0e7e21343a 1-18
+apps/githubapp/migrations/0005_installation_installed_by_github_id_installlinkstate.py
+  s_b380a8ea486da9::t_b3ce03c88aea67 1,5,12-14,18-22,24,28-30,33
+apps/githubapp/models.py
+  s_b380a8ea486da9::t_3fcfdaf7e292ed 1-21,24,27-142,144-344,347-389,391-395,397-433,435-440,442-444,446-447,449-452,454-455,457-460,462-466
+apps/githubapp/notary.py
+  s_b380a8ea486da9::t_078ed7549592f2 1-321
+apps/githubapp/recompute.py
+  s_b380a8ea486da9::t_ebc6d880faa2e0 1-347
+apps/githubapp/retroactive.py
+  s_b380a8ea486da9::t_1bb49180105e9e 1-294
+apps/githubapp/seataware.py
+  s_b380a8ea486da9::t_5fe8e491c55396 1-374
+apps/githubapp/signals.py
+  s_b380a8ea486da9::t_9dcd870286dc5e 1-147
+apps/githubapp/tasks.py
+  s_b380a8ea486da9::t_e5c99b0e6b72b8 1-82
+apps/githubapp/tests/test_auth.py
+  s_b380a8ea486da9::t_44c6b2f1a99760 1-138
+apps/githubapp/tests/test_checks.py
+  s_b380a8ea486da9::t_5f8fea1224a11c 1-113
+apps/githubapp/tests/test_comments.py
+  s_b380a8ea486da9::t_7aa1a236ee3e6b 1-188
+apps/githubapp/tests/test_handlers.py
+  s_b380a8ea486da9::t_35ff7cb4634f6a 1-242
+apps/githubapp/tests/test_identity.py
+  s_b380a8ea486da9::t_22ef38779fe464 1,3,5-12,14-15,17-28,31-33,36-38,41-42,44-46,48-53,55-191
+apps/githubapp/tests/test_manifest.py
+  s_b380a8ea486da9::t_587626fe23c0dc 1-41
+apps/githubapp/tests/test_models.py
+  s_b380a8ea486da9::t_7a5c6b50e6a165 1-166
+apps/githubapp/tests/test_notary.py
+  s_b380a8ea486da9::t_ccd28223fef1fe 1-247
+apps/githubapp/tests/test_recompute.py
+  s_b380a8ea486da9::t_2f1a90642d7c05 1-283
+apps/githubapp/tests/test_retroactive.py
+  s_b380a8ea486da9::t_1242301de9f1cd 1-215
+apps/githubapp/tests/test_seataware.py
+  s_b380a8ea486da9::t_b009a377ac6a43 1-262
+apps/githubapp/tests/test_seatrequest_rls.py
+  s_b380a8ea486da9::t_31e341d68e6632 1-86
+apps/githubapp/tests/test_setup_views.py
+  s_b380a8ea486da9::t_bca62264e2cd19 1-160
+apps/githubapp/tests/test_signals.py
+  s_b380a8ea486da9::t_3323ca652a69e4 1-112
+apps/githubapp/tests/test_tasks.py
+  s_b380a8ea486da9::t_2f28e98dccdcf7 1,3,5,7-8,10-13,15-16,18,21-67
+apps/githubapp/tests/test_vouch.py
+  s_b380a8ea486da9::t_14211d4cf1c018 1-345
+apps/githubapp/tests/test_webhooks.py
+  s_b380a8ea486da9::t_4608cba1ca25d8 1-195
+apps/githubapp/urls.py
+  s_b380a8ea486da9::t_2be6ff09d63b41 1-22
+apps/githubapp/views.py
+  s_b380a8ea486da9::t_cc20f63b62ec23 1-136
+apps/githubapp/vouch.py
+  s_b380a8ea486da9::t_f16fe8acd37fdd 1-272
+apps/githubapp/webhooks.py
+  s_b380a8ea486da9::t_b01f0455f9192c 1-169
+apps/identity/adapters.py
+  s_b380a8ea486da9::t_6dd0c2fd24b8d2 501-506,508-510,513,517-518,524,530,532,540,543-544,550,552,554-559
+apps/identity/apps.py
+  s_b380a8ea486da9::t_01c5d5ffbcb424 10,24-31,110-184
+apps/identity/entitlements.py
+  s_b380a8ea486da9::t_8b6fbb6536672e 1-272
+apps/identity/forms.py
+  s_b380a8ea486da9::t_6a996b9d9710d9 254-255
+apps/identity/groups.py
+  s_b380a8ea486da9::t_4cdc9e44e5d85c 1-96
+apps/identity/management/commands/trial_sweep.py
+  s_b380a8ea486da9::t_354669221f22f1 1-189
+apps/identity/migrations/0001_initial.py
+  s_b380a8ea486da9::t_b4c7cad26c5b8b 1,4,21-32,41,51-98,112-123,130-153
+apps/identity/migrations/0002_tenant_tier.py
+  s_b380a8ea486da9::t_bc95333fb477de 1-18
+apps/identity/migrations/0003_tenant_trial_ends_at.py
+  s_b380a8ea486da9::t_2e3ce381c786ae 1-18
+apps/identity/migrations/0004_trialnotice.py
+  s_b380a8ea486da9::t_51bf4fe50e64bf 1-27
+apps/identity/models.py
+  s_b380a8ea486da9::t_da5e38b7f8d802 137-140,143-160,164-183,193-238,275-321,756-757
+apps/identity/receivers.py
+  s_b380a8ea486da9::t_5fff07822ef64f 66
+apps/identity/roles.py
+  s_b380a8ea486da9::t_b40a3837610e23 1-134
+apps/identity/signals.py
+  s_b380a8ea486da9::t_f8c283cac0533a 1,4,21,28-34,47-120,258-266,270-271,581-587,591-592
+apps/identity/templatetags/vv_forms.py
+  s_b380a8ea486da9::t_1cd9d353a411ac 1,3-7,9-11,13,15-17,19,21-24,26,29-31,33-36,39-41,43-49,51-76
+apps/identity/tests/factories.py
+  s_b380a8ea486da9::t_ac3d1c383e8016 13-15,31-48,52-53,59-70,73-94,311
+apps/identity/tests/test_access_request.py
+  s_b380a8ea486da9::t_e23540cfef86e1 23,72
+apps/identity/tests/test_access_request_admin.py
+  s_b380a8ea486da9::t_77de7c9d67e25d 92-95
+apps/identity/tests/test_entitlements.py
+  s_b380a8ea486da9::t_018814270474de 1-270
+apps/identity/tests/test_redemption.py
+  s_b380a8ea486da9::t_5230a580b9b0eb 190-192
+apps/identity/tests/test_roles.py
+  s_b380a8ea486da9::t_29587bca4bb9b1 1-125
+apps/identity/tests/test_trial_sweep.py
+  s_b380a8ea486da9::t_5b60fad2d294bd 1-144
+apps/identity/tests/test_vv_forms.py
+  s_b380a8ea486da9::t_1aafdf2e7eb401 1-27
+apps/identity/urls.py
+  s_b380a8ea486da9::t_b470a13ef7b671 24,56
+apps/identity/views.py
+  s_b380a8ea486da9::t_27fd169adde68c 343,369,374,381
+apps/notary/README.md
+  s_b380a8ea486da9::t_a7b41c4c72781a 1-69
+apps/notary/__init__.py
+  s_b380a8ea486da9::t_1881df49bb119f 1-21
+apps/notary/api.py
+  s_b380a8ea486da9::t_9b433b4a49f1bd 1-505
+apps/notary/apps.py
+  s_b380a8ea486da9::t_7def95b99d1348 1-34
+apps/notary/checks.py
+  s_b380a8ea486da9::t_e56799e4f12c6d 1,3-5,7-11,14,16-17,19,21-22,25-30,32,34-39,41-73
+apps/notary/dsse.py
+  s_b380a8ea486da9::t_f2734b2086163b 1-281
+apps/notary/keys.py
+  s_b380a8ea486da9::t_574b9193aa756e 1-141
+apps/notary/management/commands/seat_invite_sweep.py
+  s_b380a8ea486da9::t_de1412be02bf29 1-79
+apps/notary/migrations/0001_initial.py
+  s_b380a8ea486da9::t_d3c579c23f4fa2 1-86
+apps/notary/models.py
+  s_b380a8ea486da9::t_ce5d9d905b8b75 1-300
+apps/notary/people.py
+  s_b380a8ea486da9::t_23794e27f9eb9a 1-440
+apps/notary/reposlug.py
+  s_b380a8ea486da9::t_17e188aab346bb 1-16,19-34,36-70,72-88,90
+apps/notary/reviews.py
+  s_b380a8ea486da9::t_391483fc2686e9 1-288
+apps/notary/reviews_api.py
+  s_b380a8ea486da9::t_f40806930488e1 1-190
+apps/notary/seat_actions.py
+  s_b380a8ea486da9::t_0a8faec8d765e2 1-59
+apps/notary/seats.py
+  s_b380a8ea486da9::t_28feaabde7ee4c 1-695
+apps/notary/signals.py
+  s_b380a8ea486da9::t_29b4f8dfdf5894 1-63
+apps/notary/tests/test_api.py
+  s_b380a8ea486da9::t_fbe027cfc0bfc0 1-452
+apps/notary/tests/test_cross_impl.py
+  s_b380a8ea486da9::t_4a20658da8db36 1-145
+apps/notary/tests/test_dsse.py
+  s_b380a8ea486da9::t_33e13f5b12cd33 1-170
+apps/notary/tests/test_interop_vector.py
+  s_b380a8ea486da9::t_f429a78ec38884 1-135
+apps/notary/tests/test_keys.py
+  s_b380a8ea486da9::t_f3f86653246cb1 1-76
+apps/notary/tests/test_people.py
+  s_b380a8ea486da9::t_3a31d5b38b1f35 1-489
+apps/notary/tests/test_reposlug.py
+  s_b380a8ea486da9::t_048e56b1468474 1-51
+apps/notary/tests/test_reviews.py
+  s_b380a8ea486da9::t_49fce78b8a1d08 1-72,75-77,80-83,86-92,94,97-98,100-107,110-248
+apps/notary/tests/test_reviews_api.py
+  s_b380a8ea486da9::t_f1157e99992ce0 1-271
+apps/notary/tests/test_seat_actions.py
+  s_b380a8ea486da9::t_213a132598ff9a 1,3-7,11-106
+apps/notary/tests/test_seat_invite_sweep.py
+  s_b380a8ea486da9::t_b1ec2f121618d1 1,3-6,8-9,11,13-14,16-17,19,22-64
+apps/notary/tests/test_seats.py
+  s_b380a8ea486da9::t_43ca5e3e215b05 1-642
+apps/notary/tests/test_tenant_rls.py
+  s_b380a8ea486da9::t_1dfd0d781a95ef 1-135
+apps/provenance/admin.py
+  s_b380a8ea486da9::t_5a97951b91bcca 1,3,5,8-10,12-14,17-19,21-24,27-29,31-33,35-38,41-43,45-48,50-65,68-70,72-75,77-80
+apps/provenance/api.py
+  s_b380a8ea486da9::t_a2fe7bcb5fd373 1-150
+apps/provenance/apps.py
+  s_b380a8ea486da9::t_46f1af418339fd 1-10
+apps/provenance/context_processors.py
+  s_b380a8ea486da9::t_91cf22dc3a4036 1,6,9-10,12-15,17-25
+apps/provenance/contract.py
+  s_b380a8ea486da9::t_eb72c28b01389b 1-168
+apps/provenance/hashing.py
+  s_b380a8ea486da9::t_1266751381fc7a 1-28
+apps/provenance/heatmap.py
+  s_b380a8ea486da9::t_917dd0dc876558 1-271
+apps/provenance/management/commands/ingest_snapshot.py
+  s_b380a8ea486da9::t_b7e993df181ad1 1-67
+apps/provenance/management/commands/issue_api_token.py
+  s_b380a8ea486da9::t_65f7d516978d0d 1-46
+apps/provenance/matrix.py
+  s_b380a8ea486da9::t_9bad66b05001d0 1-499
+apps/provenance/migrations/0001_initial.py
+  s_b380a8ea486da9::t_af621325ccf8c4 1,3-4,7,12-13,15,19-32,34-42,44-79,82-83,86-87,89-98
+apps/provenance/migrations/0002_reviewevent.py
+  s_b380a8ea486da9::t_004dd3f3b7dd53 1-44
+apps/provenance/migrations/0003_modelprofile_alter_coveragesnapshot_options.py
+  s_b380a8ea486da9::t_aab56df1d22044 1-33
+apps/provenance/migrations/0004_seed_model_profiles.py
+  s_b380a8ea486da9::t_c5f3c526621ede 1-47
+apps/provenance/migrations/0005_apitoken_scoped_repos.py
+  s_b380a8ea486da9::t_ae6865ea723559 1-18
+apps/provenance/migrations/0006_remove_coveragesnapshot_provenance_snapshot_repo_commit_uniq_and_more.py
+  s_b380a8ea486da9::t_b0206aa2af7b7c 1,9-10,14-16,19-21,23-25,27-29
+apps/provenance/models.py
+  s_b380a8ea486da9::t_5055033432d69a 1-385
+apps/provenance/selectors.py
+  s_b380a8ea486da9::t_7ec82fd589e947 1-400
+apps/provenance/services.py
+  s_b380a8ea486da9::t_53583ae4fb2a5f 1-224
+apps/provenance/tests/fixtures/README.md
+  s_b380a8ea486da9::t_b8407a44ba0dd3 1-33
+apps/provenance/tests/fixtures/vouch_vectors.json
+  s_b380a8ea486da9::t_3a6274b6859738 1-27
+apps/provenance/tests/test_authorship_view.py
+  s_b380a8ea486da9::t_70f3cf5d2730af 1-140
+apps/provenance/tests/test_badge.py
+  s_b380a8ea486da9::t_870c424cde72a5 1-386
+apps/provenance/tests/test_branch_normalize.py
+  s_b380a8ea486da9::t_54a341fe4f3a22 1-65
+apps/provenance/tests/test_contract.py
+  s_b380a8ea486da9::t_a14ef15604ca5b 1-196
+apps/provenance/tests/test_heatmap.py
+  s_b380a8ea486da9::t_dbe5d503f237f8 1-337
+apps/provenance/tests/test_ingest.py
+  s_b380a8ea486da9::t_980082bef38fcc 1-262
+apps/provenance/tests/test_matrix.py
+  s_b380a8ea486da9::t_16e1253abda625 1-411
+apps/provenance/tests/test_matrix_css.py
+  s_b380a8ea486da9::t_a1f4b87f16aa01 1-117
+apps/provenance/tests/test_members_view.py
+  s_b380a8ea486da9::t_2a3bc79c4d0b20 1-145
+apps/provenance/tests/test_org_dashboard.py
+  s_b380a8ea486da9::t_51d057f17cd047 1-440
+apps/provenance/tests/test_push_integration.py
+  s_b380a8ea486da9::t_088b5fcc264fda 1-185
+apps/provenance/tests/test_repo_detail.py
+  s_b380a8ea486da9::t_88b151b40b40a3 1-216
+apps/provenance/tests/test_repo_report.py
+  s_b380a8ea486da9::t_92faccbb70c77e 1-170
+apps/provenance/tests/test_review_events.py
+  s_b380a8ea486da9::t_c96d3fbaa4c4f0 1-319
+apps/provenance/tests/test_reviewer_profile.py
+  s_b380a8ea486da9::t_80612fde08a14c 1-277
+apps/provenance/tests/test_reviewers_list.py
+  s_b380a8ea486da9::t_ddea06a2e5b125 1-314
+apps/provenance/tests/test_selectors.py
+  s_b380a8ea486da9::t_a1897a8e510477 1-237
+apps/provenance/tests/test_tenant_rls.py
+  s_b380a8ea486da9::t_f5ff7fffc3a260 1-94
+apps/provenance/tests/test_tokens.py
+  s_b380a8ea486da9::t_3647be668b8dcd 1-359
+apps/provenance/tests/test_unit_detail.py
+  s_b380a8ea486da9::t_1abb0b2ee0a5d2 1-361
+apps/provenance/tests/test_views.py
+  s_b380a8ea486da9::t_3194c42472f265 1-213
+apps/provenance/tests/test_vouch_verify.py
+  s_b380a8ea486da9::t_c8a993e4374860 1-357
+apps/provenance/urls.py
+  s_b380a8ea486da9::t_d053c64ad70165 1-41
+apps/provenance/views.py
+  s_b380a8ea486da9::t_b547788feb1f52 1-2126
+apps/provenance/vouch_verify.py
+  s_b380a8ea486da9::t_eabea740aa406a 1-259
+apps/staff/apps.py
+  s_b380a8ea486da9::t_47943adb40e85d 1-12
+apps/staff/decorator_include.py
+  s_b380a8ea486da9::t_212ae901009eb1 1-71
+apps/staff/templates/staff/index.html
+  s_b380a8ea486da9::t_3e33541d2e455d 1-44
+apps/staff/tests/test_views.py
+  s_b380a8ea486da9::t_3c282ef95279a6 1-35
+apps/staff/urls.py
+  s_b380a8ea486da9::t_c95779084d6069 1,3-6,8,10,12,14
+apps/staff/views.py
+  s_b380a8ea486da9::t_0d442525c6cc77 1-18
+apps/tracking/management/commands/configure_mailgun_tracking.py
+  s_b380a8ea486da9::t_0c50a900b376be 49
+apps/tracking/migrations/0001_initial.py
+  s_b380a8ea486da9::t_9094cfaaf921fc 1
+assets/brand/sigil-mark.svg
+  s_b380a8ea486da9::t_57ad9002cc2104 1-19
+assets/brand/sigil.svg
+  s_b380a8ea486da9::t_34f53f76441245 1-30
+assets/css/impersonate-bar.css
+  s_b380a8ea486da9::t_f7351f17265bbb 4,7,14,22,25,39,43,47,53,56,67,72,75,80
+assets/css/source.css
+  s_b380a8ea486da9::t_af15f8945bd690 2-1978
+assets/js/app-enhance.js
+  s_b380a8ea486da9::t_758d7fb22d471b 5-10,14-16,20-22,24-25,73-76,85-89,99-101
+assets/js/auth-fog.js
+  s_b380a8ea486da9::t_0786af7ad98fef 1-255
+assets/js/auth-login.js
+  s_b380a8ea486da9::t_f5c945519aa23e 1-19
+assets/js/theme-picker.js
+  s_b380a8ea486da9::t_d71149e440d697 1-65
+config/asgi.py
+  s_b380a8ea486da9::t_be975a116fd0d5 1
+config/celery.py
+  s_b380a8ea486da9::t_2a0fb2b0699c34 1,4-5,25
+config/db.py
+  s_b380a8ea486da9::t_348a9993d2a1df 32-36
+config/log.py
+  s_b380a8ea486da9::t_5049b3086eca30 27,31,80-81
+config/settings/__init__.py
+  s_b380a8ea486da9::t_dbad528e5cc295 1
+config/settings/base.py
+  s_b380a8ea486da9::t_4b36b82627cdc3 1,3-8,25-26,122-136,162,207-208,282-283,312-322,329,331,372-373,381-385,447-462,498-499,510,527,535-542,612-620,625-628,631-677
+config/settings/local.py
+  s_b380a8ea486da9::t_438d2d4f8e3f84 14-16
+config/settings/production.py
+  s_b380a8ea486da9::t_eba5321ee40cc6 13-22,46,63,76-77
+config/urls.py
+  s_b380a8ea486da9::t_0b4279a094c7b1 1-8,12,16,18-21,23-24,45,52-81,83-84,86-91
+config/wsgi.py
+  s_b380a8ea486da9::t_3a2b3ade42ba06 1-13
+pyproject.toml
+  s_b380a8ea486da9::t_3e65bd7cab5b4c 6,8,26,35-43,92-94,277-279
+render.yaml
+  s_b380a8ea486da9::t_1e34041b97f577 1,10,28,36-40,57-60,62-63,80,83-84,97,124,130,146-167,170,178,206,210,222-230,238
+scripts/dev_app_role.sql
+  s_b380a8ea486da9::t_e5fc990dbc2282 1-44
+templates/400.html
+  s_b380a8ea486da9::t_cc5513c19bd816 1-6
+templates/403.html
+  s_b380a8ea486da9::t_97c9b530989681 1-6
+templates/404.html
+  s_b380a8ea486da9::t_d9dec07b95fa87 1-6
+templates/500.html
+  s_b380a8ea486da9::t_52d45c9167c5b8 1-55
+templates/_error_base.html
+  s_b380a8ea486da9::t_65adcc0b5a6362 1-19
+templates/_theme_picker.html
+  s_b380a8ea486da9::t_37cfb8a06cf670 1-12
+templates/_vv_form_fields.html
+  s_b380a8ea486da9::t_bebf6272f71883 1-35
+templates/account/email.html
+  s_b380a8ea486da9::t_f7afb61d5cc7fc 1-73
+templates/account/email/email_confirmation_signup_subject.txt
+  s_b380a8ea486da9::t_af4e8df0e2bb3f 1
+templates/account/email_confirm.html
+  s_b380a8ea486da9::t_a00e98af1d4bb4 1-44
+templates/account/login.html
+  s_b380a8ea486da9::t_f9cb2eb9390c0e 1,3-20,22-23,25-98,100-106
+templates/account/password_reset_done.html
+  s_b380a8ea486da9::t_05ad7a16da0885 1-51
+templates/account/signup_closed.html
+  s_b380a8ea486da9::t_738622ae448e22 1-11
+templates/allauth/elements/field.html
+  s_b380a8ea486da9::t_a85da47e258cf7 1-61
+templates/allauth/elements/fields.html
+  s_b380a8ea486da9::t_ae1e1fd3758e0d 1-7
+templates/allauth/layouts/base.html
+  s_b380a8ea486da9::t_f1567a0277b5e8 1,3-10,12-18,20-30,32-42,44-48,50-103
+templates/app/_nav.html
+  s_b380a8ea486da9::t_11d9b1efa39a55 2-5,7-10,12-13,15-17,19-61,64-67,74-79,81-86,94-102
+templates/app/base.html
+  s_b380a8ea486da9::t_94bc9054d3dbf0 3-4,15-24,26-32,34-36,38-44,67,75
+templates/base.html
+  s_b380a8ea486da9::t_556fce0bf45f35 2-3,6-7,9-11,15-91
+templates/billing/home.html
+  s_b380a8ea486da9::t_488e0ab9b575ce 14-17,24-31,49-66
+templates/billing/pay.html
+  s_b380a8ea486da9::t_61707f034be7f8 3,8-9,17-19,22,28-33,36-38,42,52-53,56,58,60-62,65-66,75,77-79,86-88,112-113,115,123,130
+templates/billing/payment_return.html
+  s_b380a8ea486da9::t_73b1e9be997268 2,6-16
+templates/billing/pricing.html
+  s_b380a8ea486da9::t_25772a00c473fd 1-177
+templates/deviceauth/activate.html
+  s_b380a8ea486da9::t_a7bcee5d10d41d 1-73
+templates/deviceauth/activate_done.html
+  s_b380a8ea486da9::t_0dcd4b00188d72 1-41
+templates/deviceauth/ci_tokens.html
+  s_b380a8ea486da9::t_5b748107d0c9da 1-121
+templates/hijack/notification.html
+  s_b380a8ea486da9::t_56b9f1caf36252 4,10,26-28,33-34,40,47
+templates/identity/access_request_form.html
+  s_b380a8ea486da9::t_ebb8542e8d85fc 1,5-17,19-20,22-41
+templates/identity/access_request_thanks.html
+  s_b380a8ea486da9::t_0c188b8b4577e5 10
+templates/mfa/authenticate.html
+  s_b380a8ea486da9::t_5a2ce04ea3bb06 1-57
+templates/mfa/index.html
+  s_b380a8ea486da9::t_21b30677e1481c 1-92
+templates/mfa/recovery_codes/index.html
+  s_b380a8ea486da9::t_ae410a4e2a84a8 1-57
+templates/mfa/totp/activate_form.html
+  s_b380a8ea486da9::t_a1361350bd0e4b 1-41
+templates/mfa/trust.html
+  s_b380a8ea486da9::t_94ebc6b0e8babc 1-26
+templates/provenance/_heat_node.html
+  s_b380a8ea486da9::t_f574456a76bba3 1-40
+templates/provenance/_members_body.html
+  s_b380a8ea486da9::t_4a9aa7130ae1a4 1-107
+templates/provenance/_policy_label.html
+  s_b380a8ea486da9::t_72376d4cfa47ee 1-8
+templates/provenance/_snapshot_nav.html
+  s_b380a8ea486da9::t_bc861fe7782a73 1-25
+templates/provenance/authorship.html
+  s_b380a8ea486da9::t_a9deb8c1d5ff8d 1-157
+templates/provenance/coverage_matrix.html
+  s_b380a8ea486da9::t_a267c4cb9c2607 1-347
+templates/provenance/directory_heatmap.html
+  s_b380a8ea486da9::t_30c52121e0d992 1-170
+templates/provenance/members.html
+  s_b380a8ea486da9::t_165a5896f1736b 1-26
+templates/provenance/org_dashboard.html
+  s_b380a8ea486da9::t_af65492fafd4b2 1-161
+templates/provenance/platform_upgrade.html
+  s_b380a8ea486da9::t_0a8b9e4932cc50 1-58
+templates/provenance/portal.html
+  s_b380a8ea486da9::t_ca796a7478cc06 1-87
+templates/provenance/repo_detail.html
+  s_b380a8ea486da9::t_5601532743747a 1-124
+templates/provenance/repo_report.html
+  s_b380a8ea486da9::t_0d1bdcd49afa35 1-196
+templates/provenance/reviewer_profile.html
+  s_b380a8ea486da9::t_f4efd67457b7bf 1-179
+templates/provenance/reviewers_list.html
+  s_b380a8ea486da9::t_189f67c53f4e74 1-117
+templates/provenance/tokens.html
+  s_b380a8ea486da9::t_9953bfa05f96db 1-159
+templates/provenance/unit_detail.html
+  s_b380a8ea486da9::t_530ce606f5780f 1-200
+templates/socialaccount/connections.html
+  s_b380a8ea486da9::t_c8fc1611ed4677 1-47
+templates/socialaccount/snippets/login.html
+  s_b380a8ea486da9::t_ba81d2e2a3243c 1-23
+templates/socialaccount/snippets/provider_list.html
+  s_b380a8ea486da9::t_6034c4865b07aa 1-49
+uv.lock
+  s_b380a8ea486da9::t_6f2335fc7f3761 40-48,51,56,58,367,372,374,434-468,564,566,568,573,575,577,724-736,739,745,747,858,860,862,889,891,893,1264-1319,1457,1463,1465,1706-1717,1805-1949,1961,1969,1971
+.env.sample
+  s_b380a8ea486da9::t_e29880c26d042c 1-3,9-13,17,20-29
+apps/provenance/tests/test_htmx_nav.py
+  s_b380a8ea486da9::t_e3379fe4543308 1-22,25-26,30,33,35,37-38,40,42,44-114,116-128,132-136,142-143,145-153,156-164,169-170,174,178-226,228-279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "82213efdab117713924cd1b4ecd002270f489604",
+  "prompts": {},
+  "sessions": {
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+apps/catalog/export_engine.py
+  s_0276221d01c0b0::t_422974a5de31e4 1-75
+tests/architecture/test_bigint_boundary.py
+  s_0276221d01c0b0::t_1a69e7bcc1ec55 31
+  s_0276221d01c0b0::t_422974a5de31e4 1-30,32-137
+apps/catalog/tests/test_export_engine.py
+  s_0276221d01c0b0::t_4ff125c442d53b 1-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "fb8ce24b1270fd02e9e965e7af3b95c35621a33f",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

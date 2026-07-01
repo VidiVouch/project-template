@@ -1,0 +1,19 @@
+.claude/settings.json
+  s_b19873c7421f66::t_8ac4d2d3c3bdba 83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "7a36fc4194610ce0ce2f219e019fa15d0408af81",
+  "prompts": {},
+  "sessions": {
+    "s_b19873c7421f66": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a255487f-6b0d-498d-b9aa-bbc56e16bbcc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

@@ -1,0 +1,31 @@
+apps/sales/migrations/0009_icpscore_deliveryrecord_rls.py
+  s_0276221d01c0b0::t_8a8c4cffe61db6 18,20,23
+apps/identity/middleware.py
+  s_eef0c01ffe4331::t_9ddae8bd04b7f7 27
+apps/sales/views.py
+  s_eef0c01ffe4331::t_25e84ffe6e9560 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "612890851049da338874bb8e4ad533c2781ab0e1",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

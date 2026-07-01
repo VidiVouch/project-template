@@ -1,0 +1,60 @@
+apps/data/cvent/tests/test_sessions.py
+  s_ffd92932362e87::t_7f406e0bcf0e76 11,13
+  s_ffd92932362e87::t_41da0257cfba97 28
+apps/data/capture/management/commands/import_portal_logins.py
+  s_ffd92932362e87::t_9f8ff4db1a57f9 24
+scrapers/event_spiders/cvent/cvent_attendees.py
+  s_ffd92932362e87::t_3242d15e43d0a3 25
+  s_ffd92932362e87::t_67d2dff583b045 38
+apps/data/cvent/sessions.py
+  s_ffd92932362e87::t_d31a93bf95764b 32
+scrapers/event_spiders/cvent/cvent_events.py
+  s_ffd92932362e87::t_57844bc3325775 15
+  s_ffd92932362e87::t_14866935ee9eff 27
+apps/data/cvent/migrations/0002_alter_cventappjsondata_version_and_more.py
+  s_ffd92932362e87::t_874d87debf975e 1-48
+envelopes/cvent/versions.py
+  s_ffd92932362e87::t_8331cf77e9121a 1-66
+scrapers/event_spiders/tests/test_cvent_spiders.py
+  s_ffd92932362e87::t_03755ce562042f 19
+apps/data/cvent/models.py
+  s_ffd92932362e87::t_33a3aee9a5975f 91
+  s_ffd92932362e87::t_a1d3afbad1771d 102
+  s_ffd92932362e87::t_cc4e3e5e3f7d4b 40-48,55
+  s_ffd92932362e87::t_ae84f92fd62b71 127
+  s_ffd92932362e87::t_421ec7e1173be1 80
+  s_ffd92932362e87::t_5881065f2b2bfc 113
+  s_ffd92932362e87::t_f68b12181a3766 67
+apps/data/cvent/tests/test_app_registration.py
+  s_ffd92932362e87::t_04731a0e62fe91 14
+traffic_adapters/adapters/cvent.py
+  s_ffd92932362e87::t_89a5742a0069ec 34
+  s_ffd92932362e87::t_d0321fdff95020 6
+apps/data/cvent/tests/test_response.py
+  s_ffd92932362e87::t_fa3e43a7c8d985 4
+apps/data/cvent/tests/test_contracts.py
+  s_ffd92932362e87::t_b940f5dbe12e85 14
+apps/data/cvent/tests/test_import_portal_cvent.py
+  s_ffd92932362e87::t_0d032ffa206aab 12
+apps/data/cvent/management/commands/import_portal_cvent.py
+  s_ffd92932362e87::t_bb8f9b1ea02287 36
+  s_ffd92932362e87::t_4d32145250e1e2 12-14
+apps/data/cvent/transformers.py
+  s_ffd92932362e87::t_00c3187845a147 15,17-19,34-44,52-63,68-69,73-76,82,93,101-102,109,117-118,126-127,135-136,144-145,153-154,162-163,171-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "0fad457fd488b4ad2ef995c6b45a8dbb411783b5",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

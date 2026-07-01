@@ -1,0 +1,37 @@
+apps/sales/tests/test_dashboard.py
+  s_33f9c21df35ec6::t_105609125494a2 35,86
+apps/sales/tests/test_export_flow.py
+  s_33f9c21df35ec6::t_105609125494a2 35
+apps/demo/tests/test_views.py
+  s_33f9c21df35ec6::t_105609125494a2 45,110
+apps/demo/tests/test_staff_views.py
+  s_33f9c21df35ec6::t_105609125494a2 33,44
+apps/sales/tests/test_event_detail.py
+  s_33f9c21df35ec6::t_105609125494a2 54,126
+apps/sales/tests/test_conferences.py
+  s_33f9c21df35ec6::t_105609125494a2 128,144
+apps/sales/tests/test_event_index.py
+  s_33f9c21df35ec6::t_105609125494a2 31,69
+apps/sales/tests/test_prospect_lists.py
+  s_33f9c21df35ec6::t_105609125494a2 34
+apps/sales/tests/test_seed_design_preview.py
+  s_33f9c21df35ec6::t_105609125494a2 84
+apps/sales/tests/test_middleware.py
+  s_33f9c21df35ec6::t_105609125494a2 44,69,81,93,106,134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2eff10d884a33988c8135558f87e10f00f2da988",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

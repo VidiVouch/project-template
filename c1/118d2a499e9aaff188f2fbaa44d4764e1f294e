@@ -1,0 +1,40 @@
+apps/catalog/tests/test_merge_linkedin_renames.py
+  s_0276221d01c0b0::t_0ccc09d342aff6 64-69,71-97
+apps/catalog/tests/test_cadmium_batch.py
+  s_0276221d01c0b0::t_45c385b0ac892d 398-461
+  s_0276221d01c0b0::t_d27e6405ca0171 479-542
+apps/catalog/management/commands/merge_linkedin_renames.py
+  s_0276221d01c0b0::t_71b3202465e75e 7,12-27,36
+  s_eef0c01ffe4331::t_4761e21edf1696 67-69
+  s_0276221d01c0b0::t_d9b5cb1a00146d 56,66,70-72,84-88,90-100
+apps/catalog/handlers/cadmium_batch.py
+  s_0276221d01c0b0::t_50279a2c3f2302 365
+  s_0276221d01c0b0::t_96089864a40a98 401,407-474,478-497,499-502
+  s_0276221d01c0b0::t_84ef6912ec0daf 219-223
+  s_0276221d01c0b0::t_c4a195b89705c3 287-292
+  s_eef0c01ffe4331::t_4761e21edf1696 475-477,498
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "c1118d2a499e9aaff188f2fbaa44d4764e1f294e",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

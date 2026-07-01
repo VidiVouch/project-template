@@ -1,0 +1,41 @@
+apps/githubapp/tests/test_recompute.py
+  s_17405aaf91a59b::t_690d650260a9c3 1-283
+apps/githubapp/checks.py
+  s_17405aaf91a59b::t_d840377a264154 31,36-38
+  s_17405aaf91a59b::t_99496a5567174a 1-30,32-35,39-127
+apps/githubapp/tests/test_checks.py
+  s_17405aaf91a59b::t_1e6a7e2f5c1e39 1-107
+apps/githubapp/tests/test_vouch.py
+  s_17405aaf91a59b::t_5167a50828db81 113
+  s_17405aaf91a59b::t_c8b6d4b90280f6 41-42
+  s_17405aaf91a59b::t_9e6f5966879052 117-122
+  s_17405aaf91a59b::t_db115420e63f8d 91-92,101,104-105
+  s_17405aaf91a59b::t_b93e54061c0824 1-14,16-20,22-40,43-77,79-90,93-100,102-103,106-112,114-116,123-129
+  s_17405aaf91a59b::t_2b14d16018b274 78
+  s_17405aaf91a59b::t_9587d41506bb2b 15,21
+apps/githubapp/recompute.py
+  s_17405aaf91a59b::t_5244dae24ea242 44
+  s_17405aaf91a59b::t_676c41ccb25dd8 1-43,45-351
+apps/githubapp/vouch.py
+  s_17405aaf91a59b::t_614226a816bd9f 63
+  s_17405aaf91a59b::t_1166d6f0e40d85 1-62,64-84
+apps/githubapp/apps.py
+  s_17405aaf91a59b::t_778c2970549046 5-11,24-35,38-41
+  s_17405aaf91a59b::t_826fdb3e7b502f 36-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "90431431668662fc125302d914c983a6fd3a4242",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

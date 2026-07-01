@@ -1,0 +1,106 @@
+apps/data/awsummit/migrations/0001_initial.py
+  s_45f5777bfb25c4::t_9520cf87b55494 1-177
+apps/data/awsummit/management/commands/import_portal_awsummit.py
+  s_45f5777bfb25c4::t_f58fd4e5895043 1-103
+apps/data/awsummit/tests/test_contracts.py
+  s_45f5777bfb25c4::t_1738a7a6167872 1,4-7,13-20,25-26,28-127,135-141,148-152
+  s_45f5777bfb25c4::t_1de7ad4893818c 2-3,8-12,21-24,27,128-134,142-147,153-154
+apps/bootstrap.py
+  s_45f5777bfb25c4::t_99a4621497f55c 86,92
+apps/data/awsummit/tests/test_models.py
+  s_45f5777bfb25c4::t_df59d4cd666164 124-126,128-130
+  s_45f5777bfb25c4::t_8312265c38cdf4 1-123,127,131-137
+apps/data/awsummit/models.py
+  s_45f5777bfb25c4::t_1de7ad4893818c 36,39-41,51-53,55,57-59,63-69
+  s_45f5777bfb25c4::t_054d081233791c 1-35,37-38,42-50,54,56,60-62,70-165
+apps/data/awsummit/mapping.py
+  s_45f5777bfb25c4::t_2fb9c35fc62bb4 52-54,59
+  s_45f5777bfb25c4::t_1de7ad4893818c 20-25,95-96,123,129-131,135
+  s_45f5777bfb25c4::t_b7aba2c66c4b4c 1-19,26-51,55-58,60-94,97-122,124-128,132-134
+traffic_adapters/adapters/awsummit.py
+  s_45f5777bfb25c4::t_53b9fe8afebb06 1-91,99-114,122,124-127,135-140,148-153,161-168
+  s_45f5777bfb25c4::t_55497de17a00d9 154-160
+  s_45f5777bfb25c4::t_18c353c285fb8c 92-98
+  s_45f5777bfb25c4::t_2e860f6b6ef44f 123
+  s_45f5777bfb25c4::t_1b4b193408d193 115-121
+  s_45f5777bfb25c4::t_58a61a567a1210 128-134
+  s_45f5777bfb25c4::t_9d268239a75511 141-147
+apps/data/awsummit/tests/test_app_registration.py
+  s_45f5777bfb25c4::t_c178f11e4a6c19 1-46
+apps/data/awsummit/tests/test_mapping.py
+  s_45f5777bfb25c4::t_08988119e570ec 1,12
+  s_45f5777bfb25c4::t_57e8db32977ec6 57-61
+  s_45f5777bfb25c4::t_df59d4cd666164 67-74,109-114,122-128
+  s_45f5777bfb25c4::t_04193969f04923 2-11,13-56,62-66,75-108,115-121,129-131
+apps/data/awsummit/tests/test_import_portal_awsummit.py
+  s_45f5777bfb25c4::t_c9ff693fc3a9c6 1-97
+scrapers/event_spiders/awsummit.py
+  s_45f5777bfb25c4::t_01b129cc2ed65b 192-194
+  s_45f5777bfb25c4::t_8d4a2bf51c2063 151,159
+  s_45f5777bfb25c4::t_892a6be94f1dc1 289
+  s_45f5777bfb25c4::t_df59d4cd666164 83,111,197-200,223-225
+  s_45f5777bfb25c4::t_9437da302bc776 317
+  s_45f5777bfb25c4::t_c01db10ea83b91 1-82,84-110,112-150,152-158,160-169,173,185-191,195-196,201-222,226-288,290-316,318-353
+  s_45f5777bfb25c4::t_92b1eb048a642b 170-172,174-184
+scrapers/event_spiders/tests/test_awsummit_spider.py
+  s_45f5777bfb25c4::t_df59d4cd666164 145-147
+  s_45f5777bfb25c4::t_3d7c513496f074 1-55,68-144,148-161
+  s_45f5777bfb25c4::t_984a02be3981df 56-67
+config/settings/base.py
+  s_45f5777bfb25c4::t_9d054a32156d73 95
+apps/data/awsummit/response.py
+  s_45f5777bfb25c4::t_7955035c1e943f 1-22,25-26,29-43,47-66,68-148,150-205,207-214
+  s_45f5777bfb25c4::t_dc6c7685574f01 44-46
+  s_45f5777bfb25c4::t_1de7ad4893818c 23-24,27-28,206
+  s_45f5777bfb25c4::t_ffc10ff74fd42c 67
+  s_45f5777bfb25c4::t_132ebdb724b378 149
+apps/data/awsummit/admin.py
+  s_45f5777bfb25c4::t_ceb7c1bd3d5c7b 1-39
+apps/data/awsummit/apps.py
+  s_45f5777bfb25c4::t_58ef93a7c8d9bc 8
+  s_45f5777bfb25c4::t_1de7ad4893818c 1-7
+apps/data/awsummit/tests/test_admin.py
+  s_45f5777bfb25c4::t_c6a435ab576c4a 1-52
+traffic_adapters/tests/test_awsummit.py
+  s_45f5777bfb25c4::t_806d779ca13f27 1-39,43-62,66-123
+  s_45f5777bfb25c4::t_df59d4cd666164 40-42,63-65
+apps/catalog/handlers/awsummit.py
+  s_45f5777bfb25c4::t_0cf8d4da02a1da 81
+  s_45f5777bfb25c4::t_b1734a9224cea9 1-80,82-216,218-278,282
+  s_45f5777bfb25c4::t_b8ae667700fe18 217,279-281
+apps/catalog/promoters.py
+  s_45f5777bfb25c4::t_b0c01956595513 88
+  s_45f5777bfb25c4::t_f3c4c180004e5c 61-68
+  s_45f5777bfb25c4::t_bf0d87fffde1d6 92-96
+  s_45f5777bfb25c4::t_c67050b18411e0 26-33
+apps/catalog/tests/test_promote_awsummit.py
+  s_45f5777bfb25c4::t_7a20b00c46b689 1-200,204-255,259-285
+  s_45f5777bfb25c4::t_b8ae667700fe18 201-203,256-258
+apps/data/awsummit/tests/test_response.py
+  s_45f5777bfb25c4::t_df59d4cd666164 6,73
+  s_45f5777bfb25c4::t_c181395db5b2a0 1-5,7-72,74-151
+.agents/skills/port-source/references/legacy-map.md
+  s_45f5777bfb25c4::t_1340d6eb3acde6 46-47
+apps/data/awsummit/registrations.py
+  s_45f5777bfb25c4::t_f8e9fc9547e866 1,4-16,20-45,47-57,59-60,62-64
+  s_45f5777bfb25c4::t_1de7ad4893818c 2-3,17-19,46,58,61,65
+apps/data/awsummit/transformers.py
+  s_45f5777bfb25c4::t_6671e00cdd3550 1-14,20-31,38-39,41-46,48-49,51,55,57,60-115
+  s_45f5777bfb25c4::t_1de7ad4893818c 15-19,32-37,40,47,50,52-54,56,58-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e7d5700388e892f46fb728cd7a9d93b3b405518f",
+  "prompts": {},
+  "sessions": {
+    "s_45f5777bfb25c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e0d911c5-ac5d-484b-a673-0f4b0986080b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

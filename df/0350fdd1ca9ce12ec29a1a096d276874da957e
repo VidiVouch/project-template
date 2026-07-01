@@ -1,0 +1,19 @@
+.agents/skills/port-source/references/legacy-map.md
+  s_7c6c92400c7448::t_17a53a72340f6f 43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "df0350fdd1ca9ce12ec29a1a096d276874da957e",
+  "prompts": {},
+  "sessions": {
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

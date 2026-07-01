@@ -1,0 +1,37 @@
+apps/notary/people.py
+  s_3389ba2812099c::t_004da293586420 255,257-289
+  s_3389ba2812099c::t_6a45b9d75af8b1 256
+apps/billing/subscriptions.py
+  s_3389ba2812099c::t_87908467188cea 183-197
+  s_3389ba2812099c::t_ee317adb5b20f6 134-145
+apps/billing/views.py
+  s_3389ba2812099c::t_0f7905bb3f0f25 523-530,532,534
+templates/billing/pricing.html
+  s_3389ba2812099c::t_d2dfbea1126737 160-172
+  s_3389ba2812099c::t_e913b060a64b82 36-45
+apps/billing/tests/test_subscriptions.py
+  s_3389ba2812099c::t_f9e5e67457d9a5 506
+  s_3389ba2812099c::t_d8d1bfdc3ba43f 314-315
+  s_3389ba2812099c::t_fc1df408b35843 185,187-212,214-236
+  s_3389ba2812099c::t_759597267e255f 213
+  s_3389ba2812099c::t_6b3f6fc71a4368 186
+  s_3389ba2812099c::t_d962ab91cbae77 310
+  s_3389ba2812099c::t_e537d2f59af2ba 483-505,507-512
+  s_3389ba2812099c::t_6ce9c3b4ec44aa 309,311-313,316-329
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "0f245c0cfefacfc048b80688a60c62c345b44d96",
+  "prompts": {},
+  "sessions": {
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

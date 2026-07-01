@@ -1,0 +1,40 @@
+.idea/runConfigurations/Tailwind_Build.xml
+  s_0276221d01c0b0::t_a6ba9dcff5ce99 1-17
+config/settings/testing.py
+  s_0276221d01c0b0::t_58f98232d44976 33-35
+.idea/runConfigurations/Django___Tailwind.xml
+  s_0276221d01c0b0::t_6378f4f6f51f0f 1-7
+.vscode/launch.json
+  s_0276221d01c0b0::t_3563b01fdad175 25-43
+config/settings/base.py
+  s_0276221d01c0b0::t_07b39c3f62f42d 106,111
+  s_0276221d01c0b0::t_7e19cb7ba08ae7 92-93
+  s_0276221d01c0b0::t_657de224c75df2 166
+.gitignore
+  s_0276221d01c0b0::t_5f2179dd39b4c5 777-780
+.idea/runConfigurations/Tailwind_Watch.xml
+  s_0276221d01c0b0::t_ccb90c8d5966a0 1-17
+assets/css/source.css
+  s_0276221d01c0b0::t_2b371e82a6db1f 1
+pyproject.toml
+  s_0276221d01c0b0::t_7434056216a0b8 18,20
+  s_0276221d01c0b0::t_e78879ab020276 19
+config/settings/__init__.py
+  s_0276221d01c0b0::t_0ac5bd4d5b66a6 2-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "76ba7c355becdcab4c6240e4dfa803d180da00e2",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

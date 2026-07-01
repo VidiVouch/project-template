@@ -1,0 +1,75 @@
+apps/data/swapcard/response.py
+  s_5b002650df0863::t_4d5176a15e0dfd 1-305
+apps/data/swapcard/apps.py
+  s_5b002650df0863::t_ec76fbc7c52a53 1-8
+apps/data/swapcard/mapping.py
+  s_5b002650df0863::t_8641becad4ab39 1-3,8-10,33,36,38
+  s_5b002650df0863::t_64a7b1640b49f9 13-14,24,27,32,34-35,37,39
+apps/data/swapcard/models.py
+  s_5b002650df0863::t_1dbf172aa85320 1-117
+apps/data/swapcard/tests/test_app_registration.py
+  s_5b002650df0863::t_23657f4361809b 1-27
+apps/data/swapcard/tests/test_admin.py
+  s_5b002650df0863::t_9b5e25457bdc48 1-32
+apps/bootstrap.py
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+  s_5b002650df0863::t_e245d029f0edc3 52-53,114-115,117-118,125-126,130-133
+  s_5b002650df0863::t_95bbf6ddcd5ec1 112-113,136-137,139-141,143-144,146-147
+  s_5b002650df0863::t_08566a2df15b56 150-157,159-161,163-164,116,123,128,134-135,56,60,68,72,75-76,138,142,145,148-149
+  s_5b002650df0863::t_d59d051562f4ac 50
+  s_5b002650df0863::t_0b0d577d37bdf3 49,54-55,57-59,61-67,69-71,73-74
+  s_5b002650df0863::t_d2994d49d50947 119,121-122,124
+  s_5b002650df0863::t_b82f85f3ae94eb 120,127,129
+  s_5b002650df0863::t_aad84bce2383cc 90
+  s_5b002650df0863::t_d7551d070bf5c6 45,51
+  s_5b002650df0863::t_ddca3c96e7ae2c 86,158
+  s_5b002650df0863::t_42dd5ac172a677 91
+apps/data/swapcard/admin.py
+  s_5b002650df0863::t_58588fa5354b3e 1-35
+apps/data/swapcard/migrations/0001_initial.py
+  s_5b002650df0863::t_381e8d1024935a 1-117
+apps/data/swapcard/registrations.py
+  s_5b002650df0863::t_cf32abe65b31c2 1-3,13,15-38,40
+apps/data/swapcard/tests/test_contracts.py
+  s_5b002650df0863::t_033f9b13036f2a 1-12,15-20,22-24,26-43,45-47,49-84,91-107
+  s_5b002650df0863::t_eae26f8ff66cd0 21,44,87-90
+apps/data/swapcard/tests/test_response.py
+  s_5b002650df0863::t_96ebf5308260a3 1-105
+  s_5b002650df0863::t_2e83a9bc15bf8a 106-176
+apps/data/swapcard/transformers.py
+  s_5b002650df0863::t_e050897d7f32e2 1-129
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 426-428,16,91,168-170,346-351,354-356,358,361-371,374-377,380-388
+  s_5b002650df0863::t_90400a7abda1ff 105,543-546,492,494,505,352-353,357,359-360,372-373,378-379,389-390,412,417
+  s_5b002650df0863::t_5804aba2648a0d 547-550
+  s_5b002650df0863::t_7dc34e1fe62abe 104
+  s_5b002650df0863::t_b82f85f3ae94eb 109,164-166
+  s_5b002650df0863::t_aad84bce2383cc 101
+  s_5b002650df0863::t_3414e7b0b4527a 90
+  s_5b002650df0863::t_ff619b430102c0 485-491,493,495-504
+  s_5b002650df0863::t_ec27907ff5a786 108
+  s_5b002650df0863::t_4b47bc34478b19 514-521,524-527,530-532,537-540
+  s_5b002650df0863::t_7b601b147a8e02 92,340-341,395-399
+  s_5b002650df0863::t_3b609469ed5037 413,416
+  s_5b002650df0863::t_5730fdc83b6853 107
+  s_5b002650df0863::t_e1deb24cd0711a 103
+  s_5b002650df0863::t_e74251149466fa 96
+  s_5b002650df0863::t_a58725b59d4b17 102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "9cf6796e50a6fa87786601b581918e8eb3f16490",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

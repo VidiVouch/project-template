@@ -1,0 +1,33 @@
+REVIEW.md
+  s_5b002650df0863::t_ad89cb04c88f42 56-58
+apps/billing/tests/test_views.py
+  s_5b002650df0863::t_ad89cb04c88f42 8,162-168,174,176-191
+apps/billing/tests/test_invoicing.py
+  s_5b002650df0863::t_ad89cb04c88f42 8,110,113-116,133-140,142,145,147-199
+render.yaml
+  s_5b002650df0863::t_ad89cb04c88f42 41-43,45-50,132-134,186-188
+apps/billing/invoicing.py
+  s_5b002650df0863::t_ad89cb04c88f42 9-18,30,42-43,95-96,104-112,118-120,125-127,134-136,143-146,152-153,157-181,183
+apps/billing/views.py
+  s_5b002650df0863::t_ad89cb04c88f42 29,118,144-149,160-167,171-172
+config/settings/base.py
+  s_5b002650df0863::t_ad89cb04c88f42 388-390,396-400
+config/settings/production.py
+  s_5b002650df0863::t_ad89cb04c88f42 69-78,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "10796096a87626aba05f391daa5a74847b310f5c",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

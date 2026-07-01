@@ -1,0 +1,35 @@
+apps/data/resultsdirect/mapping.py
+  s_3748ef8a5eb7ff::t_a903f6a4a3b586 155,163
+  s_3748ef8a5eb7ff::t_65d67f29352a62 116,118
+  s_3748ef8a5eb7ff::t_b2784eebc83a79 27-49
+  s_3748ef8a5eb7ff::t_c8318f7e25acc3 133,140
+  s_3748ef8a5eb7ff::t_29cac3480016b2 185,192
+  s_3748ef8a5eb7ff::t_00215eaf756fdc 214,220
+apps/data/resultsdirect/tests/test_mapping.py
+  s_3748ef8a5eb7ff::t_83ef076cfe360a 1
+  s_3748ef8a5eb7ff::t_2daa4cde7ac1f5 20-43
+apps/catalog/handlers/resultsdirect.py
+  s_3748ef8a5eb7ff::t_692b366d52dc77 143
+  s_3748ef8a5eb7ff::t_256dc107e5aa5c 138
+  s_3748ef8a5eb7ff::t_d6048d4cee2ee7 196
+  s_3748ef8a5eb7ff::t_a176e17b7ea55d 201
+  s_3748ef8a5eb7ff::t_d4e12a902a37ab 206
+apps/catalog/tests/test_promote_resultsdirect.py
+  s_3748ef8a5eb7ff::t_cbb011a565869f 240-254
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "453bde1fc9903cb92404d3aece47d000462fb90d",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

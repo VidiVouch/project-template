@@ -1,0 +1,47 @@
+apps/data/expoplatform/tests/test_sessions.py
+  s_ffd92932362e87::t_34aa047b513169 11,13,27
+apps/data/expoplatform/tests/test_response.py
+  s_ffd92932362e87::t_34aa047b513169 4
+apps/catalog/tests/test_promote_expoplatform.py
+  s_ffd92932362e87::t_34aa047b513169 38-39,42-44,65,69,73,105,207,229
+apps/data/expoplatform/migrations/0002_alter_expoattendeedetailjsondata_version_and_more.py
+  s_ffd92932362e87::t_4d0ff0510ca5f1 1-43
+apps/data/expoplatform/tests/test_app_registration.py
+  s_ffd92932362e87::t_34aa047b513169 14
+apps/data/expoplatform/tests/test_import_portal_expoplatform.py
+  s_ffd92932362e87::t_34aa047b513169 19
+scrapers/event_spiders/expoplatform.py
+  s_ffd92932362e87::t_34aa047b513169 20,30
+envelopes/expoplatform/versions.py
+  s_ffd92932362e87::t_00c296c8f4a25c 1-60
+traffic_adapters/adapters/expoplatform.py
+  s_ffd92932362e87::t_34aa047b513169 10,25
+apps/data/expoplatform/management/commands/import_portal_expoplatform.py
+  s_ffd92932362e87::t_34aa047b513169 39
+apps/data/expoplatform/tests/test_contracts.py
+  s_ffd92932362e87::t_34aa047b513169 17
+apps/data/expoplatform/transformers.py
+  s_ffd92932362e87::t_34aa047b513169 15,31-40,49-60,65-66,70-73,79,90,98-99,107-108,116-117,125-126,134-135,143-144,152-153,161-162
+apps/data/expoplatform/models.py
+  s_ffd92932362e87::t_34aa047b513169 40-47,54,66,79,90,103,116
+apps/data/expoplatform/sessions.py
+  s_ffd92932362e87::t_34aa047b513169 29
+apps/data/capture/management/commands/import_portal_logins.py
+  s_ffd92932362e87::t_34aa047b513169 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "5e6d032279aa0aee9aa279c40bb488e26adb9d9e",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

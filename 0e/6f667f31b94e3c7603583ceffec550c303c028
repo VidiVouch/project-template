@@ -1,0 +1,110 @@
+apps/data/core_apps/response.py
+  s_7395c3cd5c6dd2::t_a62baac1393791 1-143
+apps/catalog/promoters.py
+  s_7395c3cd5c6dd2::t_a96ff6df170181 70-76
+  s_7395c3cd5c6dd2::t_e685bb97610f46 42-48
+  s_7395c3cd5c6dd2::t_b47f72e4699115 97-100
+  s_7395c3cd5c6dd2::t_3302cd1ad67377 87
+apps/catalog/handlers/core_apps.py
+  s_7395c3cd5c6dd2::t_d88c4d0137ff34 93
+  s_7395c3cd5c6dd2::t_b8fd9b0c285b17 261
+  s_7395c3cd5c6dd2::t_d49bab66d4358d 1-17,28-48,55-92,94-260,262-265,267
+  s_7395c3cd5c6dd2::t_e5e2020b3b32fa 266
+  s_7395c3cd5c6dd2::t_729d3320fb55ba 49-54
+  s_7395c3cd5c6dd2::t_dd2cbfdfa9d0b4 18-27
+apps/data/core_apps/transformers.py
+  s_7395c3cd5c6dd2::t_583c5a1eea6927 1-111
+apps/data/core_apps/tests/test_transformers.py
+  s_7395c3cd5c6dd2::t_167031df891fe1 1-107
+apps/data/core_apps/tests/test_import_portal_core_apps.py
+  s_7395c3cd5c6dd2::t_a5f391000673c1 1-93
+apps/data/core_apps/models.py
+  s_7395c3cd5c6dd2::t_126b228a3d9265 93
+  s_7395c3cd5c6dd2::t_bf7f5f59937bef 1-92,94-141
+apps/data/core_apps/management/commands/import_portal_core_apps.py
+  s_7395c3cd5c6dd2::t_8ae676880bd3a3 1-99
+apps/data/core_apps/tests/test_contracts.py
+  s_7395c3cd5c6dd2::t_9d209c0365eac1 57,64,66
+  s_7395c3cd5c6dd2::t_4d399bb3c7859d 1-56,58-63,65,67-93
+apps/data/core_apps/tests/test_app_registration.py
+  s_7395c3cd5c6dd2::t_270c838eb24ea2 1-12,14-47
+  s_7395c3cd5c6dd2::t_da9620198146dd 13
+  s_7395c3cd5c6dd2::t_246fd7bdb221e5 48-52
+scrapers/event_spiders/tests/test_core_apps_spider.py
+  s_7395c3cd5c6dd2::t_b057eac6f3a530 108-119
+  s_7395c3cd5c6dd2::t_729d3320fb55ba 36,131-133,147-149,167-171
+  s_7395c3cd5c6dd2::t_5fdf7eea45c6f8 17
+  s_7395c3cd5c6dd2::t_6e1b16a0d2e9e4 1-16,18-35,37-107,120-130,134-146,150-152,163-166,172-180
+  s_7395c3cd5c6dd2::t_67340fa69c8d8d 153-162
+  s_7395c3cd5c6dd2::t_d061a711612f8d 181-193
+apps/data/core_apps/migrations/0001_initial.py
+  s_7395c3cd5c6dd2::t_cf1f71c8ddafd0 1-157
+apps/catalog/tests/test_promoter_registry.py
+  s_7395c3cd5c6dd2::t_e205df985a99fa 30-36
+  s_7395c3cd5c6dd2::t_7f4d06f086f29d 228-230,232
+  s_7395c3cd5c6dd2::t_abb657dcddb27d 231
+  s_7395c3cd5c6dd2::t_924fb0f920fbe0 66-72
+apps/data/core_apps/apps.py
+  s_7395c3cd5c6dd2::t_253352c77a6f2a 1-8
+apps/data/core_apps/tests/test_response.py
+  s_7395c3cd5c6dd2::t_a0461c22d840fa 1-61
+apps/data/core_apps/tests/test_models.py
+  s_7395c3cd5c6dd2::t_6b73f3180f7209 1-75,82-109
+  s_7395c3cd5c6dd2::t_729d3320fb55ba 76-81
+apps/data/core_apps/tests/test_mapping.py
+  s_7395c3cd5c6dd2::t_a2a94334463d0e 129-136
+  s_7395c3cd5c6dd2::t_e1b367cad2567f 1-105,107-112,114-128
+  s_7395c3cd5c6dd2::t_b57f20c069e3ca 106,113
+scrapers/event_spiders/core_apps.py
+  s_7395c3cd5c6dd2::t_9c709577ad1bf0 164
+  s_7395c3cd5c6dd2::t_7f10fccd25d69a 68
+  s_7395c3cd5c6dd2::t_0c5b4778f4e676 130
+  s_7395c3cd5c6dd2::t_9e616129b40345 37,45-49,53-54
+  s_7395c3cd5c6dd2::t_711774b1f92a43 173
+  s_7395c3cd5c6dd2::t_d0b8c6142ab296 179-185,189,195-197,201
+  s_7395c3cd5c6dd2::t_eedc0131fbf582 224-226,243
+  s_7395c3cd5c6dd2::t_bc5a3d6dc02ac6 118
+  s_7395c3cd5c6dd2::t_46923872502f41 5
+  s_7395c3cd5c6dd2::t_fc568c46b43121 157
+  s_7395c3cd5c6dd2::t_b7897bfbe142d1 1-4,6-36,38-44,50-52,55-67,69-117,119-129,131-136,139-140,148-156,158-163,165-172,174-178,186-188,190-194,198-200,202-212,214-223,227-241,244-248
+  s_7395c3cd5c6dd2::t_550afa3161759f 137-138,141-147
+  s_7395c3cd5c6dd2::t_0b0e6ba514bb07 213
+  s_7395c3cd5c6dd2::t_51a1491841485f 242
+apps/catalog/tests/test_promote_core_apps.py
+  s_7395c3cd5c6dd2::t_29aa9e16fdfa49 237-255
+  s_7395c3cd5c6dd2::t_01e6b6f1dd08da 1-6,8-142,145-150,152-157,161,166-195,200-227,230-236,256-280
+  s_7395c3cd5c6dd2::t_5e0eb81a79a548 7
+  s_7395c3cd5c6dd2::t_729d3320fb55ba 196-199
+  s_7395c3cd5c6dd2::t_eab8c96001610b 151,158-160,162-165
+  s_7395c3cd5c6dd2::t_b86fdd25a6925d 143-144
+  s_7395c3cd5c6dd2::t_3fcb1eb81b9b93 228-229
+REVIEW.md
+  s_7395c3cd5c6dd2::t_63cba2d3abfa28 65-67
+config/settings/base.py
+  s_7395c3cd5c6dd2::t_5b573108278b86 98
+apps/data/core_apps/registrations.py
+  s_7395c3cd5c6dd2::t_61ec8fa0834e06 1-65
+apps/data/core_apps/admin.py
+  s_7395c3cd5c6dd2::t_e47471221948f5 1-37
+apps/bootstrap.py
+  s_7395c3cd5c6dd2::t_6efb2f726d3204 88,92
+apps/data/core_apps/mapping.py
+  s_7395c3cd5c6dd2::t_50d5fc6ae891af 139-146,151
+  s_7395c3cd5c6dd2::t_3387f0d991d75e 1-138,147-150,152-156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "0e6f667f31b94e3c7603583ceffec550c303c028",
+  "prompts": {},
+  "sessions": {
+    "s_7395c3cd5c6dd2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca0cb656-81b1-4048-9727-5c735b27d76e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

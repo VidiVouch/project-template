@@ -1,0 +1,38 @@
+apps/data/brella/apps.py
+  s_0276221d01c0b0::t_5e7202b170e54b 1-8
+apps/data/brella/admin.py
+  s_0276221d01c0b0::t_5e7202b170e54b 1-93
+apps/data/brella/registrations.py
+  s_0276221d01c0b0::t_5e7202b170e54b 1-124
+apps/data/brella/models.py
+  s_0276221d01c0b0::t_5e7202b170e54b 1-461
+config/settings/base.py
+  s_0276221d01c0b0::t_4faa97777fe962 120
+apps/data/brella/mapping.py
+  s_0276221d01c0b0::t_5e7202b170e54b 1-218
+apps/data/brella/sessions.py
+  s_0276221d01c0b0::t_5e7202b170e54b 1-81
+apps/bootstrap.py
+  s_0276221d01c0b0::t_b61fb4e82f45e4 138-140,151-156
+  s_0276221d01c0b0::t_ae006a23332f81 111,114
+apps/data/brella/transformers.py
+  s_0276221d01c0b0::t_5e7202b170e54b 1-379
+apps/data/brella/migrations/0001_initial.py
+  s_0276221d01c0b0::t_0e2e22f1e7a688 1-708
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d90b1c413bd35a6a6a005500ae37c9070794a34f",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+fog_css_prototype.html
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-82
+ENRICHMENT_DISAMBIGUATION_PORT_PLAN.html
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-3030
+REMIGRATE_LEDGER.md
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-175
+apps/catalog/tests/test_merge_linkedin_renames.py
+  s_0276221d01c0b0::t_7ca8b92cc86adc 63-68,70-96
+REMIGRATE_MANIFEST.txt
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-1403
+REBUILD_PLAN_v4.md
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-154
+REMIGRATE_LEGACY_MAP.md
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-43
+apps/catalog/management/commands/merge_linkedin_renames.py
+  s_0276221d01c0b0::t_1a3fb1ea5058d4 58-60,65-66,68,76-121
+  s_0276221d01c0b0::t_7607cdd26f4bd1 7,12-27,36,56,62
+field_grid_experiment.html
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-199
+jsondata_ingest_report.html
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-30
+REMIGRATE_FIX_PLAN.md
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-204
+fog_cells_prototype.html
+  s_0276221d01c0b0::t_6b3316b4d6072c 1-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d1a49a520b711e0b91f9cadbe4bffbf49cecc7fb",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

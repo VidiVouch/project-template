@@ -1,0 +1,63 @@
+config/urls.py
+  s_5b002650df0863::t_bc1ff741571a12 36-37
+  s_5b002650df0863::t_999c8d9c8fa085 38-41
+  s_5b002650df0863::t_bda14d0d5bfd82 26-27
+  s_5b002650df0863::t_4a5781627c9269 42-43
+  s_5b002650df0863::t_cfeac854f91e4b 7-8,15-18
+apps/identity/apps.py
+  s_5b002650df0863::t_ec7eb2349edba5 20
+  s_5b002650df0863::t_bbb3465cf3c0e4 21
+templates/identity/access_request_form.html
+  s_5b002650df0863::t_ecf4d6b4279443 1-22
+apps/identity/tests/test_tasks.py
+  s_5b002650df0863::t_53842051440ca1 1-35
+apps/identity/tasks.py
+  s_5b002650df0863::t_53842051440ca1 1-43
+apps/identity/tests/factories.py
+  s_5b002650df0863::t_101cdb21654b9f 20
+  s_5b002650df0863::t_fb944c8e0d8676 170-186
+apps/identity/migrations/0005_accessrequest.py
+  s_5b002650df0863::t_af752825af81e2 1-36
+apps/identity/events.py
+  s_5b002650df0863::t_841e48953dff1f 38-42,50
+apps/identity/forms.py
+  s_5b002650df0863::t_29ac6943923a18 9
+  s_5b002650df0863::t_9efece58004ddf 224-256
+apps/identity/tests/test_access_request.py
+  s_5b002650df0863::t_076789aa7fc6ca 1-2,5-82,101
+  s_5b002650df0863::t_53842051440ca1 3-4,83-100
+templates/identity/access_request_thanks.html
+  s_5b002650df0863::t_ec388a74f9ec2c 1-14
+apps/identity/models.py
+  s_5b002650df0863::t_21b5b7fe412997 583-666
+apps/identity/receivers.py
+  s_5b002650df0863::t_cddaad4fdf7c60 1-5,13-22,24-34,37-39,41-44,48-58
+  s_5b002650df0863::t_53842051440ca1 6-12,23,40,45-47,59
+  s_5b002650df0863::t_884788205a4961 35-36
+apps/identity/views.py
+  s_5b002650df0863::t_c29139eeaf4012 12,15,17,19,21
+  s_5b002650df0863::t_c2e532a54784a1 302-353
+apps/identity/tests/test_access_request_admin.py
+  s_5b002650df0863::t_8d7f880b95ec47 1-9,11,13-18,24-93
+  s_5b002650df0863::t_53842051440ca1 10,12,19-23,94-122,148-158
+apps/identity/admin.py
+  s_5b002650df0863::t_36cfa6a9c3ad85 12,19,21,23
+  s_5b002650df0863::t_b67b98782e4b65 537-607,609-680
+  s_5b002650df0863::t_a235f716c318e8 608
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e20ed575ce82cddf46f0cae32e6a4d2d5197b60c",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

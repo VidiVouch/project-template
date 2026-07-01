@@ -1,0 +1,23 @@
+AGENTS.md
+  s_0276221d01c0b0::t_a5fbe5f9cd5f4a 58-68
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_0276221d01c0b0::t_a5fbe5f9cd5f4a 1-370
+SAAS_PLANNING_INTERVIEW.md
+  s_0276221d01c0b0::t_a5fbe5f9cd5f4a 1-551
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "1c185222c04a168b2babab9a73243a9950f1bfe0",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

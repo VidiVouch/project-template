@@ -1,0 +1,28 @@
+apps/githubapp/tests/test_identity.py
+  s_17405aaf91a59b::t_42dc032230c4ee 1-191
+apps/githubapp/vouch.py
+  s_17405aaf91a59b::t_b88f291372a084 44
+  s_17405aaf91a59b::t_199aff7f9dbf2c 124,130-153,157-169
+  s_17405aaf91a59b::t_a05865d3dd6927 154-156
+apps/githubapp/identity.py
+  s_17405aaf91a59b::t_abc6bb45bdebe7 303
+  s_17405aaf91a59b::t_33753e2d5306ea 1-302,304-343
+apps/githubapp/tests/test_vouch.py
+  s_17405aaf91a59b::t_0db4eeb4a1351e 215-278
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "a06dc384f430d199e537850699a892089077542c",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

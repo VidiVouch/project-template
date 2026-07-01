@@ -1,0 +1,23 @@
+apps/catalog/tests/test_supervisor.py
+  s_0276221d01c0b0::t_f62c7cc84b36dc 96-135
+apps/catalog/management/_supervisor.py
+  s_0276221d01c0b0::t_f420e039dfa6bf 56,109
+  s_0276221d01c0b0::t_ac2bbcd529c27b 33-38
+  s_0276221d01c0b0::t_d18cf74a9b8c9c 45-55,57-90,132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "63fa65c7951a0ca62e8abf91f3e83a931708c3d6",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

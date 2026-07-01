@@ -1,0 +1,46 @@
+templates/mfa/index.html
+  s_062b4d28690cee::t_97aa7efd9c0998 1-8,10-27,30-48,51-80
+  s_062b4d28690cee::t_5a7d4e365ab0f0 28
+  s_062b4d28690cee::t_25013f3414de50 49
+templates/mfa/recovery_codes/index.html
+  s_062b4d28690cee::t_a956791e711087 41-44
+assets/js/email-actions.js
+  s_062b4d28690cee::t_fa54c84f0f3a14 1,6-10,13-16,19,21-27
+  s_062b4d28690cee::t_d7598003d2990b 2-5,11-12,17-18,20
+templates/account/email.html
+  s_062b4d28690cee::t_e736f6eb9b33e7 26-28
+  s_062b4d28690cee::t_0acbd0d3813984 41
+  s_062b4d28690cee::t_16897025e79bc8 72
+  s_062b4d28690cee::t_d01b5616417a04 13
+  s_062b4d28690cee::t_5e8c5f662a6f02 43,45,51-56
+apps/identity/templatetags/gz_forms.py
+  s_062b4d28690cee::t_eb2d66058ab983 17-18,22,29-36
+  s_062b4d28690cee::t_3d4219c4abe746 37-38
+assets/css/source.css
+  s_062b4d28690cee::t_17f4b1b9782331 1471
+  s_062b4d28690cee::t_615c22022f42e3 1472
+  s_062b4d28690cee::t_639c52d59a21ec 1483-1487
+  s_062b4d28690cee::t_91d25becce2b00 1494,1496,1591
+  s_062b4d28690cee::t_23492d273e762c 1503,1505-1508,1502,1504,1510-1512
+  s_062b4d28690cee::t_1ece03125ac59b 1509,1522,1514-1515,1517-1519
+  s_062b4d28690cee::t_d34ed472d88cfc 1566-1573,1516,1520,1574,1576-1589,1594-1595
+  s_062b4d28690cee::t_38f4efd2575d99 1607-1610,1613,1624,1513,1521,1575
+  s_062b4d28690cee::t_863259eed10c61 1116-1123,1139-1140
+  s_062b4d28690cee::t_0ca84801fd8262 1209-1220,1230-1236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f66855f4775d09db63ba5e003c96212f5fbaf6ff",
+  "prompts": {},
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

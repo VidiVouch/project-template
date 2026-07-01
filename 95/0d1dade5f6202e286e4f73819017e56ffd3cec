@@ -1,0 +1,25 @@
+render.yaml
+  s_5b002650df0863::t_a58bac83bcebb5 19-23
+  s_5b002650df0863::t_60d3c34a3ab755 81-89
+  s_5b002650df0863::t_23dd68c77cf49c 137-148
+config/log.py
+  s_5b002650df0863::t_491a56b134070b 6-8,12-13
+  s_5b002650df0863::t_17ca88883cdb7a 47-65
+  s_5b002650df0863::t_a00896883a0859 98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "950d1dade5f6202e286e4f73819017e56ffd3cec",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

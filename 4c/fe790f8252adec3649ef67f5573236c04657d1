@@ -1,0 +1,21 @@
+traffic_adapters/rules.py
+  s_5b002650df0863::t_5361a3bd952b8e 383-386,388-390
+traffic_adapters/tests/test_rules.py
+  s_5b002650df0863::t_6068f99426f738 400-405
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "4cfe790f8252adec3649ef67f5573236c04657d1",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+apps/data/spe_international/tests/test_contracts.py
+  s_ffd92932362e87::t_9822eae32405a6 19
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_ef8991e413db98 273-277
+  s_ffd92932362e87::t_7497ae11a0e396 49-55
+  s_ffd92932362e87::t_e77b83dcbb8f64 95-101
+config/settings/base.py
+  s_ffd92932362e87::t_eb61dfd6780463 114
+apps/data/spe_international/tests/test_app_registration.py
+  s_ffd92932362e87::t_a7b54a22cd23ab 19
+apps/catalog/tests/test_promote_spe_international.py
+  s_ffd92932362e87::t_01eb13145c3522 41
+  s_ffd92932362e87::t_0d24aa6bb3b67e 107
+  s_ffd92932362e87::t_367e99e2e43263 287
+apps/bootstrap.py
+  s_ffd92932362e87::t_6722801ed3a2bb 94,98-110
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_c5a1e996b6f5e2 122
+  s_ffd92932362e87::t_bc45620a765f97 99-105
+  s_ffd92932362e87::t_86531158a73bd5 61-67
+  s_ffd92932362e87::t_2f1434ef77a31a 142-145
+scrapers/event_spiders/spe_international.py
+  s_ffd92932362e87::t_af33fb158e2325 6
+  s_ffd92932362e87::t_4fd690cf87f6b8 31
+apps/data/spe_international/transformers.py
+  s_ffd92932362e87::t_bb32678eb40058 27-28
+  s_ffd92932362e87::t_fd127a17acee2c 45
+  s_ffd92932362e87::t_e8c514a17360ec 13
+apps/data/spe_international/tests/test_response.py
+  s_ffd92932362e87::t_2d4297335fa586 12
+apps/data/spe_international/models.py
+  s_ffd92932362e87::t_ae7644b1b78e83 57-90
+  s_ffd92932362e87::t_d5ad8505c726ac 5
+  s_ffd92932362e87::t_ed9eadae5b9d73 26-46
+envelopes/spe_international/versions.py
+  s_ffd92932362e87::t_cdee3a583eeab3 1
+  s_ffd92932362e87::t_de8ec872af2bda 2-22
+apps/catalog/handlers/spe_international.py
+  s_ffd92932362e87::t_66c4db4002470c 135
+  s_ffd92932362e87::t_74a1c6d4bf9f1c 195
+  s_ffd92932362e87::t_afa401786d1d8f 89
+  s_ffd92932362e87::t_3efd75459d7ba8 254
+  s_ffd92932362e87::t_64cbd67d5378e1 90-134,136-194,196-253
+scrapers/event_spiders/tests/test_spe_international_spider.py
+  s_ffd92932362e87::t_4dbdb587458683 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "79f6016e8ad547972a86dba2c6d071f0f8426240",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

@@ -1,0 +1,21 @@
+apps/identity/tests/factories.py
+  s_0276221d01c0b0::t_2c89e047a50e76 1-56
+apps/identity/tests/test_tenant.py
+  s_0276221d01c0b0::t_2c89e047a50e76 1-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "25f46e72b94e0067723318317e826e808e3220a5",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

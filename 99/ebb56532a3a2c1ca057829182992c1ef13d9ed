@@ -1,0 +1,37 @@
+apps/identity/tests/test_redemption.py
+  s_33f9c21df35ec6::t_b936054c0bee2b 22
+  s_33f9c21df35ec6::t_5e7b3b5895a348 283,404,535,575
+apps/identity/tests/test_gz_forms.py
+  s_33f9c21df35ec6::t_290e5ac3a12966 16
+  s_33f9c21df35ec6::t_5e7b3b5895a348 6,15,21
+apps/identity/tests/test_views.py
+  s_33f9c21df35ec6::t_b936054c0bee2b 17
+  s_33f9c21df35ec6::t_5e7b3b5895a348 142
+apps/identity/tests/test_mfa_passkey.py
+  s_33f9c21df35ec6::t_b936054c0bee2b 25
+  s_33f9c21df35ec6::t_5e7b3b5895a348 39
+apps/identity/tests/test_invite_issue.py
+  s_33f9c21df35ec6::t_b936054c0bee2b 25-31
+  s_33f9c21df35ec6::t_5e7b3b5895a348 361
+apps/identity/tests/test_events.py
+  s_33f9c21df35ec6::t_5e7b3b5895a348 34,188
+apps/identity/tests/test_adapters.py
+  s_33f9c21df35ec6::t_b936054c0bee2b 23-29
+  s_33f9c21df35ec6::t_5e7b3b5895a348 261,276,309,325,396,400-401,417,423
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "99ebb56532a3a2c1ca057829182992c1ef13d9ed",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

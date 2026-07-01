@@ -1,0 +1,47 @@
+apps/catalog/tests/test_descriptions.py
+  s_0276221d01c0b0::t_272ce56840681d 1-119
+apps/catalog/tests/test_organizations.py
+  s_0276221d01c0b0::t_272ce56840681d 1-350
+apps/catalog/cleaning/countries.py
+  s_0276221d01c0b0::t_272ce56840681d 1-271
+apps/catalog/tests/test_title_cleaning.py
+  s_0276221d01c0b0::t_272ce56840681d 1-153
+apps/catalog/cleaning/__init__.py
+  s_0276221d01c0b0::t_272ce56840681d 1-52
+apps/catalog/cleaning/person_names.py
+  s_0276221d01c0b0::t_272ce56840681d 1-681
+apps/catalog/cleaning/descriptions.py
+  s_0276221d01c0b0::t_272ce56840681d 1-118
+pyproject.toml
+  s_0276221d01c0b0::t_c73097f14cc4bf 35,38
+apps/catalog/cleaning/organizations.py
+  s_0276221d01c0b0::t_272ce56840681d 1-601
+apps/catalog/tests/test_person_name_cleaning.py
+  s_0276221d01c0b0::t_272ce56840681d 1-283
+apps/catalog/cleaning/text.py
+  s_0276221d01c0b0::t_272ce56840681d 1-22
+apps/catalog/cleaning/locations.py
+  s_0276221d01c0b0::t_272ce56840681d 1-88
+apps/catalog/cleaning/titles.py
+  s_0276221d01c0b0::t_272ce56840681d 1-300
+apps/catalog/tests/test_locations.py
+  s_0276221d01c0b0::t_272ce56840681d 1-78
+apps/catalog/tests/test_countries.py
+  s_0276221d01c0b0::t_272ce56840681d 1-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "39922641c561d1f3bcb0a02aa6eb160ce9269ba5",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

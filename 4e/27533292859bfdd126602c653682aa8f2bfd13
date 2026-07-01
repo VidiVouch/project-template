@@ -1,0 +1,217 @@
+templates/sales/event_detail.html
+  s_5b002650df0863::t_c7b7e54f35ce87 1-3,5-66,70-89
+  s_3aab6f0d381ac9::t_723d3de6aee249 4
+apps/domains/tests/test_registry.py
+  s_5b002650df0863::t_f7eececb5e17c9 1-56,58-148,150-167
+  s_3aab6f0d381ac9::t_723d3de6aee249 57,149
+apps/domains/tests/test_services.py
+  s_5b002650df0863::t_f7eececb5e17c9 1-77,79-103,105-261,271-343
+  s_5b002650df0863::t_33920c8654dcbb 262-270
+  s_3aab6f0d381ac9::t_723d3de6aee249 78,104
+tests/architecture/test_transformers_never_clean.py
+  s_3aab6f0d381ac9::t_723d3de6aee249 44
+NEXT_BUILD_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-221,224-272,274-340
+  s_3aab6f0d381ac9::t_723d3de6aee249 222-223,273
+apps/sales/tests/test_dashboard.py
+  s_5b002650df0863::t_1c0307b1343162 2-3,5,9-11,13-19,23-41,50-59,62-69,72,74,77-147,22,49,61,71,76,178-181,183,186,192-196,198-199,12,155,157-158,160,206-213
+  s_5b002650df0863::t_aed6d967128ef1 20,42,60,70,75,1,6-8,43-44,46-48,21
+  s_5b002650df0863::t_f8b7088f355165 73
+  s_5b002650df0863::t_718ef9d8145ae9 170,230,45,173,182,188,197,200-202,204,215,218,221-222,233,236,162,169,205
+  s_5b002650df0863::t_73d79d7ba1cf4a 171-172,174-177,184-185,187,189-191,148-152,154,156,159,161,163-168
+  s_5b002650df0863::t_a7a6b3ca6b798b 203,217,232,153
+  s_3aab6f0d381ac9::t_723d3de6aee249 4
+tests/architecture/test_rls_via_operation.py
+  s_5b002650df0863::t_4f152f3f97db34 1-6,8-12,22-23,26-27,29-35,37,41,47-54,58
+  s_5b002650df0863::t_2e630a9e5f3913 7,13-21,24-25,28,36,38-40,42-46,55-57,59-68,70
+  s_3aab6f0d381ac9::t_723d3de6aee249 72
+POST_GRIP_REBUILD_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-220,222-345,347-357,359-545,547-591
+  s_3aab6f0d381ac9::t_723d3de6aee249 221,346,358,546
+REVIEW.md
+  s_5b002650df0863::t_17dfcd19c25803 43-44
+  s_5b002650df0863::t_91f22074c68087 45-46
+  s_5b002650df0863::t_c23f63e9b9b6fc 47-49
+  s_5b002650df0863::t_b9a1e4057de8ab 50
+  s_5b002650df0863::t_0b0d577d37bdf3 51-52
+  s_5b002650df0863::t_266517fd60e1d8 53-55
+  s_5b002650df0863::t_ad89cb04c88f42 56-58
+  s_5b002650df0863::t_a747cd48734719 59
+  s_5b002650df0863::t_6620dffca3b609 60
+  s_5b002650df0863::t_1030051e82351a 65-66,68
+  s_5b002650df0863::t_31882563cbaba7 67
+  s_5b002650df0863::t_f81a52a9978dca 69-70
+  s_a260275017114d::t_23357d4323a817 33
+  s_a260275017114d::t_ce596d0741c4eb 41
+  s_3aab6f0d381ac9::t_f2a4532980c39b 71-72
+  s_3aab6f0d381ac9::t_723d3de6aee249 77
+apps/catalog/tests/test_emails.py
+  s_5b002650df0863::t_06db70d86c2b01 82-83,85-86
+  s_5b002650df0863::t_39192360623f5e 99
+  s_3aab6f0d381ac9::t_723d3de6aee249 84
+apps/sales/entitlements.py
+  s_5b002650df0863::t_8ad768287e8908 1-2,4-24,30-36,41-44,47-74,76-79
+  s_5b002650df0863::t_5aca9830e107b3 37,29,39,46,80-139
+  s_5b002650df0863::t_8a67314cc9f994 75
+  s_5b002650df0863::t_1d485541e985ff 25-28
+  s_5b002650df0863::t_dbfe97e49cfdf9 38,40,45
+  s_3aab6f0d381ac9::t_723d3de6aee249 3
+apps/sales/placeholders.py
+  s_5b002650df0863::t_336e52349b41a5 1-2,4-81
+  s_3aab6f0d381ac9::t_723d3de6aee249 3
+docs/archive/PORTAL_V3_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-220,222,224-225,228-562
+  s_3aab6f0d381ac9::t_723d3de6aee249 221,223,226-227
+apps/sales/tests/test_placeholders.py
+  s_5b002650df0863::t_c0d607f0058f08 1-3,5-25,27-58
+  s_5b002650df0863::t_3866f7df2e3a30 26
+  s_3aab6f0d381ac9::t_723d3de6aee249 4
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_5b002650df0863::t_739f9474d0439c 1,23,28-31,42-45,55,57,59,67-68,102-107,109,114-122
+  s_697b5de2f41f28::t_67ddabfffa7c4c 6,32-33,40-41,49-53,79-89,92-95
+  s_3aab6f0d381ac9::t_723d3de6aee249 90
+apps/identity/tests/test_canonical_email.py
+  s_5b002650df0863::t_62824de019117c 1-64,66-157
+  s_3aab6f0d381ac9::t_723d3de6aee249 65
+docs/archive/PORTAL_V2_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-220,222-223,225-226,228-231,234-1008
+  s_3aab6f0d381ac9::t_723d3de6aee249 221,224,227,232-233
+docs/archive/PORTAL_V2_ARCHITECTURE_REBUILD.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-220,222-224,226-1355
+  s_3aab6f0d381ac9::t_723d3de6aee249 221,225
+PORTAL_V5_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-219,221-223,225-233,235-528,530-629
+  s_3aab6f0d381ac9::t_723d3de6aee249 220,224,234,529
+apps/domains/domain/registry.py
+  s_5b002650df0863::t_f7eececb5e17c9 1-17,19-288,292
+  s_5b002650df0863::t_c9e8a6be7bd938 289-291
+  s_3aab6f0d381ac9::t_723d3de6aee249 18
+AGENTS.md
+  s_5b002650df0863::t_2d3ffbee57b0d6 43,59-61,63-68
+  s_3aab6f0d381ac9::t_97a925deb13ede 44-45,58
+apps/sales/tests/test_event_index.py
+  s_5b002650df0863::t_8b15ec23e80bb0 1-2,4-17,19-89,92-97,99,101-118,129-136
+  s_5b002650df0863::t_909b3c8dc23edb 90-91,98,100
+  s_3aab6f0d381ac9::t_723d3de6aee249 3
+tests/architecture/test_bigint_boundary.py
+  s_5b002650df0863::t_a4e4bd34f44f66 1-5,11-29,32-33,44-48,55-80,102-106
+  s_5b002650df0863::t_0a547348905c66 6-10,34-36,40-43,49-54,81-101,124-128,130
+  s_5b002650df0863::t_e88d01f840ed9f 37-39
+  s_5b002650df0863::t_d5d5aeff01c127 30
+  s_5b002650df0863::t_dcf6cf6910a49d 31
+  s_3aab6f0d381ac9::t_723d3de6aee249 113,132
+apps/sales/templatetags/sales_format.py
+  s_5b002650df0863::t_f269f636372247 1-77,79-100,102-111
+  s_5b002650df0863::t_e8410e1fc0108a 78
+  s_3aab6f0d381ac9::t_723d3de6aee249 101
+docs/DATA_PIPELINE_COMPARISON.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-341,343-374
+  s_3aab6f0d381ac9::t_723d3de6aee249 342
+CLIENT_VISIBILITY_INTERVIEW.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-230,232-863
+  s_3aab6f0d381ac9::t_723d3de6aee249 231
+docs/archive/PORTAL_V4_PLAN.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-219,221-222,224,227-831
+  s_3aab6f0d381ac9::t_723d3de6aee249 220,223,225-226
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 428-430,16,91,164-166,348-353,356-358,360,363-373,376-379,382-390
+  s_5b002650df0863::t_90400a7abda1ff 109,545-548,494,496,507,354-355,359,361-362,374-375,380-381,391-392,409,419,347
+  s_5b002650df0863::t_5804aba2648a0d 549-552
+  s_5b002650df0863::t_7dc34e1fe62abe 108
+  s_5b002650df0863::t_b82f85f3ae94eb 113,160-162
+  s_5b002650df0863::t_aad84bce2383cc 103
+  s_5b002650df0863::t_3414e7b0b4527a 90
+  s_5b002650df0863::t_ff619b430102c0 487-493,495,497-506
+  s_5b002650df0863::t_ec27907ff5a786 112
+  s_5b002650df0863::t_4b47bc34478b19 516-523,526-529,532-534,539-542
+  s_5b002650df0863::t_7b601b147a8e02 92,336-337,399-403
+  s_5b002650df0863::t_3b609469ed5037 410,414
+  s_5b002650df0863::t_5730fdc83b6853 111
+  s_5b002650df0863::t_e1deb24cd0711a 107
+  s_5b002650df0863::t_e74251149466fa 96
+  s_5b002650df0863::t_a58725b59d4b17 105
+  s_5b002650df0863::t_4cd6a5e0b65d2e 100
+  s_5b002650df0863::t_a3f29645c8e8f0 106
+  s_5b002650df0863::t_90bfb16bdf5a69 101
+  s_5b002650df0863::t_63b7ed74f23be4 411-413,415,417-418
+  s_5b002650df0863::t_118e862ba1a4d5 104
+  s_5b002650df0863::t_7be42f0b798fc1 342-346
+  s_998d95b9de4b0f::t_7be498205e356b 393-398,404-408
+  s_3aab6f0d381ac9::t_723d3de6aee249 416
+docs/archive/PORTAL_V2_ARCHITECTURE.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-220,222-2610
+  s_3aab6f0d381ac9::t_723d3de6aee249 221
+apps/domains/domain/providers.py
+  s_5b002650df0863::t_f7eececb5e17c9 1-26,28-63
+  s_3aab6f0d381ac9::t_723d3de6aee249 27
+apps/sales/tests/test_entitlements.py
+  s_5b002650df0863::t_b71550c670997a 1-2,4-104
+  s_3aab6f0d381ac9::t_723d3de6aee249 3
+apps/catalog/identity/emails.py
+  s_5b002650df0863::t_f7eececb5e17c9 7-13,18-35,38-48,102-110,118,120-122,137-138
+  s_3aab6f0d381ac9::t_723d3de6aee249 14
+SAAS_PLANNING_INTERVIEW.html
+  s_3aab6f0d381ac9::t_00cd842a2cb4f4 1-323,325-803,805-951
+  s_3aab6f0d381ac9::t_723d3de6aee249 324,804
+apps/sales/views.py
+  s_5b002650df0863::t_1ae2ac1234169e 2-12,16-17,19-20,22,25-26,29,31,42,49,55-56,323,44,48,250-253,258-259,261-269,272-274,276-278,280-286,295-300,302,45,35,43,46-47,57-60,62-66,69-70
+  s_5b002650df0863::t_21510af0f14edb 50-54
+  s_5b002650df0863::t_50eed919a32eea 73,87-88,305-322,324-330,333-343,352-357,359-360,89,106,124,303-304,93,107,146-148,152,162,173,186-187,218,228,232,238,254-256,260,270-271,275,279,289,292,344-348,350-351,349,358,361-370,372,379,381-384,387,411-414,417,420-421,423,425-426,537-550,567-570,573,581-582,585,587,625,61,67-68,72,144,190,196,198-199,202,206,212,214-215,332,427-428,431-434,444-446,450,458-460,472-536
+  s_5b002650df0863::t_9ef621f5dc0f5d 74-81,83-86,91,92,94,104-105,125-126,133,135,145,150-151,153-161,163-170,172,174-185,216-217,219-227,229-230,233-237,239-247,108-121,123,127-132,134,136-143,188-189,191-195,197,200-201,203-205,207-211,213,231
+  s_5b002650df0863::t_412a93973f283d 82,100,95-98,101-103,248-249,71
+  s_5b002650df0863::t_8829d73ad6773e 380,90,149,171,257,301,373-378,385-386,388-410,415-416,418-419,422,424,122,331,429-430,435-443,447-449,451-457,461-471,552
+  s_5b002650df0863::t_df75a433196a6a 40,36,39
+  s_5b002650df0863::t_f76e51f87fa442 287-288,290-291,293-294
+  s_5b002650df0863::t_9ca5beedd63b9d 13-15,18,21,23,27-28,30,34,38
+  s_5b002650df0863::t_dbb66530719469 41,24,32-33,37
+  s_5b002650df0863::t_dca13c05c4c314 1
+  s_3aab6f0d381ac9::t_723d3de6aee249 99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "4e27533292859bfdd126602c653682aa8f2bfd13",
+  "prompts": {},
+  "sessions": {
+    "s_3aab6f0d381ac9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28403637-3131-4df6-a9d3-4159d5748b62",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_697b5de2f41f28": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4255057b-68dc-4d5c-80b5-78c858f3d895",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

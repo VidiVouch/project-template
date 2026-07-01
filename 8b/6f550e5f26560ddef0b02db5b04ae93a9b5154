@@ -1,0 +1,60 @@
+apps/sales/domain/parsing.py
+  s_5b002650df0863::t_bba053e4b2debe 1-167
+apps/sales/models.py
+  s_5b002650df0863::t_1da5ec2fe40daa 195-209
+  s_5b002650df0863::t_7abd5195d1d887 34
+  s_5b002650df0863::t_b151eef7c34c66 226
+  s_5b002650df0863::t_f5b580f3ac702d 245-299
+apps/sales/domain/criteria.py
+  s_5b002650df0863::t_1e18bfec6c1c8b 1-208
+apps/sales/tests/test_icp_scoring.py
+  s_5b002650df0863::t_3fc17d895d6ef8 1-200
+apps/sales/tests/test_scoring_service.py
+  s_5b002650df0863::t_463e3ca885c884 1-225
+apps/sales/tests/test_models.py
+  s_5b002650df0863::t_abc14287f45577 12-13
+  s_5b002650df0863::t_5497f3fc0f7875 108-159
+apps/sales/domain/__init__.py
+  s_5b002650df0863::t_4ff8812e43bd6d 1-8
+apps/sales/domain/scoring.py
+  s_5b002650df0863::t_bea5cb5a97a40e 1-261
+apps/sales/scoring_service.py
+  s_5b002650df0863::t_e2281c9cca029c 1-165
+apps/sales/migrations/0010_icpprofile_criteria_version_icpscore.py
+  s_5b002650df0863::t_b318cf22be03da 1-42
+apps/sales/tests/test_icp_criteria.py
+  s_5b002650df0863::t_4c0c8030ece28a 1-100
+apps/sales/tests/test_merge_rehome.py
+  s_5b002650df0863::t_99e5630391cb87 18-26
+  s_5b002650df0863::t_4fda3401afe77b 168-229
+  s_5b002650df0863::t_9797e38d2bbd6b 298-299,304
+apps/sales/tests/test_rls.py
+  s_5b002650df0863::t_28091b2dbe4460 28
+  s_5b002650df0863::t_a8bf76beee48eb 97-99
+  s_5b002650df0863::t_6dca6da402cdaf 89
+  s_5b002650df0863::t_c02ec148600285 38,40-42,55-63
+apps/sales/registrations.py
+  s_5b002650df0863::t_2cf86c0369f7d3 33-36,43
+apps/sales/management/commands/score_icp.py
+  s_5b002650df0863::t_2d5eb57bf11ebf 1-65
+apps/sales/tests/test_icp_parsing.py
+  s_5b002650df0863::t_b4fe95481498eb 1-78
+apps/sales/migrations/0011_icpscore_rls.py
+  s_5b002650df0863::t_ba1012126a3237 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "8b6f550e5f26560ddef0b02db5b04ae93a9b5154",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

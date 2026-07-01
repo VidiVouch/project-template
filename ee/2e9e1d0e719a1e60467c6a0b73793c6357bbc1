@@ -1,0 +1,61 @@
+apps/data/grip/tests/test_import_portal_grip.py
+  s_ffd92932362e87::t_560c718a2adb10 17
+apps/data/grip/models.py
+  s_ffd92932362e87::t_e84e677fd449e2 43,56,68,82
+  s_ffd92932362e87::t_08974b8fc162cd 35
+apps/data/grip/tests/test_transformers.py
+  s_ffd92932362e87::t_50e4dd8320a635 16
+apps/data/grip/login.py
+  s_ffd92932362e87::t_8ea15a05a399b0 14
+apps/data/capture/management/commands/import_portal_logins.py
+  s_ffd92932362e87::t_6a3ebb63cb992a 27
+apps/catalog/tests/test_promote_grip.py
+  s_ffd92932362e87::t_5b0978126eb3ca 30-31
+  s_ffd92932362e87::t_33ac6701cc878b 50,55
+  s_ffd92932362e87::t_9126450cc20e84 102
+traffic_adapters/adapters/grip_events.py
+  s_ffd92932362e87::t_a201f1aba03cf9 24
+  s_ffd92932362e87::t_0a0df3c248f868 6
+apps/catalog/handlers/grip.py
+  s_ffd92932362e87::t_9f14258ba16bec 46
+apps/data/grip/management/commands/import_portal_grip.py
+  s_ffd92932362e87::t_38150d93195aba 30
+apps/data/grip/tests/test_response.py
+  s_ffd92932362e87::t_7ae2713ea6fefc 10
+apps/data/grip/transformers.py
+  s_ffd92932362e87::t_08974b8fc162cd 15-19,25-28,40-47,53-54,58-61,67,82,90-91,99-100,108-109,117-118
+apps/catalog/tests/test_promote_presence.py
+  s_ffd92932362e87::t_9e0075209009af 29,32
+  s_ffd92932362e87::t_a96799c7e33470 76
+apps/data/grip/migrations/0002_alter_gripappconfigjsondata_version_and_more.py
+  s_ffd92932362e87::t_5b5b422fd85a08 1-33
+apps/data/credentials/tests/test_drain.py
+  s_ffd92932362e87::t_1775ae48747ace 40
+  s_ffd92932362e87::t_c0916be65c1787 98,102
+  s_ffd92932362e87::t_4277b48d926896 27,29
+apps/data/grip/tests/test_app_registration.py
+  s_ffd92932362e87::t_6fb1ea5394d640 19
+envelopes/grip/versions.py
+  s_ffd92932362e87::t_d854d2d1a69311 1-53
+apps/data/grip/sessions.py
+  s_ffd92932362e87::t_35b274125c9a7a 27
+scrapers/event_spiders/grip.py
+  s_ffd92932362e87::t_6dd3d2c51a2c49 20
+  s_ffd92932362e87::t_08974b8fc162cd 32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "ee2e9e1d0e719a1e60467c6a0b73793c6357bbc1",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

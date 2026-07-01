@@ -1,0 +1,39 @@
+config/settings/base.py
+  s_0276221d01c0b0::t_995e0fbd4e784c 91-99,169-176,178-179,316-324,410-418,423-424
+templates/hijack/notification.html
+  s_0276221d01c0b0::t_995e0fbd4e784c 1-54
+config/urls.py
+  s_0276221d01c0b0::t_995e0fbd4e784c 8,15-21,24-30
+apps/identity/admin.py
+  s_0276221d01c0b0::t_995e0fbd4e784c 7-8,67-74
+uv.lock
+  s_0276221d01c0b0::t_995e0fbd4e784c 798-808,1589,1676
+apps/identity/tests/test_impersonation.py
+  s_0276221d01c0b0::t_995e0fbd4e784c 1-373
+assets/css/impersonate-bar.css
+  s_0276221d01c0b0::t_995e0fbd4e784c 1-82
+assets/js/impersonate-bar.js
+  s_0276221d01c0b0::t_995e0fbd4e784c 1-17
+apps/identity/receivers.py
+  s_0276221d01c0b0::t_995e0fbd4e784c 15,18-19,31-32,65-106
+pyproject.toml
+  s_0276221d01c0b0::t_995e0fbd4e784c 25
+apps/identity/admin_auth.py
+  s_0276221d01c0b0::t_995e0fbd4e784c 1-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "ba8d1db78a7ebb0dc36470ad8d981d505bee1bdd",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

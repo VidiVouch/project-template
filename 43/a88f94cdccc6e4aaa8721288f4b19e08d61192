@@ -1,0 +1,21 @@
+apps/disambiguator/tests/test_applier.py
+  s_33f9c21df35ec6::t_9d6db0b10628a7 14,37,42,57
+  s_33f9c21df35ec6::t_83e23de9f54d2f 26-30,353
+  s_33f9c21df35ec6::t_607213c2b2a121 375,393,434,438
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "43a88f94cdccc6e4aaa8721288f4b19e08d61192",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

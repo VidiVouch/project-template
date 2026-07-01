@@ -1,0 +1,45 @@
+config/settings/base.py
+  s_0276221d01c0b0::t_12d410992c8415 97
+apps/catalog/tests/test_promoter_registry.py
+  s_0276221d01c0b0::t_12d410992c8415 35,60,217
+apps/catalog/handlers/play_store.py
+  s_0276221d01c0b0::t_12d410992c8415 1-45
+apps/data/play_store_listing/transformers.py
+  s_0276221d01c0b0::t_12d410992c8415 1-43
+apps/data/play_store_listing/migrations/0001_initial.py
+  s_0276221d01c0b0::t_12d410992c8415 1-37
+apps/data/play_store_listing/apps.py
+  s_0276221d01c0b0::t_12d410992c8415 1-10
+apps/data/play_store_listing/models.py
+  s_0276221d01c0b0::t_12d410992c8415 1-29
+apps/bootstrap.py
+  s_0276221d01c0b0::t_12d410992c8415 88,90
+apps/data/play_store_listing/tests/test_contracts.py
+  s_0276221d01c0b0::t_12d410992c8415 1-40
+apps/data/play_store_listing/registrations.py
+  s_0276221d01c0b0::t_12d410992c8415 1-18
+envelopes/play_store_listing/versions.py
+  s_0276221d01c0b0::t_12d410992c8415 1-18
+envelopes/play_store_listing/response.py
+  s_0276221d01c0b0::t_12d410992c8415 1-35
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_12d410992c8415 47,64,84
+apps/catalog/tests/test_promote_presence.py
+  s_0276221d01c0b0::t_12d410992c8415 24,30-32,238-290
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c607670e055015952a9174d3dc6268cd8389501c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

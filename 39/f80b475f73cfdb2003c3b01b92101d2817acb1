@@ -1,0 +1,39 @@
+pyproject.toml
+  s_17405aaf91a59b::t_d5584ab086c925 93-95
+  s_17405aaf91a59b::t_112cadc807fa0c 38-43
+apps/notary/README.md
+  s_17405aaf91a59b::t_8e27a49cc57440 1-72
+apps/notary/__init__.py
+  s_17405aaf91a59b::t_006aeefa85e4a0 17-20
+  s_17405aaf91a59b::t_51a2df4c379c9b 13-16
+apps/notary/tests/test_dsse.py
+  s_17405aaf91a59b::t_912cf908aaa66e 117-126
+  s_17405aaf91a59b::t_093774e2fc1b88 26-40
+typings/vid_py/__init__.pyi
+  s_17405aaf91a59b::t_75652864d7e24c 1-20
+apps/githubapp/notary.py
+  s_17405aaf91a59b::t_78f9c1ca84e4ee 314-316
+  s_17405aaf91a59b::t_27abc6d6183080 220-223
+apps/notary/dsse.py
+  s_17405aaf91a59b::t_2feabe1354ba78 1-29,36,39,64-66,85-93,102-128,135-138,168-175,179-180,204-209,216-228,236,239,241-249,251-253,261-262
+apps/notary/tests/test_reviews_api.py
+  s_17405aaf91a59b::t_645cffdb0eb5d3 51-56,61-73,75
+apps/notary/tests/test_reviews.py
+  s_17405aaf91a59b::t_420dfc1e05776a 46-53,58-70,72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "39f80b475f73cfdb2003c3b01b92101d2817acb1",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

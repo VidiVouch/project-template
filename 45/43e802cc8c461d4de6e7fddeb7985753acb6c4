@@ -1,0 +1,92 @@
+apps/data/play_store_listing/migrations/0001_initial.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-37
+apps/catalog/handlers/play_store.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-45
+apps/catalog/tests/test_promote_presence.py
+  s_5b002650df0863::t_3430bb842d25bf 1-23,25-29,32-236
+  s_5b002650df0863::t_aad84bce2383cc 24,30-31,237-289
+apps/catalog/promoters.py
+  s_5b002650df0863::t_3f21ce7fbc8843 27,34
+  s_7c6c92400c7448::t_f11c65c481bc27 35,62,85,52,41,94,46
+  s_5b002650df0863::t_412c3cdade975f 53,55,57,80,82
+  s_5b002650df0863::t_9247efaace29fe 59,61
+  s_5b002650df0863::t_c3f087f82a845b 67
+  s_5b002650df0863::t_f2884c44b56850 69,48-51,70-71,74
+  s_5b002650df0863::t_cdd3b144664d3b 76-77,83
+  s_5b002650df0863::t_a6e05ed7960f02 81
+  s_5b002650df0863::t_b51d8220710c69 38,45
+  s_5b002650df0863::t_aad84bce2383cc 40,47,64,84
+  s_5b002650df0863::t_c04b83d2fb5ffb 43-44
+  s_5b002650df0863::t_d16a603d1fcf30 60,63
+apps/catalog/tests/test_promoter_registry.py
+  s_5b002650df0863::t_b2b5239f5774d4 21,26,37-38,40-41,178,180,182,28,33,56,59,212,214
+  s_7c6c92400c7448::t_444ed4a67eefe4 29,43,58,19,48,34
+  s_5b002650df0863::t_aad84bce2383cc 42,185,35,60,217
+  s_5b002650df0863::t_e5a1068fc145b1 55,57
+  s_5b002650df0863::t_a20a6be81cee31 198-202,204-205
+  s_5b002650df0863::t_8e6127b2265ad1 210-211,216
+  s_5b002650df0863::t_6bb36eb8ce349b 213
+  s_5b002650df0863::t_5de9fe3697e3ca 44-47
+  s_5b002650df0863::t_695a5a434e139b 31-32
+apps/data/play_store_listing/apps.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-10
+apps/data/play_store_listing/response.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-32
+apps/data/play_store_listing/tests/test_contracts.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-36,39
+  s_5b002650df0863::t_b99b1319e6a648 37-38,40
+apps/data/play_store_listing/transformers.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-34
+config/settings/base.py
+  s_5b002650df0863::t_4b47bc34478b19 66,106,137,139,158,160,230,238,240,251-252,264-265,282,295,300,305,320,325,331-333,337-338,340-342,347,349-350,372,384-385,387,389,391
+  s_5b002650df0863::t_aad84bce2383cc 93,97
+  s_5b002650df0863::t_7b601b147a8e02 100,102
+  s_5b002650df0863::t_b82f85f3ae94eb 135-136,138,101,148-150
+  s_5b002650df0863::t_80dd0c6d11f722 143-145,214,317-319,322-324,334-336,412
+  s_5b002650df0863::t_63b7ed74f23be4 327-330
+  s_5b002650df0863::t_a58725b59d4b17 96
+  s_5b002650df0863::t_90400a7abda1ff 99,413-416
+  s_5b002650df0863::t_5804aba2648a0d 417-420
+  s_5b002650df0863::t_7dc34e1fe62abe 98
+apps/bootstrap.py
+  s_5b002650df0863::t_e245d029f0edc3 51-52,85,91-92,94-96,102-103,105-106,111-112,114-115,122-123,127-130
+  s_5b002650df0863::t_0b0d577d37bdf3 78,49,53-54,56-58,60-66,68-70,72-73
+  s_5b002650df0863::t_08566a2df15b56 82-84,87,109-110,133-143,145-146,113,120,125,131-132,55,59,67,71,74-75
+  s_5b002650df0863::t_aad84bce2383cc 86,88
+  s_5b002650df0863::t_ddca3c96e7ae2c 89,104
+  s_5b002650df0863::t_a5014b183df652 93
+  s_5b002650df0863::t_d2994d49d50947 97,107-108,116,118-119,121
+  s_5b002650df0863::t_95bbf6ddcd5ec1 101
+  s_5b002650df0863::t_8cf07d44fc888f 30,33-35
+  s_5b002650df0863::t_7834a94105d121 48
+  s_5b002650df0863::t_d59d051562f4ac 50
+  s_5b002650df0863::t_b82f85f3ae94eb 117,124,126
+apps/data/play_store_listing/models.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-34
+apps/data/play_store_listing/registrations.py
+  s_5b002650df0863::t_1eeea78842b2fd 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "4543e802cc8c461d4de6e7fddeb7985753acb6c4",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_7c6c92400c7448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "905e8370-1334-407b-8aa5-7f2a1c30ee34",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

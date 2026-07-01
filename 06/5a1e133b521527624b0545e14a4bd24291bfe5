@@ -1,0 +1,28 @@
+apps/catalog/handlers/stova.py
+  s_0276221d01c0b0::t_2d970e99e26273 94-101
+REVIEW.md
+  s_0276221d01c0b0::t_e49550365cc95d 41-45
+apps/billing/tests/test_webhooks.py
+  s_0276221d01c0b0::t_43d3c2e11ab961 15-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "065a1e133b521527624b0545e14a4bd24291bfe5",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

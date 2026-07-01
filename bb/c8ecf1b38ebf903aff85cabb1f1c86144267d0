@@ -1,0 +1,43 @@
+apps/data/play_store_listing/transformers.py
+  s_0276221d01c0b0::t_36dfeb7eda47d1 1-43
+envelopes/play_store_listing/response.py
+  s_0276221d01c0b0::t_1691b41c33edfb 1-35
+apps/catalog/handlers/play_store.py
+  s_0276221d01c0b0::t_23ef109b49123d 1-45
+apps/bootstrap.py
+  s_0276221d01c0b0::t_86ba7e3733902c 122,138
+apps/data/play_store_listing/apps.py
+  s_0276221d01c0b0::t_2cde62652baaa1 1-10
+apps/data/play_store_listing/migrations/0001_initial.py
+  s_0276221d01c0b0::t_72ab2a64c1c525 1-37
+config/settings/base.py
+  s_0276221d01c0b0::t_a7624cf09047c0 132
+apps/data/play_store_listing/models.py
+  s_0276221d01c0b0::t_42ebeedfe476e2 1-29
+apps/data/play_store_listing/registrations.py
+  s_0276221d01c0b0::t_0f056c07afa48f 1-18
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_0c6536f93cefc9 246
+  s_0276221d01c0b0::t_f06fe7ef5c42ce 184
+  s_0276221d01c0b0::t_e72455321a6948 113
+apps/data/play_store_listing/tests/test_contracts.py
+  s_0276221d01c0b0::t_329bc58fe11587 1-40
+envelopes/play_store_listing/versions.py
+  s_0276221d01c0b0::t_7df737c543f9a8 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "bbc8ecf1b38ebf903aff85cabb1f1c86144267d0",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

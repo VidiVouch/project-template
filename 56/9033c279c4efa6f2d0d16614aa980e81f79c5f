@@ -1,0 +1,62 @@
+apps/notary/dsse.py
+  s_17405aaf91a59b::t_08c2888b82c3c9 1-35,37-38,42-167
+  s_17405aaf91a59b::t_bc94bbf9c7fdb7 36,39-41
+apps/notary/apps.py
+  s_17405aaf91a59b::t_bb128d8478ae9c 1-31
+apps/notary/tests/test_cross_impl.py
+  s_17405aaf91a59b::t_495a8bae61e9fd 1-80,82-144
+  s_17405aaf91a59b::t_34dc1b72fa6dcc 81
+apps/notary/__init__.py
+  s_17405aaf91a59b::t_25e1e8ca29f368 1-18
+apps/notary/api.py
+  s_17405aaf91a59b::t_987c32fd911dfc 76
+  s_17405aaf91a59b::t_b20023a08e1c0a 221,223
+  s_17405aaf91a59b::t_47b14140b4dcbd 1-75,77-218,220,222,224-225,229-237
+  s_17405aaf91a59b::t_d2425c5dd1d701 219,226-228
+apps/notary/tests/test_dsse.py
+  s_17405aaf91a59b::t_85e82dc79ab888 1-94
+apps/notary/tests/test_keys.py
+  s_17405aaf91a59b::t_c326f52e02cf9a 25
+  s_17405aaf91a59b::t_d77718d35f453f 11,19-21
+  s_17405aaf91a59b::t_e6a9781072438a 1-10,12-18,22-24,26-78
+apps/identity/entitlements.py
+  s_17405aaf91a59b::t_e17d0b507c1c5b 249-278
+.env.sample
+  s_17405aaf91a59b::t_d86ff678baa5ab 68-80
+apps/notary/tests/test_api.py
+  s_17405aaf91a59b::t_14c56c20ea0d98 26-27
+  s_17405aaf91a59b::t_daf8ac7b95aac9 1-17,19-25,28-46,48-105,107-149,151-174
+  s_17405aaf91a59b::t_e4e489f9c84848 47
+  s_17405aaf91a59b::t_4b7dd1223a2aea 18
+  s_17405aaf91a59b::t_dfa8bed16939ec 106
+  s_17405aaf91a59b::t_184600fb5c0548 150
+apps/notary/keys.py
+  s_17405aaf91a59b::t_72ed46dc90f75f 1-143
+config/urls.py
+  s_17405aaf91a59b::t_ecdf2e3f7a54b0 10
+  s_17405aaf91a59b::t_f520cc5d75d3ff 55-58
+  s_17405aaf91a59b::t_ec1b00ff6505f6 59
+config/settings/base.py
+  s_17405aaf91a59b::t_cddbca9fcdd94a 618-627
+  s_17405aaf91a59b::t_e0f17579a54975 123-124
+apps/identity/tests/test_entitlements.py
+  s_17405aaf91a59b::t_80e99d42a9272d 270-298
+apps/notary/checks.py
+  s_17405aaf91a59b::t_01a42c2d742e7b 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "569033c279c4efa6f2d0d16614aa980e81f79c5f",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

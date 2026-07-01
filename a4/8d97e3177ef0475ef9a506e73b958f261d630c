@@ -1,0 +1,98 @@
+apps/intake/migrations/0002_rls.py
+  s_5b002650df0863::t_0398279b4a42f9 1-27
+apps/intake/forms.py
+  s_5b002650df0863::t_77db44becc9073 1-54
+apps/intake/models.py
+  s_5b002650df0863::t_8d30ca4a5a9b05 1-160
+apps/intake/tests/factories.py
+  s_5b002650df0863::t_d32cc4c717342d 1-39
+apps/intake/tests/test_admin.py
+  s_5b002650df0863::t_92beb6732c3bcf 1-2,5-118
+  s_5b002650df0863::t_c702fbd715c171 3-4,119-120,123-125
+apps/intake/tests/test_views.py
+  s_5b002650df0863::t_df94fc9c8fcfe5 1-161
+apps/intake/urls.py
+  s_5b002650df0863::t_e4f2a66ace6134 1-12
+apps/intake/migrations/0001_initial.py
+  s_5b002650df0863::t_91f397a89cf9aa 1-68
+tests/architecture/test_bigint_boundary.py
+  s_5b002650df0863::t_a4e4bd34f44f66 1-5,11-29,32-33,44-48,55-80,102-106
+  s_5b002650df0863::t_0a547348905c66 6-10,34-36,40-43,49-54,81-101,124-128,130
+  s_5b002650df0863::t_e88d01f840ed9f 37-39
+  s_5b002650df0863::t_d5d5aeff01c127 30
+templates/intake/conference_requests.html
+  s_5b002650df0863::t_feeb876ddb4587 1-54
+REVIEW.md
+  s_5b002650df0863::t_17dfcd19c25803 43-44
+  s_5b002650df0863::t_91f22074c68087 45-46
+  s_5b002650df0863::t_c23f63e9b9b6fc 47-49
+  s_5b002650df0863::t_b9a1e4057de8ab 50
+  s_5b002650df0863::t_0b0d577d37bdf3 51-52
+  s_5b002650df0863::t_266517fd60e1d8 53-55
+  s_5b002650df0863::t_ad89cb04c88f42 56-58
+  s_5b002650df0863::t_a747cd48734719 59
+apps/intake/tests/test_models.py
+  s_5b002650df0863::t_cc44334c98ebd9 1-55
+config/urls.py
+  s_5b002650df0863::t_80dd0c6d11f722 20-23
+  s_5b002650df0863::t_7b601b147a8e02 27
+  s_5b002650df0863::t_bc1ff741571a12 28-29
+  s_5b002650df0863::t_999c8d9c8fa085 30-33
+apps/intake/apps.py
+  s_5b002650df0863::t_729f20149dc0e6 1-23
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 423-425,16,91,165-167,343-348,351-353,355,358-368,371-374,377-385
+  s_5b002650df0863::t_90400a7abda1ff 102,540-543,489,491,502,349-350,354,356-357,369-370,375-376,386-387,409,414
+  s_5b002650df0863::t_5804aba2648a0d 544-547
+  s_5b002650df0863::t_7dc34e1fe62abe 101
+  s_5b002650df0863::t_b82f85f3ae94eb 106,161-163
+  s_5b002650df0863::t_aad84bce2383cc 100
+  s_5b002650df0863::t_3414e7b0b4527a 90
+  s_5b002650df0863::t_ff619b430102c0 482-488,490,492-501
+  s_5b002650df0863::t_ec27907ff5a786 105
+  s_5b002650df0863::t_4b47bc34478b19 511-518,521-524,527-529,534-537
+  s_5b002650df0863::t_7b601b147a8e02 92,337-338,392-396
+  s_5b002650df0863::t_3b609469ed5037 410,413
+  s_5b002650df0863::t_5730fdc83b6853 104
+templates/app/_nav.html
+  s_5b002650df0863::t_194a1d1020935e 1-5,7-10,12-14,30-62,24,19,29
+  s_5b002650df0863::t_5a21a51785c137 20-23
+  s_5b002650df0863::t_9419a179a3d028 6
+  s_5b002650df0863::t_48b93da12dc4f5 11,15-18
+  s_5b002650df0863::t_df14d7d3562359 25-28
+apps/intake/tests/test_receivers.py
+  s_5b002650df0863::t_765fe7fe8c34ac 1-50
+apps/intake/tests/test_rls.py
+  s_5b002650df0863::t_6920522dffd9bf 1-104
+apps/intake/views.py
+  s_5b002650df0863::t_c5135de86abcef 1-122
+apps/intake/events.py
+  s_5b002650df0863::t_1a66d64f979c05 1-21
+templates/intake/share_access.html
+  s_5b002650df0863::t_bc66129d5ceca0 1-49
+apps/intake/admin.py
+  s_5b002650df0863::t_445ebc283a93c6 1-68,70-79,81-96,98-147,149-157,159-162,164-174
+  s_5b002650df0863::t_1602b49198ad4d 69
+  s_5b002650df0863::t_3ab3389bddbcd8 80
+  s_5b002650df0863::t_9b01f3315fe1f1 97
+  s_5b002650df0863::t_84e733028a04be 148
+  s_5b002650df0863::t_c702fbd715c171 158,163,177-181
+apps/intake/receivers.py
+  s_5b002650df0863::t_c5a100d8900be3 1-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a48d97e3177ef0475ef9a506e73b958f261d630c",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

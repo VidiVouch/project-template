@@ -1,0 +1,52 @@
+apps/catalog/tests/test_registrations.py
+  s_5b002650df0863::t_15227a779887a2 1-67
+apps/bootstrap.py
+  s_5b002650df0863::t_d2994d49d50947 115,117-118,120
+apps/catalog/models.py
+  s_5b002650df0863::t_2ce24ac9365f40 656-691,697-710
+  s_5b002650df0863::t_2e387130735e34 692-696
+apps/catalog/admin.py
+  s_5b002650df0863::t_6a1af7181616b2 26
+  s_5b002650df0863::t_6ed1d08a3d2a57 179-199
+apps/catalog/registrations.py
+  s_5b002650df0863::t_985e11f062334d 1-24
+REVIEW.md
+  s_5b002650df0863::t_266517fd60e1d8 53-55
+apps/catalog/migrations/0004_eventsourcepresence.py
+  s_5b002650df0863::t_b09675a68f642b 1-41
+apps/catalog/tests/test_promoter_registry.py
+  s_5b002650df0863::t_b2b5239f5774d4 28,33,55,58,210,212
+apps/catalog/handlers/_presence.py
+  s_5b002650df0863::t_b09675a68f642b 1-57,60-85
+  s_5b002650df0863::t_51ac3e3779b975 58-59
+apps/catalog/handlers/cadmium/__init__.py
+  s_5b002650df0863::t_b09675a68f642b 26,36
+apps/catalog/handlers/cadmium/stats.py
+  s_5b002650df0863::t_b09675a68f642b 1-51
+apps/catalog/handlers/grip.py
+  s_5b002650df0863::t_4d079138e9c23f 42,46
+  s_5b002650df0863::t_c8fe746549a891 257-286
+apps/catalog/promoters.py
+  s_5b002650df0863::t_3f21ce7fbc8843 34
+  s_5b002650df0863::t_b51d8220710c69 45
+  s_5b002650df0863::t_d16a603d1fcf30 59,62
+  s_5b002650df0863::t_412c3cdade975f 78,80
+apps/catalog/tests/test_promote_presence.py
+  s_5b002650df0863::t_3430bb842d25bf 1-233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c0c4eedd19526397e01ce45224d9b83a17ea31fc",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

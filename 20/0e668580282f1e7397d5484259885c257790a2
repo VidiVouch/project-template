@@ -1,0 +1,26 @@
+apps/disambiguator/tests/test_queue_serper_prospect_lookup.py
+  s_33f9c21df35ec6::t_1015556c18ece5 17-23,27,74-76,115-117,436-438
+  s_33f9c21df35ec6::t_625d5af691f10a 11,31-32
+  s_33f9c21df35ec6::t_21fc424c1be92d 92-93,95,97,110-111,113,357
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_33f9c21df35ec6::t_cfac0d039a5a41 31
+  s_33f9c21df35ec6::t_340544cce1a641 49-50,52,320
+  s_33f9c21df35ec6::t_75bc0daeadf547 17-22,25,38-40,54-56,426-428
+  s_33f9c21df35ec6::t_10181b371f1eb7 236-240
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "200e668580282f1e7397d5484259885c257790a2",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

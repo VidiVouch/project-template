@@ -1,0 +1,22 @@
+apps/catalog/tests/test_resolution_goldens.py
+  s_0276221d01c0b0::t_b72dfd9e5ef22c 243-264
+  s_0276221d01c0b0::t_c9810fb5aceea7 288-294
+  s_0276221d01c0b0::t_43d57d509d5fc6 3
+  s_0276221d01c0b0::t_574878ad9bcbb1 467-468
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "fe0201e40950182cd1e601e6d84db50de9d276ad",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+apps/sales/tests/test_conferences.py
+  s_33f9c21df35ec6::t_884a3195db3503 362,373,383,461
+  s_33f9c21df35ec6::t_d92c37c029a9af 39,46,61-62,64,68-70,72,76-77,84,104,109,111,114-116,121,124-125,155-156,205-206,211-213,234-236,261,275-276,290,294,372
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "0844addef401ebe15848e9fa25ec3b2f3cad8bcc",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

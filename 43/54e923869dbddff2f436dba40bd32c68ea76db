@@ -1,0 +1,48 @@
+apps/sales/admin.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-7,9,39-62,75,91-94,96-102
+pyproject.toml
+  s_5b002650df0863::t_7b601b147a8e02 20
+  s_5b002650df0863::t_af2d606b26b553 23,25
+  s_5b002650df0863::t_90400a7abda1ff 27,31,16,30
+  s_5b002650df0863::t_80dd0c6d11f722 34,36
+  s_5b002650df0863::t_754b8f47fb5bd9 44,154,176,185,195,213,230,237,251,83,190,276
+  s_998d95b9de4b0f::t_335f282231f4d0 45
+  s_5b002650df0863::t_ba0dfb43b943f8 69
+  s_5b002650df0863::t_daeb28af8de4b7 144,150,158,252,305,319
+REVIEW.md
+  s_5b002650df0863::t_17dfcd19c25803 43-44
+  s_5b002650df0863::t_91f22074c68087 45-46
+  s_5b002650df0863::t_c23f63e9b9b6fc 47-49
+  s_5b002650df0863::t_b9a1e4057de8ab 50
+  s_5b002650df0863::t_0b0d577d37bdf3 51-52
+  s_5b002650df0863::t_266517fd60e1d8 53-55
+apps/sales/models.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-28,31,33-39,138-153,165-191,202,212-215,217,225-230,236-247,253-273
+uv.lock
+  s_5b002650df0863::t_1b9cb97517cfc0 10-17,888-896,1522,1536,1604,1618
+  s_5b002650df0863::t_f6036e9aaadc75 775,1735,1738,1740,1742-1743,2123-2124,2266-2267,2277,2440-2441,2526-2528,2531,2533,2535-2536
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "4354e923869dbddff2f436dba40bd32c68ea76db",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+README.md
+  h_795c5e33ecc5af 17,256-270
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4798794f9759461d40a32bc1a3285cc86afb59b3",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

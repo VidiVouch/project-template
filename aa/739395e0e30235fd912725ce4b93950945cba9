@@ -1,0 +1,139 @@
+.agents/skills/new-source/references/research.md
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-131
+.idea/runConfigurations/Pytest__Research_.xml
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-25
+.agents/skills/new-source/references/flow_reader.md
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-129
+envelopes/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-24
+research/tutorials/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1
+research/handlers.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-89
+README.md
+  s_eef0c01ffe4331::t_0c33077ebb74a1 257
+  s_eef0c01ffe4331::t_2069cadd2cc45c 17-18,258-341
+research/fun_spiders/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1
+AGENTS.md
+  s_eef0c01ffe4331::t_2069cadd2cc45c 30-33
+traffic_analysis/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1
+traffic_analysis/analysis/flow_io.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-29
+traffic_analysis/tests/test_jsonl_pipeline.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-111
+traffic_analysis/flow_readers/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1
+.agents/skills/new-source/SKILL.md
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-113
+.gitignore
+  s_eef0c01ffe4331::t_2069cadd2cc45c 785-786
+research/test_spiders/spiders.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-72
+research/tests/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1
+.claude/settings.json
+  s_eef0c01ffe4331::t_2069cadd2cc45c 92
+research/tutorials/quotes.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-23
+traffic_analysis/analysis/reports.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-164
+research/test_spiders/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1
+.idea/scopes/Research.xml
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-3
+envelopes/credentials/ports.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-77
+traffic_analysis/discovery.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-164
+project-words.dic
+  s_eef0c01ffe4331::t_2069cadd2cc45c 13-14,16-23,28
+traffic_analysis/flow_readers/quotes_scroll.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-51
+REVIEW.md
+  s_eef0c01ffe4331::t_2069cadd2cc45c 10
+traffic_analysis/exceptions.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-19
+traffic_analysis/tests/test_pipeline_manager.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-115
+research/tests/test_spider_integration.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-141
+research/tests/conftest.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-64
+envelopes/credentials/login.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-68
+traffic_analysis/provider_registry.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-113
+envelopes/_versioning.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-52
+research/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1
+research/default/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1
+traffic_analysis/tests/test_flow_analysis.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-48
+traffic_analysis/tests/test_base.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-165
+traffic_analysis/tests/test_csv_pipeline.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-113
+research/tests/test_handlers.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-115
+traffic_analysis/settings.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-15
+traffic_analysis/rules.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-426
+traffic_analysis/analysis/providers.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-98
+traffic_analysis/analysis/flow_analysis.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-706
+traffic_analysis/tests/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1
+research/tutorials/quotes_scroll.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-23
+scrapy.cfg
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-11
+traffic_analysis/pipelines.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-308
+traffic_analysis/tests/test_rules.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-405
+traffic_analysis/cli/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-8
+research/fun_spiders/cognatheque.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-47
+traffic_analysis/tests/test_provider_registry.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-155
+traffic_analysis/cli/analyze_flow.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-400
+traffic_analysis/base.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-279
+research/settings.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-52
+traffic_analysis/analysis/__init__.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-59
+traffic_analysis/tests/test_discovery.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-240
+.agents/skills/investigate-traffic/SKILL.md
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-158
+pyproject.toml
+  s_eef0c01ffe4331::t_ca5fdc25c2d066 31,78,254
+  s_eef0c01ffe4331::t_2069cadd2cc45c 35,37,64-65,69,79,181-199,258
+traffic_analysis/flow_readers/example_rules.py
+  s_eef0c01ffe4331::t_2069cadd2cc45c 1-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "aa739395e0e30235fd912725ce4b93950945cba9",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

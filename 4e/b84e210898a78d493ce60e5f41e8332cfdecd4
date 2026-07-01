@@ -1,0 +1,41 @@
+apps/data/cadmium/tests/test_contracts.py
+  s_0276221d01c0b0::t_c6fa64e457c406 16,106-108
+apps/catalog/handlers/cadmium/__init__.py
+  s_0276221d01c0b0::t_c6fa64e457c406 22,32
+apps/catalog/tests/test_promote_event_participation_poster_presenter.py
+  s_0276221d01c0b0::t_c6fa64e457c406 1-145
+apps/catalog/tests/test_promoter_registry.py
+  s_0276221d01c0b0::t_c6fa64e457c406 20,37,187
+apps/data/cadmium/tests/test_import_portal_cadmium.py
+  s_0276221d01c0b0::t_c6fa64e457c406 1-181
+apps/data/cadmium/tests/test_import_portal_cadmium_e2e.py
+  s_0276221d01c0b0::t_c6fa64e457c406 1-127
+apps/data/capture/portal_import.py
+  s_0276221d01c0b0::t_c6fa64e457c406 1-229
+apps/data/cadmium/mapping.py
+  s_0276221d01c0b0::t_c6fa64e457c406 157-171
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_c6fa64e457c406 26,35,48
+apps/data/cadmium/management/commands/import_portal_cadmium.py
+  s_0276221d01c0b0::t_c6fa64e457c406 1-104
+apps/data/cadmium/registrations.py
+  s_0276221d01c0b0::t_c6fa64e457c406 25,34,58,65
+apps/catalog/handlers/cadmium/people.py
+  s_0276221d01c0b0::t_c6fa64e457c406 1,20,36-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "4eb84e210898a78d493ce60e5f41e8332cfdecd4",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

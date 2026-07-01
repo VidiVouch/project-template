@@ -1,0 +1,19 @@
+.agents/skills/new-source/SKILL.md
+  s_5b002650df0863::t_125ff57963a047 46,68,73,76,78,84,88,94,97,103,105,108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f1ed693b182dc28b166c0b099dc19cf93c1be6fe",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

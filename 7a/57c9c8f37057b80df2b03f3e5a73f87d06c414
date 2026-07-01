@@ -1,0 +1,76 @@
+templates/identity/access_request_thanks.html
+  s_ba52b251f88bcf::t_44ddbbf1fac7e0 6-8,10
+templates/account/signup_closed.html
+  s_ba52b251f88bcf::t_cab5b7af8f5089 9
+assets/js/auth-fog.js
+  s_ba52b251f88bcf::t_51aadf73771c9d 22-23,44-48,52-53,69,75-76,102-104,106-108,111,183,217-223,225,228-229,231-232,235-238,240
+  s_ba52b251f88bcf::t_d3caef08270086 157-158
+  s_ba52b251f88bcf::t_09ab92d4a60b84 57-58
+  s_ba52b251f88bcf::t_20ab945b59ab04 139-146,182,184-200,202,204,207
+  s_ba52b251f88bcf::t_246e2b83c83d78 77-79,81-82,87-88,99
+  s_ba52b251f88bcf::t_8fba86c923304f 89
+  s_ba52b251f88bcf::t_02e675a7b13f81 112-113
+  s_ba52b251f88bcf::t_6e14bcd37e5ad1 167-168,170,178
+  s_ba52b251f88bcf::t_4967be6df872c4 203,205-206,208-215
+  s_ba52b251f88bcf::t_3d278b302c53d8 24-42
+  s_ba52b251f88bcf::t_9ad14a4e266df3 156
+  s_ba52b251f88bcf::t_7389eef2c1309b 85-86
+  s_ba52b251f88bcf::t_d84362c6918186 116-130
+  s_ba52b251f88bcf::t_3b789852bfa47c 152-155,166,169,171-174,176-177,179
+  s_ba52b251f88bcf::t_554669a0e2bc71 181
+  s_ba52b251f88bcf::t_a696198986d6e1 2-3,5-13,15-17,20,49-51,54-56,59-62,66-68,105,137,147,233
+  s_ba52b251f88bcf::t_f17990bfe36cb0 70-74
+  s_ba52b251f88bcf::t_2f95e9308cf99c 92
+  s_ba52b251f88bcf::t_753c369e83aaaa 148-149
+  s_ba52b251f88bcf::t_6130469a9a1905 159-164
+  s_ba52b251f88bcf::t_8d32aaab58dd7a 165
+  s_ba52b251f88bcf::t_8941a7868997e6 109-110
+  s_ba52b251f88bcf::t_269cb038973f88 83-84,93-98,100-101
+  s_ba52b251f88bcf::t_b311b41d40e354 80
+  s_ba52b251f88bcf::t_61c01cc52dac50 224,230,234
+  s_ba52b251f88bcf::t_77ef8c4023a8c5 133-136
+  s_ba52b251f88bcf::t_107cba33e144a6 131,150,216
+  s_ba52b251f88bcf::t_819904614d0711 4,14
+  s_ba52b251f88bcf::t_7ab69e4990d258 90-91
+templates/allauth/layouts/base.html
+  s_ba52b251f88bcf::t_d89371a07f767a 5-8
+  s_ba52b251f88bcf::t_0b0d769db694e4 4
+  s_ba52b251f88bcf::t_3b82233b3909b2 16
+  s_ba52b251f88bcf::t_57b887fae01b24 59-61,64-74
+  s_ba52b251f88bcf::t_6280a83459f929 82
+assets/css/source.css
+  s_ab0d032c4f57cf::t_846931d983d85d 166-183,186-209
+  s_ba52b251f88bcf::t_bf22e1f712d6ed 1064,1069-1076,1083-1102
+  s_ba52b251f88bcf::t_5cf294f77d7180 1077
+  s_ba52b251f88bcf::t_165a1bc5266fa2 1078
+  s_ba52b251f88bcf::t_30ded52057fe22 1103-1104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "7a57c9c8f37057b80df2b03f3e5a73f87d06c414",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_ab0d032c4f57cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eb3ad4f5-17cc-4caf-9924-67f2bd0f4673",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ba52b251f88bcf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "136476a6-a85a-4740-b70d-4e1e6601e066",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

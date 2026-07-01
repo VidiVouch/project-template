@@ -1,0 +1,31 @@
+apps/catalog/handlers/eventpilot.py
+  s_3748ef8a5eb7ff::t_ae409ac10e41a9 129,134
+  s_3748ef8a5eb7ff::t_b765326a2eb9d2 192
+  s_3748ef8a5eb7ff::t_fd7500942760a5 98
+apps/data/eventpilot/tests/test_mapping.py
+  s_3748ef8a5eb7ff::t_0a0fd9425625fe 34-48,51,59,65,75,84
+  s_3748ef8a5eb7ff::t_b832ef6d0dfc36 114,119
+  s_3748ef8a5eb7ff::t_abfb7c695c04cb 1,16-17
+apps/data/eventpilot/mapping.py
+  s_3748ef8a5eb7ff::t_bb393941564a31 112,120
+  s_3748ef8a5eb7ff::t_0913b866bc266a 35-56
+  s_3748ef8a5eb7ff::t_8f58e43a1125c4 131,138
+  s_3748ef8a5eb7ff::t_df0d8c71b38407 152,154
+  s_3748ef8a5eb7ff::t_75f68a4b65167c 168,176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "818c769df5fde6b72afbef5c5577de815bad2c69",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

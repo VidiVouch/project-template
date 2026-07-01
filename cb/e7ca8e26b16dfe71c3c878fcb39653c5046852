@@ -1,0 +1,30 @@
+README.md
+  h_795c5e33ecc5af 97-101
+.pre-commit-config.yaml
+  h_795c5e33ecc5af 8,24
+.codex/config.toml
+  h_795c5e33ecc5af 8-10
+.editorconfig
+  s_d4a7d5c5e8140e::t_9734f8a8d049b2 31-32,35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "cbe7ca8e26b16dfe71c3c878fcb39653c5046852",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_d4a7d5c5e8140e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9f0cad06-dcfc-4c3c-8c2e-be3dccb042fe",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

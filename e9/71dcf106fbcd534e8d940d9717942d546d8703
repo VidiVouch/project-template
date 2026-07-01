@@ -1,0 +1,28 @@
+templates/provenance/reviewer_profile.html
+  s_c3bfa30f51a6e1::t_2b0e207c59b781 151-179
+  s_c3bfa30f51a6e1::t_21a9fc8793b4c2 113-115,120
+templates/provenance/org_dashboard.html
+  s_c3bfa30f51a6e1::t_ae7b0af4715f0b 125-152
+  s_c3bfa30f51a6e1::t_7cf93f48d1f729 42-48,55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "e971dcf106fbcd534e8d940d9717942d546d8703",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

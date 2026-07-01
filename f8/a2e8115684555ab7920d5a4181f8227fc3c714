@@ -1,0 +1,39 @@
+envelopes/grip/login.py
+  s_ffd92932362e87::t_0b5d707c9e2728 72-89
+apps/data/credentials/tests/test_drain.py
+  s_ffd92932362e87::t_58e7e3d29c4a9a 72-86
+apps/data/grip/tests/test_login.py
+  s_ffd92932362e87::t_cc5970248d5a8d 5
+  s_ffd92932362e87::t_d172b45a3a228e 34-50
+scrapers/event_spiders/grip.py
+  s_ffd92932362e87::t_ee1f70b6ef0230 188-189
+  s_ffd92932362e87::t_d3e5f25e5e47a6 233,235-238
+  s_ffd92932362e87::t_8a6285274aa658 329-368
+  s_ffd92932362e87::t_531c892e664411 33
+  s_ffd92932362e87::t_b0357440d40335 7-10
+envelopes/credentials/login.py
+  s_ffd92932362e87::t_38cbe5171df525 50-68
+  s_ffd92932362e87::t_a1df97aea3364e 16
+scrapers/event_spiders/tests/test_grip_spider.py
+  s_ffd92932362e87::t_de461a540e1a57 33-56
+  s_ffd92932362e87::t_8e9021ce3b564f 149-180
+  s_ffd92932362e87::t_99a6b5c79ac71c 234-269
+  s_ffd92932362e87::t_89c3a6c6946163 20
+  s_ffd92932362e87::t_26ea4c8a5a76ee 80-82,87-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f8a2e8115684555ab7920d5a4181f8227fc3c714",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+apps/data/gatherdigital/mapping.py
+  s_3748ef8a5eb7ff::t_192233f999c416 197,199
+  s_3748ef8a5eb7ff::t_8aa17f435dbc00 144,146
+  s_3748ef8a5eb7ff::t_cd8ac38076140e 171,173
+  s_3748ef8a5eb7ff::t_9819f9b238b63d 106-128,130
+apps/data/gatherdigital/tests/test_mapping.py
+  s_3748ef8a5eb7ff::t_be007f55660bc0 54-62,75-76
+  s_3748ef8a5eb7ff::t_71409c3caf898c 176
+  s_3748ef8a5eb7ff::t_8d6cc512ef7ae3 100-101
+  s_3748ef8a5eb7ff::t_8d7202f415c28f 115,119
+  s_3748ef8a5eb7ff::t_c9200d2cc4b4fc 141,145
+  s_3748ef8a5eb7ff::t_b3db046fcfac5f 163-164
+  s_3748ef8a5eb7ff::t_25062fdac7bca9 1,19-20
+  s_3748ef8a5eb7ff::t_04d41487ee58a4 133-134
+apps/catalog/handlers/gatherdigital.py
+  s_3748ef8a5eb7ff::t_8131dc4d172183 252
+  s_3748ef8a5eb7ff::t_1c11ab9ae0f5e7 90
+  s_3748ef8a5eb7ff::t_fa3849a997ebd8 132
+  s_3748ef8a5eb7ff::t_166e9fc2cfceca 127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "63a792fd48e587f19b6d6b6fad0f6d5d87c8449f",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

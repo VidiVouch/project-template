@@ -1,0 +1,21 @@
+apps/catalog/handlers/resident_prep.py
+  s_0276221d01c0b0::t_891da69a09a2df 42-65,68,85-91,94,102-114,117,156-163
+apps/catalog/handlers/resident_spec.py
+  s_0276221d01c0b0::t_a3e19dc2694aa2 41-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "22867e23766a0e6e7970c4437c5f936d84c128ae",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

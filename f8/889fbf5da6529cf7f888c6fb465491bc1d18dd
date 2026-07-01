@@ -1,0 +1,62 @@
+apps/billing/subscriptions.py
+  s_c3bfa30f51a6e1::t_aad7b43c5d9b09 139-150
+apps/billing/tests/test_views.py
+  s_c3bfa30f51a6e1::t_f63687fa0ccaf8 70-76
+  s_c3bfa30f51a6e1::t_6c4f74ef92b1c5 8
+apps/identity/apps.py
+  s_c3bfa30f51a6e1::t_9594ebb8dad453 24-29
+  s_c3bfa30f51a6e1::t_965b3b5266bb90 108-173
+apps/billing/views.py
+  s_c3bfa30f51a6e1::t_6e220a5c236b6c 107
+  s_c3bfa30f51a6e1::t_d9efacd9e36e8c 317
+  s_c3bfa30f51a6e1::t_27f3b7dad091be 271
+  s_c3bfa30f51a6e1::t_281b76c1a5a840 379
+  s_c3bfa30f51a6e1::t_569b2fe7a0bbe8 409
+  s_c3bfa30f51a6e1::t_59cca2413bf661 200
+  s_c3bfa30f51a6e1::t_2df3c17c209589 44
+apps/billing/tests/test_subscriptions.py
+  s_c3bfa30f51a6e1::t_6786087388c46e 321-327
+  s_c3bfa30f51a6e1::t_1634af2c91138c 23
+apps/identity/groups.py
+  s_c3bfa30f51a6e1::t_d81376e91a921f 1-77
+apps/provenance/views.py
+  s_c3bfa30f51a6e1::t_03b79f1eaa2297 1637
+  s_c3bfa30f51a6e1::t_d684f9497eebf1 816
+  s_c3bfa30f51a6e1::t_0897ee5baeb2f5 394
+  s_c3bfa30f51a6e1::t_a400af13108b1b 10
+  s_c3bfa30f51a6e1::t_e94ddfbf45fbf4 469
+  s_c3bfa30f51a6e1::t_8d12b47963600c 1004
+  s_c3bfa30f51a6e1::t_6e146aec7303d2 635
+  s_c3bfa30f51a6e1::t_971812deb7fd49 1567
+  s_c3bfa30f51a6e1::t_4fc6f96535ac46 1487
+  s_c3bfa30f51a6e1::t_310c1fea856194 290
+  s_c3bfa30f51a6e1::t_8348165a9599d6 1115
+  s_c3bfa30f51a6e1::t_e3b8f2486d8414 1264
+  s_c3bfa30f51a6e1::t_acb43d70908585 1670
+  s_c3bfa30f51a6e1::t_da94a5bba34ad3 213
+apps/identity/signals.py
+  s_c3bfa30f51a6e1::t_3a5dc09d68d439 47-78
+apps/identity/tests/test_redemption.py
+  s_c3bfa30f51a6e1::t_05d232b4207657 190-192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "f8889fbf5da6529cf7f888c6fb465491bc1d18dd",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

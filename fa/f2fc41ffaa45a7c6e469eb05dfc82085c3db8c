@@ -1,0 +1,55 @@
+apps/billing/receivers.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-65
+apps/billing/__init__.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1
+apps/billing/admin.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-84
+apps/billing/tests/__init__.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1
+apps/billing/tests/test_receivers.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-44
+apps/billing/tests/test_views.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-346
+apps/billing/invoicing.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-196
+apps/billing/keys.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-27
+apps/billing/management/commands/stripe_sync.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-46
+apps/billing/models.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-181
+apps/billing/management/commands/stripe_listen.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-59
+apps/billing/tests/factories.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-81
+apps/billing/migrations/0001_initial.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-91
+apps/billing/tests/test_webhooks.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-167
+apps/billing/urls.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-14
+apps/billing/webhooks.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-102
+apps/billing/apps.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-23
+apps/billing/views.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-303
+apps/billing/tests/test_invoicing.py
+  s_0276221d01c0b0::t_829c02e560aa6a 1-207
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "faf2fc41ffaa45a7c6e469eb05dfc82085c3db8c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

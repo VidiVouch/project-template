@@ -1,0 +1,28 @@
+apps/data/eventleaf/models.py
+  s_ffd92932362e87::t_feba89f50843fc 62
+  s_ffd92932362e87::t_de430a6fb601b6 114
+  s_ffd92932362e87::t_323782f4a602a2 76
+  s_ffd92932362e87::t_965f8494c90d9f 47
+  s_ffd92932362e87::t_812eaa82cb6eb8 88
+  s_ffd92932362e87::t_0cb6847723e4c9 101
+apps/data/eventleaf/transformers.py
+  s_ffd92932362e87::t_7a60e0bea386af 103-126
+  s_ffd92932362e87::t_e72734cf47a892 19
+  s_ffd92932362e87::t_1ad0451a9fb40f 37-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "0db042c863e05155fc3b1b5b85eec9cbbeb7c802",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

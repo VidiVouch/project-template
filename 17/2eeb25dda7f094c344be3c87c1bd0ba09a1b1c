@@ -1,0 +1,21 @@
+apps/catalog/merge.py
+  s_0276221d01c0b0::t_030f3d8fef12b8 47,226-228,481-615,663-666,686-691
+apps/catalog/tests/test_merge_fk_registry.py
+  s_0276221d01c0b0::t_030f3d8fef12b8 1-397
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "172eeb25dda7f094c344be3c87c1bd0ba09a1b1c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

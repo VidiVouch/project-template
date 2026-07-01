@@ -1,0 +1,19 @@
+apps/data/serper/migrations/0001_initial.py
+  s_ffd92932362e87::t_2ccffe46dabb34 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "9c496341d44d5d7ca1ff7ac7b4e676bb5e89c7f6",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

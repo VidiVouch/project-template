@@ -1,0 +1,30 @@
+pyproject.toml
+  s_4d1d4a14fb5dd2::t_5da0f863726ddf 6,8
+.idea/project-template.iml
+  s_4d1d4a14fb5dd2::t_72828de56901ca 13
+  s_4d1d4a14fb5dd2::t_8c387d63341da1 15
+.idea/modules.xml
+  s_4d1d4a14fb5dd2::t_dbf96c14881132 5
+.idea/misc.xml
+  s_4d1d4a14fb5dd2::t_87528f60130dcc 4,6
+.idea/runConfigurations/Pytest__All_.xml
+  s_4d1d4a14fb5dd2::t_aa0dcc046f0d55 3
+uv.lock
+  s_4d1d4a14fb5dd2::t_3b4532789cf493 318-334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "162b3f8830b335471ab6332d0aa6ecdcc130fe7a",
+  "prompts": {},
+  "sessions": {
+    "s_4d1d4a14fb5dd2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "326e7b71-bba4-4916-9d01-c2ee02319044",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

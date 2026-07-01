@@ -1,0 +1,34 @@
+render.yaml
+  s_02fd755eedeb4c::t_bc0bae253d411b 36-40
+  s_02fd755eedeb4c::t_304e0e53558953 146-167
+  s_c3bfa30f51a6e1::t_9fc0087be0a456 222-229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "807cfa7b563227b565658c6816fb2718926d4e46",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_02fd755eedeb4c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b268343c-d5ed-4a93-a699-43377481791b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+scripts/brand/build_g.py
+  s_998d95b9de4b0f::t_335f282231f4d0 52-54,118-210,213-214,260-263
+assets/brand/grazeai-logo-g-small.svg
+  s_998d95b9de4b0f::t_335f282231f4d0 1-7
+assets/brand/grazeai-logo.svg
+  s_5b002650df0863::t_f269f636372247 1,5-6,8-10,18-29,38,42,44-45
+  s_998d95b9de4b0f::t_335f282231f4d0 2-4,7,11-17,30-37,39-41
+scripts/brand/render_g_throbber_gif.py
+  s_998d95b9de4b0f::t_335f282231f4d0 1-168
+uv.lock
+  s_5b002650df0863::t_1b9cb97517cfc0 10-17,888-896,1580,1594,1666,1680
+  s_5b002650df0863::t_8bbbfb2e91fece 163-164,676-677,166-167,169,171,679-680,682,684,1599,1685,1750-1751,1754-1755,1759,1761
+  s_5b002650df0863::t_f6036e9aaadc75 235-236,295-296,455-456,549-550,775,848-849,1214-1215,1801,1804,1806,1808-1809,2108-2109,2189-2190,2332-2333,2506-2507,328-333,457-493,551-559,758-774,850-861,1216-1235,1581,1589,1623,1660,1667,1675,1708,1745,1789-1800,2110-2130,2191-2199,2334-2342,2508-2519,2594-2602,168,170,172-173,678,681,683,685-686,1749,1752-1753,1758,1760,1762-1763,694,696,698-699,2361,2364-2365,2368,2370,2372-2373
+  s_5b002650df0863::t_b4ff1b635ca490 2359-2360,327,1756-1757,2362,2366-2367
+  s_998d95b9de4b0f::t_d572201ad47285 693
+pyproject.toml
+  s_5b002650df0863::t_754b8f47fb5bd9 89,196,282
+  s_5b002650df0863::t_daeb28af8de4b7 325
+  s_5b002650df0863::t_90400a7abda1ff 16,30
+  s_5b002650df0863::t_24a46d768efd5f 17
+  s_5b002650df0863::t_af2d606b26b553 24
+  s_5b002650df0863::t_ba0dfb43b943f8 84
+  s_5b002650df0863::t_80dd0c6d11f722 35
+  s_5b002650df0863::t_f47c80310585c7 18
+  s_998d95b9de4b0f::t_335f282231f4d0 61
+  s_5b002650df0863::t_7d335050611e0c 329-332
+assets/brand/grazeai-logo-g-filled.svg
+  s_998d95b9de4b0f::t_335f282231f4d0 1-30
+scripts/brand/render_g_gif.py
+  s_998d95b9de4b0f::t_335f282231f4d0 1-149
+scripts/brand/build_raze.py
+  s_998d95b9de4b0f::t_335f282231f4d0 4,6-13,38-39,41-45,50-51,58,62-85,98-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "6f2384d0db20dbe57222dd1ddff9f80dba4cb5c4",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

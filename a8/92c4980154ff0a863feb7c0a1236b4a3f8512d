@@ -1,0 +1,65 @@
+tests/architecture/_ast_helpers.py
+  s_0276221d01c0b0::t_9d41c8d4a58fc1 1-7,19-44,52-55
+apps/data/base/tests/test_queryset.py
+  s_0276221d01c0b0::t_9150569a9fbaf7 1-200
+apps/data/capture/tests/test_models.py
+  s_0276221d01c0b0::t_9150569a9fbaf7 1-208
+tests/architecture/test_no_tenant_in_shared_core.py
+  s_0276221d01c0b0::t_9d41c8d4a58fc1 19,35-36
+tests/architecture/test_no_forbidden_imports.py
+  s_0276221d01c0b0::t_9d41c8d4a58fc1 5-10,22-24,29,33,102-126
+config/settings/base.py
+  s_0276221d01c0b0::t_9855fa2df804e6 115-116
+apps/data/base/tests/test_cleaning.py
+  s_0276221d01c0b0::t_9150569a9fbaf7 1-123
+apps/data/base/tests/test_redirects.py
+  s_0276221d01c0b0::t_9150569a9fbaf7 1-155
+apps/data/capture/constants/enums.py
+  s_0276221d01c0b0::t_3ba3bae053d88a 1-20
+tests/architecture/test_installed_apps_parity.py
+  s_0276221d01c0b0::t_9d41c8d4a58fc1 1-39
+tests/architecture/test_no_signal_domain_dispatch.py
+  s_0276221d01c0b0::t_9d41c8d4a58fc1 19,21-22
+apps/data/base/apps.py
+  s_0276221d01c0b0::t_3ba3bae053d88a 1-23
+apps/data/base/models/abstract_models.py
+  s_0276221d01c0b0::t_3ba3bae053d88a 1-454
+apps/data/base/redirects.py
+  s_0276221d01c0b0::t_3ba3bae053d88a 1-167
+apps/data/base/models/__init__.py
+  s_0276221d01c0b0::t_3ba3bae053d88a 1-27
+apps/data/base/tests/models.py
+  s_0276221d01c0b0::t_9150569a9fbaf7 1-51
+apps/data/base/tests/test_abstract_models.py
+  s_0276221d01c0b0::t_9150569a9fbaf7 1-179
+apps/data/base/tests/test_hashing.py
+  s_0276221d01c0b0::t_9150569a9fbaf7 1-156
+apps/data/base/hashing.py
+  s_0276221d01c0b0::t_3ba3bae053d88a 1-127
+apps/data/base/tests/conftest.py
+  s_0276221d01c0b0::t_9150569a9fbaf7 1-49
+apps/data/capture/migrations/0001_initial.py
+  s_0276221d01c0b0::t_030a8bbde8cd4e 1-51
+apps/data/base/cleaning.py
+  s_0276221d01c0b0::t_3ba3bae053d88a 1-164
+apps/data/capture/models.py
+  s_0276221d01c0b0::t_3ba3bae053d88a 1-181
+apps/data/capture/apps.py
+  s_0276221d01c0b0::t_3ba3bae053d88a 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "a892c4980154ff0a863feb7c0a1236b4a3f8512d",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

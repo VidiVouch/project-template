@@ -1,0 +1,32 @@
+apps/provenance/models.py
+  s_b771d99100a061::t_199b83c17d5500 155-161,177-189,191-196,198-200
+apps/provenance/api.py
+  s_b771d99100a061::t_4e3435c7bdd99d 108-114
+apps/notary/reposlug.py
+  s_b771d99100a061::t_98f9883e1f9005 47
+apps/provenance/tests/test_ingest.py
+  s_b771d99100a061::t_550a1fc2d01af3 122-138
+templates/provenance/tokens.html
+  s_b771d99100a061::t_64c6f2422c95aa 64-68
+apps/provenance/views.py
+  s_b771d99100a061::t_8247e6d87c9358 21
+apps/provenance/tests/test_tokens.py
+  s_b771d99100a061::t_16f05beca4de95 134-145,147-148
+  s_b771d99100a061::t_931d373d2085cf 146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "47b77d5136b46b647675ab9df06d8e6c304a01ce",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

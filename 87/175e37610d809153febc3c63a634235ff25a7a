@@ -1,0 +1,19 @@
+.gitignore
+  s_f2ae29216c779d::t_5bbeebe22040f7 774-775
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "87175e37610d809153febc3c63a634235ff25a7a",
+  "prompts": {},
+  "sessions": {
+    "s_f2ae29216c779d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0e7dc62-2568-46bc-a283-87f8b657a04a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

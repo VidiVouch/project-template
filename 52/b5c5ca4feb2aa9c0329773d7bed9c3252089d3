@@ -1,0 +1,35 @@
+apps/sales/migrations/0009_icpscore_deliveryrecord_rls.py
+  s_0276221d01c0b0::t_8a8c4cffe61db6 18,20,23
+apps/sales/views.py
+  s_eef0c01ffe4331::t_25e84ffe6e9560 4
+apps/identity/tests/test_admin.py
+  s_eef0c01ffe4331::t_40bcd993d56717 515
+  s_eef0c01ffe4331::t_4c18bb483a5929 192,240
+  s_eef0c01ffe4331::t_e13663299ea5f9 252
+  s_eef0c01ffe4331::t_bf78bacf0f3a12 186,189-191
+  s_eef0c01ffe4331::t_a39a885cfbd9be 234,237-239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "52b5c5ca4feb2aa9c0329773d7bed9c3252089d3",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+apps/provenance/tests/test_badge.py
+  s_17405aaf91a59b::t_256566ccb09de8 217-226,228,230-243,245-253
+  s_17405aaf91a59b::t_722177f158b670 244
+  s_17405aaf91a59b::t_2abfab0cc54a27 71-78
+  s_17405aaf91a59b::t_76051ff3606c5f 227
+  s_17405aaf91a59b::t_01c398aced2a3a 30-38
+  s_17405aaf91a59b::t_72f9a8f78894ea 229
+apps/provenance/selectors.py
+  s_17405aaf91a59b::t_0cd7d75d28c6ab 27,33
+  s_17405aaf91a59b::t_a157ef3b16c3d5 106-107,109-177
+  s_17405aaf91a59b::t_30262737a06fb3 108
+apps/identity/tests/test_entitlements.py
+  s_17405aaf91a59b::t_f6a6bee36e6c2f 52
+  s_17405aaf91a59b::t_87d93f65ec23e9 83
+  s_17405aaf91a59b::t_e9c8d0b249d011 137
+  s_17405aaf91a59b::t_b358a4ee01c1c3 62
+  s_17405aaf91a59b::t_9cfd42f2ddabcb 67
+  s_17405aaf91a59b::t_09a9d3e28b1231 1-14,19-20,23-51,53-61,63-66,68-82,84-115,119,121-123,125-129,132
+apps/provenance/tests/test_ingest.py
+  s_17405aaf91a59b::t_02742973a55430 117
+  s_17405aaf91a59b::t_94af45ec787359 113-116,118-135
+  s_17405aaf91a59b::t_f92c84eab83464 16
+apps/identity/entitlements.py
+  s_17405aaf91a59b::t_f0ea69e68ebe47 1-20,23-30,35,39-42,44-52,55-56,58-63,65-92,95,98,101-110,116-121,127,129
+apps/provenance/tests/test_views.py
+  s_17405aaf91a59b::t_5f1e49d6570817 15
+  s_17405aaf91a59b::t_6219febbf27274 113-127,129-166
+  s_17405aaf91a59b::t_5c3b3102846580 128
+templates/provenance/platform_upgrade.html
+  s_17405aaf91a59b::t_c6577ddb525ea4 1-28
+apps/provenance/tests/test_org_dashboard.py
+  s_17405aaf91a59b::t_902695d05e5300 256-272,274,276-280,283-286,291-298,300-310,312-323,335
+  s_17405aaf91a59b::t_403f0490ced66e 311
+  s_17405aaf91a59b::t_71aa9e7244bd34 24
+  s_17405aaf91a59b::t_f9d9b62ec9754d 333
+apps/provenance/tests/test_voucher_count.py
+  s_17405aaf91a59b::t_e0fdef2cf154f0 1-27,32-135
+  s_17405aaf91a59b::t_8e7400b4b33105 28-31
+apps/provenance/tests/test_repo_report.py
+  s_17405aaf91a59b::t_0267694efcec10 74-83,90-94
+  s_17405aaf91a59b::t_2c65a61d6ba2d7 10
+apps/provenance/tests/test_unit_detail.py
+  s_17405aaf91a59b::t_5c5bbfb73968a5 110-117,124-128
+  s_17405aaf91a59b::t_351fe1eb672018 23
+apps/provenance/tests/test_heatmap.py
+  s_17405aaf91a59b::t_bde2d9f666a339 28
+  s_17405aaf91a59b::t_5e63082eacdac3 196-203,210-214
+apps/provenance/tests/test_connect_repo.py
+  s_17405aaf91a59b::t_aee7cbb762fbbe 176
+  s_17405aaf91a59b::t_738ada7304663e 21
+  s_17405aaf91a59b::t_3afd41b406a5f2 143-144,146-150,153-154,156-167,172-173,175,177-178,185
+apps/provenance/tests/test_reviewer_profile.py
+  s_17405aaf91a59b::t_6a63964b7df922 91-98,105-109
+  s_17405aaf91a59b::t_457a4840a1314d 20
+config/settings/base.py
+  s_17405aaf91a59b::t_9f50be42239b6a 483-493
+apps/provenance/views.py
+  s_17405aaf91a59b::t_9edd15185c7ed1 3
+  s_17405aaf91a59b::t_180258a8426108 419
+  s_17405aaf91a59b::t_25fc2f9ef890fb 951,955-958,960-966,988-999,1001,1003
+  s_17405aaf91a59b::t_e59ded564bccce 1298
+  s_17405aaf91a59b::t_f8cfb4ee197742 102-164,166
+  s_17405aaf91a59b::t_b3b5de019fefcd 1462-1470,1476-1477,1480-1484,1487-1506
+  s_17405aaf91a59b::t_449d8a9cdda430 266-272
+  s_17405aaf91a59b::t_8169251ecc0da6 345
+  s_17405aaf91a59b::t_e1386149a3d8cb 1217
+  s_17405aaf91a59b::t_e21a2778c60da6 584
+  s_17405aaf91a59b::t_da8839d65ed78c 764
+  s_17405aaf91a59b::t_9b97f951a5ee1a 28-29
+  s_17405aaf91a59b::t_60159bac2e5071 80-85,88,90,96-97
+  s_17405aaf91a59b::t_5ab4b5cf0d068b 1061
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "b298d17ab6e1afa801670e66b8b950ef5a705d2d",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

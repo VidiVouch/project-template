@@ -1,0 +1,49 @@
+apps/intake/forms.py
+  s_0276221d01c0b0::t_e139884874b621 1-54
+apps/intake/tests/test_admin.py
+  s_0276221d01c0b0::t_e139884874b621 1-125
+apps/intake/urls.py
+  s_0276221d01c0b0::t_e139884874b621 1-12
+apps/intake/migrations/0002_rls.py
+  s_0276221d01c0b0::t_e139884874b621 1-27
+apps/intake/admin.py
+  s_0276221d01c0b0::t_e139884874b621 1-181
+apps/intake/models.py
+  s_0276221d01c0b0::t_e139884874b621 1-160
+apps/intake/apps.py
+  s_0276221d01c0b0::t_e139884874b621 1-23
+apps/intake/tests/test_models.py
+  s_0276221d01c0b0::t_e139884874b621 1-55
+apps/intake/views.py
+  s_0276221d01c0b0::t_e139884874b621 1-122
+apps/intake/tests/test_views.py
+  s_0276221d01c0b0::t_e139884874b621 1-161
+apps/intake/tests/test_rls.py
+  s_0276221d01c0b0::t_e139884874b621 1-109
+apps/intake/receivers.py
+  s_0276221d01c0b0::t_e139884874b621 1-92
+apps/intake/tests/test_receivers.py
+  s_0276221d01c0b0::t_e139884874b621 1-50
+apps/intake/migrations/0001_initial.py
+  s_0276221d01c0b0::t_e139884874b621 1-68
+apps/intake/events.py
+  s_0276221d01c0b0::t_e139884874b621 1-21
+apps/intake/tests/factories.py
+  s_0276221d01c0b0::t_e139884874b621 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2aab7ad3d1851df78b1fe4dafdb3d90066447627",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

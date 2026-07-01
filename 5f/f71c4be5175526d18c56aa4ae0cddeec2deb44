@@ -1,0 +1,25 @@
+tests/eval/test_resolution_eval.py
+  s_0276221d01c0b0::t_2dd5e4fd1cc4e9 1-67
+tests/eval/__init__.py
+  s_0276221d01c0b0::t_2dd5e4fd1cc4e9 1-9
+tests/eval/corpus.py
+  s_0276221d01c0b0::t_2dd5e4fd1cc4e9 1-241
+tests/eval/harness.py
+  s_0276221d01c0b0::t_2dd5e4fd1cc4e9 1-162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "5ff71c4be5175526d18c56aa4ae0cddeec2deb44",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

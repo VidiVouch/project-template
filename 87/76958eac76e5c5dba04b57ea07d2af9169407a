@@ -1,0 +1,56 @@
+apps/catalog/handlers/stova.py
+  s_ffd92932362e87::t_b92fa7141fd189 287
+  s_ffd92932362e87::t_20a9bfd4cad929 175
+  s_ffd92932362e87::t_d7b744212d01d2 116
+config/settings/base.py
+  s_ffd92932362e87::t_ce24596847a9a8 114
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_5fb9ce40fafb28 100-107
+  s_ffd92932362e87::t_1c81cb15235f3e 61-68
+  s_ffd92932362e87::t_a7f36717678acc 124-125
+  s_ffd92932362e87::t_4fd5ae53108e7c 145-148
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_0cb5475ffef8ed 275-280
+  s_ffd92932362e87::t_e2e76f92e83c29 96-103
+  s_ffd92932362e87::t_648cfae287c378 49-56
+apps/data/stova/tests/test_models.py
+  s_ffd92932362e87::t_45915b6198c770 23
+envelopes/stova/versions.py
+  s_ffd92932362e87::t_b88578389e5f88 1-25
+apps/data/stova/tests/test_mapping.py
+  s_ffd92932362e87::t_fb3c4093347e45 7-10
+  s_ffd92932362e87::t_611354c6ea89d0 26
+apps/data/stova/mapping.py
+  s_ffd92932362e87::t_018c0e3558bc0f 19
+  s_ffd92932362e87::t_fa94e15133803d 43-58
+apps/bootstrap.py
+  s_ffd92932362e87::t_a7b1964de97737 94,98-110
+apps/data/stova/models.py
+  s_ffd92932362e87::t_e10624901e7eab 49-215
+  s_ffd92932362e87::t_dfa34cf7396744 40
+apps/catalog/tests/test_promote_stova.py
+  s_ffd92932362e87::t_9fe84ecc685cdb 200
+  s_ffd92932362e87::t_9a1de7a3c12f7a 49
+  s_ffd92932362e87::t_cd79c79cf84def 273
+  s_ffd92932362e87::t_10a0078bed48a0 151
+apps/data/stova/transformers.py
+  s_ffd92932362e87::t_a7f32a29090ffe 15
+  s_ffd92932362e87::t_081b547baba463 38-39
+  s_ffd92932362e87::t_507ec84f4c96d0 56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8776958eac76e5c5dba04b57ea07d2af9169407a",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,2133 @@
+.agents/skills/investigate-traffic/SKILL.md
+  s_b380a8ea486da9::t_cd5f9e11ee64e4 1-158
+.agents/skills/new-source/SKILL.md
+  s_b380a8ea486da9::t_673d836d20f061 1-113
+.agents/skills/new-source/references/flow_reader.md
+  s_b380a8ea486da9::t_3dfb12ff7dbcf7 1-129
+.agents/skills/new-source/references/research.md
+  s_b380a8ea486da9::t_6279b28ae1ee07 1-131
+.agents/skills/port-drain/SKILL.md
+  s_b380a8ea486da9::t_3bd2ec39fda5bd 1-94
+.agents/skills/port-drain/references/canonical-keys.md
+  s_b380a8ea486da9::t_93966397bdb416 1-84
+.agents/skills/port-drain/references/handlers.md
+  s_b380a8ea486da9::t_825efd93397013 1-137
+.agents/skills/port-drain/references/harvest-legacy-drain.md
+  s_b380a8ea486da9::t_e9ae4768ebbf73 1-88
+.agents/skills/port-drain/references/mapping.md
+  s_b380a8ea486da9::t_11b91c378c0e96 1-112
+.agents/skills/port-drain/references/registration-tests.md
+  s_b380a8ea486da9::t_adf316beb537c1 1-131
+.agents/skills/port-source/SKILL.md
+  s_b380a8ea486da9::t_34c49b7af7659d 1-103
+.agents/skills/port-source/references/legacy-map.md
+  s_b380a8ea486da9::t_124a40086bf581 1-115
+.agents/skills/port-source/references/spider-adapter-port.md
+  s_b380a8ea486da9::t_9d86840e668b21 1-148
+.agents/skills/port-source/references/tier1-models.md
+  s_b380a8ea486da9::t_3eabfafee9b90d 1-160
+.agents/skills/port-source/references/transformers-registration.md
+  s_b380a8ea486da9::t_0ac3ef8132bc89 1-176
+.agents/skills/port-source/references/validation.md
+  s_b380a8ea486da9::t_291d52e0fa7276 1-125
+.claude/hooks/run_architecture_tests.py
+  s_b380a8ea486da9::t_09f1e22a0077d0 1-123
+.claude/hooks/seed_worktree_env.py
+  s_b380a8ea486da9::t_eb5497e0e84795 1-93
+.claude/settings.json
+  s_b380a8ea486da9::t_7d73d02558a76d 42-64,85-95,126
+.gitignore
+  s_b380a8ea486da9::t_4f556e68b1de43 785-786
+.idea/runConfigurations/Pytest__Research_.xml
+  s_b380a8ea486da9::t_64ac29291f9177 1-25
+.idea/scopes/Research.xml
+  s_b380a8ea486da9::t_fe8c7d6b554f88 1-3
+AGENTS.md
+  s_b380a8ea486da9::t_1d4907be0a7885 30-33
+CLIENT_RESEARCH_DESIGN.html
+  s_b380a8ea486da9::t_17d920838fbc50 1-559
+CLIENT_VISIBILITY_INTERVIEW.html
+  s_b380a8ea486da9::t_88ddeac9f5a23e 1-870
+CONTRIBUTING.md
+  s_b380a8ea486da9::t_666c3425f2fbe2 1-156
+ENRICHMENT_DISAMBIGUATION_PORT_PLAN.html
+  s_b380a8ea486da9::t_c8b0837b8d1187 1-3030
+EVENT_SCOPE_CONTRACT.md
+  s_b380a8ea486da9::t_27e365d8cdb319 1-108
+NEXT_BUILD_PLAN.html
+  s_b380a8ea486da9::t_2a1213b4e7063f 1-340
+PK_FIX_PATTERN.md
+  s_b380a8ea486da9::t_f6dfa71cd44cf4 1-388
+PORTAL_V5_PLAN.html
+  s_b380a8ea486da9::t_f5eb482cb35c87 1-629
+PORT_REVIEW_PACKET.html
+  s_b380a8ea486da9::t_d8c623c961d2f5 1-1623
+POST_GRIP_REBUILD_PLAN.html
+  s_b380a8ea486da9::t_0ce03df2728979 1-1142
+README.md
+  s_b380a8ea486da9::t_64fefb43ad9fbb 17-18,210-214,257-341
+REBUILD_PLAN_v4.md
+  s_b380a8ea486da9::t_3b14ade2719b4f 1-154
+REMIGRATE_FIX_PLAN.md
+  s_b380a8ea486da9::t_3465635ff0d484 1-204
+REMIGRATE_LEDGER.md
+  s_b380a8ea486da9::t_ff4d8f7ee41c4d 1-175
+REMIGRATE_LEGACY_MAP.md
+  s_b380a8ea486da9::t_ce49f4a9de5518 1-43
+REMIGRATE_MANIFEST.txt
+  s_b380a8ea486da9::t_e68fb7d781fd72 1-1403
+REVIEW.md
+  s_b380a8ea486da9::t_e4f3e484d8dedb 10,14-15,24-36
+SAAS_PLANNING_INTERVIEW.html
+  s_b380a8ea486da9::t_a1c1cc5905b4fa 1-951
+TEST_REVIEW.html
+  s_b380a8ea486da9::t_28921b0f681135 1-818
+apps/analytics/apps.py
+  s_b380a8ea486da9::t_779f065a45cc70 44-49
+apps/analytics/signals.py
+  s_b380a8ea486da9::t_2fc5e0913b4643 21-33,46-47,209-276
+apps/billing/migrations/0002_stripecustomer_event_at_stripeinvoice_event_at_and_more.py
+  s_b380a8ea486da9::t_1ad2e7a154edf7 1-33
+apps/billing/migrations/0003_stripecustomer_deleted_stripeinvoice_deleted_and_more.py
+  s_b380a8ea486da9::t_a1f8f0260d29ad 1,9
+apps/billing/models.py
+  s_b380a8ea486da9::t_feb0fcc791d541 4-14,17-18,28-29,32-36,39,48-51,56-69,81,84-107,110-113,115-123,125,129-139,143,146-147,150-152,155-157,169-170,187-188,216-219,226-228,241-249,254-261,269-271,273-278
+apps/billing/tests/test_models.py
+  s_b380a8ea486da9::t_79a56ce9e20eca 19-23,31-32,36,38,44,46-47,50-54,58,64,66-67,69,76-78,80,85,89-90,92,94,99-101,103,106-109,111,115-116,124-125,130,134,137
+apps/billing/tests/test_views.py
+  s_b380a8ea486da9::t_e18e0d5e6e7a64 1,6,8,12-18,31-36,47-248,264,271-328,333,335-337,340-342,345-347
+apps/billing/tests/test_webhooks.py
+  s_b380a8ea486da9::t_680af83ddcd50a 7-8,15,30-31,46-47,66,86-87,96-159,191-193,207-210,215-247
+apps/billing/views.py
+  s_b380a8ea486da9::t_1add924a45b66e 116,140-142,231-233,235-242,275
+apps/billing/webhooks.py
+  s_b380a8ea486da9::t_0e2835271e0f1a 5-17,47-48,51,66-67,84,89-91,96,98-102,108,110,113-115,118
+apps/bootstrap.py
+  s_b380a8ea486da9::t_3260034456057b 1-223
+apps/catalog/admin.py
+  s_b380a8ea486da9::t_9f5ea92bedca08 1-199
+apps/catalog/apps.py
+  s_b380a8ea486da9::t_0a3c96a97df7af 1-8
+apps/catalog/canonical_keys.py
+  s_b380a8ea486da9::t_b3ef8db9ece28c 1-103
+apps/catalog/cleaning/__init__.py
+  s_b380a8ea486da9::t_3896fea09262f0 1-52
+apps/catalog/cleaning/countries.py
+  s_b380a8ea486da9::t_8add01fb1e6d30 1-271
+apps/catalog/cleaning/descriptions.py
+  s_b380a8ea486da9::t_7ed50ff2a41cf9 1-118
+apps/catalog/cleaning/locations.py
+  s_b380a8ea486da9::t_bb78295ba6ff12 1-88
+apps/catalog/cleaning/organizations.py
+  s_b380a8ea486da9::t_00ccf862ddc7c7 1-620
+apps/catalog/cleaning/person_names.py
+  s_b380a8ea486da9::t_8557a56c7b7be9 1-681
+apps/catalog/cleaning/text.py
+  s_b380a8ea486da9::t_15f57f145282fd 1-22
+apps/catalog/cleaning/titles.py
+  s_b380a8ea486da9::t_00c0ad23ca3f1c 1-300
+apps/catalog/data/README.md
+  s_b380a8ea486da9::t_63cc0653c64c04 1-37
+apps/catalog/data/diminutives_female.csv
+  s_b380a8ea486da9::t_4cd164dc50cee8 1-258
+apps/catalog/data/diminutives_male.csv
+  s_b380a8ea486da9::t_97994b1dbe2f91 1-287
+apps/catalog/data/nicknames_carltonnorthern.csv
+  s_b380a8ea486da9::t_067321a05033e2 1-2692
+apps/catalog/domain/entities.py
+  s_b380a8ea486da9::t_db94ba00cdfed8 1-134
+apps/catalog/domain/events.py
+  s_b380a8ea486da9::t_141a5daa49c3df 1-84
+apps/catalog/domain/ports.py
+  s_b380a8ea486da9::t_c55bfc829a9160 1-182
+apps/catalog/export_engine.py
+  s_b380a8ea486da9::t_bdae8bb611b5f1 1-75
+apps/catalog/fakes.py
+  s_b380a8ea486da9::t_c580060d8166dc 1-254
+apps/catalog/handlers/__init__.py
+  s_b380a8ea486da9::t_8c903454c86b36 1-11
+apps/catalog/handlers/_advisory.py
+  s_b380a8ea486da9::t_52f80b9d13d68a 1-60
+apps/catalog/handlers/_presence.py
+  s_b380a8ea486da9::t_8dcaef46aa0410 1-86
+apps/catalog/handlers/_sequence.py
+  s_b380a8ea486da9::t_7e244bda53794e 1-42
+apps/catalog/handlers/_shared.py
+  s_b380a8ea486da9::t_7e1f5d49d87b66 1-324
+apps/catalog/handlers/allintheloop.py
+  s_b380a8ea486da9::t_d086e481f59162 1-299
+apps/catalog/handlers/apify.py
+  s_b380a8ea486da9::t_4a5c505aaa429c 1-389
+apps/catalog/handlers/awsummit.py
+  s_b380a8ea486da9::t_69d0a95d901dcf 1-282
+apps/catalog/handlers/brella.py
+  s_b380a8ea486da9::t_af5d0b967b09ce 1-305
+apps/catalog/handlers/cadmium/__init__.py
+  s_b380a8ea486da9::t_3911f9a6079f54 1-37
+apps/catalog/handlers/cadmium/events.py
+  s_b380a8ea486da9::t_8174efdaa89080 1-168
+apps/catalog/handlers/cadmium/orgs.py
+  s_b380a8ea486da9::t_1c8835744d0025 1-151
+apps/catalog/handlers/cadmium/people.py
+  s_b380a8ea486da9::t_b55990918e9f36 1-156
+apps/catalog/handlers/cadmium/stats.py
+  s_b380a8ea486da9::t_b5f528d10f8670 1-51
+apps/catalog/handlers/cadmium_batch.py
+  s_b380a8ea486da9::t_f8c1e2b7ef4afb 1-649
+apps/catalog/handlers/core_apps.py
+  s_b380a8ea486da9::t_3a3f07b6ff085f 1-267
+apps/catalog/handlers/cvent.py
+  s_b380a8ea486da9::t_3f6e53d403e762 1-285
+apps/catalog/handlers/eventpilot.py
+  s_b380a8ea486da9::t_b78901f7ae4543 1-297
+apps/catalog/handlers/expoplatform.py
+  s_b380a8ea486da9::t_0021c7cb75c020 1-272
+apps/catalog/handlers/gatherdigital.py
+  s_b380a8ea486da9::t_2233bfcfd9bf6c 1-310
+apps/catalog/handlers/grip.py
+  s_b380a8ea486da9::t_a8b0e341faf6cf 1-286
+apps/catalog/handlers/luma.py
+  s_b380a8ea486da9::t_913252a512c483 1-154
+apps/catalog/handlers/mapyourshow.py
+  s_b380a8ea486da9::t_3d91662271fe34 1-219
+apps/catalog/handlers/play_store.py
+  s_b380a8ea486da9::t_042b8054952d9b 1-45
+apps/catalog/handlers/resident.py
+  s_b380a8ea486da9::t_03e47937d579f2 1-1008
+apps/catalog/handlers/resident_prep.py
+  s_b380a8ea486da9::t_2b46551a0280ba 1-168
+apps/catalog/handlers/resident_spec.py
+  s_b380a8ea486da9::t_4a9212d234aec3 1-65
+apps/catalog/handlers/resident_turbo.py
+  s_b380a8ea486da9::t_34dd66feebf56f 1-157
+apps/catalog/handlers/resultsdirect.py
+  s_b380a8ea486da9::t_f9d15bc1a5b4b7 1-293
+apps/catalog/handlers/serper.py
+  s_b380a8ea486da9::t_69bc885220caa7 1-226
+apps/catalog/handlers/stova.py
+  s_b380a8ea486da9::t_7aa6f54a6eb279 1-337
+apps/catalog/handlers/swapcard.py
+  s_b380a8ea486da9::t_d70eb3dcaa4a4f 1-295
+apps/catalog/handlers/websummit.py
+  s_b380a8ea486da9::t_33b29f5e3e26d8 1-277
+apps/catalog/handlers/xcd.py
+  s_b380a8ea486da9::t_bc9bc598b73519 1-298
+apps/catalog/identity/__init__.py
+  s_b380a8ea486da9::t_9709b50e162c73 1-53
+apps/catalog/identity/emails.py
+  s_b380a8ea486da9::t_fa7f0b2d0ca5a5 1-200
+apps/catalog/identity/linkedin.py
+  s_b380a8ea486da9::t_74499639117e1c 1-243
+apps/catalog/identity/names.py
+  s_b380a8ea486da9::t_5fa23a8dc3b71b 1-423
+apps/catalog/identity/names_data.py
+  s_b380a8ea486da9::t_0450a2f5f6de75 1-1561
+apps/catalog/identity/phones.py
+  s_b380a8ea486da9::t_d8bb66da4f8ce1 1-95
+apps/catalog/management/_supervisor.py
+  s_b380a8ea486da9::t_4f08158b2614cf 1-168
+apps/catalog/management/commands/build_nickname_data.py
+  s_b380a8ea486da9::t_5acf1cc12ee4c0 1-114
+apps/catalog/management/commands/dedupe_employments.py
+  s_b380a8ea486da9::t_7ab779bc0f6d83 1-145
+apps/catalog/management/commands/export_events.py
+  s_b380a8ea486da9::t_7eaa63e6370f0f 1-102
+apps/catalog/management/commands/merge_claim_bridges.py
+  s_b380a8ea486da9::t_6864d6423201ad 1-372
+apps/catalog/management/commands/merge_event_namesakes.py
+  s_b380a8ea486da9::t_b35e663cca1731 1-171
+apps/catalog/management/commands/merge_linkedin_renames.py
+  s_b380a8ea486da9::t_9c091bdd569f7f 1-121
+apps/catalog/management/commands/promote_pipeline.py
+  s_b380a8ea486da9::t_8cb2791186c8cf 1-135
+apps/catalog/management/commands/promote_unprocessed.py
+  s_b380a8ea486da9::t_198afb5a75e3c4 1-673
+apps/catalog/management/commands/reexamine_claims.py
+  s_b380a8ea486da9::t_5c590432cabdf4 1-287
+apps/catalog/management/commands/refresh_org_stems.py
+  s_b380a8ea486da9::t_2851175036d8f9 1-64
+apps/catalog/management/commands/reset_processed.py
+  s_b380a8ea486da9::t_e9b3c161d08613 1-158
+apps/catalog/merge.py
+  s_b380a8ea486da9::t_59f9c610982727 1-757
+apps/catalog/migrations/0001_initial.py
+  s_b380a8ea486da9::t_2dc8e0480bc703 1-165
+apps/catalog/migrations/0002_personmerge_claimbridge.py
+  s_b380a8ea486da9::t_7c5e4d3693ba03 1-41
+apps/catalog/migrations/0003_organizationmerge.py
+  s_b380a8ea486da9::t_a968fbc7b11873 1-34
+apps/catalog/migrations/0004_eventsourcepresence.py
+  s_b380a8ea486da9::t_766e922b70ebed 1-41
+apps/catalog/migrations/0005_eventorganizationrelationship_booth_number.py
+  s_b380a8ea486da9::t_42a6d0205445b4 1-18
+apps/catalog/migrations/0006_alter_eventparticipation_role.py
+  s_b380a8ea486da9::t_207b50485fa53e 1-18
+apps/catalog/models.py
+  s_b380a8ea486da9::t_9a742863b27222 1-730
+apps/catalog/org_collision.py
+  s_b380a8ea486da9::t_207392806d850b 1-50
+apps/catalog/org_services.py
+  s_b380a8ea486da9::t_373b7f58eb6d89 1-176
+apps/catalog/promoter_registry.py
+  s_b380a8ea486da9::t_25694c3f35b04f 1-99
+apps/catalog/promoters.py
+  s_b380a8ea486da9::t_1224a51f28ef09 1-357
+apps/catalog/registrations.py
+  s_b380a8ea486da9::t_745ab429133b4f 1-24
+apps/catalog/repositories.py
+  s_b380a8ea486da9::t_ee03b9672a917c 1-403
+apps/catalog/services.py
+  s_b380a8ea486da9::t_7a762dc9a4c26f 1-348
+apps/catalog/tests/factories.py
+  s_b380a8ea486da9::t_2a254916fe10cd 1-238
+apps/catalog/tests/test_build_nickname_data.py
+  s_b380a8ea486da9::t_1c68ed20445501 1-46
+apps/catalog/tests/test_cadmium_batch.py
+  s_b380a8ea486da9::t_896bc534323cdd 1-580
+apps/catalog/tests/test_catalog_admin.py
+  s_b380a8ea486da9::t_070c5255a0f566 1-117
+apps/catalog/tests/test_claim_bridge_ledgering.py
+  s_b380a8ea486da9::t_6e59d3d82b3e8c 1-116
+apps/catalog/tests/test_claim_policy.py
+  s_b380a8ea486da9::t_dd93f835b76e5a 1-334
+apps/catalog/tests/test_countries.py
+  s_b380a8ea486da9::t_b59f110a0fbebf 1-132
+apps/catalog/tests/test_dedupe_employments.py
+  s_b380a8ea486da9::t_d9daad5ce7ae99 1-159
+apps/catalog/tests/test_descriptions.py
+  s_b380a8ea486da9::t_82c321fe3f11e6 1-119
+apps/catalog/tests/test_domain_entities.py
+  s_b380a8ea486da9::t_0b9132b5f4bffe 1-80
+apps/catalog/tests/test_domain_events.py
+  s_b380a8ea486da9::t_e550f89c76be71 1-50
+apps/catalog/tests/test_emails.py
+  s_b380a8ea486da9::t_30fedb2d428889 1-124
+apps/catalog/tests/test_employment_from_participation.py
+  s_b380a8ea486da9::t_72ea58f92bc414 1-138
+apps/catalog/tests/test_export_engine.py
+  s_b380a8ea486da9::t_a4458ef6d6c108 1-103
+apps/catalog/tests/test_export_events.py
+  s_b380a8ea486da9::t_662b75ad4443df 1-207
+apps/catalog/tests/test_fakes.py
+  s_b380a8ea486da9::t_a3f668e8daedbf 1-558
+apps/catalog/tests/test_linkedin.py
+  s_b380a8ea486da9::t_fa7b07055fdc94 1-300
+apps/catalog/tests/test_locations.py
+  s_b380a8ea486da9::t_7c0ca87ed5a867 1-78
+apps/catalog/tests/test_merge.py
+  s_b380a8ea486da9::t_ffbd960b69f09e 1-289
+apps/catalog/tests/test_merge_claim_bridges.py
+  s_b380a8ea486da9::t_bfff0aa4b49db3 1-405
+apps/catalog/tests/test_merge_event_namesakes.py
+  s_b380a8ea486da9::t_072c682fa887d1 1-336
+apps/catalog/tests/test_merge_fk_registry.py
+  s_b380a8ea486da9::t_579832158c98ea 1-397
+apps/catalog/tests/test_merge_linkedin_renames.py
+  s_b380a8ea486da9::t_b212b5fa426b74 1-153
+apps/catalog/tests/test_merge_organizations.py
+  s_b380a8ea486da9::t_969a36932c9cc7 1-228
+apps/catalog/tests/test_models.py
+  s_b380a8ea486da9::t_34ae54c51fdd4a 1-315
+apps/catalog/tests/test_names.py
+  s_b380a8ea486da9::t_7a4356740d8ef8 1-251
+apps/catalog/tests/test_org_services.py
+  s_b380a8ea486da9::t_848c85d886a614 1-196
+apps/catalog/tests/test_organizations.py
+  s_b380a8ea486da9::t_12889fd497935c 1-362
+apps/catalog/tests/test_person_name_cleaning.py
+  s_b380a8ea486da9::t_943fe01c3298df 1-283
+apps/catalog/tests/test_person_resolution.py
+  s_b380a8ea486da9::t_0fe3e34a0c43fe 1-262
+apps/catalog/tests/test_phones.py
+  s_b380a8ea486da9::t_5c8931cb423ded 1-85
+apps/catalog/tests/test_promote_allintheloop.py
+  s_b380a8ea486da9::t_0b4c64fac36c58 1-357
+apps/catalog/tests/test_promote_apify.py
+  s_b380a8ea486da9::t_c97d4de92ab564 1-678
+apps/catalog/tests/test_promote_awsummit.py
+  s_b380a8ea486da9::t_5cc8ca19b42e07 1-288
+apps/catalog/tests/test_promote_brella.py
+  s_b380a8ea486da9::t_1026095daa5823 1-384
+apps/catalog/tests/test_promote_cadmium.py
+  s_b380a8ea486da9::t_66f5ea2752b799 1-315
+apps/catalog/tests/test_promote_company.py
+  s_b380a8ea486da9::t_55376b67d37796 1-268
+apps/catalog/tests/test_promote_core_apps.py
+  s_b380a8ea486da9::t_d0aac014762da7 1-280
+apps/catalog/tests/test_promote_cvent.py
+  s_b380a8ea486da9::t_5438cac11f5584 1-308
+apps/catalog/tests/test_promote_employment.py
+  s_b380a8ea486da9::t_408d1d998093ce 1-200
+apps/catalog/tests/test_promote_event.py
+  s_b380a8ea486da9::t_6287a4789ae1a3 1-349
+apps/catalog/tests/test_promote_event_organization_relationship.py
+  s_b380a8ea486da9::t_265a38efbf5842 1-332
+apps/catalog/tests/test_promote_event_participation.py
+  s_b380a8ea486da9::t_1cd4d9fbe955b5 1-309
+apps/catalog/tests/test_promote_event_participation_attendee.py
+  s_b380a8ea486da9::t_2b32a5389bc4c8 1-313
+apps/catalog/tests/test_promote_event_participation_poster_presenter.py
+  s_b380a8ea486da9::t_2c81d0c0837b56 1-146
+apps/catalog/tests/test_promote_eventpilot.py
+  s_b380a8ea486da9::t_1adf2b4e904c60 1-344
+apps/catalog/tests/test_promote_expoplatform.py
+  s_b380a8ea486da9::t_54cf0f6984760f 1-284
+apps/catalog/tests/test_promote_gatherdigital.py
+  s_b380a8ea486da9::t_e91d2c97530ac9 1-344
+apps/catalog/tests/test_promote_grip.py
+  s_b380a8ea486da9::t_4d6db68c5df3fe 1-345
+apps/catalog/tests/test_promote_individual.py
+  s_b380a8ea486da9::t_8d63100d8c4ae8 1-242
+apps/catalog/tests/test_promote_luma.py
+  s_b380a8ea486da9::t_5167c5fae1e948 1-223
+apps/catalog/tests/test_promote_mapyourshow.py
+  s_b380a8ea486da9::t_212a2af50cd85e 1-293
+apps/catalog/tests/test_promote_pipeline.py
+  s_b380a8ea486da9::t_e3c4ad1a1da85a 1-162
+apps/catalog/tests/test_promote_presence.py
+  s_b380a8ea486da9::t_e2a1d58f15d530 1-274
+apps/catalog/tests/test_promote_resultsdirect.py
+  s_b380a8ea486da9::t_fc5204be62832f 1-340
+apps/catalog/tests/test_promote_serper.py
+  s_b380a8ea486da9::t_d62a8a6f8ea50c 1-336
+apps/catalog/tests/test_promote_stova.py
+  s_b380a8ea486da9::t_d822ab41007714 1-304
+apps/catalog/tests/test_promote_swapcard.py
+  s_b380a8ea486da9::t_8ff5824393f8d3 1-448
+apps/catalog/tests/test_promote_unprocessed.py
+  s_b380a8ea486da9::t_7afb3f552d0ff9 1-445
+apps/catalog/tests/test_promote_websummit.py
+  s_b380a8ea486da9::t_38958a01bf2635 1-309
+apps/catalog/tests/test_promote_xcd.py
+  s_b380a8ea486da9::t_60721755d06fa3 1-334
+apps/catalog/tests/test_promoter_registry.py
+  s_b380a8ea486da9::t_821170b7afe632 1-478
+apps/catalog/tests/test_reexamine_claims.py
+  s_b380a8ea486da9::t_19c1d05ad51164 1-385
+apps/catalog/tests/test_refresh_org_stems.py
+  s_b380a8ea486da9::t_b73c5c572619c7 1-59
+apps/catalog/tests/test_registrations.py
+  s_b380a8ea486da9::t_b9b953bcda79f8 1-67
+apps/catalog/tests/test_reset_processed.py
+  s_b380a8ea486da9::t_20e86b19f7b5a5 1-167
+apps/catalog/tests/test_resident.py
+  s_b380a8ea486da9::t_168a6605536996 1-482
+apps/catalog/tests/test_resident_turbo.py
+  s_b380a8ea486da9::t_9980461ce2136a 1-192
+apps/catalog/tests/test_resolution_goldens.py
+  s_b380a8ea486da9::t_b7ad9ebbf92bbc 1-477
+apps/catalog/tests/test_supervisor.py
+  s_b380a8ea486da9::t_4b4dcb58a1be30 1-220
+apps/catalog/tests/test_throughput_tripwires.py
+  s_b380a8ea486da9::t_82502c732a23ac 1-137
+apps/catalog/tests/test_title_cleaning.py
+  s_b380a8ea486da9::t_a8d10b7be6a868 1-153
+apps/data/allintheloop/admin.py
+  s_b380a8ea486da9::t_4146e177fb9704 1-34
+apps/data/allintheloop/apps.py
+  s_b380a8ea486da9::t_535c4875c4fbee 1-8
+apps/data/allintheloop/management/commands/import_portal_allintheloop.py
+  s_b380a8ea486da9::t_959781174bbc5f 1-102
+apps/data/allintheloop/mapping.py
+  s_b380a8ea486da9::t_cc19742a84023a 1-199
+apps/data/allintheloop/migrations/0001_initial.py
+  s_b380a8ea486da9::t_c42fb67028bacb 1-143
+apps/data/allintheloop/models.py
+  s_b380a8ea486da9::t_d58c1ddd7c4dec 1-119
+apps/data/allintheloop/registrations.py
+  s_b380a8ea486da9::t_cd7e02359c5728 1-57
+apps/data/allintheloop/tests/test_admin.py
+  s_b380a8ea486da9::t_bea65f8b6ce13f 1-48
+apps/data/allintheloop/tests/test_app_registration.py
+  s_b380a8ea486da9::t_3fc3ced26cd460 1-42
+apps/data/allintheloop/tests/test_contracts.py
+  s_b380a8ea486da9::t_d85e996ae0e941 1-129
+apps/data/allintheloop/tests/test_import_portal_allintheloop.py
+  s_b380a8ea486da9::t_7e29609831503b 1-104
+apps/data/allintheloop/tests/test_mapping.py
+  s_b380a8ea486da9::t_6ac4da70e2d1b0 1-139
+apps/data/allintheloop/tests/test_response.py
+  s_b380a8ea486da9::t_45186b1f35febd 1-185
+apps/data/allintheloop/tests/test_transformers.py
+  s_b380a8ea486da9::t_968908d34a289b 1-102
+apps/data/allintheloop/transformers.py
+  s_b380a8ea486da9::t_df16c6ec83a782 1-113
+apps/data/apify/admin.py
+  s_b380a8ea486da9::t_549411e9bbc481 1-24
+apps/data/apify/apps.py
+  s_b380a8ea486da9::t_7d09da814ac878 1-8
+apps/data/apify/management/commands/import_portal_apify.py
+  s_b380a8ea486da9::t_9dbfc782ddd4fa 1-105
+apps/data/apify/migrations/0001_initial.py
+  s_b380a8ea486da9::t_a09dddd7748f43 1-77
+apps/data/apify/models.py
+  s_b380a8ea486da9::t_6573efb02df27b 1-97
+apps/data/apify/registrations.py
+  s_b380a8ea486da9::t_dd89083702d478 1-19
+apps/data/apify/tests/test_app_registration.py
+  s_b380a8ea486da9::t_e6a8d2756a1ae0 1-29
+apps/data/apify/tests/test_contracts.py
+  s_b380a8ea486da9::t_9269b2c5debe2a 1-67
+apps/data/apify/tests/test_import_portal_apify.py
+  s_b380a8ea486da9::t_5008fcb0903c45 1-187
+apps/data/apify/tests/test_transformers.py
+  s_b380a8ea486da9::t_3c238dadce6ac6 1-353
+apps/data/apify/transformers.py
+  s_b380a8ea486da9::t_d986bb990e41d7 1-190
+apps/data/awsummit/admin.py
+  s_b380a8ea486da9::t_7f7ceedd9b51ae 1-39
+apps/data/awsummit/apps.py
+  s_b380a8ea486da9::t_57f82a0b039971 1-8
+apps/data/awsummit/management/commands/import_portal_awsummit.py
+  s_b380a8ea486da9::t_d6fd0d82cda3f6 1-102
+apps/data/awsummit/mapping.py
+  s_b380a8ea486da9::t_4aca628a6f0da2 1-165
+apps/data/awsummit/migrations/0001_initial.py
+  s_b380a8ea486da9::t_9b7b038a94564e 1-184
+apps/data/awsummit/models.py
+  s_b380a8ea486da9::t_7998bea48f07e9 1-169
+apps/data/awsummit/registrations.py
+  s_b380a8ea486da9::t_4bf41206366422 1-65
+apps/data/awsummit/tests/test_admin.py
+  s_b380a8ea486da9::t_a47f986df1dd50 1-52
+apps/data/awsummit/tests/test_app_registration.py
+  s_b380a8ea486da9::t_d4d226211d4495 1-46
+apps/data/awsummit/tests/test_contracts.py
+  s_b380a8ea486da9::t_07ea5837c944b7 1-154
+apps/data/awsummit/tests/test_import_portal_awsummit.py
+  s_b380a8ea486da9::t_66633020fc5dd1 1-97
+apps/data/awsummit/tests/test_mapping.py
+  s_b380a8ea486da9::t_1052bd646567a1 1-157
+apps/data/awsummit/tests/test_models.py
+  s_b380a8ea486da9::t_696674793c7a8c 1-126
+apps/data/awsummit/tests/test_response.py
+  s_b380a8ea486da9::t_f05e34cd376121 1-154
+apps/data/awsummit/transformers.py
+  s_b380a8ea486da9::t_565eec61bb7559 1-140
+apps/data/base/admin_actions.py
+  s_b380a8ea486da9::t_1258b34f9a4b61 1-45
+apps/data/base/apps.py
+  s_b380a8ea486da9::t_94bfbb62c710d4 1-23
+apps/data/base/chains.py
+  s_b380a8ea486da9::t_6263753ac2e6d3 1-68
+apps/data/base/cleaning.py
+  s_b380a8ea486da9::t_696225b613b616 1-171
+apps/data/base/hashing.py
+  s_b380a8ea486da9::t_a29143cc467ab8 1-127
+apps/data/base/models/__init__.py
+  s_b380a8ea486da9::t_72c6e1cd360e79 1-35
+apps/data/base/models/abstract_models.py
+  s_b380a8ea486da9::t_1fe93041534a52 1-561
+apps/data/base/paginator.py
+  s_b380a8ea486da9::t_9b3aa14cef080b 1-57
+apps/data/base/redirects.py
+  s_b380a8ea486da9::t_c55195a6e9fade 1-167
+apps/data/base/stats.py
+  s_b380a8ea486da9::t_9e710dd30e96cb 1-156
+apps/data/base/tests/models.py
+  s_b380a8ea486da9::t_0162d991df2beb 1-77
+apps/data/base/tests/test_abstract_models.py
+  s_b380a8ea486da9::t_d55a04d6344d74 1-209
+apps/data/base/tests/test_admin_actions.py
+  s_b380a8ea486da9::t_51438e84bbf1f4 1-34
+apps/data/base/tests/test_chains.py
+  s_b380a8ea486da9::t_3daa3e39702494 1-76
+apps/data/base/tests/test_cleaning.py
+  s_b380a8ea486da9::t_7a79b391e3987f 1-123
+apps/data/base/tests/test_hashing.py
+  s_b380a8ea486da9::t_492166292180c2 1-156
+apps/data/base/tests/test_paginator.py
+  s_b380a8ea486da9::t_ce0f484eddd7eb 1-50
+apps/data/base/tests/test_queryset.py
+  s_b380a8ea486da9::t_424f3a61aee6df 1-200
+apps/data/base/tests/test_redirects.py
+  s_b380a8ea486da9::t_3cac182abbfa6c 1-155
+apps/data/base/tests/test_stats.py
+  s_b380a8ea486da9::t_aff00eb5104d8a 1-72
+apps/data/brella/admin.py
+  s_b380a8ea486da9::t_8fc58f503cd8aa 1-93
+apps/data/brella/apps.py
+  s_b380a8ea486da9::t_51dbc1d165a22c 1-8
+apps/data/brella/management/commands/import_portal_brella.py
+  s_b380a8ea486da9::t_d4243cd2a01cf7 1-112
+apps/data/brella/mapping.py
+  s_b380a8ea486da9::t_9590e8f82fc135 1-218
+apps/data/brella/migrations/0001_initial.py
+  s_b380a8ea486da9::t_58ebc02e8fb30e 1-708
+apps/data/brella/models.py
+  s_b380a8ea486da9::t_ace11a7ccd0822 1-461
+apps/data/brella/registrations.py
+  s_b380a8ea486da9::t_8a1f9dcf67c99c 1-124
+apps/data/brella/sessions.py
+  s_b380a8ea486da9::t_770daaf659a50d 1-81
+apps/data/brella/tests/test_admin.py
+  s_b380a8ea486da9::t_6c80fb9ceb9d73 1-32
+apps/data/brella/tests/test_app_registration.py
+  s_b380a8ea486da9::t_fb3e4bb33acae7 1-26
+apps/data/brella/tests/test_contracts.py
+  s_b380a8ea486da9::t_7e347539c5e52d 1-143
+apps/data/brella/tests/test_import_portal_brella.py
+  s_b380a8ea486da9::t_78eea1ad113d49 1-151
+apps/data/brella/tests/test_login.py
+  s_b380a8ea486da9::t_ab9f053517e31b 1-55
+apps/data/brella/tests/test_mapping.py
+  s_b380a8ea486da9::t_565728f684226e 1-164
+apps/data/brella/tests/test_response.py
+  s_b380a8ea486da9::t_2ace6ede878d2c 1-141
+apps/data/brella/tests/test_sessions.py
+  s_b380a8ea486da9::t_48f306708940ab 1-114
+apps/data/brella/transformers.py
+  s_b380a8ea486da9::t_b76b9449624f19 1-379
+apps/data/cadmium/admin.py
+  s_b380a8ea486da9::t_1ca9ec1e4c318f 1-55
+apps/data/cadmium/apps.py
+  s_b380a8ea486da9::t_5f6be30f75f4ac 1-8
+apps/data/cadmium/management/commands/import_portal_cadmium.py
+  s_b380a8ea486da9::t_a074fac0daae53 1-103
+apps/data/cadmium/mapping.py
+  s_b380a8ea486da9::t_261dd4aadb0541 1-358
+apps/data/cadmium/migrations/0001_initial.py
+  s_b380a8ea486da9::t_436f0a4bca2f4b 1-352
+apps/data/cadmium/models.py
+  s_b380a8ea486da9::t_20c97fc7eaebe0 1-285
+apps/data/cadmium/registrations.py
+  s_b380a8ea486da9::t_924d937a5875cd 1-87
+apps/data/cadmium/tests/test_app_registration.py
+  s_b380a8ea486da9::t_abdaf51d45a2dc 1-82
+apps/data/cadmium/tests/test_contracts.py
+  s_b380a8ea486da9::t_e5883279dcc4ef 1-109
+apps/data/cadmium/tests/test_data_stats.py
+  s_b380a8ea486da9::t_88af3db3139d1d 1-100
+apps/data/cadmium/tests/test_import_portal_cadmium.py
+  s_b380a8ea486da9::t_636dfa692891a5 1-181
+apps/data/cadmium/tests/test_import_portal_cadmium_e2e.py
+  s_b380a8ea486da9::t_0b90f1cb333069 1-138
+apps/data/cadmium/tests/test_mapping.py
+  s_b380a8ea486da9::t_d2bb31899b2dde 1-262
+apps/data/cadmium/tests/test_models.py
+  s_b380a8ea486da9::t_8ae9038c1b781f 1-249
+apps/data/cadmium/tests/test_transformers.py
+  s_b380a8ea486da9::t_fd7f410aada683 1-252
+apps/data/cadmium/transformers.py
+  s_b380a8ea486da9::t_63d635d8fefc57 1-260
+apps/data/capture/_metrics.py
+  s_b380a8ea486da9::t_5ccbb906ec4154 1-72
+apps/data/capture/admin.py
+  s_b380a8ea486da9::t_c117b65b8d702b 1-57
+apps/data/capture/apps.py
+  s_b380a8ea486da9::t_87e44c5875f06c 1-8
+apps/data/capture/constants/enums.py
+  s_b380a8ea486da9::t_272861d505883f 1-20
+apps/data/capture/dtos.py
+  s_b380a8ea486da9::t_1ab00167d76663 1-92
+apps/data/capture/forms.py
+  s_b380a8ea486da9::t_c542dd9d21b72c 1-23
+apps/data/capture/management/commands/capture_inventory.py
+  s_b380a8ea486da9::t_1657c6fe36a303 1-73
+apps/data/capture/management/commands/data_stats.py
+  s_b380a8ea486da9::t_a940b1703dab2f 1-468
+apps/data/capture/management/commands/import_portal_logins.py
+  s_b380a8ea486da9::t_3bc37313ffd1ff 1-98
+apps/data/capture/management/commands/startsource.py
+  s_b380a8ea486da9::t_bfc7327c119794 1-140
+apps/data/capture/management/commands/transform_unprocessed.py
+  s_b380a8ea486da9::t_935b196e973f5a 1-224
+apps/data/capture/management/envelope_template/response.py-tpl
+  s_b380a8ea486da9::t_8d2c7bd7f56592 1-19
+apps/data/capture/management/envelope_template/versions.py-tpl
+  s_b380a8ea486da9::t_91d3ff25eec77a 1-26
+apps/data/capture/management/source_template/admin.py-tpl
+  s_b380a8ea486da9::t_966d79cff30727 1-24
+apps/data/capture/management/source_template/apps.py-tpl
+  s_b380a8ea486da9::t_59cf168a3fd4be 1-8
+apps/data/capture/management/source_template/management/commands/import_portal_${source}.py-tpl
+  s_b380a8ea486da9::t_416559cb119158 1-92
+apps/data/capture/management/source_template/mapping.py-tpl
+  s_b380a8ea486da9::t_46b0356ce742b3 1-25
+apps/data/capture/management/source_template/models.py-tpl
+  s_b380a8ea486da9::t_819223e6640e51 1-31
+apps/data/capture/management/source_template/registrations.py-tpl
+  s_b380a8ea486da9::t_694d871629a5b8 1-32
+apps/data/capture/management/source_template/sessions.py-tpl
+  s_b380a8ea486da9::t_e447485652f7f7 1-55
+apps/data/capture/management/source_template/tests/test_contracts.py-tpl
+  s_b380a8ea486da9::t_e8d0a3532be046 1-35
+apps/data/capture/management/source_template/transformers.py-tpl
+  s_b380a8ea486da9::t_0aed57435f578e 1-39
+apps/data/capture/migrations/0001_initial.py
+  s_b380a8ea486da9::t_2fad3db0059dda 1-51
+apps/data/capture/migrations/0002_datastatssnapshot.py
+  s_b380a8ea486da9::t_1106b67a6d1798 1-33
+apps/data/capture/models.py
+  s_b380a8ea486da9::t_c8a44b7b4ffa69 1-239
+apps/data/capture/parsers.py
+  s_b380a8ea486da9::t_27d89d44ceff76 1-137
+apps/data/capture/portal_import.py
+  s_b380a8ea486da9::t_2d7a10e60e8d65 1-358
+apps/data/capture/ports.py
+  s_b380a8ea486da9::t_f0baa7703ff5a6 1-70
+apps/data/capture/registry.py
+  s_b380a8ea486da9::t_8f8468d3eb6e65 1-44
+apps/data/capture/services.py
+  s_b380a8ea486da9::t_b8b11c2e46c8bc 1-294
+apps/data/capture/templates/capture/upload.html
+  s_b380a8ea486da9::t_fbc0601cb27cfa 1-17
+apps/data/capture/tests/conftest.py
+  s_b380a8ea486da9::t_bdad9f913c9a0a 1-122
+apps/data/capture/tests/factories.py
+  s_b380a8ea486da9::t_b6d3c0105104b5 1-78
+apps/data/capture/tests/test_admin.py
+  s_b380a8ea486da9::t_c1ac764bec91a7 1-35
+apps/data/capture/tests/test_capture_inventory.py
+  s_b380a8ea486da9::t_9071675e4eae6b 1-96
+apps/data/capture/tests/test_data_stats_cache.py
+  s_b380a8ea486da9::t_daf0a9dc0cd61b 1-191
+apps/data/capture/tests/test_data_stats_tier0.py
+  s_b380a8ea486da9::t_3481d89ef2368e 1-88
+apps/data/capture/tests/test_land_scraped_record.py
+  s_b380a8ea486da9::t_5adc6d593ece57 1-285
+apps/data/capture/tests/test_land_scraped_records.py
+  s_b380a8ea486da9::t_e084039e53b39e 1-291
+apps/data/capture/tests/test_models.py
+  s_b380a8ea486da9::t_a44d698e1900bf 1-241
+apps/data/capture/tests/test_parsers.py
+  s_b380a8ea486da9::t_8d8676dd03cf81 1-85
+apps/data/capture/tests/test_portal_import.py
+  s_b380a8ea486da9::t_6ddf14fe0b664e 1-150
+apps/data/capture/tests/test_ports.py
+  s_b380a8ea486da9::t_fad08965c1e421 1-25
+apps/data/capture/tests/test_registry.py
+  s_b380a8ea486da9::t_9e900ffe33ae51 1-69
+apps/data/capture/tests/test_services.py
+  s_b380a8ea486da9::t_6762697b1b3ea6 1-142
+apps/data/capture/tests/test_startsource.py
+  s_b380a8ea486da9::t_96e2f133e84bfa 1-138
+apps/data/capture/tests/test_transform_unprocessed.py
+  s_b380a8ea486da9::t_51a8ffbf9dad4a 1-372
+apps/data/capture/tests/test_transport.py
+  s_b380a8ea486da9::t_02f7d8cb8c2775 1-282
+apps/data/capture/tests/test_upload_view.py
+  s_b380a8ea486da9::t_77240337c46367 1-367
+apps/data/capture/transport.py
+  s_b380a8ea486da9::t_715c8bf9b7c720 1-261
+apps/data/capture/urls.py
+  s_b380a8ea486da9::t_4151b90f6cef68 1-7
+apps/data/capture/views.py
+  s_b380a8ea486da9::t_b687573e995015 1-156
+apps/data/conftest.py
+  s_b380a8ea486da9::t_837f271ec739bd 1-56
+apps/data/core_apps/admin.py
+  s_b380a8ea486da9::t_7b8eef12e60af4 1-37
+apps/data/core_apps/apps.py
+  s_b380a8ea486da9::t_1f4399a4c6e78f 1-8
+apps/data/core_apps/management/commands/import_portal_core_apps.py
+  s_b380a8ea486da9::t_ce2b4ca7fd557d 1-99
+apps/data/core_apps/mapping.py
+  s_b380a8ea486da9::t_d9dcc4f4cf7df8 1-170
+apps/data/core_apps/migrations/0001_initial.py
+  s_b380a8ea486da9::t_36213d6d13d33f 1-164
+apps/data/core_apps/models.py
+  s_b380a8ea486da9::t_afbe70464a6597 1-138
+apps/data/core_apps/registrations.py
+  s_b380a8ea486da9::t_050c4fb3b534b9 1-65
+apps/data/core_apps/tests/test_app_registration.py
+  s_b380a8ea486da9::t_956036e205f881 1-52
+apps/data/core_apps/tests/test_contracts.py
+  s_b380a8ea486da9::t_5a72eb373f823f 1-93
+apps/data/core_apps/tests/test_import_portal_core_apps.py
+  s_b380a8ea486da9::t_26cd68dda36a3b 1-93
+apps/data/core_apps/tests/test_mapping.py
+  s_b380a8ea486da9::t_790834999e07fc 1-136
+apps/data/core_apps/tests/test_models.py
+  s_b380a8ea486da9::t_24650b2e4a9045 1-98
+apps/data/core_apps/tests/test_response.py
+  s_b380a8ea486da9::t_0f8f770844f96e 1-61
+apps/data/core_apps/tests/test_transformers.py
+  s_b380a8ea486da9::t_a5882ac1088ad8 1-94
+apps/data/core_apps/transformers.py
+  s_b380a8ea486da9::t_ed7502c72ab5f9 1-123
+apps/data/credentials/apps.py
+  s_b380a8ea486da9::t_3b4ac1869bdc54 1-8
+apps/data/credentials/drain.py
+  s_b380a8ea486da9::t_aa3035aa061982 1-142
+apps/data/credentials/drain_registry.py
+  s_b380a8ea486da9::t_a1efb97203a857 1-53
+apps/data/credentials/management/commands/drain_logins.py
+  s_b380a8ea486da9::t_9a6c3f630d4212 1-39
+apps/data/credentials/migrations/0001_initial.py
+  s_b380a8ea486da9::t_6773216ab36712 1-33
+apps/data/credentials/models.py
+  s_b380a8ea486da9::t_ca313414110bb0 1-62
+apps/data/credentials/providers.py
+  s_b380a8ea486da9::t_a7c959353ddb3f 1-33
+apps/data/credentials/tests/conftest.py
+  s_b380a8ea486da9::t_c666beeddd8182 1-91
+apps/data/credentials/tests/factories.py
+  s_b380a8ea486da9::t_95726affb9b45b 1-43
+apps/data/credentials/tests/test_drain.py
+  s_b380a8ea486da9::t_3edeaeaa5a6f0c 1-280
+apps/data/credentials/tests/test_source_session.py
+  s_b380a8ea486da9::t_853072c8fca1b7 1-149
+apps/data/cvent/admin.py
+  s_b380a8ea486da9::t_1f94136e59065a 1-40
+apps/data/cvent/apps.py
+  s_b380a8ea486da9::t_fa19c7dc241900 1-8
+apps/data/cvent/management/commands/import_portal_cvent.py
+  s_b380a8ea486da9::t_8cec5973224072 1-100
+apps/data/cvent/mapping.py
+  s_b380a8ea486da9::t_7bf0a336bafcd3 1-211
+apps/data/cvent/migrations/0001_initial.py
+  s_b380a8ea486da9::t_0cb52cb35442c7 1-162
+apps/data/cvent/models.py
+  s_b380a8ea486da9::t_485e16477c4583 1-138
+apps/data/cvent/registrations.py
+  s_b380a8ea486da9::t_e7a35577ec703a 1-62
+apps/data/cvent/sessions.py
+  s_b380a8ea486da9::t_2c2b54e8d444b2 1-87
+apps/data/cvent/tests/test_admin.py
+  s_b380a8ea486da9::t_c1e6d1c3563ab0 1-32
+apps/data/cvent/tests/test_app_registration.py
+  s_b380a8ea486da9::t_d324f79e1ebbc1 1-26
+apps/data/cvent/tests/test_contracts.py
+  s_b380a8ea486da9::t_e7e42ce44f513e 1-123
+apps/data/cvent/tests/test_import_portal_cvent.py
+  s_b380a8ea486da9::t_29dda9b2559714 1-97
+apps/data/cvent/tests/test_mapping.py
+  s_b380a8ea486da9::t_fa21ec46fd8d8a 1-116
+apps/data/cvent/tests/test_response.py
+  s_b380a8ea486da9::t_fd8586ea43d2a0 1-134
+apps/data/cvent/tests/test_sessions.py
+  s_b380a8ea486da9::t_5b9356880c536f 1-113
+apps/data/cvent/transformers.py
+  s_b380a8ea486da9::t_70081abf251bc2 1-180
+apps/data/eventpilot/admin.py
+  s_b380a8ea486da9::t_a40a7051214fd2 1-37
+apps/data/eventpilot/apps.py
+  s_b380a8ea486da9::t_4594ee2e5dcc16 1-8
+apps/data/eventpilot/management/commands/import_portal_eventpilot.py
+  s_b380a8ea486da9::t_1485cb20970e4e 1-155
+apps/data/eventpilot/mapping.py
+  s_b380a8ea486da9::t_26c7d3d6ff6bfe 1-189
+apps/data/eventpilot/migrations/0001_initial.py
+  s_b380a8ea486da9::t_d6e98e516051e7 1-163
+apps/data/eventpilot/models.py
+  s_b380a8ea486da9::t_952b3f12559695 1-123
+apps/data/eventpilot/registrations.py
+  s_b380a8ea486da9::t_2a814afd420883 1-55
+apps/data/eventpilot/tests/_records.py
+  s_b380a8ea486da9::t_d46d51dd0e0bfc 1-92
+apps/data/eventpilot/tests/test_admin.py
+  s_b380a8ea486da9::t_12bab221207dd3 1-50
+apps/data/eventpilot/tests/test_app_registration.py
+  s_b380a8ea486da9::t_ae3eab2737db02 1-53
+apps/data/eventpilot/tests/test_contracts.py
+  s_b380a8ea486da9::t_18a92f8d3d9a0f 1-87
+apps/data/eventpilot/tests/test_import_portal_eventpilot.py
+  s_b380a8ea486da9::t_07b00601c2f4b8 1-128
+apps/data/eventpilot/tests/test_mapping.py
+  s_b380a8ea486da9::t_fd60ba34c87a09 1-140
+apps/data/eventpilot/tests/test_models.py
+  s_b380a8ea486da9::t_10cefdefdc7fc4 1-40
+apps/data/eventpilot/tests/test_response.py
+  s_b380a8ea486da9::t_0901692dae7c7f 1-60
+apps/data/eventpilot/transformers.py
+  s_b380a8ea486da9::t_01f0f1699dbaaf 1-153
+apps/data/expoplatform/admin.py
+  s_b380a8ea486da9::t_6e71b35d059631 1-37
+apps/data/expoplatform/apps.py
+  s_b380a8ea486da9::t_c79dcef5f205bb 1-8
+apps/data/expoplatform/management/commands/import_portal_expoplatform.py
+  s_b380a8ea486da9::t_01e6e34ffb56cf 1-211
+apps/data/expoplatform/mapping.py
+  s_b380a8ea486da9::t_02ab34dff23263 1-163
+apps/data/expoplatform/migrations/0001_initial.py
+  s_b380a8ea486da9::t_b65e310cafade7 1-226
+apps/data/expoplatform/models.py
+  s_b380a8ea486da9::t_7644dfda613d14 1-204
+apps/data/expoplatform/registrations.py
+  s_b380a8ea486da9::t_05411471de8191 1-68
+apps/data/expoplatform/sessions.py
+  s_b380a8ea486da9::t_501849ed71d388 1-76
+apps/data/expoplatform/tests/test_admin.py
+  s_b380a8ea486da9::t_e8edb27ba4f940 1-32
+apps/data/expoplatform/tests/test_app_registration.py
+  s_b380a8ea486da9::t_a405cc740cc6f6 1-26
+apps/data/expoplatform/tests/test_contracts.py
+  s_b380a8ea486da9::t_1a861bd148598d 1-197
+apps/data/expoplatform/tests/test_import_portal_expoplatform.py
+  s_b380a8ea486da9::t_c7f95fa912ca22 1-118
+apps/data/expoplatform/tests/test_mapping.py
+  s_b380a8ea486da9::t_a964fdcc1984e4 1-137
+apps/data/expoplatform/tests/test_response.py
+  s_b380a8ea486da9::t_e19fcb03289c6f 1-155
+apps/data/expoplatform/tests/test_sessions.py
+  s_b380a8ea486da9::t_e05e97c1b44d7e 1-122
+apps/data/expoplatform/transformers.py
+  s_b380a8ea486da9::t_e1f03de627e582 1-219
+apps/data/gatherdigital/admin.py
+  s_b380a8ea486da9::t_4559dbe0905a04 1-51
+apps/data/gatherdigital/apps.py
+  s_b380a8ea486da9::t_03c75f4bff4ea0 1-8
+apps/data/gatherdigital/management/commands/import_portal_gatherdigital.py
+  s_b380a8ea486da9::t_28f8943b57f5bd 1-108
+apps/data/gatherdigital/mapping.py
+  s_b380a8ea486da9::t_da606577d060ab 1-222
+apps/data/gatherdigital/migrations/0001_initial.py
+  s_b380a8ea486da9::t_3d3b6a75c1c4ab 1-309
+apps/data/gatherdigital/models.py
+  s_b380a8ea486da9::t_6db1757e03fd17 1-218
+apps/data/gatherdigital/registrations.py
+  s_b380a8ea486da9::t_3781c636af1503 1-76
+apps/data/gatherdigital/sessions.py
+  s_b380a8ea486da9::t_321cad2ef055b4 1-59
+apps/data/gatherdigital/tests/test_admin.py
+  s_b380a8ea486da9::t_5c6da3e550a1be 1-64
+apps/data/gatherdigital/tests/test_app_registration.py
+  s_b380a8ea486da9::t_371afe380e9a81 1-58
+apps/data/gatherdigital/tests/test_contracts.py
+  s_b380a8ea486da9::t_b13d52e946862b 1-134
+apps/data/gatherdigital/tests/test_import_portal_gatherdigital.py
+  s_b380a8ea486da9::t_83b4d081e571eb 1-105
+apps/data/gatherdigital/tests/test_mapping.py
+  s_b380a8ea486da9::t_1575fc0f7fcc67 1-198
+apps/data/gatherdigital/tests/test_response.py
+  s_b380a8ea486da9::t_f7cab3ef2345a7 1-124
+apps/data/gatherdigital/tests/test_transformers.py
+  s_b380a8ea486da9::t_07661cdb1160f8 1-78
+apps/data/gatherdigital/transformers.py
+  s_b380a8ea486da9::t_f95afcb03df5b8 1-186
+apps/data/gemini/admin.py
+  s_b380a8ea486da9::t_3b2c3170c67316 1-20
+apps/data/gemini/apps.py
+  s_b380a8ea486da9::t_98b887a2559ff9 1-8
+apps/data/gemini/migrations/0001_initial.py
+  s_b380a8ea486da9::t_4aa787907b60c2 1-37
+apps/data/gemini/models.py
+  s_b380a8ea486da9::t_dc9b73183ce058 1-49
+apps/data/gemini/tests/test_models.py
+  s_b380a8ea486da9::t_3d807c04027c79 1-122
+apps/data/grip/admin.py
+  s_b380a8ea486da9::t_92172dfd5e2b6a 1-21
+apps/data/grip/apps.py
+  s_b380a8ea486da9::t_32432812bb9edf 1-8
+apps/data/grip/management/commands/import_portal_grip.py
+  s_b380a8ea486da9::t_5819535eb26dfe 1-92
+apps/data/grip/mapping.py
+  s_b380a8ea486da9::t_91d292ad55fefd 1-214
+apps/data/grip/migrations/0001_initial.py
+  s_b380a8ea486da9::t_814f41fa143712 1-99
+apps/data/grip/models.py
+  s_b380a8ea486da9::t_bdbd2b48dc4a49 1-93
+apps/data/grip/registrations.py
+  s_b380a8ea486da9::t_e1f7444b318acd 1-39
+apps/data/grip/sessions.py
+  s_b380a8ea486da9::t_c359a43f250cfc 1-63
+apps/data/grip/tests/test_admin.py
+  s_b380a8ea486da9::t_b6fea43731b87e 1-34
+apps/data/grip/tests/test_app_registration.py
+  s_b380a8ea486da9::t_88e36b15da31ca 1-39
+apps/data/grip/tests/test_import_portal_grip.py
+  s_b380a8ea486da9::t_6c86d5fcebf4ae 1-102
+apps/data/grip/tests/test_login.py
+  s_b380a8ea486da9::t_08a1ba99cac56c 1-68
+apps/data/grip/tests/test_mapping.py
+  s_b380a8ea486da9::t_fad16db091f702 1-132
+apps/data/grip/tests/test_response.py
+  s_b380a8ea486da9::t_bbb1fbfe4bee84 1-106
+apps/data/grip/tests/test_transformers.py
+  s_b380a8ea486da9::t_be7b8d37b25f6f 1-106
+apps/data/grip/transformers.py
+  s_b380a8ea486da9::t_a628d62d29d84f 1-129
+apps/data/luma/admin.py
+  s_b380a8ea486da9::t_91bf737a307aa9 1-20
+apps/data/luma/apps.py
+  s_b380a8ea486da9::t_d1b2aae1aa2acd 1-8
+apps/data/luma/management/commands/import_portal_luma.py
+  s_b380a8ea486da9::t_f8555258921f94 1-92
+apps/data/luma/mapping.py
+  s_b380a8ea486da9::t_35a4611a97809f 1-192
+apps/data/luma/migrations/0001_initial.py
+  s_b380a8ea486da9::t_7f8fba8470606b 1-100
+apps/data/luma/models.py
+  s_b380a8ea486da9::t_1afcefd1ea3a87 1-94
+apps/data/luma/registrations.py
+  s_b380a8ea486da9::t_5159fbb26b95c8 1-40
+apps/data/luma/tests/test_admin.py
+  s_b380a8ea486da9::t_55a1231375e37d 1-34
+apps/data/luma/tests/test_app_registration.py
+  s_b380a8ea486da9::t_19dc83db5cdcc4 1-38
+apps/data/luma/tests/test_contracts.py
+  s_b380a8ea486da9::t_a01680083f5d5b 1-83
+apps/data/luma/tests/test_import_portal_luma.py
+  s_b380a8ea486da9::t_8bbe2eebed3179 1-103
+apps/data/luma/tests/test_mapping.py
+  s_b380a8ea486da9::t_03b8441bc0cf83 1-174
+apps/data/luma/tests/test_models.py
+  s_b380a8ea486da9::t_a96d6c4783acb3 1-41
+apps/data/luma/tests/test_response.py
+  s_b380a8ea486da9::t_61256b6a77ba5f 1-103
+apps/data/luma/tests/test_transformers.py
+  s_b380a8ea486da9::t_1705add9ac245f 1-71
+apps/data/luma/transformers.py
+  s_b380a8ea486da9::t_fbd4fb7cc185f5 1-105
+apps/data/mapyourshow/admin.py
+  s_b380a8ea486da9::t_e09aa3e6cfa02a 1-24
+apps/data/mapyourshow/apps.py
+  s_b380a8ea486da9::t_8a6ce04623ce5d 1-8
+apps/data/mapyourshow/management/commands/import_portal_mapyourshow.py
+  s_b380a8ea486da9::t_b50785212865f7 1-96
+apps/data/mapyourshow/mapping.py
+  s_b380a8ea486da9::t_4e64f6cb16f191 1-130
+apps/data/mapyourshow/migrations/0001_initial.py
+  s_b380a8ea486da9::t_b37b7825b34eed 1-80
+apps/data/mapyourshow/models.py
+  s_b380a8ea486da9::t_e208cd20e95304 1-83
+apps/data/mapyourshow/registrations.py
+  s_b380a8ea486da9::t_5c3e80bf406bfb 1-37
+apps/data/mapyourshow/tests/test_admin.py
+  s_b380a8ea486da9::t_5c48c5e6e1b556 1-38
+apps/data/mapyourshow/tests/test_app_registration.py
+  s_b380a8ea486da9::t_34defc58fcf171 1-37
+apps/data/mapyourshow/tests/test_contracts.py
+  s_b380a8ea486da9::t_2dd80658540d17 1-70
+apps/data/mapyourshow/tests/test_import_portal_mapyourshow.py
+  s_b380a8ea486da9::t_c5426a727e05bb 1-106
+apps/data/mapyourshow/tests/test_mapping.py
+  s_b380a8ea486da9::t_61d5de7ac68b90 1-111
+apps/data/mapyourshow/tests/test_response.py
+  s_b380a8ea486da9::t_266be509f735cb 1-147
+apps/data/mapyourshow/tests/test_transformers.py
+  s_b380a8ea486da9::t_3aa34daa7caf3a 1-67
+apps/data/mapyourshow/transformers.py
+  s_b380a8ea486da9::t_0a2e3f8830cf6d 1-81
+apps/data/play_store_listing/apps.py
+  s_b380a8ea486da9::t_82590830e91d84 1-10
+apps/data/play_store_listing/migrations/0001_initial.py
+  s_b380a8ea486da9::t_919051a8c292dd 1-37
+apps/data/play_store_listing/models.py
+  s_b380a8ea486da9::t_783313f81c06b7 1-29
+apps/data/play_store_listing/registrations.py
+  s_b380a8ea486da9::t_00e5aba80ff07b 1-18
+apps/data/play_store_listing/tests/test_contracts.py
+  s_b380a8ea486da9::t_ab2e36479225c6 1-40
+apps/data/play_store_listing/transformers.py
+  s_b380a8ea486da9::t_b1590d54eb17fc 1-43
+apps/data/resultsdirect/admin.py
+  s_b380a8ea486da9::t_081f26c6463e1c 1-41
+apps/data/resultsdirect/apps.py
+  s_b380a8ea486da9::t_4859f5ae16a055 1-8
+apps/data/resultsdirect/management/commands/import_portal_resultsdirect.py
+  s_b380a8ea486da9::t_f6515cc792c679 1-102
+apps/data/resultsdirect/mapping.py
+  s_b380a8ea486da9::t_2cde1013f0e1c7 1-259
+apps/data/resultsdirect/migrations/0001_initial.py
+  s_b380a8ea486da9::t_4878aa995ea4da 1-227
+apps/data/resultsdirect/models.py
+  s_b380a8ea486da9::t_da44d9d4104c9e 1-139
+apps/data/resultsdirect/registrations.py
+  s_b380a8ea486da9::t_bd04cb94408513 1-65
+apps/data/resultsdirect/tests/test_admin.py
+  s_b380a8ea486da9::t_70b55292da3a7c 1-56
+apps/data/resultsdirect/tests/test_app_registration.py
+  s_b380a8ea486da9::t_7488cdf253c622 1-50
+apps/data/resultsdirect/tests/test_contracts.py
+  s_b380a8ea486da9::t_2bc374a6098a84 1-49
+apps/data/resultsdirect/tests/test_import_portal_resultsdirect.py
+  s_b380a8ea486da9::t_a88c5bd6106eec 1-133
+apps/data/resultsdirect/tests/test_mapping.py
+  s_b380a8ea486da9::t_adee1aae5d408d 1-156
+apps/data/resultsdirect/tests/test_response.py
+  s_b380a8ea486da9::t_ee73f94d9c8057 1-137
+apps/data/resultsdirect/tests/wire_fixtures.py
+  s_b380a8ea486da9::t_11bdad03998759 1-179
+apps/data/resultsdirect/transformers.py
+  s_b380a8ea486da9::t_804c349954ca91 1-138
+apps/data/serper/admin.py
+  s_b380a8ea486da9::t_ed1a8116cda5b9 1-20
+apps/data/serper/apps.py
+  s_b380a8ea486da9::t_5e220d672c1a1a 1-8
+apps/data/serper/client.py
+  s_b380a8ea486da9::t_aa67ae7ec7b135 1-69
+apps/data/serper/mapping.py
+  s_b380a8ea486da9::t_6f179d7f901c48 1-450
+apps/data/serper/migrations/0001_initial.py
+  s_b380a8ea486da9::t_f1a634bf2a58c7 1-37
+apps/data/serper/models.py
+  s_b380a8ea486da9::t_baec2043c7cd5f 1-69
+apps/data/serper/registrations.py
+  s_b380a8ea486da9::t_8a43a550072284 1-31
+apps/data/serper/tests/test_app_registration.py
+  s_b380a8ea486da9::t_a1b13c5c338c40 1-48
+apps/data/serper/tests/test_client.py
+  s_b380a8ea486da9::t_cc1fe4579e3f40 1-70
+apps/data/serper/tests/test_contracts.py
+  s_b380a8ea486da9::t_57def948cc2c22 1-63
+apps/data/serper/tests/test_mapping.py
+  s_b380a8ea486da9::t_d52853cfc37072 1-286
+apps/data/serper/tests/test_models.py
+  s_b380a8ea486da9::t_c190f1dd94bd29 1-77
+apps/data/serper/transformers.py
+  s_b380a8ea486da9::t_7f00406acc18e2 1-72
+apps/data/stova/admin.py
+  s_b380a8ea486da9::t_81862684dc2872 1-51
+apps/data/stova/apps.py
+  s_b380a8ea486da9::t_08ba6133fcc32f 1-8
+apps/data/stova/management/commands/import_portal_stova.py
+  s_b380a8ea486da9::t_b96ba155af2dc8 1-211
+apps/data/stova/mapping.py
+  s_b380a8ea486da9::t_aff7e20f1f6574 1-202
+apps/data/stova/migrations/0001_initial.py
+  s_b380a8ea486da9::t_ef9a86970792b4 1-310
+apps/data/stova/models.py
+  s_b380a8ea486da9::t_1fc1a70a48222b 1-229
+apps/data/stova/registrations.py
+  s_b380a8ea486da9::t_1762968ca78713 1-81
+apps/data/stova/tests/test_admin.py
+  s_b380a8ea486da9::t_e698e9e7adebd7 1-64
+apps/data/stova/tests/test_app_registration.py
+  s_b380a8ea486da9::t_4331b173ca8552 1-58
+apps/data/stova/tests/test_contracts.py
+  s_b380a8ea486da9::t_d4944593011b32 1-144
+apps/data/stova/tests/test_mapping.py
+  s_b380a8ea486da9::t_f6e987cd69558e 1-135
+apps/data/stova/tests/test_models.py
+  s_b380a8ea486da9::t_16a548287ac74b 1-73
+apps/data/stova/tests/test_response.py
+  s_b380a8ea486da9::t_f05b9610befeb7 1-131
+apps/data/stova/tests/test_transformers.py
+  s_b380a8ea486da9::t_df76f2ea5f6272 1-37
+apps/data/stova/transformers.py
+  s_b380a8ea486da9::t_b89f6a7de4494c 1-210
+apps/data/swapcard/admin.py
+  s_b380a8ea486da9::t_26429b31e03926 1-35
+apps/data/swapcard/apps.py
+  s_b380a8ea486da9::t_0cd1e3daa831be 1-8
+apps/data/swapcard/management/commands/import_portal_swapcard.py
+  s_b380a8ea486da9::t_e5c5e6c7203dc4 1-202
+apps/data/swapcard/mapping.py
+  s_b380a8ea486da9::t_f8f8cb0791ee90 1-261
+apps/data/swapcard/migrations/0001_initial.py
+  s_b380a8ea486da9::t_18fe84680518e5 1-120
+apps/data/swapcard/models.py
+  s_b380a8ea486da9::t_b5411965f41ac5 1-126
+apps/data/swapcard/registrations.py
+  s_b380a8ea486da9::t_f9f5009e5b4a7c 1-62
+apps/data/swapcard/sessions.py
+  s_b380a8ea486da9::t_e97da086c1bf2f 1-70
+apps/data/swapcard/tests/test_admin.py
+  s_b380a8ea486da9::t_521ac53a61be10 1-32
+apps/data/swapcard/tests/test_app_registration.py
+  s_b380a8ea486da9::t_b894866f05d55e 1-27
+apps/data/swapcard/tests/test_contracts.py
+  s_b380a8ea486da9::t_8b5ed46e9449a9 1-140
+apps/data/swapcard/tests/test_import_portal_swapcard.py
+  s_b380a8ea486da9::t_9bc813d846e886 1-110
+apps/data/swapcard/tests/test_mapping.py
+  s_b380a8ea486da9::t_237840f2b7464f 1-208
+apps/data/swapcard/tests/test_response.py
+  s_b380a8ea486da9::t_95c2a7dd67a725 1-190
+apps/data/swapcard/tests/test_sessions.py
+  s_b380a8ea486da9::t_92bf258f9a08ce 1-89
+apps/data/swapcard/transformers.py
+  s_b380a8ea486da9::t_cd5eb75cbb8db3 1-210
+apps/data/websummit/admin.py
+  s_b380a8ea486da9::t_75dbe43576227f 1-52
+apps/data/websummit/apps.py
+  s_b380a8ea486da9::t_a2d531e1d380d8 1-8
+apps/data/websummit/management/commands/import_portal_websummit.py
+  s_b380a8ea486da9::t_eb1e0de480cac1 1-106
+apps/data/websummit/mapping.py
+  s_b380a8ea486da9::t_e70ae895780331 1-146
+apps/data/websummit/migrations/0001_initial.py
+  s_b380a8ea486da9::t_20a911a14e7c46 1-330
+apps/data/websummit/models.py
+  s_b380a8ea486da9::t_5360d29bf978ba 1-243
+apps/data/websummit/registrations.py
+  s_b380a8ea486da9::t_a2769d10e7bf61 1-78
+apps/data/websummit/tests/test_admin.py
+  s_b380a8ea486da9::t_08b1f67b4816bc 1-66
+apps/data/websummit/tests/test_app_registration.py
+  s_b380a8ea486da9::t_88fada7f5aa6a8 1-61
+apps/data/websummit/tests/test_contracts.py
+  s_b380a8ea486da9::t_47cc8206288346 1-207
+apps/data/websummit/tests/test_import_portal_websummit.py
+  s_b380a8ea486da9::t_3c14569a07f621 1-105
+apps/data/websummit/tests/test_mapping.py
+  s_b380a8ea486da9::t_9bebc98c42e9c7 1-115
+apps/data/websummit/tests/test_response.py
+  s_b380a8ea486da9::t_77d8dac29e81c4 1-120
+apps/data/websummit/transformers.py
+  s_b380a8ea486da9::t_2053c828c0d9c2 1-197
+apps/data/xcd/admin.py
+  s_b380a8ea486da9::t_5f1d89c523c6ae 1-37
+apps/data/xcd/apps.py
+  s_b380a8ea486da9::t_c842da64e44b42 1-8
+apps/data/xcd/management/commands/import_portal_xcd.py
+  s_b380a8ea486da9::t_8d32d15b96217f 1-98
+apps/data/xcd/mapping.py
+  s_b380a8ea486da9::t_f3ff3c019825a4 1-280
+apps/data/xcd/migrations/0001_initial.py
+  s_b380a8ea486da9::t_9c60aaa420206e 1-164
+apps/data/xcd/models.py
+  s_b380a8ea486da9::t_50ad22c69c6656 1-167
+apps/data/xcd/registrations.py
+  s_b380a8ea486da9::t_aa35e71174f277 1-64
+apps/data/xcd/tests/test_admin.py
+  s_b380a8ea486da9::t_e2fc54a164302e 1-50
+apps/data/xcd/tests/test_app_registration.py
+  s_b380a8ea486da9::t_40db913b5e6944 1-44
+apps/data/xcd/tests/test_contracts.py
+  s_b380a8ea486da9::t_13c165230d05b2 1-196
+apps/data/xcd/tests/test_import_portal_xcd.py
+  s_b380a8ea486da9::t_3d1b7c09e66de5 1-100
+apps/data/xcd/tests/test_mapping.py
+  s_b380a8ea486da9::t_b0fda121e8dee5 1-173
+apps/data/xcd/tests/test_models.py
+  s_b380a8ea486da9::t_6b997b93ec1fac 1-64
+apps/data/xcd/tests/test_response.py
+  s_b380a8ea486da9::t_f016f216de8da2 1-175
+apps/data/xcd/transformers.py
+  s_b380a8ea486da9::t_2d377b77a55cb6 1-121
+apps/data/yc_bookface/admin.py
+  s_b380a8ea486da9::t_70927d1a821ce7 1-26
+apps/data/yc_bookface/apps.py
+  s_b380a8ea486da9::t_242cd692a4c29a 1-8
+apps/data/yc_bookface/management/commands/import_portal_yc_bookface.py
+  s_b380a8ea486da9::t_ad4f2c2cc6577f 1-175
+apps/data/yc_bookface/migrations/0001_initial.py
+  s_b380a8ea486da9::t_04c73ccb326bb7 1-77
+apps/data/yc_bookface/models.py
+  s_b380a8ea486da9::t_5c144ba4e7e7d0 1-80
+apps/data/yc_bookface/registrations.py
+  s_b380a8ea486da9::t_0e4b14f07e4b18 1-40
+apps/data/yc_bookface/sessions.py
+  s_b380a8ea486da9::t_f36df753524183 1-105
+apps/data/yc_bookface/tests/test_contracts.py
+  s_b380a8ea486da9::t_f3f28bf5ce54ba 1-121
+apps/data/yc_bookface/tests/test_import_portal_yc_bookface.py
+  s_b380a8ea486da9::t_a9f0d9e9be12c6 1-85
+apps/data/yc_bookface/tests/test_sessions.py
+  s_b380a8ea486da9::t_0aaabfe00bd68f 1-115
+apps/data/yc_bookface/transformers.py
+  s_b380a8ea486da9::t_0e9b1d304f7196 1-121
+apps/demo/admin.py
+  s_b380a8ea486da9::t_fec6ef43d2f38d 1-67
+apps/demo/apps.py
+  s_b380a8ea486da9::t_6ec9469f52df4d 1-10
+apps/demo/domain/presentation.py
+  s_b380a8ea486da9::t_5498c7c8f0956b 1-78
+apps/demo/domain/schema.py
+  s_b380a8ea486da9::t_c78572b84b0b4a 1-214
+apps/demo/forms.py
+  s_b380a8ea486da9::t_6091e349de2d2c 1-78
+apps/demo/ingest.py
+  s_b380a8ea486da9::t_309060d6949e69 1-272
+apps/demo/migrations/0001_initial.py
+  s_b380a8ea486da9::t_b6350d12a35ced 1-91
+apps/demo/migrations/0002_rls.py
+  s_b380a8ea486da9::t_ca8ba641457d34 1-29
+apps/demo/models.py
+  s_b380a8ea486da9::t_efafa02ca73fbf 1-183
+apps/demo/readers.py
+  s_b380a8ea486da9::t_31db62c8979205 1-146
+apps/demo/registrations.py
+  s_b380a8ea486da9::t_0689cd1b2ce1cd 1-37
+apps/demo/staff_urls.py
+  s_b380a8ea486da9::t_f7fbed4073838e 1-10
+apps/demo/staff_views.py
+  s_b380a8ea486da9::t_1863f648a8fb7f 1-100
+apps/demo/tests/factories.py
+  s_b380a8ea486da9::t_c869f85985f3df 1-78
+apps/demo/tests/test_ingest.py
+  s_b380a8ea486da9::t_79500ae796892c 1-289
+apps/demo/tests/test_models.py
+  s_b380a8ea486da9::t_2d18aee3187c97 1-68
+apps/demo/tests/test_presentation.py
+  s_b380a8ea486da9::t_43aa877db86e70 1-49
+apps/demo/tests/test_readers.py
+  s_b380a8ea486da9::t_e9761ce96d44bd 1-115
+apps/demo/tests/test_rls.py
+  s_b380a8ea486da9::t_12967b94d1991e 1-133
+apps/demo/tests/test_schema.py
+  s_b380a8ea486da9::t_6360e9ea8eb68b 1-126
+apps/demo/tests/test_staff_views.py
+  s_b380a8ea486da9::t_b5907149358c59 1-178
+apps/demo/tests/test_views.py
+  s_b380a8ea486da9::t_0bed4bbd60f1e0 1-337
+apps/demo/urls.py
+  s_b380a8ea486da9::t_458d70d6d251a8 1-17
+apps/demo/views.py
+  s_b380a8ea486da9::t_4e0d1cc6dffd71 1-267
+apps/disambiguator/applier.py
+  s_b380a8ea486da9::t_1b247cf3029c7a 1-221
+apps/disambiguator/apps.py
+  s_b380a8ea486da9::t_beba8013a2f640 1-10
+apps/disambiguator/enricher.py
+  s_b380a8ea486da9::t_0096e8c71677a4 1-154
+apps/disambiguator/management/_args.py
+  s_b380a8ea486da9::t_2301b683dc3a97 1-32
+apps/disambiguator/management/commands/disambiguate_apply.py
+  s_b380a8ea486da9::t_f24ab73400d135 1-53
+apps/disambiguator/management/commands/disambiguate_inspect.py
+  s_b380a8ea486da9::t_120b1cac370cdb 1-47
+apps/disambiguator/management/commands/disambiguate_review.py
+  s_b380a8ea486da9::t_95ea0e68f24ac4 1-150
+apps/disambiguator/management/commands/enrichment_apply.py
+  s_b380a8ea486da9::t_83bcd8b25fadc5 1-46
+apps/disambiguator/management/commands/queue_apify_company_resolution.py
+  s_b380a8ea486da9::t_266f5c9ce81741 1-305
+apps/disambiguator/management/commands/queue_serper_prospect_lookup.py
+  s_b380a8ea486da9::t_cb2e8932ad69cd 1-400
+apps/disambiguator/migrations/0001_initial.py
+  s_b380a8ea486da9::t_83c7c3c42628bc 1-183
+apps/disambiguator/migrations/0002_organizationenrichmentproposal.py
+  s_b380a8ea486da9::t_94fd8aa0c1179f 1-36
+apps/disambiguator/models.py
+  s_b380a8ea486da9::t_3d6c264e558af3 1-433
+apps/disambiguator/policy.py
+  s_b380a8ea486da9::t_ef38fbe3de485c 1-156
+apps/disambiguator/providers.py
+  s_b380a8ea486da9::t_29f548efdba31b 1-211
+apps/disambiguator/providers_deepseek.py
+  s_b380a8ea486da9::t_0395f931e1f111 1-224
+apps/disambiguator/providers_gemini.py
+  s_b380a8ea486da9::t_edcb0f23e3ffdf 1-220
+apps/disambiguator/registrations.py
+  s_b380a8ea486da9::t_2705dbeabbab4b 1-28
+apps/disambiguator/strategies.py
+  s_b380a8ea486da9::t_1867f99b1bcef4 1-147
+apps/disambiguator/tests/factories.py
+  s_b380a8ea486da9::t_7642c35d45e5e8 1-198
+apps/disambiguator/tests/test_applier.py
+  s_b380a8ea486da9::t_63bc0c91e85b9b 1-440
+apps/disambiguator/tests/test_audit_linkage.py
+  s_b380a8ea486da9::t_5f137646524994 1-137
+apps/disambiguator/tests/test_commands.py
+  s_b380a8ea486da9::t_201ae29a92112c 1-224
+apps/disambiguator/tests/test_enricher.py
+  s_b380a8ea486da9::t_4c5f5f244cd5d9 1-338
+apps/disambiguator/tests/test_models.py
+  s_b380a8ea486da9::t_a23e0995c8a75d 1-382
+apps/disambiguator/tests/test_policy.py
+  s_b380a8ea486da9::t_b2a29b0ba67993 1-184
+apps/disambiguator/tests/test_providers.py
+  s_b380a8ea486da9::t_5bb51da2e82b18 1-142
+apps/disambiguator/tests/test_providers_deepseek.py
+  s_b380a8ea486da9::t_457235ab2e5c01 1-165
+apps/disambiguator/tests/test_providers_gemini.py
+  s_b380a8ea486da9::t_1612752b7e7d37 1-198
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_b380a8ea486da9::t_154b7be31723ec 1-467
+apps/disambiguator/tests/test_queue_serper_prospect_lookup.py
+  s_b380a8ea486da9::t_f5e7519e8452cc 1-474
+apps/disambiguator/tests/test_registrations.py
+  s_b380a8ea486da9::t_c36cea2484ebeb 1-87
+apps/disambiguator/tests/test_strategies.py
+  s_b380a8ea486da9::t_fa5fc0b96f8231 1-151
+apps/identity/admin.py
+  s_b380a8ea486da9::t_663c5ea85ce69c 12,24,125-128,144-166
+apps/identity/forms.py
+  s_b380a8ea486da9::t_421082f9a2d1df 6,12,16-20,278-300
+apps/identity/groups.py
+  s_b380a8ea486da9::t_27fc13ccf6aa11 1-23
+apps/identity/migrations/0006_seed_auth_groups.py
+  s_b380a8ea486da9::t_c04b624525a869 1-37
+apps/identity/permissions.py
+  s_b380a8ea486da9::t_abbec2c60b1547 1-75
+apps/identity/templatetags/gz_forms.py
+  s_b380a8ea486da9::t_d6b76f18125b71 1-76
+apps/identity/tests/test_access_request.py
+  s_b380a8ea486da9::t_013b8e5f3419a3 85-86,89-101
+apps/identity/tests/test_adapters.py
+  s_b380a8ea486da9::t_d09ebee504426c 17,428-446
+apps/identity/tests/test_admin.py
+  s_b380a8ea486da9::t_4508811cf2732f 1-569
+apps/identity/tests/test_auth_ui.py
+  s_b380a8ea486da9::t_45a889de462355 1,3-15,18-19,27-32,42-43,46-101
+apps/identity/tests/test_gz_forms.py
+  s_b380a8ea486da9::t_d9971d5b579c3d 1-27
+apps/identity/tests/test_impersonation.py
+  s_b380a8ea486da9::t_86ad09177ee0b1 27,88-89,102-118
+apps/identity/tests/test_managers.py
+  s_b380a8ea486da9::t_c57dfa14cdcbbc 1-61
+apps/identity/tests/test_permissions.py
+  s_b380a8ea486da9::t_6bf89329edaa7b 1-61
+apps/identity/tests/test_views.py
+  s_b380a8ea486da9::t_412cd2dd9f44a1 1-462
+apps/identity/views.py
+  s_b380a8ea486da9::t_ca39cc2ee9f166 18,250,311-330,334,338-339,346-349,353,370,374,383,385-388,390-392
+apps/intake/admin.py
+  s_b380a8ea486da9::t_cddf3d71c973d8 1-181
+apps/intake/apps.py
+  s_b380a8ea486da9::t_beedbbf0f70ef4 1-23
+apps/intake/events.py
+  s_b380a8ea486da9::t_833a470d4f7aa1 1-21
+apps/intake/forms.py
+  s_b380a8ea486da9::t_d931f940794e7b 1-54
+apps/intake/migrations/0001_initial.py
+  s_b380a8ea486da9::t_2dafd64994ccd1 1-68
+apps/intake/migrations/0002_rls.py
+  s_b380a8ea486da9::t_00ab7dfd6e99ca 1-27
+apps/intake/models.py
+  s_b380a8ea486da9::t_e9ccdb193d0da5 1-160
+apps/intake/receivers.py
+  s_b380a8ea486da9::t_c81b612cc8de24 1-92
+apps/intake/tests/factories.py
+  s_b380a8ea486da9::t_9e765e75f42434 1-39
+apps/intake/tests/test_admin.py
+  s_b380a8ea486da9::t_db798e541e9dcb 1-125
+apps/intake/tests/test_models.py
+  s_b380a8ea486da9::t_7de7548a499a57 1-55
+apps/intake/tests/test_receivers.py
+  s_b380a8ea486da9::t_d057b5c959ede8 1-50
+apps/intake/tests/test_rls.py
+  s_b380a8ea486da9::t_4bb78285e5d399 1-109
+apps/intake/tests/test_views.py
+  s_b380a8ea486da9::t_6a0e83b2555b68 1-161
+apps/intake/urls.py
+  s_b380a8ea486da9::t_8d671f605edbb3 1-12
+apps/intake/views.py
+  s_b380a8ea486da9::t_a6313e0a1d5cec 1-122
+apps/jobs/__init__.py
+  s_b380a8ea486da9::t_d0946767c1c5c2 1
+apps/jobs/admin.py
+  s_b380a8ea486da9::t_decaaf24c206b1 1-43
+apps/jobs/apps.py
+  s_b380a8ea486da9::t_41760f8ca09e98 1-92
+apps/jobs/management/commands/import_rebuild_snapshot.py
+  s_b380a8ea486da9::t_4309a0ba1f6e79 1-825
+apps/jobs/migrations/0001_initial.py
+  s_b380a8ea486da9::t_dd2e09878e517b 1-33
+apps/jobs/models.py
+  s_b380a8ea486da9::t_0fc273c5616b9a 1-44
+apps/jobs/tasks.py
+  s_b380a8ea486da9::t_f5988aa6fccab6 1-176
+apps/jobs/tests/factories.py
+  s_b380a8ea486da9::t_7ed94e30ffa48b 1-38
+apps/jobs/tests/test_admin.py
+  s_b380a8ea486da9::t_467010f9ab1888 1-57
+apps/jobs/tests/test_import_rebuild_snapshot.py
+  s_b380a8ea486da9::t_7ea3e3df888a3b 1-620
+apps/jobs/tests/test_schedules.py
+  s_b380a8ea486da9::t_fd8e8a6c773e74 1-34
+apps/jobs/tests/test_tasks.py
+  s_b380a8ea486da9::t_ff94d7327e023b 1-237
+apps/mapping_tool/apps.py
+  s_b380a8ea486da9::t_1d55d5aaa76c72 1-8
+apps/mapping_tool/codegen.py
+  s_b380a8ea486da9::t_e69cec017ce513 1-116
+apps/mapping_tool/discovery.py
+  s_b380a8ea486da9::t_80b09a7094a684 1-206
+apps/mapping_tool/templates/mapping_tool/_provenance.html
+  s_b380a8ea486da9::t_a42755795bb688 1-2
+apps/mapping_tool/templates/mapping_tool/_source_keys.html
+  s_b380a8ea486da9::t_09e9002526ba38 1-7
+apps/mapping_tool/templates/mapping_tool/_source_rows.html
+  s_b380a8ea486da9::t_252eabfd50e87d 1-25
+apps/mapping_tool/templates/mapping_tool/dashboard.html
+  s_b380a8ea486da9::t_72dbd01b5ad8c3 1-67
+apps/mapping_tool/templates/mapping_tool/editor.html
+  s_b380a8ea486da9::t_3f2448a0148e95 1-308
+apps/mapping_tool/templatetags/mapping_tool_extras.py
+  s_b380a8ea486da9::t_ef1bb5a9646217 1-22
+apps/mapping_tool/tests/test_codegen.py
+  s_b380a8ea486da9::t_90cbf1f0c22433 1-91
+apps/mapping_tool/tests/test_discovery.py
+  s_b380a8ea486da9::t_c590ce02dfa9ef 1-59
+apps/mapping_tool/tests/test_views.py
+  s_b380a8ea486da9::t_9277a94a7e6039 1-87
+apps/mapping_tool/urls.py
+  s_b380a8ea486da9::t_8886c5927bdfd9 1-14
+apps/mapping_tool/views.py
+  s_b380a8ea486da9::t_e3991f1b4fb3f1 1-116
+apps/sales/admin.py
+  s_b380a8ea486da9::t_a63bde0be4b3b3 1-102
+apps/sales/apps.py
+  s_b380a8ea486da9::t_46040e99a2dd49 1-18
+apps/sales/conference_sections.py
+  s_b380a8ea486da9::t_57017296d5a0cd 1-75
+apps/sales/delivery.py
+  s_b380a8ea486da9::t_f38e970844b4db 1-120
+apps/sales/domain/__init__.py
+  s_b380a8ea486da9::t_272178dce2de43 1-8
+apps/sales/domain/criteria.py
+  s_b380a8ea486da9::t_7e57b5d1a20364 1-214
+apps/sales/domain/parsing.py
+  s_b380a8ea486da9::t_1a83871c82cb46 1-167
+apps/sales/domain/scoring.py
+  s_b380a8ea486da9::t_927c0a62b05dd4 1-261
+apps/sales/entitlements.py
+  s_b380a8ea486da9::t_7b101db60a9260 1-139
+apps/sales/event_tokens.py
+  s_b380a8ea486da9::t_6f2455703b4ab3 1-80
+apps/sales/events.py
+  s_b380a8ea486da9::t_c933c1968c1437 1-16
+apps/sales/exports_views.py
+  s_b380a8ea486da9::t_3ec848c56becbf 1-139
+apps/sales/limits.py
+  s_b380a8ea486da9::t_d841b5f6ec28a1 1-121
+apps/sales/management/commands/export_event_attendees.py
+  s_b380a8ea486da9::t_dadc0c869be63c 1-169
+apps/sales/management/commands/score_icp.py
+  s_b380a8ea486da9::t_9e408ba4c6102e 1-65
+apps/sales/management/commands/seed_design_preview.py
+  s_b380a8ea486da9::t_e077dd832603ff 1-726
+apps/sales/migrations/0001_initial.py
+  s_b380a8ea486da9::t_1ae9b328e5d49c 1-90
+apps/sales/migrations/0002_rls.py
+  s_b380a8ea486da9::t_4a62f10691e740 1-31
+apps/sales/migrations/0003_conference.py
+  s_b380a8ea486da9::t_9c963da67f9c22 1-35
+apps/sales/migrations/0004_conference_rls.py
+  s_b380a8ea486da9::t_57c01881e4b66f 1-18
+apps/sales/migrations/0005_icpprofile_review_conferenceicp.py
+  s_b380a8ea486da9::t_5efecd4827b1a1 1-55
+apps/sales/migrations/0006_conferenceicp_rls.py
+  s_b380a8ea486da9::t_3c2f7d3e990276 1-19
+apps/sales/migrations/0007_conference_status_unlocked.py
+  s_b380a8ea486da9::t_4134c73cef12fd 1-18
+apps/sales/migrations/0008_icpprofile_criteria_version_deliveryrecord_icpscore.py
+  s_b380a8ea486da9::t_06b37ea56ed31c 1-57
+apps/sales/migrations/0009_icpscore_deliveryrecord_rls.py
+  s_b380a8ea486da9::t_5d0c932f10a79e 1-23
+apps/sales/models.py
+  s_b380a8ea486da9::t_5b612604b1b9a1 1-389
+apps/sales/person_tokens.py
+  s_b380a8ea486da9::t_da6140b873afaa 1-75
+apps/sales/placeholders.py
+  s_b380a8ea486da9::t_8cf53addcd9ce3 1-81
+apps/sales/receivers.py
+  s_b380a8ea486da9::t_9b9c3cea4dc3fc 1-64
+apps/sales/registrations.py
+  s_b380a8ea486da9::t_acc5aedb0055c5 1-45
+apps/sales/scoring_service.py
+  s_b380a8ea486da9::t_9564632f197717 1-165
+apps/sales/templatetags/sales_format.py
+  s_b380a8ea486da9::t_87371037dc4e4f 1-111
+apps/sales/tests/factories.py
+  s_b380a8ea486da9::t_f4038f119ba156 1-197
+apps/sales/tests/test_conferences.py
+  s_b380a8ea486da9::t_d9dcc94ddcbc1d 1-483
+apps/sales/tests/test_dashboard.py
+  s_b380a8ea486da9::t_f821c2e8f068e9 1-248
+apps/sales/tests/test_delivery.py
+  s_b380a8ea486da9::t_b44fcf829bc7d4 1-176
+apps/sales/tests/test_entitlements.py
+  s_b380a8ea486da9::t_73214a4f8757da 1-112
+apps/sales/tests/test_event_detail.py
+  s_b380a8ea486da9::t_b25fea313f9d41 1-293
+apps/sales/tests/test_event_index.py
+  s_b380a8ea486da9::t_df3b22c1ae66c9 1-6,9-10,16,18,20-22,24,27-29,32-146
+apps/sales/tests/test_event_tokens.py
+  s_b380a8ea486da9::t_f5098ce0027f84 1-97
+apps/sales/tests/test_export_event_attendees.py
+  s_b380a8ea486da9::t_98ae78222af556 1-246
+apps/sales/tests/test_export_flow.py
+  s_b380a8ea486da9::t_e53a4d52161f82 1-238
+apps/sales/tests/test_format.py
+  s_b380a8ea486da9::t_7bbcd4be5aba05 1-45
+apps/sales/tests/test_icp_criteria.py
+  s_b380a8ea486da9::t_734817a9626c38 1-106
+apps/sales/tests/test_icp_parsing.py
+  s_b380a8ea486da9::t_877a2c1b88df4b 1-78
+apps/sales/tests/test_icp_review.py
+  s_b380a8ea486da9::t_966a348e9e5c0d 1-187
+apps/sales/tests/test_icp_scoring.py
+  s_b380a8ea486da9::t_69beff5c3455c4 1-200
+apps/sales/tests/test_limits.py
+  s_b380a8ea486da9::t_b37a880951db14 1-135
+apps/sales/tests/test_merge_rehome.py
+  s_b380a8ea486da9::t_d779d2d640899f 1-320
+apps/sales/tests/test_models.py
+  s_b380a8ea486da9::t_215feec2bb6c37 1-151
+apps/sales/tests/test_placeholders.py
+  s_b380a8ea486da9::t_a5a0cde9737ca8 1-58
+apps/sales/tests/test_prospect_lists.py
+  s_b380a8ea486da9::t_5ae34876c7f29f 1-297
+apps/sales/tests/test_receivers.py
+  s_b380a8ea486da9::t_091f07b2a72c08 1-42
+apps/sales/tests/test_rls.py
+  s_b380a8ea486da9::t_42fc5f91ffcfd8 1-161
+apps/sales/tests/test_scoring_service.py
+  s_b380a8ea486da9::t_2eb6019e2b877e 1-229
+apps/sales/tests/test_seed_design_preview.py
+  s_b380a8ea486da9::t_50c709f332cde8 1-180
+apps/sales/urls.py
+  s_b380a8ea486da9::t_ed5b56ad949af7 1-28
+apps/sales/views.py
+  s_b380a8ea486da9::t_061737cf028525 1-638
+apps/staff/apps.py
+  s_b380a8ea486da9::t_6bc048c4394ae8 1-8
+apps/staff/decorator_include.py
+  s_b380a8ea486da9::t_06cf09d0dfea98 1-71
+apps/staff/templates/staff/index.html
+  s_b380a8ea486da9::t_0ba453b1b34ffc 1-59
+apps/staff/tests/test_views.py
+  s_b380a8ea486da9::t_de097d9dc01add 1-41
+apps/staff/urls.py
+  s_b380a8ea486da9::t_ff21da01fc98dc 1-14
+apps/staff/views.py
+  s_b380a8ea486da9::t_661993cc1902ad 1-18
+assets/brand/grazeai-logo-g-filled.svg
+  s_b380a8ea486da9::t_ca31c06bd73e6c 1-30
+assets/brand/grazeai-logo-g-small.svg
+  s_b380a8ea486da9::t_7664cff0c8559c 1-7
+assets/brand/grazeai-logo-g-throbber.svg
+  s_b380a8ea486da9::t_47768c3bcf78e8 1-57
+assets/brand/grazeai-logo-g.svg
+  s_b380a8ea486da9::t_f315cf706f3798 1-18
+assets/brand/grazeai-logo.svg
+  s_b380a8ea486da9::t_839cef37793ffb 1-45
+assets/css/source.css
+  s_b380a8ea486da9::t_d8e204d4ecd2e3 2-1719
+assets/js/auth-fog.js
+  s_b380a8ea486da9::t_af73728f5fad80 1-255
+assets/js/auth-login.js
+  s_b380a8ea486da9::t_95e5f6d3feb681 1-19
+assets/js/theme-picker.js
+  s_b380a8ea486da9::t_3556b236516ecd 2-8,10-11,16-18,20-23,26-33,36-47,51-53,55,57-64
+config/asgi.py
+  s_b380a8ea486da9::t_b3f7d3f1be0140 10-27
+config/settings/base.py
+  s_b380a8ea486da9::t_1399eef00df28a 31,115-142,145-149,220-224,266-268,385,474-480,542-546,619-626
+config/settings/production.py
+  s_b380a8ea486da9::t_859e3815acebdc 31,40,59,69,93
+config/settings/testing.py
+  s_b380a8ea486da9::t_3a921327cb494d 4,24,40,57-58
+config/urls.py
+  s_b380a8ea486da9::t_892ed0678fb797 5,10,38-50,60-71
+conftest.py
+  s_b380a8ea486da9::t_54a15822a0f104 1-36
+docs/DATA_PIPELINE_COMPARISON.html
+  s_b380a8ea486da9::t_674655f3c6a79b 1-374
+envelopes/__init__.py
+  s_b380a8ea486da9::t_601c09e47c22c1 1-24
+envelopes/_versioning.py
+  s_b380a8ea486da9::t_3c37da535f0c47 1-52
+envelopes/allintheloop/response.py
+  s_b380a8ea486da9::t_2b6dcf10b0a9cb 1-391
+envelopes/allintheloop/versions.py
+  s_b380a8ea486da9::t_d0a7d983f9a543 1-25
+envelopes/apify/response.py
+  s_b380a8ea486da9::t_b14a740775c047 1-34
+envelopes/apify/versions.py
+  s_b380a8ea486da9::t_b5cc4ab61e4baa 1-26
+envelopes/awsummit/response.py
+  s_b380a8ea486da9::t_e15cecf700d0f1 1-220
+envelopes/awsummit/versions.py
+  s_b380a8ea486da9::t_edc023f01b044c 1-24
+envelopes/brella/login.py
+  s_b380a8ea486da9::t_7f62d0f5426ab4 1-101
+envelopes/brella/response.py
+  s_b380a8ea486da9::t_b65eecc61633b2 1-227
+envelopes/brella/versions.py
+  s_b380a8ea486da9::t_408dd709169f08 1-17
+envelopes/cadmium/response.py
+  s_b380a8ea486da9::t_e868d287e59975 1-53
+envelopes/cadmium/versions.py
+  s_b380a8ea486da9::t_f4db6499db081b 1-27
+envelopes/core_apps/response.py
+  s_b380a8ea486da9::t_b0644e20d25e3a 1-143
+envelopes/core_apps/versions.py
+  s_b380a8ea486da9::t_2aa1de55a7ea42 1-21
+envelopes/credentials/login.py
+  s_b380a8ea486da9::t_036e16be23e86b 1-68
+envelopes/credentials/ports.py
+  s_b380a8ea486da9::t_9df5cf7c7e6996 1-77
+envelopes/cvent/response.py
+  s_b380a8ea486da9::t_edde12f37df0f1 1-210
+envelopes/cvent/versions.py
+  s_b380a8ea486da9::t_b6bd1cdb96d0c6 1-66
+envelopes/eventpilot/response.py
+  s_b380a8ea486da9::t_2548b972766be7 1-121
+envelopes/eventpilot/versions.py
+  s_b380a8ea486da9::t_ac9bdf155a93e5 1-23
+envelopes/expoplatform/response.py
+  s_b380a8ea486da9::t_fb855830a5fdea 1-274
+envelopes/expoplatform/versions.py
+  s_b380a8ea486da9::t_7304def2f56538 1-86
+envelopes/gatherdigital/response.py
+  s_b380a8ea486da9::t_cdf5552752f4b3 1-148
+envelopes/gatherdigital/versions.py
+  s_b380a8ea486da9::t_d64bb677388ce5 1-21
+envelopes/gemini/versions.py
+  s_b380a8ea486da9::t_e97695da0143f4 1-17
+envelopes/grip/login.py
+  s_b380a8ea486da9::t_54f4bc9631b754 1-99
+envelopes/grip/response.py
+  s_b380a8ea486da9::t_ada0794bbd4f19 1-142
+envelopes/grip/versions.py
+  s_b380a8ea486da9::t_1e5cc6d652068a 1-53
+envelopes/luma/response.py
+  s_b380a8ea486da9::t_63a20417ee1687 1-112
+envelopes/luma/versions.py
+  s_b380a8ea486da9::t_1b12d5a6205cd8 1-23
+envelopes/mapyourshow/response.py
+  s_b380a8ea486da9::t_265c3d65a12faf 1-147
+envelopes/mapyourshow/versions.py
+  s_b380a8ea486da9::t_e8391533d1613b 1-22
+envelopes/play_store_listing/response.py
+  s_b380a8ea486da9::t_96d3c8c3066785 1-35
+envelopes/play_store_listing/versions.py
+  s_b380a8ea486da9::t_a2c75aba7d047c 1-18
+envelopes/resultsdirect/response.py
+  s_b380a8ea486da9::t_4ff142b07afc3e 1-167
+envelopes/resultsdirect/versions.py
+  s_b380a8ea486da9::t_c9b17430c7e9a6 1-21
+envelopes/serper/response.py
+  s_b380a8ea486da9::t_ba7b293b5ce256 1-40
+envelopes/serper/versions.py
+  s_b380a8ea486da9::t_7774286716e0c0 1-18
+envelopes/stova/response.py
+  s_b380a8ea486da9::t_2a98c7d6682685 1-205
+envelopes/stova/versions.py
+  s_b380a8ea486da9::t_69101df944450a 1-25
+envelopes/swapcard/response.py
+  s_b380a8ea486da9::t_3ef1f6f61233fc 1-305
+envelopes/swapcard/versions.py
+  s_b380a8ea486da9::t_00e345f9459f9a 1-57
+envelopes/websummit/response.py
+  s_b380a8ea486da9::t_977ff822f127ae 1-297
+envelopes/websummit/versions.py
+  s_b380a8ea486da9::t_7136b993398549 1-23
+envelopes/xcd/response.py
+  s_b380a8ea486da9::t_cd12f067ef8390 1-268
+envelopes/xcd/versions.py
+  s_b380a8ea486da9::t_2bd8c900ea7802 1-22
+envelopes/yc_bookface/response.py
+  s_b380a8ea486da9::t_28cd2083307a18 1-106
+envelopes/yc_bookface/versions.py
+  s_b380a8ea486da9::t_0638c4e01f8b6d 1-37
+field_grid_experiment.html
+  s_b380a8ea486da9::t_de0fb15cc2dc69 1-199
+fog_cells_prototype.html
+  s_b380a8ea486da9::t_a1c32b6a9e0f1d 1-103
+fog_css_prototype.html
+  s_b380a8ea486da9::t_d675f60a6c87fd 1-82
+jsondata_ingest_report.html
+  s_b380a8ea486da9::t_f7fc03fba5b5b2 1-30
+manage.py
+  s_b380a8ea486da9::t_9de1fe929e78c7 12-20,25-26,30,36-40
+posthog-setup-report.html
+  s_b380a8ea486da9::t_d37f4395f8e5f9 1-306
+project-words.dic
+  s_b380a8ea486da9::t_09270369e7a918 3-7,9-10,18,26
+pyproject.toml
+  s_b380a8ea486da9::t_bc781d5bd40043 2-5,21,34,36-38,42-47,49,62-67,81-82,84,87,96-97,176-181,205-223,242-248,285,289,323-326
+research/__init__.py
+  s_b380a8ea486da9::t_b003116a65f62c 1
+research/default/__init__.py
+  s_b380a8ea486da9::t_8aaa4d5ec77066 1
+research/event_research/__init__.py
+  s_b380a8ea486da9::t_ccf09f780e040a 1-7
+research/event_research/allintheloop.py
+  s_b380a8ea486da9::t_7e05ceeb455bf0 1-323
+research/event_research/awsummit.py
+  s_b380a8ea486da9::t_777733c14e2766 1-363
+research/event_research/brella.py
+  s_b380a8ea486da9::t_7256cfaae625de 1-262
+research/event_research/cadmium.py
+  s_b380a8ea486da9::t_dd782868463216 1-509
+research/event_research/cadmium_utils.py
+  s_b380a8ea486da9::t_2873e8eaf24122 1-131
+research/event_research/core_apps.py
+  s_b380a8ea486da9::t_d400f94b09ace7 1-248
+research/event_research/cvent/cvent_attendees.py
+  s_b380a8ea486da9::t_a3f74e92dd2028 1-278
+research/event_research/cvent/cvent_events.py
+  s_b380a8ea486da9::t_a85c08dde802ab 1-146
+research/event_research/cvent/searchAttendees.graphql
+  s_b380a8ea486da9::t_04ddef13d30137 1-93
+research/event_research/eventpilot.py
+  s_b380a8ea486da9::t_55062234632e22 1-429
+research/event_research/eventpilot_discover.py
+  s_b380a8ea486da9::t_8cacb175a427f4 1-187
+research/event_research/expoplatform.py
+  s_b380a8ea486da9::t_8564523d575b3d 1-395
+research/event_research/gatherdigital.py
+  s_b380a8ea486da9::t_cde6b3f77d8d3f 1-428
+research/event_research/grip.py
+  s_b380a8ea486da9::t_81e69e704610f6 1-466
+research/event_research/luma.py
+  s_b380a8ea486da9::t_2315bc42fe673a 1-297
+research/event_research/mapyourshow.py
+  s_b380a8ea486da9::t_915817aa5f5626 1-270
+research/event_research/resultsdirect.py
+  s_b380a8ea486da9::t_85d1080f9893d9 1-242
+research/event_research/stova.py
+  s_b380a8ea486da9::t_bcf08cbd7a2a38 1-105
+research/event_research/swapcard/AppCurrentUser.graphql
+  s_b380a8ea486da9::t_e0a3542f3d7841 1-2
+research/event_research/swapcard/AppEventDetails.graphql
+  s_b380a8ea486da9::t_bbcc4b63240e67 1-54
+research/event_research/swapcard/AppExhibitorDetails.graphql
+  s_b380a8ea486da9::t_e6a223fa7ac509 1-66
+research/event_research/swapcard/AppExhibitorsListViewWithFilters.graphql
+  s_b380a8ea486da9::t_a9bbf63df9afe0 1-13
+research/event_research/swapcard/AppGetNewAccessToken.graphql
+  s_b380a8ea486da9::t_614da00f53869a 1-3
+research/event_research/swapcard/AppPeoplePage.graphql
+  s_b380a8ea486da9::t_7af605e09e7207 1-15
+research/event_research/swapcard/AppPersonDetails.graphql
+  s_b380a8ea486da9::t_4db17a31148348 1-785
+research/event_research/swapcard/CustomCurrentUser.graphql
+  s_b380a8ea486da9::t_7b27b083ac3156 1-52
+research/event_research/swapcard/CustomEventDetails.graphql
+  s_b380a8ea486da9::t_04ecef6ab3fbf9 1-67
+research/event_research/swapcard/CustomExhibitorsListViewWithFilters.graphql
+  s_b380a8ea486da9::t_9139f8d55dbc00 1-194
+research/event_research/swapcard/CustomPeoplePage.graphql
+  s_b380a8ea486da9::t_036608400ba91c 1-242
+research/event_research/swapcard/CustomPersonDetails.graphql
+  s_b380a8ea486da9::t_3fcc0cbf363d2f 1-156
+research/event_research/swapcard/ExhibitorsListViewWithFilters.graphql
+  s_b380a8ea486da9::t_bd6e61680cbd51 1-13
+research/event_research/swapcard/PeopleOverview.graphql
+  s_b380a8ea486da9::t_74685b91975f2e 1-18
+research/event_research/swapcard/PeoplePage.graphql
+  s_b380a8ea486da9::t_e98308773f2a79 1-15
+research/event_research/swapcard/swapcard.py
+  s_b380a8ea486da9::t_0628f89de7cf1d 1-491
+research/event_research/tests/test_allintheloop_spider.py
+  s_b380a8ea486da9::t_e58c025fe24923 1-165
+research/event_research/tests/test_awsummit_spider.py
+  s_b380a8ea486da9::t_bc6eca9ee7c526 1-162
+research/event_research/tests/test_brella_spider.py
+  s_b380a8ea486da9::t_144f4d5eeaa87d 1-178
+research/event_research/tests/test_cadmium_e2e.py
+  s_b380a8ea486da9::t_e452102ff8eccc 1-139
+research/event_research/tests/test_cadmium_spider.py
+  s_b380a8ea486da9::t_4fd167b11ed7f2 1-641
+research/event_research/tests/test_cadmium_utils.py
+  s_b380a8ea486da9::t_3c5d19dfab0e06 1-127
+research/event_research/tests/test_core_apps_spider.py
+  s_b380a8ea486da9::t_bfffe0bf0553cf 1-193
+research/event_research/tests/test_cvent_spiders.py
+  s_b380a8ea486da9::t_4c1187971ffbe5 1-201
+research/event_research/tests/test_eventpilot_discover_spider.py
+  s_b380a8ea486da9::t_9d73c45b682b12 1-88
+research/event_research/tests/test_eventpilot_spider.py
+  s_b380a8ea486da9::t_e17196f72db8f7 1-267
+research/event_research/tests/test_expoplatform_spider.py
+  s_b380a8ea486da9::t_976d2381a06c7c 1-401
+research/event_research/tests/test_gatherdigital_spider.py
+  s_b380a8ea486da9::t_106b6906bfaf7f 1-210
+research/event_research/tests/test_grip_spider.py
+  s_b380a8ea486da9::t_31a65a10d1fc52 1-514
+research/event_research/tests/test_luma_spider.py
+  s_b380a8ea486da9::t_09c3a8b04a25e8 1-157
+research/event_research/tests/test_mapyourshow_spider.py
+  s_b380a8ea486da9::t_dd3fd8541617e0 1-220
+research/event_research/tests/test_resultsdirect_spider.py
+  s_b380a8ea486da9::t_92028096117566 1-229
+research/event_research/tests/test_stova_spider.py
+  s_b380a8ea486da9::t_d556faa813a723 1-65
+research/event_research/tests/test_swapcard_spider.py
+  s_b380a8ea486da9::t_c3c41a2a1a477d 1-181
+research/event_research/tests/test_websummit_spider.py
+  s_b380a8ea486da9::t_2aec325121635b 1-187
+research/event_research/tests/test_xcd_spider.py
+  s_b380a8ea486da9::t_f5ba05320795b2 1-205
+research/event_research/websummit.py
+  s_b380a8ea486da9::t_1cd5d705deeedf 1-556
+research/event_research/xcd.py
+  s_b380a8ea486da9::t_3e0ee10367f9dc 1-501
+research/fun_spiders/__init__.py
+  s_b380a8ea486da9::t_ae68759e29b325 1
+research/fun_spiders/cognatheque.py
+  s_b380a8ea486da9::t_b5be8aae181971 1-47
+research/handlers.py
+  s_b380a8ea486da9::t_e17ab7f773bd32 1-89
+research/pipelines.py
+  s_b380a8ea486da9::t_821bda5bba23c1 1-140
+research/settings.py
+  s_b380a8ea486da9::t_f74b4ccea89da8 1-97
+research/test_spiders/__init__.py
+  s_b380a8ea486da9::t_5f6fc1ef3f2551 1
+research/test_spiders/spiders.py
+  s_b380a8ea486da9::t_6cc0caf795ea52 1-72
+research/tests/__init__.py
+  s_b380a8ea486da9::t_9d8b658043a249 1
+research/tests/conftest.py
+  s_b380a8ea486da9::t_f54e3ae13f00f1 1-64
+research/tests/test_handlers.py
+  s_b380a8ea486da9::t_5af9f08f7a1c4b 1-115
+research/tests/test_pipelines.py
+  s_b380a8ea486da9::t_daefbd76d06519 1-230
+research/tests/test_settings.py
+  s_b380a8ea486da9::t_b7b4f0675d66f4 1-49
+research/tests/test_spider_integration.py
+  s_b380a8ea486da9::t_f280bfd1e048c6 1-141
+research/tutorials/__init__.py
+  s_b380a8ea486da9::t_6aa6d3a3d39ad2 1
+research/tutorials/quotes.py
+  s_b380a8ea486da9::t_b41c91a9987013 1-23
+research/tutorials/quotes_scroll.py
+  s_b380a8ea486da9::t_bf76ce6f6c11e8 1-23
+scrapy.cfg
+  s_b380a8ea486da9::t_f098b0e765b65b 1-11
+scripts/brand/__init__.py
+  s_b380a8ea486da9::t_a9f4f7efc8fbd1 1
+scripts/brand/build_g.py
+  s_b380a8ea486da9::t_9f374adc57cce7 1-272
+scripts/brand/build_raze.py
+  s_b380a8ea486da9::t_515394e7186c6c 1-108
+scripts/brand/render_g_gif.py
+  s_b380a8ea486da9::t_e2d83866055687 1-150
+scripts/brand/render_g_throbber_gif.py
+  s_b380a8ea486da9::t_ca56b2d87472cc 1-208
+scripts/brand/render_g_throbber_svg.py
+  s_b380a8ea486da9::t_d3db5f6bb0575b 1-175
+scripts/brand/throbber_geometry.py
+  s_b380a8ea486da9::t_eb388636c19bed 1-79
+scripts/dev/serve.py
+  s_b380a8ea486da9::t_736de2808de247 1-50
+scripts/spikes/llm_provider_spike.py
+  s_b380a8ea486da9::t_ecf947557902e5 1-133
+templates/400.html
+  s_b380a8ea486da9::t_0f67dd6de3d3c4 1-6
+templates/403.html
+  s_b380a8ea486da9::t_c61559f7360196 1-6
+templates/404.html
+  s_b380a8ea486da9::t_71e18ed0217a66 1-6
+templates/500.html
+  s_b380a8ea486da9::t_9634a6f88c8dc8 1-55
+templates/_error_base.html
+  s_b380a8ea486da9::t_424d2e233fc978 1-19
+templates/_gz_form_fields.html
+  s_b380a8ea486da9::t_9ccb9fb3b5524b 1-35
+templates/_theme_picker.html
+  s_b380a8ea486da9::t_767110f5290dc4 1-12
+templates/account/email.html
+  s_b380a8ea486da9::t_f333f3df4933de 1-73
+templates/account/email_confirm.html
+  s_b380a8ea486da9::t_14cec5489137ed 1-44
+templates/account/login.html
+  s_b380a8ea486da9::t_8e240a2054e03a 1,3-16,18-21,23-96,98-104
+templates/account/password_reset_done.html
+  s_b380a8ea486da9::t_6467052aa531f8 1-51
+templates/account/signup_closed.html
+  s_b380a8ea486da9::t_defd71c94dfb7d 1-11
+templates/allauth/elements/field.html
+  s_b380a8ea486da9::t_31838dc31ecf36 1-61
+templates/allauth/elements/fields.html
+  s_b380a8ea486da9::t_f1dcc83fdb14ca 1-7
+templates/allauth/layouts/base.html
+  s_b380a8ea486da9::t_0819cd5121389e 1,3-8,10-12,14-24,26-36,38-42,44-92
+templates/app/_nav.html
+  s_b380a8ea486da9::t_b457c4944e2684 2-5,7-11,13-14,16-18,20-59,62-65,72-77,79,86-93
+templates/app/base.html
+  s_b380a8ea486da9::t_cb8c7461f6975c 3-4,14,31,39
+templates/base.html
+  s_b380a8ea486da9::t_cd1ae00ee2c28a 2-3,6-7,9-11,13,15-60
+templates/billing/home.html
+  s_b380a8ea486da9::t_c21b1ac53fe7d2 2
+templates/billing/pay.html
+  s_b380a8ea486da9::t_1bb581527f3802 3,6-8,10-11,16-18,21,26-29,31-32,34-35,40-41,44,46,48-50,53-54,63,65-67,74-76,87,89
+templates/billing/payment_return.html
+  s_b380a8ea486da9::t_fcdf3b9f503fc9 2,6-16
+templates/demo/_datasets_section.html
+  s_b380a8ea486da9::t_f4023868aacf8e 1-25
+templates/demo/dataset_table.html
+  s_b380a8ea486da9::t_b5c13d5051e7f6 1-113
+templates/demo/row_detail.html
+  s_b380a8ea486da9::t_28b1c9705b6b81 1-38
+templates/demo/staff_upload.html
+  s_b380a8ea486da9::t_16ccd4446593f9 1-45
+templates/identity/access_request_form.html
+  s_b380a8ea486da9::t_0c4f5e6fbbdd1e 1,3-6,8-12,14-15,17-23,25-29,31-38
+templates/identity/access_request_thanks.html
+  s_b380a8ea486da9::t_c4e03f3ec844cd 1,3-9,11-14,16-21,23-36,38-91
+templates/identity/invite_accept_confirm.html
+  s_b380a8ea486da9::t_b76b7b60126d88 28-31
+templates/identity/invite_invalid.html
+  s_b380a8ea486da9::t_8144df77f80060 1,3-8,10-26
+templates/intake/conference_requests.html
+  s_b380a8ea486da9::t_be97bceaa5e466 1-54
+templates/intake/share_access.html
+  s_b380a8ea486da9::t_5581938128cc5a 1-49
+templates/mfa/authenticate.html
+  s_b380a8ea486da9::t_c32ccbb47bee3a 1-57
+templates/mfa/index.html
+  s_b380a8ea486da9::t_000255416707f7 1-92
+templates/mfa/recovery_codes/index.html
+  s_b380a8ea486da9::t_5a98333cb23145 1-57
+templates/mfa/totp/activate_form.html
+  s_b380a8ea486da9::t_2bd40f391305f3 1-41
+templates/mfa/trust.html
+  s_b380a8ea486da9::t_4bb67ac0e78539 1-26
+templates/sales/conference_detail.html
+  s_b380a8ea486da9::t_6080251ad22ee4 1-58
+templates/sales/conference_list.html
+  s_b380a8ea486da9::t_a1e3fd4665491a 1-51
+templates/sales/dashboard.html
+  s_b380a8ea486da9::t_2ecfa19c8cb9a7 1-62
+templates/sales/event_detail.html
+  s_b380a8ea486da9::t_ea88c0d765b8ba 1-91
+templates/sales/event_index.html
+  s_b380a8ea486da9::t_00eb923473f6ec 1-37
+templates/sales/icp_profile_detail.html
+  s_b380a8ea486da9::t_2fb14deeac7852 1-67
+templates/sales/icp_profiles.html
+  s_b380a8ea486da9::t_44ef303f71e884 1-53
+templates/sales/prospect_list_detail.html
+  s_b380a8ea486da9::t_61c80f196407e0 1-107
+templates/sales/prospect_lists.html
+  s_b380a8ea486da9::t_4953428de4e34a 1-35
+templates/socialaccount/connections.html
+  s_b380a8ea486da9::t_aaacaa206551b1 1-47
+templates/socialaccount/snippets/login.html
+  s_b380a8ea486da9::t_267c386d77203e 1-23
+templates/socialaccount/snippets/provider_list.html
+  s_b380a8ea486da9::t_b2f6b1f5f7df06 1-44
+tests/architecture/_ast_helpers.py
+  s_b380a8ea486da9::t_91530d41e5e196 1-7,10,15,19-47,55-58,71-100
+tests/architecture/test_bigint_boundary.py
+  s_b380a8ea486da9::t_2e5ae5c487c500 1-138
+tests/architecture/test_bootstrap_sorted.py
+  s_b380a8ea486da9::t_76540eabf9753f 1-98
+tests/architecture/test_collection_layer_django_free.py
+  s_b380a8ea486da9::t_4235fd9553168b 1-115
+tests/architecture/test_domain_layer_pure.py
+  s_b380a8ea486da9::t_bc08394583efd3 1-53
+tests/architecture/test_installed_apps_parity.py
+  s_b380a8ea486da9::t_40943a8b117bea 1-39
+tests/architecture/test_no_composition_in_ready.py
+  s_b380a8ea486da9::t_819226df5d2a75 1-59
+tests/architecture/test_no_forbidden_imports.py
+  s_b380a8ea486da9::t_75b879026ba7dc 1-152
+tests/architecture/test_no_signal_domain_dispatch.py
+  s_b380a8ea486da9::t_62fa8a096d3f1c 1-92
+tests/architecture/test_no_tenant_in_shared_core.py
+  s_b380a8ea486da9::t_272bb58fd78663 1-97
+tests/architecture/test_transformers_never_clean.py
+  s_b380a8ea486da9::t_7b42205881af36 1-46
+tests/contracts/mapper.py
+  s_b380a8ea486da9::t_de6a962e4f932b 1-57
+tests/contracts/transformer.py
+  s_b380a8ea486da9::t_6379874d7d0f6f 1-127
+tests/eval/__init__.py
+  s_b380a8ea486da9::t_62a372df51a49d 1-9
+tests/eval/corpus.py
+  s_b380a8ea486da9::t_951c1e00a9cd63 1-241
+tests/eval/harness.py
+  s_b380a8ea486da9::t_9b882016c16af7 1-210
+tests/eval/test_resolution_eval.py
+  s_b380a8ea486da9::t_027cdac3a75e04 1-149
+tests/hooks/test_run_architecture_tests.py
+  s_b380a8ea486da9::t_25b1ac4f683a18 1-98
+tests/test_bootstrap.py
+  s_b380a8ea486da9::t_5c12adba74aca9 1-22
+traffic_analysis/__init__.py
+  s_b380a8ea486da9::t_87ac10cf52f1e1 1
+traffic_analysis/analysis/__init__.py
+  s_b380a8ea486da9::t_6ac2329f8621f8 1-59
+traffic_analysis/analysis/flow_analysis.py
+  s_b380a8ea486da9::t_ec86bcc06ba1d8 1-706
+traffic_analysis/analysis/flow_io.py
+  s_b380a8ea486da9::t_cf5140ec738a83 1-29
+traffic_analysis/analysis/providers.py
+  s_b380a8ea486da9::t_b9b4cf5b75b883 1-98
+traffic_analysis/analysis/reports.py
+  s_b380a8ea486da9::t_d8322ce41b9dba 1-164
+traffic_analysis/base.py
+  s_b380a8ea486da9::t_c20e8714d02b7c 1-279
+traffic_analysis/cli/__init__.py
+  s_b380a8ea486da9::t_44011664bdc054 1-8
+traffic_analysis/cli/analyze_flow.py
+  s_b380a8ea486da9::t_79fa3728a458e0 1-400
+traffic_analysis/discovery.py
+  s_b380a8ea486da9::t_0f0e70fd236f38 1-164
+traffic_analysis/exceptions.py
+  s_b380a8ea486da9::t_7a4cb56c1e61d5 1-19
+traffic_analysis/flow_readers/__init__.py
+  s_b380a8ea486da9::t_473917e64c5f4c 1
+traffic_analysis/flow_readers/allintheloop_events.py
+  s_b380a8ea486da9::t_fbcca6ea537ad3 1-134
+traffic_analysis/flow_readers/awsummit.py
+  s_b380a8ea486da9::t_4b290a683b4598 1-169
+traffic_analysis/flow_readers/brella.py
+  s_b380a8ea486da9::t_ed5e4d9626bd41 1-183
+traffic_analysis/flow_readers/cvent.py
+  s_b380a8ea486da9::t_57fd06ec8731ea 1-266
+traffic_analysis/flow_readers/example_rules.py
+  s_b380a8ea486da9::t_8157600c0d113c 1-139
+traffic_analysis/flow_readers/expoplatform.py
+  s_b380a8ea486da9::t_73ffa41adefaa8 1-248
+traffic_analysis/flow_readers/grip_events.py
+  s_b380a8ea486da9::t_226012651330a5 1-173
+traffic_analysis/flow_readers/quotes_scroll.py
+  s_b380a8ea486da9::t_630ff2e69ca2eb 1-51
+traffic_analysis/flow_readers/stova.py
+  s_b380a8ea486da9::t_75c9fabddfec27 1-122
+traffic_analysis/flow_readers/swapcard.py
+  s_b380a8ea486da9::t_87515ac80b2f9a 1-250
+traffic_analysis/flow_readers/yc_bookface.py
+  s_b380a8ea486da9::t_d3fa6a729bbbc1 1-149
+traffic_analysis/flow_readers/yc_public.py
+  s_b380a8ea486da9::t_bcee78739031e7 1-77
+traffic_analysis/pipelines.py
+  s_b380a8ea486da9::t_8f0643979734b9 1-308
+traffic_analysis/provider_registry.py
+  s_b380a8ea486da9::t_7d152608db2294 1-113
+traffic_analysis/rules.py
+  s_b380a8ea486da9::t_3b8c25cf101d15 1-426
+traffic_analysis/settings.py
+  s_b380a8ea486da9::t_0c9118fcba84e3 1-15
+traffic_analysis/tests/__init__.py
+  s_b380a8ea486da9::t_8f9674b521fd46 1
+traffic_analysis/tests/test_allintheloop_events.py
+  s_b380a8ea486da9::t_d3b1de3cef8a3a 1-134
+traffic_analysis/tests/test_awsummit.py
+  s_b380a8ea486da9::t_9b2986f5b3a0be 1-151
+traffic_analysis/tests/test_base.py
+  s_b380a8ea486da9::t_6bc0e4887a2c14 1-165
+traffic_analysis/tests/test_brella.py
+  s_b380a8ea486da9::t_ed9443351faa33 1-256
+traffic_analysis/tests/test_csv_pipeline.py
+  s_b380a8ea486da9::t_0b28750b516222 1-113
+traffic_analysis/tests/test_cvent.py
+  s_b380a8ea486da9::t_e5dc4b99685e24 1-289
+traffic_analysis/tests/test_discovery.py
+  s_b380a8ea486da9::t_69b55b6dc4a988 1-240
+traffic_analysis/tests/test_expoplatform.py
+  s_b380a8ea486da9::t_e1338d48dfca56 1-377
+traffic_analysis/tests/test_flow_analysis.py
+  s_b380a8ea486da9::t_cae6cf30436124 1-48
+traffic_analysis/tests/test_grip_events.py
+  s_b380a8ea486da9::t_997342c2fbbdff 1-254
+traffic_analysis/tests/test_jsonl_pipeline.py
+  s_b380a8ea486da9::t_25d008f5f16087 1-111
+traffic_analysis/tests/test_pipeline_manager.py
+  s_b380a8ea486da9::t_3214f5bdec5100 1-115
+traffic_analysis/tests/test_provider_registry.py
+  s_b380a8ea486da9::t_bf4d79d95054fc 1-199
+traffic_analysis/tests/test_rules.py
+  s_b380a8ea486da9::t_60b8f43801ab4c 1-405
+traffic_analysis/tests/test_stova.py
+  s_b380a8ea486da9::t_9cb556e93cc337 1-112
+traffic_analysis/tests/test_swapcard.py
+  s_b380a8ea486da9::t_15ee9fd836e727 1-391
+traffic_analysis/tests/test_yc_bookface.py
+  s_b380a8ea486da9::t_9e625d2bbfa725 1-158
+traffic_analysis/tests/test_yc_public.py
+  s_b380a8ea486da9::t_cf2dd34fb404ad 1-66
+uv.lock
+  s_b380a8ea486da9::t_4f4e8287d25c4a 19-40,62-70,196-246,256-264,283-303,537-571,636-644,659-667,685,687,689,694,696,698,919-927,975-1001,1003-1058,1060,1178-1205,1230-1252,1266-1274,1287-1304,1325-1380,1432-1516,1519-1545,1547-1549,1586-1597,1607-1655,1680,1693,1695-1697,1702-1704,1706-1707,1709,1713-1716,1736-1737,1739,1742,1754-1755,1757,1759,1771,1784,1786-1788,1792-1797,1799,1803-1806,1826-1827,1829,1832,1844-1845,1847,1849,1888-1896,1909-1917,1928-1949,1999-2083,2093-2185,2209-2227,2240-2291,2346-2369,2382-2394,2431,2437,2439,2480-2488,2513-2524,2538-2546,2572-2600,2641-2658,2670,2676,2678-2711,2723-2752,2772-2775,2824-2835,2909-2920,2946,2954-2963,2965,2986-2991,2995-3000,3004-3015,3030-3050,3071-3093
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "d6ef74d15e7da3ad21682da9e7503e7a21940424",
+  "prompts": {},
+  "sessions": {
+    "s_b380a8ea486da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e17808df-c779-4f14-809b-9e84f773a964",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

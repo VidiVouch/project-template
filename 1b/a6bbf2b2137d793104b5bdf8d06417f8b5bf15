@@ -1,0 +1,73 @@
+scrapers/event_spiders/awsummit.py
+  s_ffd92932362e87::t_844b99f38fdcb8 9
+  s_ffd92932362e87::t_b111abe1447d5f 40
+apps/data/awsummit/management/commands/import_portal_awsummit.py
+  s_ffd92932362e87::t_140291f1b34ba2 35
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_b259646248ac1d 26-33
+  s_ffd92932362e87::t_cd4e9ef16d78ee 120
+  s_ffd92932362e87::t_176096cebf1233 79-86
+  s_ffd92932362e87::t_03caa600bd64e3 127-131
+config/settings/base.py
+  s_ffd92932362e87::t_3eea805ea133cf 104
+traffic_adapters/adapters/awsummit.py
+  s_ffd92932362e87::t_99a2c5966a1286 6
+  s_ffd92932362e87::t_9e51cda4a38c36 22
+apps/data/awsummit/tests/test_app_registration.py
+  s_ffd92932362e87::t_8ee9620482891b 22
+apps/data/awsummit/tests/test_response.py
+  s_ffd92932362e87::t_c4ed1600105639 11
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_1e5f64874abd62 75-82
+  s_ffd92932362e87::t_14f5381d9ee41a 254-259
+  s_ffd92932362e87::t_8216d92644b9a5 20-27
+apps/data/awsummit/models.py
+  s_ffd92932362e87::t_9312eecfb33b48 51
+  s_ffd92932362e87::t_7bff38b837a5f4 59-140,155
+  s_ffd92932362e87::t_f600ebea732892 152
+apps/data/awsummit/tests/test_import_portal_awsummit.py
+  s_ffd92932362e87::t_2e7db1c24f3564 16
+apps/data/awsummit/tests/test_mapping.py
+  s_ffd92932362e87::t_4eeb9936b3682e 16-21
+  s_ffd92932362e87::t_05821064710e4e 52
+apps/data/awsummit/tests/test_contracts.py
+  s_ffd92932362e87::t_ba781df72aceab 21
+apps/catalog/handlers/awsummit.py
+  s_ffd92932362e87::t_fb514048b3917c 244
+  s_ffd92932362e87::t_8fb04cda884ba7 198
+  s_ffd92932362e87::t_ee78d7cdb32f0b 86
+  s_ffd92932362e87::t_c8c9d7a3a7b091 142
+apps/bootstrap.py
+  s_ffd92932362e87::t_e39001540a9f62 86
+  s_ffd92932362e87::t_34c324f36b7439 98-110
+apps/catalog/tests/test_promote_awsummit.py
+  s_ffd92932362e87::t_13e88b269e99e2 108-110
+  s_ffd92932362e87::t_011a2504287897 48
+  s_ffd92932362e87::t_9bd3410f789ae8 272-274
+  s_ffd92932362e87::t_59f285ec9b1a62 194-196
+apps/data/awsummit/transformers.py
+  s_ffd92932362e87::t_b514767675761b 50
+  s_ffd92932362e87::t_7a330c36c966fb 13
+  s_ffd92932362e87::t_12b718de400975 30-31
+apps/data/awsummit/tests/test_models.py
+  s_ffd92932362e87::t_de851e95d116cc 30
+apps/data/awsummit/mapping.py
+  s_ffd92932362e87::t_baf39773ed7cee 26-45
+  s_ffd92932362e87::t_685e9e419b4b5c 97-152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "1ba6bbf2b2137d793104b5bdf8d06417f8b5bf15",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

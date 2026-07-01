@@ -1,0 +1,21 @@
+apps/data/credentials/tests/test_source_session.py
+  s_0276221d01c0b0::t_daf283a7b10dde 17
+apps/data/credentials/providers.py
+  s_0276221d01c0b0::t_058cb309ff50a9 1,6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "edc15e0e2cbff7bd0c5f8e77232d263d1631cc82",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

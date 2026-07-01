@@ -1,0 +1,107 @@
+.claude/commands/deep-review.md
+  s_67d1eb697ad238::t_48c2066d0d76d0 175,194,220,227,241,272,274,298,300,302,307,309
+  s_67d1eb697ad238::t_6e459a9d4df111 86,93,96,103,133,311,313,370,389,391,396,398,426,436,438,445,447,452,454
+pyproject.toml
+  s_998d95b9de4b0f::t_335f282231f4d0 16
+  s_9cc359b33535bd::t_85c3509237bee0 4,29,33,38,40,41,45,50,142,145,148,150,153,155-158,158-159,163-164,168-169,169-170,171-186,177,177-181,178-181,183-187,194
+  s_9cc359b33535bd::t_019833145acece 187-198,188-193,195-199
+  s_9cc359b33535bd::t_bf1ef54f6c19af 61,62
+  s_9cc359b33535bd::t_cd912d9cdec808 75,76
+  s_9cc359b33535bd::t_af0dca38e85386 165-167,166-168
+uv.lock
+  s_5b002650df0863::t_f6036e9aaadc75 5,118,121-129,238,241-243,247,249,251-253,256-257,260,262,264-265,395-396,395-397,397,400,402,405-406,608,608-610,609-610,613,615,623
+  s_5b002650df0863::t_8bbbfb2e91fece 245
+AGENTS.md
+  s_3aab6f0d381ac9::t_b1b2ad47c93206 21,23,30-44
+tests/hooks/conftest.py
+  s_9cc359b33535bd::t_8c6e9ac76a1f26 1-8,19-20,22-24
+.agents/skills/check-coverage/SKILL.md
+  s_9cc359b33535bd::t_8c6e9ac76a1f26 1-2,4-40,47-186,188-264,271-368,370-384,394-425
+.agents/skills/local-review/SKILL.md
+  s_9cc359b33535bd::t_8c6e9ac76a1f26 1-2,4-26,33-110
+.idea/bets-project-s26.iml
+  s_5b002650df0863::t_5745be75ad4b1c 11-13
+.idea/inspectionProfiles/Project_Default.xml
+  s_9cc359b33535bd::t_63698bf4d37622 18
+.gitignore
+  s_f2ae29216c779d::t_5bbeebe22040f7 774-775
+  s_9cc359b33535bd::t_cb5c5eafd208fb 780
+.claude/settings.json
+  s_9cc359b33535bd::t_33b6316e9c0123 15
+.github/workflows/lint.yml
+  s_9cc359b33535bd::t_40ea4582e125a8 1
+  s_9cc359b33535bd::t_f098bc4d52398c 32-46
+.agents/hooks/enforce_uv.py
+  s_436db0b9f273b5::t_c110d801d7c97c 6-15,22-32,36,40-71,73-86,93-95
+  s_436db0b9f273b5::t_70538fcc0e3145 33-34,37-39
+  s_436db0b9f273b5::t_800f4c3324dc39 35
+  s_436db0b9f273b5::t_1552bad835c086 87-88
+tests/hooks/test_enforce_uv.py
+  s_436db0b9f273b5::t_3104f3ed433efb 1
+  s_436db0b9f273b5::t_19a40a13dcc9ba 118-161,163-168,172-180
+  s_436db0b9f273b5::t_800f4c3324dc39 162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "205aae0d45e70021bfcea3f2b3810e725460ae2f",
+  "prompts": {},
+  "sessions": {
+    "s_3aab6f0d381ac9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28403637-3131-4df6-a9d3-4159d5748b62",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_436db0b9f273b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df36a678-6856-4688-9cb2-0172333cdeca",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_67d1eb697ad238": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e66af8e3-dd09-4e4d-8c12-d26c49643ef2",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_9cc359b33535bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9b43c-3e4e-44a3-8a45-6161e6c7b107",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_f2ae29216c779d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0e7dc62-2568-46bc-a283-87f8b657a04a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

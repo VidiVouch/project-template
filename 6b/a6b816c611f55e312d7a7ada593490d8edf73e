@@ -1,0 +1,37 @@
+scripts/brand/render_g_gif.py
+  s_0276221d01c0b0::t_ebac21d3b21b2a 1-150
+scripts/brand/build_g.py
+  s_0276221d01c0b0::t_ebac21d3b21b2a 1-272
+scripts/brand/__init__.py
+  s_0276221d01c0b0::t_ebac21d3b21b2a 1
+scripts/brand/render_g_throbber_gif.py
+  s_0276221d01c0b0::t_ebac21d3b21b2a 1-208
+scripts/brand/render_g_throbber_svg.py
+  s_0276221d01c0b0::t_ebac21d3b21b2a 1-175
+scripts/brand/build_raze.py
+  s_0276221d01c0b0::t_ebac21d3b21b2a 1-108
+scripts/brand/throbber_geometry.py
+  s_0276221d01c0b0::t_ebac21d3b21b2a 1-79
+scripts/dev/serve.py
+  s_0276221d01c0b0::t_ebac21d3b21b2a 1-50
+pyproject.toml
+  s_0276221d01c0b0::t_164e47c77b947a 317-320
+  s_0276221d01c0b0::t_95bd2e1bcf8a07 57-62
+  s_0276221d01c0b0::t_5c7d6ccacfa818 170-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "6ba6b816c611f55e312d7a7ada593490d8edf73e",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

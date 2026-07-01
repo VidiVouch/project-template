@@ -1,0 +1,41 @@
+apps/catalog/tests/test_promote_event_participation_attendee.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-313
+apps/catalog/tests/test_promote_event_organization_relationship.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-332
+apps/catalog/tests/test_reset_processed.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-167
+apps/catalog/tests/test_promote_event_participation.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-309
+apps/catalog/tests/test_person_resolution.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-232
+apps/catalog/tests/test_promote_company.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-268
+apps/catalog/tests/test_employment_from_participation.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-138
+apps/catalog/tests/test_claim_bridge_ledgering.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-116
+apps/catalog/tests/test_promote_event_participation_poster_presenter.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-146
+apps/catalog/tests/test_promote_individual.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-242
+apps/catalog/tests/test_promote_event.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-349
+apps/catalog/tests/test_promote_employment.py
+  s_eef0c01ffe4331::t_252dcf61dec320 1-200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "6ed55d2c5de29cebe61d791f477644955602fc16",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+apps/data/affiliate_world/models.py
+  s_ffd92932362e87::t_83afb373aee7bc 37
+  s_ffd92932362e87::t_6685474f0102d4 50-88
+apps/data/affiliate_world/tests/test_contracts.py
+  s_ffd92932362e87::t_aa78f4aa0cc3e5 19
+apps/catalog/handlers/affiliate_world.py
+  s_ffd92932362e87::t_eca4edb9fda486 245
+  s_ffd92932362e87::t_0655b82c675f32 107
+  s_ffd92932362e87::t_1bf286986c9ba0 164
+  s_ffd92932362e87::t_e0cbd134fac1f4 202
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_47d5a7fe758f89 72-77
+  s_ffd92932362e87::t_371abecf4b0771 114
+  s_ffd92932362e87::t_b4e41cef4b0129 21-26
+  s_ffd92932362e87::t_4b7fbe6f46bce7 122-124
+envelopes/affiliate_world/versions.py
+  s_ffd92932362e87::t_7a37afc2e9896a 1-17,19-20
+  s_ffd92932362e87::t_3b66e98e9ff081 18
+apps/data/affiliate_world/tests/test_app_registration.py
+  s_ffd92932362e87::t_e7b258c6b152e7 19
+scrapers/event_spiders/affiliate_world.py
+  s_ffd92932362e87::t_092f0b746b9c85 24
+  s_ffd92932362e87::t_460d14b9ee7ab2 35
+apps/data/affiliate_world/transformers.py
+  s_ffd92932362e87::t_1cf8031ad14fb4 13-27
+  s_ffd92932362e87::t_05ead1528c4115 45
+apps/data/affiliate_world/tests/test_response.py
+  s_ffd92932362e87::t_995d4fd28b6a10 10
+apps/catalog/tests/test_promote_affiliate_world.py
+  s_ffd92932362e87::t_f835eefb7c1101 107
+  s_ffd92932362e87::t_11ce4f6f89c745 47
+  s_ffd92932362e87::t_15831879e35b6b 224
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_2f11ed514901a1 247-250
+  s_ffd92932362e87::t_168f72d531c15f 68-73
+  s_ffd92932362e87::t_8cc8d21b3a70d6 15-20
+apps/bootstrap.py
+  s_ffd92932362e87::t_65e8f43400f9e0 98-110
+  s_ffd92932362e87::t_639697014fb3f1 85
+config/settings/base.py
+  s_ffd92932362e87::t_67b2944ac4a8c3 103
+apps/data/affiliate_world/tests/test_transformers.py
+  s_ffd92932362e87::t_0d020857b127a8 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8c807372e9a89ee3bdf5a58847d29792d2a853d1",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

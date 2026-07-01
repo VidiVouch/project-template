@@ -1,0 +1,23 @@
+tests/architecture/test_rls_via_operation.py
+  s_0276221d01c0b0::t_b157303f061a5c 1-78
+apps/identity/operations.py
+  s_0276221d01c0b0::t_b157303f061a5c 1-143
+apps/identity/tests/test_operations.py
+  s_0276221d01c0b0::t_b157303f061a5c 1-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "d4e0b616faafee0f85fb346f6a49dc1fceba75aa",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

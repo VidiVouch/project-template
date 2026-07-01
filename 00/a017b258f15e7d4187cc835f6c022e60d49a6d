@@ -1,0 +1,21 @@
+tests/architecture/test_collection_layer_django_free.py
+  s_5b002650df0863::t_30cdac4feede0b 30
+  s_5b002650df0863::t_f4a5dab84077d1 9-10,15-18,59-60,66-67
+  s_5b002650df0863::t_1a9714c33297e2 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "00a017b258f15e7d4187cc835f6c022e60d49a6d",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

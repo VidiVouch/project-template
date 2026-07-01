@@ -1,0 +1,81 @@
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 16,91,156-158,165-167,333-336,339-350,357-387
+  s_5b002650df0863::t_3414e7b0b4527a 90
+  s_5b002650df0863::t_7b601b147a8e02 92,107-112,114-115,337-338,388,392-393,402-403
+  s_5b002650df0863::t_e74251149466fa 96
+  s_5b002650df0863::t_aad84bce2383cc 97
+  s_5b002650df0863::t_4cd6a5e0b65d2e 100
+  s_5b002650df0863::t_90bfb16bdf5a69 101
+  s_5b002650df0863::t_a58725b59d4b17 102-103
+  s_5b002650df0863::t_118e862ba1a4d5 104
+  s_5b002650df0863::t_a3f29645c8e8f0 105
+  s_e9b1ddfac5f98e::t_6e03986fe659c1 113
+  s_5b002650df0863::t_b82f85f3ae94eb 148-151
+  s_5b002650df0863::t_7be42f0b798fc1 351-356
+  s_5b002650df0863::t_ad89cb04c88f42 389-391,400-401
+  s_998d95b9de4b0f::t_7be498205e356b 394-399,405-409
+  s_5b002650df0863::t_ff619b430102c0 404
+  s_5b002650df0863::t_3b609469ed5037 410-416
+  s_5b002650df0863::t_63b7ed74f23be4 418-420,422-425
+  s_5b002650df0863::t_4b47bc34478b19 426-429,432-435,438-440,445-448
+apps/mapping_tool/templates/mapping_tool/editor.html
+  s_e9b1ddfac5f98e::t_e5ecf303d5ad7f 1-310
+config/urls.py
+  s_998d95b9de4b0f::t_fca05bc0bed8f9 7
+  s_5b002650df0863::t_cfeac854f91e4b 8,15-18
+  s_5b002650df0863::t_bda14d0d5bfd82 20-21,26-27
+  s_5b002650df0863::t_80dd0c6d11f722 22-23
+  s_5b002650df0863::t_7b601b147a8e02 24-25
+  s_5b002650df0863::t_bc1ff741571a12 28,32-34,39-40
+  s_e9b1ddfac5f98e::t_ef92460f4e682b 29-31
+  s_5b002650df0863::t_999c8d9c8fa085 35,41-44
+  s_998d95b9de4b0f::t_fd693dc12bd97f 36-38
+  s_5b002650df0863::t_4a5781627c9269 45-46
+apps/mapping_tool/codegen.py
+  s_e9b1ddfac5f98e::t_69122e12105e4b 1-116
+apps/mapping_tool/views.py
+  s_e9b1ddfac5f98e::t_b453359a943d80 1-24,26-43,45-47,50-57,59-67,69-71,74-75,77-87,89-97,99-107
+  s_e9b1ddfac5f98e::t_60caa0a06ec525 25,44,68,98
+  s_e9b1ddfac5f98e::t_01b53670d3fcdb 48-49,72-73
+  s_e9b1ddfac5f98e::t_b8474dccc7386d 58
+  s_e9b1ddfac5f98e::t_69122e12105e4b 76,88
+apps/mapping_tool/discovery.py
+  s_e9b1ddfac5f98e::t_60caa0a06ec525 1-160
+apps/mapping_tool/urls.py
+  s_e9b1ddfac5f98e::t_127071d5ef6c55 1-13
+apps/mapping_tool/templates/mapping_tool/dashboard.html
+  s_e9b1ddfac5f98e::t_c588c49e36c3f9 1-24,26-28,31,33-69
+  s_e9b1ddfac5f98e::t_54ee6ef3cee88b 25,29-30,32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "57240f52e353794c1444d558397e3dc9f0e5608c",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_e9b1ddfac5f98e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0b58ff27-60cc-4629-a051-a6f8317abbb5",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+apps/disambiguator/registrations.py
+  s_5b002650df0863::t_fd786bc93cb378 1-28
+apps/disambiguator/migrations/0001_initial.py
+  s_5b002650df0863::t_278441ea9113b3 1-79
+apps/bootstrap.py
+  s_5b002650df0863::t_1bb65f0a918264 45
+  s_5b002650df0863::t_d59d051562f4ac 49
+  s_5b002650df0863::t_e245d029f0edc3 86-104
+REVIEW.md
+  s_5b002650df0863::t_b9a1e4057de8ab 50
+apps/disambiguator/providers.py
+  s_5b002650df0863::t_fee83ec2b5da63 1-211
+apps/disambiguator/tests/test_registrations.py
+  s_5b002650df0863::t_8a340dfbb79b28 1-35,37-87
+  s_5b002650df0863::t_23c180a702113a 36
+apps/disambiguator/migrations/0002_disambiguationcandidate_disambiguationverdict_and_more.py
+  s_5b002650df0863::t_fee83ec2b5da63 1-92
+apps/disambiguator/models.py
+  s_5b002650df0863::t_0c20b67aefea99 1-181
+  s_5b002650df0863::t_f050601e815ade 182,184-362
+  s_5b002650df0863::t_e57c948ebd0465 183
+apps/disambiguator/policy.py
+  s_5b002650df0863::t_278441ea9113b3 1-156
+apps/disambiguator/tests/test_models.py
+  s_5b002650df0863::t_278441ea9113b3 1-9,18,25-150,154-183
+  s_5b002650df0863::t_c7398091529efb 151-153
+  s_5b002650df0863::t_f050601e815ade 184,186-382
+  s_5b002650df0863::t_e57c948ebd0465 185
+tests/architecture/test_no_composition_in_ready.py
+  s_5b002650df0863::t_5d3b681f445d99 15-24
+apps/disambiguator/apps.py
+  s_5b002650df0863::t_0bd6008a8a8129 1-10
+config/settings/base.py
+  s_5b002650df0863::t_7dc34e1fe62abe 97
+tests/architecture/test_bootstrap_sorted.py
+  s_5b002650df0863::t_ef5cb7d9d3e424 8-11
+  s_5b002650df0863::t_e0e6373f9eb61b 49-62,64
+  s_5b002650df0863::t_40baf6a7fe9406 85-87,89-98
+  s_5b002650df0863::t_ce57181a94a232 88
+apps/disambiguator/tests/test_policy.py
+  s_5b002650df0863::t_278441ea9113b3 1-184
+tests/architecture/test_no_forbidden_imports.py
+  s_5b002650df0863::t_bb02d0ea0d4559 20-24
+  s_5b002650df0863::t_ff6e99ad5336bc 35-42
+apps/disambiguator/tests/test_providers.py
+  s_5b002650df0863::t_fee83ec2b5da63 1-142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "fd14d2568ad0a322bc96b6bf667047a9c857c96e",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

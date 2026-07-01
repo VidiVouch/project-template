@@ -1,0 +1,25 @@
+apps/data/expoplatform/tests/test_import_portal_expoplatform.py
+  s_5b002650df0863::t_a54916a9db045e 1-114
+.agents/skills/port-source/references/legacy-map.md
+  s_5b002650df0863::t_988d03b81a2c32 41
+  s_5b002650df0863::t_c0d5f80c1d9338 39
+apps/data/expoplatform/management/commands/import_portal_expoplatform.py
+  s_5b002650df0863::t_a54916a9db045e 1-17,24-192
+  s_5b002650df0863::t_f81e18449c93f3 18-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a3ebfb40ad0d7a18ff0d1fd125daa6e14b91f82f",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

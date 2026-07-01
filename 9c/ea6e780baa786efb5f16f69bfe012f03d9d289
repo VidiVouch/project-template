@@ -1,0 +1,29 @@
+apps/provenance/vouch_verify.py
+  s_c3bfa30f51a6e1::t_fb7c329fbae7a0 206-212,214,221,223,225-229
+  s_c3bfa30f51a6e1::t_aaba9ebf062d72 139,142-148,158,160,162,164-165,167-168,172-173,177-180
+apps/provenance/tests/test_vouch_verify.py
+  s_c3bfa30f51a6e1::t_fc83d776a4263c 127-128,132-133,140-168
+  s_c3bfa30f51a6e1::t_c1fbb87c1c0179 283
+  s_c3bfa30f51a6e1::t_4735939b897547 248,254,256,261-268
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "9cea6e780baa786efb5f16f69bfe012f03d9d289",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

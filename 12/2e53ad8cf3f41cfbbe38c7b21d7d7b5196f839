@@ -1,0 +1,31 @@
+apps/identity/tests/test_adapters.py
+  s_062b4d28690cee::t_615c22022f42e3 433-437,439-443
+assets/css/source.css
+  s_062b4d28690cee::t_615c22022f42e3 1478-1483,1487-1492,1494-1495
+apps/identity/adapters.py
+  s_062b4d28690cee::t_9dec50ba23b2c8 524
+  s_062b4d28690cee::t_615c22022f42e3 32,34,37,43-44,501-511,515,517-522,525,531-533,535-558
+templates/mfa/totp/activate_form.html
+  s_062b4d28690cee::t_f6c39bdc2766ce 1,3-8,10-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "122e53ad8cf3f41cfbbe38c7b21d7d7b5196f839",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

@@ -1,0 +1,43 @@
+apps/billing/tests/test_webhooks.py
+  s_ffd92932362e87::t_f7eec683da098c 46-47
+  s_ffd92932362e87::t_4e1bde5f87f8e9 61
+config/settings/production.py
+  s_ffd92932362e87::t_548b9b58610ee5 73-79
+  s_ffd92932362e87::t_d10a3cc9aef365 84
+.env.sample
+  s_ffd92932362e87::t_27a091e20ef998 45-61
+config/settings/base.py
+  s_ffd92932362e87::t_dd02f90bbb804b 406-412
+apps/billing/management/commands/stripe_listen.py
+  s_ffd92932362e87::t_872fefa355ac75 43,47
+  s_ffd92932362e87::t_84a4a3ba2110fe 6
+  s_ffd92932362e87::t_d704360eb8cf0c 15
+apps/billing/keys.py
+  s_ffd92932362e87::t_7db6851f350b19 22
+  s_ffd92932362e87::t_3e2a7aa238a547 19-21,23-27
+apps/billing/webhooks.py
+  s_ffd92932362e87::t_d18f991dfb85e2 5-8
+  s_ffd92932362e87::t_dec63b3c1ee847 33
+  s_ffd92932362e87::t_df5f8dfed21c04 62,66-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "9bd3c9c7a79eea5bd8fcc3de5cd73a9145b804bc",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

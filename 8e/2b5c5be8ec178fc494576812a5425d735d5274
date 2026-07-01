@@ -1,0 +1,27 @@
+assets/css/source.css
+  s_062b4d28690cee::t_739d9ca8d8e258 1482-1483
+  s_062b4d28690cee::t_eeccc8572792a1 209-215
+templates/mfa/index.html
+  s_062b4d28690cee::t_0fed13c78c039e 17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8e2b5c5be8ec178fc494576812a5425d735d5274",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

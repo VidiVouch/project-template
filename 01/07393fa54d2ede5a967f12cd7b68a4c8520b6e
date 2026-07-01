@@ -1,0 +1,22 @@
+apps/catalog/management/commands/export_events.py
+  s_5b002650df0863::t_0c2ed4a8cb11db 1-102
+apps/catalog/tests/test_export_events.py
+  s_5b002650df0863::t_f05a2ac6a4bdc2 1-197,199-206
+  s_5b002650df0863::t_e4cc8c6ee62b60 198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "0107393fa54d2ede5a967f12cd7b68a4c8520b6e",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

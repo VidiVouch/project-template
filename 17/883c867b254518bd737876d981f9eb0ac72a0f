@@ -1,0 +1,71 @@
+templates/sales/prospect_list_detail.html
+  s_0276221d01c0b0::t_d25bb28bbab70b 1-107
+apps/sales/tests/test_event_tokens.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 1,5,7-9,12-13,15,17-19,46-50,58-84
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_0276221d01c0b0::t_d25bb28bbab70b 34,36-38,40,317,331,334-337
+uv.lock
+  s_0276221d01c0b0::t_d25bb28bbab70b 1511,1593
+apps/sales/tests/test_export_flow.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 1-233
+templates/sales/prospect_lists.html
+  s_0276221d01c0b0::t_d25bb28bbab70b 1-35
+apps/sales/person_tokens.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 1-75
+apps/sales/tests/test_icp_review.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 116-179
+templates/sales/dashboard.html
+  s_0276221d01c0b0::t_d25bb28bbab70b 15
+templates/sales/event_detail.html
+  s_0276221d01c0b0::t_d25bb28bbab70b 67-69
+apps/sales/exports_views.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 1-139
+apps/sales/tests/test_event_index.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 18,119-128
+apps/sales/tests/test_conferences.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 92-94,97-101,175-180
+apps/sales/tests/test_event_detail.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 182-185,189,191-195,199,203
+apps/sales/tests/test_format.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 5,32-45
+apps/sales/entitlements.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 25-29,38-40,45-46,80-139
+apps/sales/admin.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 95
+apps/sales/tests/test_receivers.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 1-41
+apps/sales/tests/test_prospect_lists.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 1-297
+REVIEW.md
+  s_0276221d01c0b0::t_d25bb28bbab70b 61-64
+apps/sales/models.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 155-163,248-252
+pyproject.toml
+  s_0276221d01c0b0::t_d25bb28bbab70b 18
+apps/sales/tests/test_dashboard.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 12,21,148-169,205-214
+templates/app/_nav.html
+  s_0276221d01c0b0::t_d25bb28bbab70b 40-44
+apps/sales/event_tokens.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 1,7-14,22-27,32-41,45,51-52,54,58,65,70-71,73,75
+apps/sales/urls.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 5,19-25
+apps/sales/views.py
+  s_0276221d01c0b0::t_d25bb28bbab70b 1,24,32-40,44,47-48,58-73,109-124,128-133,135,137-145,189-216,232,303,333-334,340,343-344,431-545,561-570,572-573,581,604-605
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "17883c867b254518bd737876d981f9eb0ac72a0f",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

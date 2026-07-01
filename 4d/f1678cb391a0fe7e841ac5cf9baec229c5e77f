@@ -1,0 +1,68 @@
+scrapers/event_spiders/tests/test_socio_spider.py
+  s_ffd92932362e87::t_12e97c829a7d4d 16
+envelopes/socio/versions.py
+  s_ffd92932362e87::t_f30aed89fc5501 1-19,21-22
+  s_ffd92932362e87::t_d18555636e07cb 20
+apps/data/socio/mapping.py
+  s_ffd92932362e87::t_90b24eefe1f1c4 66-90
+  s_ffd92932362e87::t_ad0aee336fd0f6 109
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_85646a239bed62 49
+  s_ffd92932362e87::t_b66e5b482a405c 89
+  s_ffd92932362e87::t_5fd9e8f3150c01 261-262
+apps/data/socio/models.py
+  s_ffd92932362e87::t_4dd2aa4dabfbde 52-65
+  s_ffd92932362e87::t_526573e7410fab 31-39
+apps/data/socio/tests/test_response.py
+  s_ffd92932362e87::t_b7c9ef7edaa9c6 6
+apps/data/socio/tests/test_contracts.py
+  s_ffd92932362e87::t_135b19761b4c9f 13
+apps/data/socio/transformers.py
+  s_ffd92932362e87::t_3d09aa31392e63 14-23
+  s_ffd92932362e87::t_f3b22665f404b3 41
+scrapers/event_spiders/socio.py
+  s_ffd92932362e87::t_a46a539dc99ef1 7
+  s_ffd92932362e87::t_48e25ef44e5eb8 30
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_f3b81ce235b322 61
+  s_ffd92932362e87::t_6e4f3a8beb3679 93
+  s_ffd92932362e87::t_13fa8bc7e98689 110
+  s_ffd92932362e87::t_e5b1d18c69e14b 130
+apps/catalog/tests/test_promote_socio.py
+  s_ffd92932362e87::t_7c10457bfae342 168
+  s_ffd92932362e87::t_2d47753bcb031e 86
+  s_ffd92932362e87::t_c61c915d0d5fe7 25-27
+apps/catalog/handlers/socio.py
+  s_ffd92932362e87::t_884ab82eccb411 68
+  s_ffd92932362e87::t_9f26ed2acea7a5 113
+  s_ffd92932362e87::t_681bc61fca7c99 35
+apps/data/socio/tests/test_mapping.py
+  s_ffd92932362e87::t_22947bc0ae79fb 9-10
+  s_ffd92932362e87::t_54499667b2665a 54
+apps/data/socio/management/commands/import_portal_socio.py
+  s_ffd92932362e87::t_d562491e6fba21 35
+apps/bootstrap.py
+  s_ffd92932362e87::t_9e54d0f151f584 94,98-110
+apps/data/socio/tests/test_import_portal_socio.py
+  s_ffd92932362e87::t_2a5e0fa0e3b198 23
+apps/data/socio/tests/test_app_registration.py
+  s_ffd92932362e87::t_ecccb201f5520e 13
+config/settings/base.py
+  s_ffd92932362e87::t_12162a2a2fc6e6 114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "4df1678cb391a0fe7e841ac5cf9baec229c5e77f",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

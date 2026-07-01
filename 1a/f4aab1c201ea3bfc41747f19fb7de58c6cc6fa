@@ -1,0 +1,31 @@
+apps/billing/models.py
+  s_0276221d01c0b0::t_a82d4dc5a44ba2 17
+  s_0276221d01c0b0::t_8e793a5847a886 114
+  s_0276221d01c0b0::t_caae38e84351ce 158
+  s_0276221d01c0b0::t_adc65675388cb3 160
+  s_0276221d01c0b0::t_401e2970eaa127 39-48,59-74
+apps/billing/tests/test_webhooks.py
+  s_0276221d01c0b0::t_b8591b7d30e25d 99-140
+apps/billing/migrations/0002_stripecustomer_event_at_stripeinvoice_event_at_and_more.py
+  s_0276221d01c0b0::t_5f746215f00eaa 1-33
+apps/billing/webhooks.py
+  s_0276221d01c0b0::t_8c0619d7e512f5 95-101
+  s_0276221d01c0b0::t_e6d0bde23f4042 109
+  s_0276221d01c0b0::t_95d49cdd9f902e 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "1af4aab1c201ea3bfc41747f19fb7de58c6cc6fa",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+assets/css/impersonate-bar.css
+  s_03d4e22efd389d::t_6e6116e0c63ec2 1-82
+apps/identity/tests/test_impersonation.py
+  s_03d4e22efd389d::t_f3020c73c70009 55
+  s_03d4e22efd389d::t_475fc63f7efe74 186
+  s_03d4e22efd389d::t_7f8a3400e5144a 268
+  s_03d4e22efd389d::t_648d776e4671e5 2,4-10,13-35,37-54,56-144,146-185,187-195,197-214,216,218-240,242-253,255-267,269-373
+  s_03d4e22efd389d::t_6c8eda58f4ce5c 1,3
+  s_03d4e22efd389d::t_adf480bcf335cb 196
+  s_03d4e22efd389d::t_a6ba30fb80dfe4 241,254
+  s_03d4e22efd389d::t_8837fe0e7cbdcf 11-12
+  s_03d4e22efd389d::t_5a67384407003f 145
+  s_03d4e22efd389d::t_25929689af1e00 36
+  s_03d4e22efd389d::t_4e552534661da0 215,217
+templates/hijack/notification.html
+  s_03d4e22efd389d::t_7b112fee9919e3 1,15-16,22
+  s_03d4e22efd389d::t_b580b8faf94253 2-3,7,17-21,24,29-32,35-39,41-46,48-53
+  s_03d4e22efd389d::t_9af6f109002ca8 4-6,8-14,23,25-28,33-34,40,47,54
+pyproject.toml
+  s_03d4e22efd389d::t_aa38269581cb70 25
+apps/identity/receivers.py
+  s_03d4e22efd389d::t_46af1368d4a775 72-73,77-81,84,93-94,97,101
+  s_03d4e22efd389d::t_bbd92848a56c20 15,18-19,31
+  s_03d4e22efd389d::t_b41fc52bc95f80 65-71,74-76,82-83,85-92,95-96,98-100,102-106
+config/settings/base.py
+  s_03d4e22efd389d::t_39b2024e09bc23 91-99
+  s_03d4e22efd389d::t_55f66a9ce3827f 410-411,413-418,423-424
+  s_03d4e22efd389d::t_e74bf941518039 412
+  s_03d4e22efd389d::t_e3b2ed5a9bcaee 316-324
+  s_03d4e22efd389d::t_8c2922435feab4 169-176,178-179
+apps/identity/admin.py
+  s_03d4e22efd389d::t_4577fbe39afd50 7-8
+  s_03d4e22efd389d::t_a0bd88f29fa65f 67-74
+apps/identity/admin_auth.py
+  s_03d4e22efd389d::t_9534834cf03d68 30-31
+  s_03d4e22efd389d::t_dc2027d315d20b 72-81
+  s_03d4e22efd389d::t_34a8a6deaa0c49 48
+  s_03d4e22efd389d::t_2ffd5afe4e0ad6 1-19,22,35-47,50-71,82-84
+  s_03d4e22efd389d::t_4dbdbb6feda8a2 85-89
+  s_03d4e22efd389d::t_18e8fa1e091957 49
+  s_03d4e22efd389d::t_e9539163a75391 20-21,23-29,32-34
+config/urls.py
+  s_03d4e22efd389d::t_79dd5aefd0c2fc 24-30
+  s_03d4e22efd389d::t_79389425916f31 8,15-20
+assets/js/impersonate-bar.js
+  s_03d4e22efd389d::t_37ad335489c93e 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "89c1b3b54c50e3400a10cb8733068336ff2e64b9",
+  "prompts": {},
+  "sessions": {
+    "s_03d4e22efd389d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eee70820-4840-46c0-ac73-0c0a42bab83f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+apps/catalog/org_collision.py
+  s_5b002650df0863::t_bb1a5d84f587fe 1-50
+apps/catalog/tests/test_reexamine_claims.py
+  s_5b002650df0863::t_74fe9d8b2575a7 198-199,17,200-219,223-228,232-246,250-294,298-320,323-324
+  s_5b002650df0863::t_aa33293209a22a 4,9,11,15-16
+  s_5b002650df0863::t_3bef0fc460de96 94-95
+  s_5b002650df0863::t_704cc289f11ee9 220-222,247-249,295-297
+apps/catalog/management/commands/reexamine_claims.py
+  s_5b002650df0863::t_b87712c15ee83a 17-19,22-23
+  s_5b002650df0863::t_a21e7660f1daff 47
+  s_5b002650df0863::t_f7562e9cabf53c 194-204,208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "6fc687a57cea3d9ff1697176ed1f81b000bc84b9",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+assets/css/source.css
+  s_062b4d28690cee::t_17f4b1b9782331 1457
+  s_062b4d28690cee::t_615c22022f42e3 1458
+  s_062b4d28690cee::t_639c52d59a21ec 1469-1473
+  s_062b4d28690cee::t_91d25becce2b00 1480,1482
+  s_062b4d28690cee::t_23492d273e762c 1489,1491-1494,1488,1490,1496-1498
+  s_062b4d28690cee::t_1ece03125ac59b 1495,1508,1500-1501,1503-1505
+  s_062b4d28690cee::t_d34ed472d88cfc 1552-1559,1502,1506
+  s_062b4d28690cee::t_38f4efd2575d99 1569-1572,1575,1583,1499,1507
+  s_062b4d28690cee::t_863259eed10c61 1116-1123,1139-1140
+templates/mfa/authenticate.html
+  s_062b4d28690cee::t_97f687ece8a387 1-57
+templates/mfa/trust.html
+  s_062b4d28690cee::t_d422dcca2c50d8 1-17,19-26
+  s_062b4d28690cee::t_29ed449a52a59d 18
+templates/account/email.html
+  s_062b4d28690cee::t_e736f6eb9b33e7 26-28
+  s_062b4d28690cee::t_0acbd0d3813984 41
+  s_062b4d28690cee::t_16897025e79bc8 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "73eb1f0524e3edbe284dae48f6c7c623c89c621d",
+  "prompts": {},
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+PORTAL_V5_PLAN.md
+  s_a260275017114d::t_677a79cad53d62 134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "8a897bf42d64a75cb1095e39dad8c5f3ae74c16a",
+  "prompts": {},
+  "sessions": {
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

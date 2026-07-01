@@ -1,0 +1,69 @@
+apps/data/xcd/apps.py
+  s_0276221d01c0b0::t_74f3b28ad9f0a4 1-8
+apps/data/xcd/mapping.py
+  s_0276221d01c0b0::t_e3f5dd121f7b00 1-280
+apps/data/xcd/tests/test_mapping.py
+  s_0276221d01c0b0::t_391f07c8a49e7b 1-173
+apps/data/xcd/transformers.py
+  s_0276221d01c0b0::t_79798e7f62b866 1-121
+research/event_research/xcd.py
+  s_0276221d01c0b0::t_48acbc2055522e 1-501
+apps/data/xcd/registrations.py
+  s_0276221d01c0b0::t_6e173f16e10aa9 1-64
+apps/data/xcd/tests/test_admin.py
+  s_0276221d01c0b0::t_12495cd4f60169 1-50
+apps/catalog/handlers/xcd.py
+  s_0276221d01c0b0::t_98e7431c9be727 1-298
+apps/catalog/tests/test_promote_xcd.py
+  s_0276221d01c0b0::t_447eacceadbdce 1-334
+envelopes/xcd/versions.py
+  s_0276221d01c0b0::t_cbb1abd2cd945c 1-22
+apps/data/xcd/migrations/0001_initial.py
+  s_0276221d01c0b0::t_808da522e7286e 1-164
+apps/data/xcd/management/commands/import_portal_xcd.py
+  s_0276221d01c0b0::t_abe60ed2a1124b 1-98
+apps/data/xcd/admin.py
+  s_0276221d01c0b0::t_4e9f02bfc3b82d 1-37
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_177c43daa6d496 285
+  s_0276221d01c0b0::t_e0935d4db81b0e 343-347
+  s_0276221d01c0b0::t_595cff35e15136 143-150
+  s_0276221d01c0b0::t_432e099f3811b8 251-258
+apps/data/xcd/tests/test_response.py
+  s_0276221d01c0b0::t_941468f6647121 1-175
+apps/data/xcd/tests/test_import_portal_xcd.py
+  s_0276221d01c0b0::t_e0876352fb1908 1-100
+apps/data/xcd/models.py
+  s_0276221d01c0b0::t_7e78b39dfddd01 1-167
+envelopes/xcd/response.py
+  s_0276221d01c0b0::t_ab889ecbb1aa52 1-268
+apps/data/xcd/tests/test_contracts.py
+  s_0276221d01c0b0::t_c980b5b13a480f 1-196
+config/settings/base.py
+  s_0276221d01c0b0::t_80f822dd84996b 138
+apps/data/xcd/tests/test_models.py
+  s_0276221d01c0b0::t_5a28c8a51fa56f 1-64
+apps/data/xcd/tests/test_app_registration.py
+  s_0276221d01c0b0::t_f8dcc5a0c6052c 1-44
+research/event_research/tests/test_xcd_spider.py
+  s_0276221d01c0b0::t_aaf58b37b68137 1-205
+apps/bootstrap.py
+  s_0276221d01c0b0::t_90d3748e563220 150
+  s_0276221d01c0b0::t_b01ff681e233ad 128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "479e8a96040bb53418f53de8f2f3dbd110473369",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

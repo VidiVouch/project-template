@@ -1,0 +1,85 @@
+pyproject.toml
+  h_795c5e33ecc5af 16-22,25-26,29,34,44,53,63,67,87,126-142,151-157,177-187,197-202,206-208,213,218-220,225,228-234,240,244,259-260,277
+  s_0276221d01c0b0::t_3c31afdfd579cd 15,23-24,27-28,30,52,54-55,59,66,68,158-176,235,241,245,261
+REVIEW.md
+  s_0276221d01c0b0::t_3c31afdfd579cd 22-60
+.gitignore
+  s_0276221d01c0b0::t_3c31afdfd579cd 777-780
+AGENTS.md
+  s_0276221d01c0b0::t_3c31afdfd579cd 22-23
+.idea/portal-update.iml
+  s_0276221d01c0b0::t_3c31afdfd579cd 3-14
+config/settings/__init__.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-5
+README.md
+  s_0276221d01c0b0::t_3c31afdfd579cd 16-19,27-44,64-68,71-72,154,158-160,167-188,205-209,278-491
+config/settings/base.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-205
+.pre-commit-config.yaml
+  s_0276221d01c0b0::t_3c31afdfd579cd 40-49
+config/asgi.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-9
+.claude/hooks/enforce_django_comments.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-124
+config/settings/local.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-16
+.claude/settings.json
+  s_0276221d01c0b0::t_3c31afdfd579cd 51-59
+apps/__init__.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1
+project-words.dic
+  s_0276221d01c0b0::t_3c31afdfd579cd 6-17
+config/urls.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-16
+.idea/runConfigurations/Django___Tailwind.xml
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-7
+.github/workflows/lint.yml
+  s_0276221d01c0b0::t_3c31afdfd579cd 36-55
+.idea/runConfigurations/Daphne_SSL_No_HSTS.xml
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-17
+config/__init__.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1
+.vscode/launch.json
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-43
+config/settings/production.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-28
+.idea/runConfigurations/Tailwind_Watch.xml
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-17
+conftest.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1
+assets/css/source.css
+  s_0276221d01c0b0::t_3c31afdfd579cd 1
+.env.sample
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-29
+config/settings/testing.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-32
+tests/hooks/test_enforce_django_comments.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-164
+.idea/runConfigurations/Django_Runserver.xml
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-30
+manage.py
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-19
+.idea/runConfigurations/Tailwind_Build.xml
+  s_0276221d01c0b0::t_3c31afdfd579cd 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "2b84c36b93a7dba8cfb606321efbaf46461ed0d3",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

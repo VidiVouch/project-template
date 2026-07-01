@@ -1,0 +1,60 @@
+apps/identity/forms.py
+  s_0276221d01c0b0::t_45f01c8c9b1454 188-190,194-196,203-206
+  s_0276221d01c0b0::t_189b6996073feb 133-175
+  s_0276221d01c0b0::t_e0f5a0e521b0f6 15
+apps/identity/signals.py
+  s_0276221d01c0b0::t_d9b1749ab890d8 361-379
+  s_0276221d01c0b0::t_a5ee62066a2a13 20
+apps/identity/tests/test_adapters.py
+  s_0276221d01c0b0::t_62df191eb95ce2 366
+apps/identity/tests/test_canonical_email.py
+  s_0276221d01c0b0::t_e55cf2a57d8efd 1-157
+apps/identity/tests/test_events.py
+  s_0276221d01c0b0::t_941af4af2592db 1-280
+apps/identity/tests/test_forms.py
+  s_0276221d01c0b0::t_49d70370a7c316 210-306
+  s_0276221d01c0b0::t_b608ce05aaf9f0 5-6,10
+apps/identity/tests/test_invite_issue.py
+  s_0276221d01c0b0::t_93ce458d3816e4 447-482
+  s_0276221d01c0b0::t_0adee84359902b 96,388,402
+apps/identity/models.py
+  s_0276221d01c0b0::t_ff731938dfce1d 86-97,102-123
+  s_0276221d01c0b0::t_c089cedde54a63 480-485
+  s_0276221d01c0b0::t_006d68cb278e32 240-245
+  s_0276221d01c0b0::t_2fde08dd686006 345-353
+  s_0276221d01c0b0::t_bb3ba440a70b6e 436-440
+  s_0276221d01c0b0::t_7730f004847651 301-309,313-314,317-319
+  s_0276221d01c0b0::t_b32bd60e7e8633 60-69
+  s_0276221d01c0b0::t_1e7b318558fbb9 545-551,555-558
+  s_0276221d01c0b0::t_4d33a6c2ff2889 14,22-43
+apps/identity/migrations/0004_remove_invitecode_identity_invitecode_invited_email_active_unique_and_more.py
+  s_0276221d01c0b0::t_cd325c4839c869 1-4,6,80-101,103-111
+  s_0276221d01c0b0::t_b9dee914f3befb 5,7-79,102
+apps/identity/invites.py
+  s_0276221d01c0b0::t_09f2db4ff03536 125-127,129
+  s_0276221d01c0b0::t_c4dc6197f74e8e 424-426,432
+  s_0276221d01c0b0::t_8e9edc415923bf 98-105,107-110
+  s_0276221d01c0b0::t_b95e2f3f7e2ceb 210-230
+  s_0276221d01c0b0::t_8f115188578ead 481-489
+  s_0276221d01c0b0::t_0941501a07a842 48
+  s_0276221d01c0b0::t_ab7e893f02022d 471-475
+  s_0276221d01c0b0::t_bc8e17de114a12 368-390
+apps/identity/tests/test_redemption.py
+  s_0276221d01c0b0::t_1e3c9a0703629a 440-484
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "5b6b49430602ff40e6e252013690ab71e43e0b0e",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

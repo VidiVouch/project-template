@@ -1,0 +1,59 @@
+apps/sales/tests/test_models.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-32,34-37,40-105
+  s_5b002650df0863::t_bd3256e0d86af0 33,38-39
+apps/bootstrap.py
+  s_5b002650df0863::t_d2994d49d50947 115,117-118,120
+  s_5b002650df0863::t_b82f85f3ae94eb 116,123,125
+config/settings/base.py
+  s_5b002650df0863::t_b82f85f3ae94eb 100,147-149
+apps/sales/middleware.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-26,39-43,46-103
+  s_5b002650df0863::t_51ac3e3779b975 27-38,44-45,111,115
+apps/sales/tests/test_rls.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-146
+apps/sales/apps.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-10
+apps/sales/tests/test_merge_rehome.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-153
+apps/sales/tests/test_export_event_attendees.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-107,109-231,233-245
+  s_5b002650df0863::t_bd3256e0d86af0 108,232,246
+apps/identity/operations.py
+  s_5b002650df0863::t_d5d5aeff01c127 19-32,56-61,113-118,120,127
+apps/sales/management/commands/export_event_attendees.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-169
+apps/identity/tests/test_operations.py
+  s_5b002650df0863::t_d5d5aeff01c127 11-14,30,38-40,45
+apps/sales/tests/test_middleware.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-150
+apps/sales/registrations.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-25
+apps/sales/migrations/0002_rls.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-31
+tests/architecture/test_no_forbidden_imports.py
+  s_5b002650df0863::t_d5d5aeff01c127 38
+apps/sales/admin.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-55
+apps/sales/migrations/0001_initial.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-90
+apps/sales/models.py
+  s_5b002650df0863::t_d5d5aeff01c127 1-139
+tests/architecture/test_bigint_boundary.py
+  s_5b002650df0863::t_d5d5aeff01c127 30-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d51de5b65b3c1052b37d8705943e541a97310f99",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

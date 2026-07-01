@@ -1,0 +1,39 @@
+apps/jobs/management/commands/import_rebuild_snapshot.py
+  s_697b5de2f41f28::t_c71ebdcba0c2e4 167-168,180-187,195,303,367
+apps/identity/admin.py
+  s_5b002650df0863::t_b67b98782e4b65 6,23,29,34,36-37,41,50,55-56,59,84,98-99,103,135,138,143,146,163,166,171,190,216,228,231,323,328,333,338,342,348,352,393,397,424,428,434,446,450,455,465,470,482,486,488,492,553-554,558,562,574-575,577-578,581,585,597-598,602,610,617,620,656,660,697,8,71,193,213
+  s_03d4e22efd389d::t_a0bd88f29fa65f 588,609,69-70,72-76
+  s_03d4e22efd389d::t_4577fbe39afd50 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "9ffff2d5d4bf552d53405cdcd83ba417f06f1d78",
+  "prompts": {},
+  "sessions": {
+    "s_03d4e22efd389d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eee70820-4840-46c0-ac73-0c0a42bab83f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_697b5de2f41f28": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4255057b-68dc-4d5c-80b5-78c858f3d895",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

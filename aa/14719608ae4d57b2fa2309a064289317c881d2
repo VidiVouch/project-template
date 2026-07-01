@@ -1,0 +1,44 @@
+apps/provenance/tests/test_heatmap.py
+  s_17405aaf91a59b::t_1357b61b72b9f7 1-40,42-52,55-90,92-103,105-145,147-161,163-196,198-232,239-283,285-308,312-324
+  s_17405aaf91a59b::t_72fa54f79c7066 41
+  s_17405aaf91a59b::t_2903861aa81a7f 53-54
+  s_17405aaf91a59b::t_e348c6551c18a2 162
+  s_17405aaf91a59b::t_d658d1462e6380 309-311
+  s_17405aaf91a59b::t_7d24606b27ec13 233-238
+  s_17405aaf91a59b::t_fd3b8363a10eb8 284
+  s_17405aaf91a59b::t_ff3f89387cc803 104
+  s_17405aaf91a59b::t_3fb1d22f4563ee 146
+  s_17405aaf91a59b::t_3841dbbaa86c1a 91
+  s_17405aaf91a59b::t_82a362d9c9f133 197
+apps/provenance/views.py
+  s_17405aaf91a59b::t_b2a4aa320d0859 1137-1207
+  s_17405aaf91a59b::t_40d897f5d34442 18
+apps/provenance/urls.py
+  s_17405aaf91a59b::t_20fa1f61340e67 17
+templates/provenance/directory_heatmap.html
+  s_17405aaf91a59b::t_5e3e104f769dae 1-177
+apps/provenance/heatmap.py
+  s_17405aaf91a59b::t_35c41cd9ae4520 1
+  s_17405aaf91a59b::t_7f1b543dfd13fd 2-32,34-273
+  s_17405aaf91a59b::t_adb8210f153b25 33
+templates/provenance/repo_report.html
+  s_17405aaf91a59b::t_e3afb838b0b741 15-18
+templates/provenance/_heat_node.html
+  s_17405aaf91a59b::t_4b87a27b20482d 1-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "aa14719608ae4d57b2fa2309a064289317c881d2",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

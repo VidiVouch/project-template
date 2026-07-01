@@ -1,0 +1,14 @@
+.agents/skills/check-coverage/SKILL.md
+  h_795c5e33ecc5af 3,187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "50cab722ab3659fee7ccdce3443b010fe86d3d98",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+config/settings/base.py
+  s_0276221d01c0b0::t_91f568277e9e36 121
+apps/data/cadmium/apps.py
+  s_0276221d01c0b0::t_7eae8aaa7bb13d 1-8
+apps/data/cadmium/models.py
+  s_0276221d01c0b0::t_7eae8aaa7bb13d 1-285
+apps/data/cadmium/migrations/0001_initial.py
+  s_0276221d01c0b0::t_7e608490672118 1-352
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "a9cff55588ac016b46acf2e3f4c4afac8ee081fb",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+apps/disambiguator/providers_gemini.py
+  s_0276221d01c0b0::t_8fd1bdbae05111 161-168,178-180
+  s_0276221d01c0b0::t_ddd749e6d597a1 177
+  s_0276221d01c0b0::t_0601f81e32f7ec 23-24
+  s_0276221d01c0b0::t_9a7d320b995fcc 38-39
+apps/disambiguator/tests/test_providers_gemini.py
+  s_0276221d01c0b0::t_25cc163939478c 161-190
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "995d8527eebadcb074ff8d09fd2b9a7dec52b80b",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

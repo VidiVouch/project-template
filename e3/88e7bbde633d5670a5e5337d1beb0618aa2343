@@ -1,0 +1,36 @@
+templates/provenance/tokens.html
+  s_b771d99100a061::t_abaf2e9932e20a 53-67
+config/settings/base.py
+  s_b771d99100a061::t_12572e2c330a8f 640-644
+apps/githubapp/handlers.py
+  s_b771d99100a061::t_04e3fd2d544da2 258-280
+apps/githubapp/views.py
+  s_b771d99100a061::t_c9b631082605a5 1-113,115-134,136
+apps/githubapp/urls.py
+  s_b771d99100a061::t_f86467e28fa0d9 3-6,11,18-21
+apps/githubapp/models.py
+  s_b771d99100a061::t_68e00b4bd29f12 77-84
+  s_b771d99100a061::t_31c7358b01f1d0 216,218-219,222
+  s_b771d99100a061::t_b7e1ad09b1b47e 172-215,217,220-221,223-224
+apps/githubapp/tests/test_setup_views.py
+  s_b771d99100a061::t_4522bffea34749 1-38,42-113,115-122,124-160
+  s_b771d99100a061::t_3e8a0846be4ca9 123
+  s_b771d99100a061::t_bfdc3bbf2a472e 39-41
+  s_b771d99100a061::t_bb963c9186490c 114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "e388e7bbde633d5670a5e5337d1beb0618aa2343",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+apps/domains/tests/test_resolver.py
+  s_0276221d01c0b0::t_5a10839d073674 1-329
+config/settings/base.py
+  s_0276221d01c0b0::t_5a10839d073674 97,407-416
+pyproject.toml
+  s_0276221d01c0b0::t_5a10839d073674 16,26
+apps/domains/migrations/0001_add_domain_mx_cache.py
+  s_0276221d01c0b0::t_5a10839d073674 1-28
+apps/domains/resolver.py
+  s_0276221d01c0b0::t_5a10839d073674 1-348
+uv.lock
+  s_0276221d01c0b0::t_5a10839d073674 10-17,724-732,1338,1348,1413,1423
+apps/domains/models.py
+  s_0276221d01c0b0::t_5a10839d073674 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "3abe5e67c0d3fafdc802440cb4b2408f7e617df2",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+apps/disambiguator/management/_args.py
+  s_0276221d01c0b0::t_80de71ed293178 1-32
+apps/disambiguator/tests/test_enricher.py
+  s_0276221d01c0b0::t_80de71ed293178 1-338
+apps/disambiguator/applier.py
+  s_0276221d01c0b0::t_80de71ed293178 1-221
+apps/disambiguator/tests/test_commands.py
+  s_0276221d01c0b0::t_80de71ed293178 1-224
+apps/catalog/tests/test_reexamine_claims.py
+  s_0276221d01c0b0::t_9e98c95fd17a60 229-232
+apps/disambiguator/migrations/0002_organizationenrichmentproposal.py
+  s_0276221d01c0b0::t_86df1c9d27910a 1-36
+apps/disambiguator/tests/test_applier.py
+  s_0276221d01c0b0::t_80de71ed293178 1-440
+REVIEW.md
+  s_0276221d01c0b0::t_30a5ca2c51431d 25-26
+apps/catalog/management/commands/reexamine_claims.py
+  s_0276221d01c0b0::t_a281c1a2de7fd6 20-21
+apps/disambiguator/models.py
+  s_0276221d01c0b0::t_b45fe1e79fd3a7 363-433
+apps/bootstrap.py
+  s_0276221d01c0b0::t_48f2c4b5111db2 46,50-70
+apps/disambiguator/tests/test_strategies.py
+  s_0276221d01c0b0::t_80de71ed293178 1-151
+apps/disambiguator/management/commands/disambiguate_apply.py
+  s_0276221d01c0b0::t_80de71ed293178 1-53
+apps/disambiguator/tests/test_audit_linkage.py
+  s_0276221d01c0b0::t_80de71ed293178 1-137
+apps/disambiguator/management/commands/disambiguate_inspect.py
+  s_0276221d01c0b0::t_80de71ed293178 1-47
+apps/disambiguator/management/commands/disambiguate_review.py
+  s_0276221d01c0b0::t_80de71ed293178 1-150
+apps/disambiguator/strategies.py
+  s_0276221d01c0b0::t_80de71ed293178 1-147
+apps/disambiguator/management/commands/enrichment_apply.py
+  s_0276221d01c0b0::t_80de71ed293178 1-46
+apps/disambiguator/enricher.py
+  s_0276221d01c0b0::t_80de71ed293178 1-154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "a9c864b043bda339a1f5dbf4e3bf99cfe6e02d32",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

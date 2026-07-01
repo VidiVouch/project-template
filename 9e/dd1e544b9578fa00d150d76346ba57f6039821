@@ -1,0 +1,25 @@
+config/settings/base.py
+  s_0276221d01c0b0::t_682f92bb6cfc58 193-202
+apps/identity/forms.py
+  s_0276221d01c0b0::t_0b4eddafbf724e 5,8,16-17,75-99,105-110,127,132,143-145,149,156-167
+apps/identity/tests/test_forms.py
+  s_0276221d01c0b0::t_4e952aa2578950 1-206
+pyproject.toml
+  s_0276221d01c0b0::t_53198c915e249b 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "9edd1e544b9578fa00d150d76346ba57f6039821",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

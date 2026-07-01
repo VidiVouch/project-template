@@ -1,0 +1,88 @@
+config/urls.py
+  s_5b002650df0863::t_cfeac854f91e4b 25
+  s_5b002650df0863::t_bda14d0d5bfd82 37-38,43
+  s_5b002650df0863::t_80dd0c6d11f722 39-40
+  s_5b002650df0863::t_7b601b147a8e02 41-42
+  s_03d4e22efd389d::t_79389425916f31 9,17-22
+  s_03d4e22efd389d::t_79dd5aefd0c2fc 26-32
+  s_062b4d28690cee::t_8b0a9b538e0b4d 44
+  s_062b4d28690cee::t_b26e919684b811 62-64,66-72
+apps/mapping_tool/templates/mapping_tool/editor.html
+  s_de12f9f5f890aa::t_8e6209aa9a1613 187,231
+apps/mapping_tool/views.py
+  s_de12f9f5f890aa::t_eb5af1e28a93f2 62-63
+config/settings/base.py
+  s_5b002650df0863::t_7b601b147a8e02 127,120,126,121
+  s_5b002650df0863::t_4b47bc34478b19 128,164,192,197,473-474,478-479,483-487,493-495,522,558,195,467,472,491,517,528,530,532,557,331,344,354,349,131,270,278,280,290,292,303,305,534,381,480
+  s_5b002650df0863::t_80dd0c6d11f722 167-168,170,475,477,169,476,591,367,365-366,371-373,254,253
+  s_5b002650df0863::t_63b7ed74f23be4 468-471
+  s_5b002650df0863::t_90400a7abda1ff 19,33,59,163,196,304,516,529,531,533,555-556,194,343,348,368,130,353,374,137,150,161,269,277,279,291,321,66,119,592-595,541-544,554,387-388,392,394-395,407-408,413-414,434-435,456,466,380,330,417
+  s_5b002650df0863::t_b82f85f3ae94eb 162,184,159-160,124,180,183
+  s_5b002650df0863::t_aad84bce2383cc 108,113,115
+  s_5b002650df0863::t_a58725b59d4b17 112
+  s_5b002650df0863::t_5804aba2648a0d 596-600
+  s_5b002650df0863::t_7dc34e1fe62abe 118
+  s_03d4e22efd389d::t_39b2024e09bc23 91-99
+  s_03d4e22efd389d::t_8c2922435feab4 172-179,181-182
+  s_03d4e22efd389d::t_e3b2ed5a9bcaee 322-329
+  s_03d4e22efd389d::t_55f66a9ce3827f 416,419-424,429-430
+  s_03d4e22efd389d::t_e74bf941518039 418
+  s_ffd92932362e87::t_9047194ec51166 103
+  s_e56ce2b58a8c83::t_4da93f89f50813 243-245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c67fd26ad63d31073b1c9277af43a93c4d66f974",
+  "prompts": {},
+  "sessions": {
+    "s_03d4e22efd389d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eee70820-4840-46c0-ac73-0c0a42bab83f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_de12f9f5f890aa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb8f5909-cdf3-4b7e-88e0-4f5d5839886e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_e56ce2b58a8c83": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "03ab4183-9002-4a4d-8992-a34ef77a54f9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

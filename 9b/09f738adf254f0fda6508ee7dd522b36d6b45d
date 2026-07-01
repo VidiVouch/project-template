@@ -1,0 +1,31 @@
+apps/catalog/migrations/0003_organizationmerge.py
+  s_0276221d01c0b0::t_59e91513d2a3a7 1-34
+apps/catalog/tests/test_merge_organizations.py
+  s_0276221d01c0b0::t_59e91513d2a3a7 1-228
+apps/catalog/models.py
+  s_0276221d01c0b0::t_59e91513d2a3a7 614-655
+REVIEW.md
+  s_0276221d01c0b0::t_59e91513d2a3a7 40-42
+apps/catalog/merge.py
+  s_0276221d01c0b0::t_59e91513d2a3a7 45,54,57-59,439-611
+apps/catalog/tests/test_promote_pipeline.py
+  s_0276221d01c0b0::t_59e91513d2a3a7 1-91
+apps/catalog/management/commands/promote_pipeline.py
+  s_0276221d01c0b0::t_59e91513d2a3a7 1-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "9b09f738adf254f0fda6508ee7dd522b36d6b45d",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

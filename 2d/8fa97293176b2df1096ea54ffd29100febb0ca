@@ -1,0 +1,25 @@
+assets/js/auth-fog.js
+  s_ba52b251f88bcf::t_b0b587fe2baca3 133-138,160-183,186-187,203
+  s_ba52b251f88bcf::t_28c7b467376638 221-224,227-228,231,234,238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2d8fa97293176b2df1096ea54ffd29100febb0ca",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_ba52b251f88bcf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "136476a6-a85a-4740-b70d-4e1e6601e066",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

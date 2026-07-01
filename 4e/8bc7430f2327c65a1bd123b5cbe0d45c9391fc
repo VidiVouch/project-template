@@ -1,0 +1,61 @@
+field_grid_experiment.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-199
+TEST_REVIEW.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-818
+PK_FIX_PATTERN.md
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-388
+docs/DATA_PIPELINE_COMPARISON.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-374
+PORT_REVIEW_PACKET.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-1623
+POST_GRIP_REBUILD_PLAN.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-1142
+REBUILD_PLAN_v4.md
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-154
+fog_cells_prototype.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-103
+SAAS_PLANNING_INTERVIEW.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-951
+REMIGRATE_LEGACY_MAP.md
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-43
+NEXT_BUILD_PLAN.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-340
+EVENT_SCOPE_CONTRACT.md
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-108
+jsondata_ingest_report.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-30
+REMIGRATE_LEDGER.md
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-175
+posthog-setup-report.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-306
+CLIENT_VISIBILITY_INTERVIEW.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-870
+ENRICHMENT_DISAMBIGUATION_PORT_PLAN.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-3030
+fog_css_prototype.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-82
+CLIENT_RESEARCH_DESIGN.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-559
+REMIGRATE_FIX_PLAN.md
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-204
+PORTAL_V5_PLAN.html
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-629
+REMIGRATE_MANIFEST.txt
+  s_eef0c01ffe4331::t_b2bb201732f80f 1-1403
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "4e8bc7430f2327c65a1bd123b5cbe0d45c9391fc",
+  "prompts": {},
+  "sessions": {
+    "s_eef0c01ffe4331": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a80bd372-3330-4654-b960-377bf5d962bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

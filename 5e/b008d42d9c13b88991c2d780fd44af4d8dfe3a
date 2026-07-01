@@ -1,0 +1,23 @@
+apps/sales/tests/test_export_event_attendees.py
+  s_5b002650df0863::t_bd3256e0d86af0 108,232,246
+apps/sales/middleware.py
+  s_5b002650df0863::t_51ac3e3779b975 27-38,44-45,111,115
+apps/sales/tests/test_models.py
+  s_5b002650df0863::t_bd3256e0d86af0 33,38-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5eb008d42d9c13b88991c2d780fd44af4d8dfe3a",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

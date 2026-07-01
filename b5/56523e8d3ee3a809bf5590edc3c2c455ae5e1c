@@ -1,0 +1,57 @@
+apps/catalog/management/commands/reexamine_claims.py
+  s_5b002650df0863::t_df730a60ffd2eb 20-21
+apps/disambiguator/management/commands/disambiguate_inspect.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-47
+apps/bootstrap.py
+  s_5b002650df0863::t_0b0d577d37bdf3 49,53-73
+apps/disambiguator/tests/test_strategies.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-151
+apps/disambiguator/management/commands/enrichment_apply.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-45
+apps/disambiguator/management/commands/disambiguate_review.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-150
+apps/disambiguator/enricher.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-154
+apps/disambiguator/strategies.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-147
+apps/disambiguator/tests/test_applier.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-419
+apps/disambiguator/applier.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-203
+REVIEW.md
+  s_5b002650df0863::t_0b0d577d37bdf3 51-52
+apps/disambiguator/management/commands/queue_apify_company_resolution.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-275
+apps/disambiguator/tests/test_enricher.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-331
+apps/disambiguator/management/commands/disambiguate_apply.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-52
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-387
+apps/disambiguator/migrations/0003_organizationenrichmentproposal.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-36
+apps/disambiguator/tests/test_commands.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-216
+apps/disambiguator/tests/test_audit_linkage.py
+  s_5b002650df0863::t_df730a60ffd2eb 1-137
+apps/catalog/tests/test_reexamine_claims.py
+  s_5b002650df0863::t_df730a60ffd2eb 229-232
+apps/disambiguator/models.py
+  s_5b002650df0863::t_0b0d577d37bdf3 363-433
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b556523e8d3ee3a809bf5590edc3c2c455ae5e1c",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

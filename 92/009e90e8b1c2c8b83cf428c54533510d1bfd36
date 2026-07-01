@@ -1,0 +1,113 @@
+.agents/skills/port-drain/references/handlers.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-114
+pyproject.toml
+  s_0276221d01c0b0::t_8f7e22aab18b0c 184-191,200,207,215-221,260
+tests/hooks/test_run_architecture_tests.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-98
+.agents/skills/port-source/references/validation.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-104
+.agents/skills/port-drain/references/harvest-legacy-drain.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-85
+PORTAL_V4_PLAN.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-484
+.agents/skills/port-drain/SKILL.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-83
+REVIEW.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 26-29
+apps/identity/tests/test_adapters.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 366
+apps/tracking/tests/test_receivers.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 29-32,36-37,45-46,49-51,56-59,63-64,77-80,84-86,91-93,95-97,99-101,103-105,118,129,140
+docs/archive/PORTAL_V2_ARCHITECTURE.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-2051
+manage.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 6-8,12-27,30,35-40
+config/settings/production.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 6,8-12
+docs/archive/email_handling_report.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-165
+docs/archive/PORTAL_V2_ARCHITECTURE_REBUILD.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-1119
+tests/architecture/test_no_composition_in_ready.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-50
+docs/archive/PORTAL_V2_PLAN.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-567
+.claude/hooks/run_architecture_tests.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-123
+.agents/skills/port-source/references/spider-interceptor-port.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-109
+tests/architecture/test_no_tenant_in_shared_core.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-102
+.agents/skills/port-drain/references/canonical-keys.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-67
+.agents/skills/port-drain/references/mapping.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-90
+apps/bootstrap.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-71
+tests/architecture/test_no_forbidden_imports.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-105
+.agents/skills/port-source/SKILL.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-80
+.agents/skills/port-source/references/legacy-map.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-95
+.claude/settings.json
+  s_0276221d01c0b0::t_8f7e22aab18b0c 42-53
+apps/identity/tests/test_site_config.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 13,199-261
+mitm_interceptor/tests/test_discovery.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 230,238
+docs/archive/CADMIUM_PARITY.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-166
+docs/archive/PORTAL_V3_PLAN.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-281
+tests/architecture/test_bootstrap_sorted.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-52
+tests/architecture/test_domain_layer_pure.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-53
+tests/architecture/test_no_signal_domain_dispatch.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-97
+apps/identity/tests/test_admin.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 46,467,490,526
+.agents/skills/port-source/references/transformers-registration.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-120
+CLIENT_RESEARCH_DESIGN.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-343
+.agents/skills/port-drain/references/registration-tests.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-107
+AGENTS.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 25-32,39-42
+apps/tracking/tests/test_models.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 16-18,20,29,31,33,38,40,49,52,54,58
+docs/archive/MERGE_AUDIT.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-177
+.agents/skills/port-source/references/tier1-models.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-122
+CONTRIBUTING.md
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-156
+render.yaml
+  s_0276221d01c0b0::t_8f7e22aab18b0c 31-38
+tests/architecture/_ast_helpers.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-71
+tests/test_bootstrap.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 1-22
+config/asgi.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 10-13
+conftest.py
+  s_0276221d01c0b0::t_8f7e22aab18b0c 2-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "92009e90e8b1c2c8b83cf428c54533510d1bfd36",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

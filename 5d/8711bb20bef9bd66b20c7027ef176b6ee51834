@@ -1,0 +1,22 @@
+traffic_adapters/tests/test_cvent.py
+  s_5b002650df0863::t_e7f6f824bbf56d 178-194
+traffic_adapters/adapters/cvent.py
+  s_5b002650df0863::t_e70ea9a611cdd9 104-108,110-111
+  s_5b002650df0863::t_30cdac4feede0b 109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5d8711bb20bef9bd66b20c7027ef176b6ee51834",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

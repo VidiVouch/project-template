@@ -1,0 +1,35 @@
+scrapers/tutorials/quotes.py
+  s_0276221d01c0b0::t_47c010ce56f1a7 1-23
+scrapers/fun_spiders/__init__.py
+  s_0276221d01c0b0::t_47c010ce56f1a7 1
+scrapers/tutorials/__init__.py
+  s_0276221d01c0b0::t_47c010ce56f1a7 1
+scrapers/test_spiders/__init__.py
+  s_0276221d01c0b0::t_47c010ce56f1a7 1
+pyproject.toml
+  s_0276221d01c0b0::t_47c010ce56f1a7 148-149
+project-words.dic
+  s_0276221d01c0b0::t_47c010ce56f1a7 5,11
+scrapers/test_spiders/spiders.py
+  s_0276221d01c0b0::t_47c010ce56f1a7 1-72
+scrapers/tutorials/quotes_scroll.py
+  s_0276221d01c0b0::t_47c010ce56f1a7 1-23
+scrapers/fun_spiders/cognatheque.py
+  s_0276221d01c0b0::t_47c010ce56f1a7 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2e25bfa9e3928d881e8a7ab3e50ac039f429007d",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

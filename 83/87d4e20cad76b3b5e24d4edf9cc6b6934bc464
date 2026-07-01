@@ -1,0 +1,27 @@
+apps/catalog/tests/test_emails.py
+  s_5b002650df0863::t_39192360623f5e 99
+apps/domains/tests/test_services.py
+  s_5b002650df0863::t_33920c8654dcbb 262-270
+apps/domains/domain/registry.py
+  s_5b002650df0863::t_c9e8a6be7bd938 289-291
+apps/domains/domain/services.py
+  s_5b002650df0863::t_8944382ceebecc 158-160
+  s_5b002650df0863::t_c56290fca23f46 130-132
+  s_5b002650df0863::t_0416354abfd6ed 61-68,70-72,76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "8387d4e20cad76b3b5e24d4edf9cc6b6934bc464",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

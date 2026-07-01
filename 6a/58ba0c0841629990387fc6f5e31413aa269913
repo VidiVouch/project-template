@@ -1,0 +1,35 @@
+pyproject.toml
+  s_0276221d01c0b0::t_d1641c29f75fc5 17-18
+apps/identity/tests/test_forms.py
+  s_0276221d01c0b0::t_d1641c29f75fc5 7,150-205
+config/settings/testing.py
+  s_0276221d01c0b0::t_d1641c29f75fc5 5-13
+.env.sample
+  s_0276221d01c0b0::t_d1641c29f75fc5 28-41
+README.md
+  s_0276221d01c0b0::t_d1641c29f75fc5 16,20,285-346,603-681
+config/settings/base.py
+  s_0276221d01c0b0::t_d1641c29f75fc5 50-54,60-66,87,191-200,252-267
+apps/identity/tests/test_mfa_passkey.py
+  s_0276221d01c0b0::t_d1641c29f75fc5 1-124
+uv.lock
+  s_0276221d01c0b0::t_d1641c29f75fc5 539-546,589-592,748-759,1294,1296,1362,1364,1790-1799
+apps/identity/forms.py
+  s_0276221d01c0b0::t_d1641c29f75fc5 5,8,16-17,75-99,105-110,127,132,143-145,149,156-167
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6a58ba0c0841629990387fc6f5e31413aa269913",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

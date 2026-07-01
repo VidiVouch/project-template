@@ -1,0 +1,40 @@
+config/urls.py
+  s_062b4d28690cee::t_8b0a9b538e0b4d 44
+  s_062b4d28690cee::t_b26e919684b811 62-64,66-72
+apps/mapping_tool/templates/mapping_tool/editor.html
+  s_de12f9f5f890aa::t_8e6209aa9a1613 231
+config/settings/base.py
+  s_e56ce2b58a8c83::t_4da93f89f50813 243-245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "fcb391a0f53f19808f387a53e11b7f0f8486b277",
+  "prompts": {},
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_de12f9f5f890aa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb8f5909-cdf3-4b7e-88e0-4f5d5839886e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_e56ce2b58a8c83": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "03ab4183-9002-4a4d-8992-a34ef77a54f9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

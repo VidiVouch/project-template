@@ -1,0 +1,41 @@
+apps/catalog/management/commands/build_nickname_data.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-114
+apps/catalog/management/_supervisor.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-115
+apps/catalog/management/commands/reexamine_claims.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-212
+apps/catalog/management/commands/merge_event_namesakes.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-142
+apps/catalog/management/commands/export_events.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-102
+apps/catalog/management/commands/dedupe_employments.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-145
+apps/catalog/management/commands/merge_claim_bridges.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-334
+apps/catalog/management/commands/promote_unprocessed.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-580
+apps/catalog/management/commands/refresh_org_stems.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-64
+apps/catalog/management/commands/reset_processed.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-158
+apps/catalog/management/commands/promote_pipeline.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-78
+apps/catalog/management/commands/merge_linkedin_renames.py
+  s_0276221d01c0b0::t_70296bc280b9c5 1-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "ed8efcb9d88dbc7474ea76b5771a30dd650a5841",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

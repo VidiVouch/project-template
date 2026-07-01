@@ -1,0 +1,41 @@
+templates/sales/dashboard.html
+  s_998d95b9de4b0f::t_15e9aa4a8d108f 16
+apps/demo/views.py
+  s_998d95b9de4b0f::t_bbadd613a2b9af 193-195
+templates/demo/_dataset_results.html
+  s_998d95b9de4b0f::t_b8792486346072 1-22,24,26-27,29-35,38-62
+templates/allauth/layouts/base.html
+  s_998d95b9de4b0f::t_5ef92ca64418c9 4-6
+CLIENT_VISIBILITY_INTERVIEW.md
+  s_998d95b9de4b0f::t_c467a98d31c1fe 376-408
+apps/demo/tests/test_views.py
+  s_998d95b9de4b0f::t_722a99ce0b2ca7 158-164
+assets/css/source.css
+  s_998d95b9de4b0f::t_58f2ecdb2d30cc 926-934
+  s_998d95b9de4b0f::t_00d8ec8f359853 973-988
+templates/demo/_datasets_section.html
+  s_998d95b9de4b0f::t_e4cc5866779525 18-19
+templates/base.html
+  s_998d95b9de4b0f::t_53ef42aad4dc0b 50
+templates/emails/invite.html
+  s_998d95b9de4b0f::t_1846ea524e6ecc 7,10-57
+templates/demo/dataset_table.html
+  s_998d95b9de4b0f::t_9c6cdd96806db8 23-25
+  s_998d95b9de4b0f::t_efbbbbbf6cb685 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "32a145bf67d61515c14d89dcfb3fe04d3f701015",
+  "prompts": {},
+  "sessions": {
+    "s_998d95b9de4b0f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64479256-e6b6-454c-960d-e2155c7b49a7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

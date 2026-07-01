@@ -1,0 +1,21 @@
+apps/disambiguator/tests/test_queue_apify_company_resolution.py
+  s_0276221d01c0b0::t_9a770d59bb6c1b 1-467
+apps/disambiguator/management/commands/queue_apify_company_resolution.py
+  s_0276221d01c0b0::t_9a770d59bb6c1b 1-305
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "003e18471ab5e53ba9fc7abb51b64484afd470b9",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

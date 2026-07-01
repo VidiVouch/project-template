@@ -1,0 +1,21 @@
+templates/account/login.html
+  s_0276221d01c0b0::t_ac7462f382294e 1-40
+apps/identity/tests/test_auth_ui.py
+  s_0276221d01c0b0::t_25b4e31c0642ef 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "3ad3fe3b06f687c4f7e9bbca4d1b69f652a7702a",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

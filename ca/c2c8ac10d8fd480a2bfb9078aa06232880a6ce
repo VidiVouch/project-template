@@ -1,0 +1,23 @@
+.env.sample
+  s_17405aaf91a59b::t_c71a739fa7238b 39-40
+  s_17405aaf91a59b::t_8884e464be87f4 48-49
+config/settings/base.py
+  s_17405aaf91a59b::t_02a1aadd2f92dc 265-266
+  s_17405aaf91a59b::t_5c15dd4709667a 295-305
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "cac2c8ac10d8fd480a2bfb9078aa06232880a6ce",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

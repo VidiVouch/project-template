@@ -1,0 +1,97 @@
+apps/bootstrap.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 91,93,161,163
+config/settings/base.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 102
+scrapers/event_spiders/swapcard/AppPersonDetails.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-785
+apps/data/swapcard/tests/test_contracts.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-140
+traffic_adapters/tests/test_provider_registry.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 140-142
+scrapers/event_spiders/tests/test_swapcard_spider.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-181
+apps/data/swapcard/tests/test_sessions.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-88
+envelopes/swapcard/response.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-305
+apps/data/swapcard/tests/test_admin.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-32
+scrapers/event_spiders/swapcard/AppGetNewAccessToken.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-3
+apps/data/swapcard/tests/test_app_registration.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-27
+apps/data/swapcard/admin.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-35
+scrapers/event_spiders/swapcard/CustomEventDetails.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-67
+scrapers/event_spiders/swapcard/CustomExhibitorsListViewWithFilters.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-194
+apps/data/swapcard/migrations/0001_initial.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-117
+apps/data/swapcard/management/commands/import_portal_swapcard.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-178
+scrapers/event_spiders/swapcard/CustomPersonDetails.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-156
+scrapers/event_spiders/swapcard/PeopleOverview.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-18
+apps/data/swapcard/apps.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-8
+apps/data/swapcard/registrations.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-46
+scrapers/event_spiders/swapcard/CustomPeoplePage.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-242
+scrapers/event_spiders/swapcard/PeoplePage.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-15
+traffic_adapters/adapters/swapcard.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-250
+apps/data/swapcard/transformers.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-172
+scrapers/event_spiders/swapcard/AppExhibitorDetails.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-66
+scrapers/event_spiders/swapcard/swapcard.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-491
+apps/data/credentials/tests/test_drain.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 166-167,169-175,191-192,197-198,201,206,208,210,233-234
+traffic_adapters/tests/test_swapcard.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-391
+apps/data/swapcard/tests/test_response.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-190
+apps/data/swapcard/models.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-113
+scrapers/event_spiders/swapcard/AppCurrentUser.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-2
+apps/data/swapcard/tests/test_import_portal_swapcard.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-110
+scrapers/event_spiders/swapcard/AppEventDetails.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-54
+scrapers/event_spiders/swapcard/AppPeoplePage.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-15
+scrapers/event_spiders/swapcard/ExhibitorsListViewWithFilters.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-13
+scrapers/event_spiders/swapcard/CustomCurrentUser.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-52
+apps/data/swapcard/mapping.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-222
+envelopes/swapcard/versions.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-57
+scrapers/event_spiders/swapcard/AppExhibitorsListViewWithFilters.graphql
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-13
+apps/data/swapcard/sessions.py
+  s_0276221d01c0b0::t_fa92d54056b7b6 1-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8b5645c3f9f351930410a980fafb58e3e4f59d5d",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

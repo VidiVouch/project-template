@@ -1,0 +1,73 @@
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 16,91,164-166,342-385,417-419,408
+  s_5b002650df0863::t_7b601b147a8e02 92,107-114,336-337,387,391-395,401-402
+  s_5b002650df0863::t_ad89cb04c88f42 388-390,396-400
+apps/billing/templates/billing/home.html
+  s_5b002650df0863::t_80dd0c6d11f722 1-52
+apps/billing/urls.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-9
+apps/billing/apps.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-26
+apps/billing/tests/__init__.py
+  s_5b002650df0863::t_80dd0c6d11f722 1
+apps/billing/models.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-57
+config/urls.py
+  s_5b002650df0863::t_80dd0c6d11f722 20-23
+  s_5b002650df0863::t_7b601b147a8e02 24-27
+apps/billing/tests/test_views.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-7,9-161,169-170
+  s_5b002650df0863::t_ad89cb04c88f42 8,162-168,174,176-191
+apps/billing/views.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-28,30-117,119-143,150-159
+  s_5b002650df0863::t_ad89cb04c88f42 29,118,144-149,160-167,171-172
+REVIEW.md
+  s_5b002650df0863::t_ad89cb04c88f42 56-58
+apps/billing/tests/test_invoicing.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-7,9-109,111-112,117-132,141
+  s_5b002650df0863::t_ad89cb04c88f42 8,110,113-116,133-140,142,145,147-199
+apps/billing/__init__.py
+  s_5b002650df0863::t_80dd0c6d11f722 1
+pyproject.toml
+  s_5b002650df0863::t_80dd0c6d11f722 34
+  s_5b002650df0863::t_7b601b147a8e02 20
+tests/architecture/test_no_forbidden_imports.py
+  s_5b002650df0863::t_80dd0c6d11f722 36
+  s_5b002650df0863::t_7b601b147a8e02 37
+uv.lock
+  s_5b002650df0863::t_8bbbfb2e91fece 166-173,678-686,1512,1592,1651-1663
+  s_5b002650df0863::t_b4ff1b635ca490 687-699,1498,1578,2253-2265
+render.yaml
+  s_5b002650df0863::t_80dd0c6d11f722 39-40
+  s_5b002650df0863::t_7b601b147a8e02 127-130,180-182,44,136,190
+  s_5b002650df0863::t_ad89cb04c88f42 41-43,45-50,132-134,186-188
+apps/billing/tests/test_receivers.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-52
+apps/billing/migrations/0001_initial.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-29
+apps/billing/invoicing.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-8,19-29,31-41,44-94,97-103,113-117,121-124,128-133,137-142,147-151
+  s_5b002650df0863::t_ad89cb04c88f42 9-18,30,42-43,95-96,104-112,118-120,125-127,134-136,143-146,152-153,157-181,183
+config/settings/production.py
+  s_5b002650df0863::t_80dd0c6d11f722 56-66,84
+  s_5b002650df0863::t_7b601b147a8e02 67
+  s_5b002650df0863::t_ad89cb04c88f42 69-78,80
+apps/billing/receivers.py
+  s_5b002650df0863::t_80dd0c6d11f722 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5c4c210ecc79c6b2a3f3093b653177f49489163f",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

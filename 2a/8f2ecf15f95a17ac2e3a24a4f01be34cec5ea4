@@ -1,0 +1,51 @@
+scripts/render-build-worker.sh
+  s_5b002650df0863::t_4b47bc34478b19 1-11
+config/settings/base.py
+  s_5b002650df0863::t_80dd0c6d11f722 336-338
+  s_5b002650df0863::t_90400a7abda1ff 100,450-453,399,401,412
+  s_5b002650df0863::t_5804aba2648a0d 454-457
+  s_5b002650df0863::t_7dc34e1fe62abe 99
+  s_5b002650df0863::t_b82f85f3ae94eb 103,150-152
+  s_5b002650df0863::t_aad84bce2383cc 98
+  s_5b002650df0863::t_3414e7b0b4527a 90
+  s_5b002650df0863::t_ff619b430102c0 392-398,400,402-411
+  s_5b002650df0863::t_ec27907ff5a786 102
+  s_5b002650df0863::t_4b47bc34478b19 421-428,431-434,437-439,444-447
+project-words.dic
+  s_5b002650df0863::t_4b47bc34478b19 24-26
+render.yaml
+  s_5b002650df0863::t_4b47bc34478b19 3-11,15,17-18,26-51,54,59,79-80,99-105,114,119-136,149-162,166
+  s_5b002650df0863::t_a58bac83bcebb5 19-23
+  s_5b002650df0863::t_60d3c34a3ab755 81-89
+  s_5b002650df0863::t_7b601b147a8e02 115-118,163-165,168
+  s_5b002650df0863::t_23dd68c77cf49c 137-148
+scrapers/tests/test_settings.py
+  s_5b002650df0863::t_4b47bc34478b19 8-16,19-20,33-49
+config/log.py
+  s_5b002650df0863::t_4b47bc34478b19 1-5,9-11,14-46,66-97,99-117
+  s_5b002650df0863::t_491a56b134070b 6-8,12-13
+  s_5b002650df0863::t_17ca88883cdb7a 47-65
+  s_5b002650df0863::t_a00896883a0859 98
+config/email.py
+  s_5b002650df0863::t_4b47bc34478b19 1-66
+config/asgi.py
+  s_5b002650df0863::t_4b47bc34478b19 14-27
+config/settings/local.py
+  s_5b002650df0863::t_4b47bc34478b19 5-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "2a8f2ecf15f95a17ac2e3a24a4f01be34cec5ea4",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

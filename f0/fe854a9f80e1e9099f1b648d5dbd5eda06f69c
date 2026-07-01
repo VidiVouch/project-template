@@ -1,0 +1,81 @@
+.claude/settings.json
+  s_a9f07316d2a020::t_23a9a4eae59cf0 46
+  s_a9f07316d2a020::t_a3576732cc8c05 43-45
+  s_a9f07316d2a020::t_c64fb71cab5348 47-49
+  s_67ff24337b7cf6::t_05fb45939e84aa 10,16,20-25,42,50-52,80-85,88
+.codex/hooks.json
+  s_a9f07316d2a020::t_069a3c8a13668d 7
+  s_a9f07316d2a020::t_b464c155176c1a 4-6
+  s_a9f07316d2a020::t_9b673d5d6585a1 8-10
+  s_67ff24337b7cf6::t_fb468c6b6fa3b7 2-3,11-15
+.agents/hooks/enforce_uv.py
+  s_a9f07316d2a020::t_cb11e517a005e1 1-130
+.envrc
+  s_a9f07316d2a020::t_abe7db98431467 1-14
+.github/dependabot.yml
+  s_a9f07316d2a020::t_ebe2ee9f869c43 1-6
+.github/workflows/lint.yml
+  s_a9f07316d2a020::t_b168f3f2118e18 1-46
+.gitignore
+  s_a9f07316d2a020::t_ebbe95130cc89a 1-135,137-223,225-227,233-234,236-237,239-240,248-249,252-269,271-272,274-275,277-278,280-281,284-767,777-778,780,782-783
+.idea/portal-update.iml
+  s_a9f07316d2a020::t_ce608d115cdc52 2,8-9,13,15,18-25
+.idea/pyLspTools.xml
+  s_a9f07316d2a020::t_4c26be67df3986 1-9
+.idea/pyProjectModel.xml
+  s_a9f07316d2a020::t_e4070f73c19f9b 1-7
+.idea/pySourceRootDetection.xml
+  s_a9f07316d2a020::t_50544ef62c7b8b 1-10
+.idea/ruff.xml
+  s_a9f07316d2a020::t_53e49c71687b0b 1-8
+.idea/runConfigurations/Pytest__All_.xml
+  s_a9f07316d2a020::t_f76d5c5cbf5aad 1-25
+.idea/runConfigurations/UV_Lock__Update_Lockfile_.xml
+  s_a9f07316d2a020::t_f307f742b7fc4c 1-17
+.idea/runConfigurations/UV_Sync__All_Dependencies_.xml
+  s_a9f07316d2a020::t_84bb7707d7652e 1-17
+.idea/runConfigurations/UV_Sync__Prod_Dependencies_Only_.xml
+  s_a9f07316d2a020::t_0b0bee05f6fb03 1-17
+.pre-commit-config.yaml
+  s_a9f07316d2a020::t_53135e6a05132d 7-16,23-39
+.python-version
+  s_a9f07316d2a020::t_bc85553f9e423e 1
+.vscode/extensions.json
+  s_a9f07316d2a020::t_669da45dc6af9c 4,6,9-11,13,16-24
+.vscode/settings.json
+  s_a9f07316d2a020::t_7e8aea036856b0 8-14,40-43,45,53-66
+.vscode/tasks.json
+  s_a9f07316d2a020::t_a42d7a32dea727 2-54
+pyproject.toml
+  s_a9f07316d2a020::t_d6a9ca66415757 1-190
+tests/hooks/conftest.py
+  s_a9f07316d2a020::t_41afb0a554af1c 1-46
+tests/hooks/test_enforce_uv.py
+  s_a9f07316d2a020::t_9b36d7dd8cd096 1-194
+uv.lock
+  s_a9f07316d2a020::t_6a0cbf4ba926fe 1-623
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "f0fe854a9f80e1e9099f1b648d5dbd5eda06f69c",
+  "prompts": {},
+  "sessions": {
+    "s_67ff24337b7cf6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-ae6ee307dd81e3b99",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

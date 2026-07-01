@@ -1,0 +1,39 @@
+assets/brand/grazeai-logo-g-small.svg
+  s_0276221d01c0b0::t_958b04df5d777c 1-7
+assets/brand/grazeai-logo.svg
+  s_0276221d01c0b0::t_958b04df5d777c 2-4,7,11-17,30-37,39-41
+scripts/__init__.py
+  s_0276221d01c0b0::t_958b04df5d777c 1
+scripts/brand/build_g.py
+  s_0276221d01c0b0::t_958b04df5d777c 1-270
+scripts/brand/render_g_gif.py
+  s_0276221d01c0b0::t_958b04df5d777c 1-154
+scripts/brand/build_raze.py
+  s_0276221d01c0b0::t_958b04df5d777c 1-110
+scripts/brand/render_g_throbber_gif.py
+  s_0276221d01c0b0::t_958b04df5d777c 1-169
+pyproject.toml
+  s_0276221d01c0b0::t_958b04df5d777c 56-61,175-177,332-335
+assets/brand/grazeai-logo-g-filled.svg
+  s_0276221d01c0b0::t_958b04df5d777c 1-30
+scripts/brand/__init__.py
+  s_0276221d01c0b0::t_958b04df5d777c 1
+uv.lock
+  s_0276221d01c0b0::t_958b04df5d777c 965-988,1512-1544,1599-1602,1684-1687
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "ac7c2d097ed6196bc01b6d6de064db3532bff53c",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

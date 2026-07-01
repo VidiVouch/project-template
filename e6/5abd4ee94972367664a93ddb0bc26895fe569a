@@ -1,0 +1,51 @@
+apps/sales/domain/parsing.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-167
+apps/sales/tests/test_models.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 12-13,108-159
+apps/sales/tests/test_icp_criteria.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-106
+apps/sales/registrations.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 33-36,43
+apps/sales/migrations/0010_icpprofile_criteria_version_icpscore.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-42
+apps/sales/scoring_service.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-165
+apps/sales/tests/test_icp_scoring.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-200
+apps/sales/tests/test_merge_rehome.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 18-26,168-229,298-299,304
+apps/sales/models.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 34,195-209,226,245-297
+apps/sales/migrations/0011_icpscore_rls.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-21
+apps/sales/management/commands/score_icp.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-65
+apps/sales/tests/test_icp_parsing.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-78
+apps/sales/domain/__init__.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-8
+apps/sales/tests/test_rls.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 28,38,40-42,55-63,89,97-99
+apps/sales/domain/scoring.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-261
+apps/sales/tests/test_scoring_service.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-225
+apps/sales/domain/criteria.py
+  s_0276221d01c0b0::t_b8fcd68b7ee2a9 1-214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "e65abd4ee94972367664a93ddb0bc26895fe569a",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

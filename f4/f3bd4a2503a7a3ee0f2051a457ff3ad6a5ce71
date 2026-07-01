@@ -1,0 +1,19 @@
+apps/catalog/tests/factories.py
+  s_33f9c21df35ec6::t_f115b1a98e2f81 20,209-211
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "f4f3bd4a2503a7a3ee0f2051a457ff3ad6a5ce71",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

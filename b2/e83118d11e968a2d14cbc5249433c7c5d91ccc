@@ -1,0 +1,33 @@
+apps/data/awsummit/mapping.py
+  s_3748ef8a5eb7ff::t_39180fc0e5bc82 95,97,101,103
+  s_3748ef8a5eb7ff::t_6314609d282a15 121,123,127,129,133,135
+  s_3748ef8a5eb7ff::t_27b1c6ae6f21e4 150,157
+  s_3748ef8a5eb7ff::t_a2ea8fb8d6f8dc 27-48
+apps/catalog/handlers/awsummit.py
+  s_3748ef8a5eb7ff::t_5d226d4a313e93 170,175,180
+  s_3748ef8a5eb7ff::t_2e906f416893d3 82
+  s_3748ef8a5eb7ff::t_43793f7b7c84f2 123,128
+apps/data/awsummit/tests/test_mapping.py
+  s_3748ef8a5eb7ff::t_8bed8ff5d9164e 80
+  s_3748ef8a5eb7ff::t_00364ab2839b8e 94-95
+  s_3748ef8a5eb7ff::t_c448cef4db75bb 36-51,66-67
+  s_3748ef8a5eb7ff::t_c30c9ac4d4c736 104,118-119
+  s_3748ef8a5eb7ff::t_e1903771906567 1,17-18
+  s_3748ef8a5eb7ff::t_f1588ec205fcf7 136-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b2e83118d11e968a2d14cbc5249433c7c5d91ccc",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

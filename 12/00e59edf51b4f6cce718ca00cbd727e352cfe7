@@ -1,0 +1,22 @@
+apps/data/cvent/management/commands/import_portal_cvent.py
+  s_5b002650df0863::t_0211c8b1b7195c 1-18,23-98
+  s_5b002650df0863::t_1030051e82351a 19-22
+apps/data/cvent/tests/test_import_portal_cvent.py
+  s_5b002650df0863::t_c9344ec938be98 1-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1200e59edf51b4f6cce718ca00cbd727e352cfe7",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

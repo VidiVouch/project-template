@@ -1,0 +1,21 @@
+REVIEW.md
+  s_5b002650df0863::t_17dfcd19c25803 43-44
+traffic_adapters/adapters/yc_public.py
+  s_5b002650df0863::t_c74bdc372aedf5 9-12,14-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "2553f82d49903f7c081db8f2ed3a824ccffd969e",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

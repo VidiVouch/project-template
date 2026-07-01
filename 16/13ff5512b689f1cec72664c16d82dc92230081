@@ -1,0 +1,22 @@
+research/handlers.py
+  h_795c5e33ecc5af 1-89
+research/tests/conftest.py
+  h_795c5e33ecc5af 1-64
+research/settings.py
+  h_795c5e33ecc5af 33-42
+research/tests/test_spider_integration.py
+  h_795c5e33ecc5af 1-141
+research/tests/test_handlers.py
+  h_795c5e33ecc5af 1-115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "1613ff5512b689f1cec72664c16d82dc92230081",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+scrapers/event_spiders/tests/test_expoplatform_spider.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 19
+apps/data/credentials/tests/test_source_session.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 17
+tests/architecture/test_collection_layer_django_free.py
+  s_ffd92932362e87::t_78734bd5ec4cba 90-115
+  s_ffd92932362e87::t_e3b394e8282fc5 56-60
+  s_ffd92932362e87::t_ba95d9639b89b4 11-18
+  s_ffd92932362e87::t_1a18cca7001190 61-68
+  s_ffd92932362e87::t_c6adc5d31185aa 86-88
+envelopes/__init__.py
+  s_ffd92932362e87::t_054d157896f14f 1,8-13,15-23
+  s_ffd92932362e87::t_9335cb5c3d6814 2-4
+  s_ffd92932362e87::t_cb156bf6d3f9f7 5-7,24
+scrapers/event_spiders/tests/test_cvent_spiders.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 18
+  s_ffd92932362e87::t_03755ce562042f 19
+scrapers/event_spiders/tests/test_brella_spider.py
+  s_ffd92932362e87::t_1e2461c07871f0 19
+  s_ffd92932362e87::t_f443b84b9ef0f9 20
+  s_ffd92932362e87::t_6f35118020bf78 178
+apps/data/grip/tests/test_login.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 5
+envelopes/grip/login.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 1-81
+scrapers/event_spiders/cvent/cvent_attendees.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 17,45
+apps/data/credentials/providers.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 1,6
+scrapers/event_spiders/swapcard/swapcard.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 8,36
+scrapers/event_spiders/brella.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 7,31
+scrapers/event_spiders/tests/test_grip_spider.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 20
+envelopes/credentials/ports.py
+  s_ffd92932362e87::t_040ad76f7e3e98 3-16
+scrapers/event_spiders/grip.py
+  s_5b002650df0863::t_a4f37a983fc596 3
+  s_ffd92932362e87::t_f443b84b9ef0f9 15,17,32,39-40
+  s_ffd92932362e87::t_6dd3d2c51a2c49 20
+  s_ffd92932362e87::t_08974b8fc162cd 31
+scrapers/event_spiders/expoplatform.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 6,37
+scrapers/event_spiders/tests/test_swapcard_spider.py
+  s_ffd92932362e87::t_f443b84b9ef0f9 19
+  s_ffd92932362e87::t_d6723f7b74a788 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "2d8fe77aa978651a2a67fd509324996eb5eaf590",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

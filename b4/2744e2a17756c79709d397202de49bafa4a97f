@@ -1,0 +1,72 @@
+envelopes/stova/response.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-205
+apps/catalog/tests/test_promote_stova.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-283
+apps/data/stova/transformers.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-210
+traffic_analysis/flow_readers/stova.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-122
+apps/catalog/handlers/stova.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-310
+research/event_research/tests/test_stova_spider.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-65
+traffic_analysis/tests/test_stova.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-112
+apps/data/stova/apps.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-8
+apps/bootstrap.py
+  s_0276221d01c0b0::t_e59585851e146b 125,144
+apps/data/stova/tests/test_contracts.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-144
+apps/data/stova/tests/test_response.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-131
+apps/data/stova/tests/test_transformers.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-37
+apps/data/stova/tests/test_mapping.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-135
+apps/data/stova/admin.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-51
+apps/data/stova/mapping.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-202
+apps/data/stova/tests/test_app_registration.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-58
+apps/data/stova/registrations.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-81
+apps/data/stova/tests/test_models.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-73
+envelopes/stova/versions.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-25
+apps/data/stova/management/commands/import_portal_stova.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-211
+apps/data/stova/tests/test_admin.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-64
+config/settings/base.py
+  s_0276221d01c0b0::t_9fda11a2cac0cc 135
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_85c28d6cad5e45 209-216
+  s_0276221d01c0b0::t_62cd9195cc268f 122-129
+  s_0276221d01c0b0::t_e5ef0d77e20cf6 287-290
+  s_0276221d01c0b0::t_9ca59f50102d1c 239-240
+research/event_research/stova.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-105
+apps/data/stova/migrations/0001_initial.py
+  s_0276221d01c0b0::t_8e402cf55b2753 1-310
+apps/data/stova/models.py
+  s_0276221d01c0b0::t_5955a7b2543254 1-229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "b42744e2a17756c79709d397202de49bafa4a97f",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

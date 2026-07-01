@@ -1,0 +1,25 @@
+tests/architecture/test_no_composition_in_ready.py
+  s_5b002650df0863::t_c702259f6a0c0d 15
+traffic_adapters/adapters/grip_events.py
+  s_5b002650df0863::t_228d8e474b5bc9 11-13
+apps/data/credentials/drain.py
+  s_5b002650df0863::t_36ae8796fc4e1a 45-50
+REVIEW.md
+  s_5b002650df0863::t_c23f63e9b9b6fc 47-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "220647e380616f710658bb17510fce322dc7be5f",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

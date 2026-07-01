@@ -1,0 +1,75 @@
+apps/provenance/tests/test_views.py
+  s_17405aaf91a59b::t_2f68ff133bc0eb 32
+apps/provenance/tests/test_org_dashboard.py
+  s_17405aaf91a59b::t_9d516c9718699d 45,263,365
+apps/provenance/tests/test_unit_detail.py
+  s_17405aaf91a59b::t_3429679a40e89f 6-8
+  s_17405aaf91a59b::t_31d072a8466651 204-205,207
+  s_17405aaf91a59b::t_fde63d48977d85 100-107
+  s_17405aaf91a59b::t_2834fbe10bce05 45,52-54
+  s_17405aaf91a59b::t_e99f6c24fb4b34 10
+  s_17405aaf91a59b::t_e41860afd29c86 163,188,211,242,260,279,293,301,309,320,345,347,359
+  s_17405aaf91a59b::t_7d4a0a81075922 219-220
+  s_17405aaf91a59b::t_0d350682ffd2f0 11
+  s_17405aaf91a59b::t_02848142c202b4 223
+  s_17405aaf91a59b::t_6775636d9f2ea1 9
+apps/provenance/tests/test_selectors.py
+  s_17405aaf91a59b::t_c07d0f9fa8ff32 29
+  s_17405aaf91a59b::t_5221803ad1f54e 113
+apps/provenance/tests/test_repo_report.py
+  s_17405aaf91a59b::t_706bd1f147f32c 22
+apps/provenance/tests/test_repo_detail.py
+  s_17405aaf91a59b::t_68c780d59ad69b 34
+apps/provenance/tests/test_voucher_count.py
+  s_17405aaf91a59b::t_e109bd2d2639ae 29
+apps/provenance/tests/test_ingest.py
+  s_17405aaf91a59b::t_c31e9eed829303 29-35,47
+  s_17405aaf91a59b::t_00fadc1728841d 115-126
+  s_17405aaf91a59b::t_1f420b31cd17db 37
+  s_17405aaf91a59b::t_d6b424c3687ff8 80
+apps/provenance/tests/test_matrix.py
+  s_17405aaf91a59b::t_7bc92cbc9f6b8b 8-10
+  s_17405aaf91a59b::t_fbbba3cbcc7dac 61,88,179,192
+  s_17405aaf91a59b::t_e8462967ba214c 219
+  s_17405aaf91a59b::t_66b4002b0e9e28 235
+apps/provenance/tests/test_review_events.py
+  s_17405aaf91a59b::t_3b14da3ac4bbbb 40
+apps/provenance/tests/test_badge.py
+  s_17405aaf91a59b::t_3a124e2f6c7206 63,73
+apps/provenance/tests/test_contract.py
+  s_17405aaf91a59b::t_02c4f1eaf5db02 173
+  s_17405aaf91a59b::t_fb4c4b2c04d15a 135
+  s_17405aaf91a59b::t_6cd3bca8f33558 62,66-76,78
+  s_17405aaf91a59b::t_f602e29b1ea6d6 18,20
+  s_17405aaf91a59b::t_8488018e789862 117
+apps/provenance/tests/test_reviewer_profile.py
+  s_17405aaf91a59b::t_d84c24932bbb36 42
+  s_17405aaf91a59b::t_6adfe2e2bc55e5 183-184,186-188,191
+apps/provenance/tests/test_connect_repo.py
+  s_17405aaf91a59b::t_5df56605d299c6 172
+apps/provenance/tests/test_heatmap.py
+  s_17405aaf91a59b::t_986ce8855889cd 56
+apps/billing/tests/test_pricing.py
+  s_17405aaf91a59b::t_0a9550eb6dd672 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "80544a12c1dc38cb328b55ed68aa400e1dbc6b3b",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

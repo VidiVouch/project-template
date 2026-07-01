@@ -1,0 +1,30 @@
+.agents/skills/port-drain/references/harvest-legacy-drain.md
+  s_5b002650df0863::t_e3f25962a7431c 3-5
+.agents/skills/port-source/references/legacy-map.md
+  s_5b002650df0863::t_600458f4e44da2 4-9
+  s_a260275017114d::t_df9eba25ec3c5a 57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "0a5f00370419059fc8b8f2e0de0a7e4644177810",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a260275017114d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bf8da2a-fc6a-4ba7-a541-d9871ba4d1c0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

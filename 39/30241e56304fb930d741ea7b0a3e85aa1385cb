@@ -1,0 +1,60 @@
+apps/githubapp/apps.py
+  s_17405aaf91a59b::t_d9effb9bd52042 1-21
+apps/githubapp/tests/test_auth.py
+  s_17405aaf91a59b::t_bfa91ead62b066 1-42,44-59,61-62,68-78,80-86,88-138
+  s_17405aaf91a59b::t_5b07f20a42b311 43
+  s_17405aaf91a59b::t_1524c6d6fbc2ce 87
+  s_17405aaf91a59b::t_643935ea1992a9 60
+  s_17405aaf91a59b::t_3092a7e0be2e44 63-67
+  s_17405aaf91a59b::t_c71d5a58581a7b 79
+apps/githubapp/models.py
+  s_17405aaf91a59b::t_cfca6dc23167da 1-116
+config/urls.py
+  s_17405aaf91a59b::t_2fd04f951d393c 54-56
+.env.sample
+  s_17405aaf91a59b::t_cbe26d6a227313 55-67
+tests/architecture/test_base_no_product_imports.py
+  s_17405aaf91a59b::t_0ec0f8b73bc424 28
+apps/githubapp/urls.py
+  s_17405aaf91a59b::t_8740a3aa6451a5 1-16
+apps/githubapp/manifest.py
+  s_17405aaf91a59b::t_104fec33a47ff3 1-72
+apps/githubapp/tests/test_manifest.py
+  s_17405aaf91a59b::t_cdf5c4e1f8fc29 1-9,11-13,15-41
+  s_17405aaf91a59b::t_7a05f9964c3ca2 10
+  s_17405aaf91a59b::t_4c5d4e838ec029 14
+apps/githubapp/tests/test_models.py
+  s_17405aaf91a59b::t_65198e8ba64338 1-29,31-36
+  s_17405aaf91a59b::t_5df662431524ac 30
+config/settings/base.py
+  s_17405aaf91a59b::t_c853d7f44335fa 597-613,615
+  s_17405aaf91a59b::t_f3d87d6c005f97 121-122
+  s_17405aaf91a59b::t_8000258d53b631 614
+apps/githubapp/auth.py
+  s_17405aaf91a59b::t_21f47a4f62e381 47
+  s_17405aaf91a59b::t_226cc398ce1cef 106-108
+  s_17405aaf91a59b::t_4295ba5f5f3f6c 178-180
+  s_17405aaf91a59b::t_2086958abd39c8 1-46,48-105,109-177,181
+apps/githubapp/webhooks.py
+  s_17405aaf91a59b::t_e4b967bcc281d2 1-78
+apps/githubapp/tests/test_webhooks.py
+  s_17405aaf91a59b::t_fd0b12278ebf49 1-54,57-59,62,68-73,75-76,79-80,82-83,85
+  s_17405aaf91a59b::t_21a3b9338cd4ab 55-56,61,74,77-78,81,84
+  s_17405aaf91a59b::t_fd7dcde8910bac 60,63-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "3930241e56304fb930d741ea7b0a3e85aa1385cb",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

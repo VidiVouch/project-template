@@ -1,0 +1,20 @@
+apps/sales/tests/test_rls.py
+  s_33f9c21df35ec6::t_91e1c0b75bbed1 15-18,37-38
+  s_33f9c21df35ec6::t_de37f04fbbf424 24-34,51-52,55-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "4db69e4e1c81654c6006a12aa5cb0700b924ff81",
+  "prompts": {},
+  "sessions": {
+    "s_33f9c21df35ec6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e726175f-85f0-480e-8451-f5705b33bc93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

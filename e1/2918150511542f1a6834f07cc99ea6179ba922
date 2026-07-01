@@ -1,0 +1,30 @@
+.idea/runConfigurations/Django_Runserver.xml
+  s_0276221d01c0b0::t_c7b97f26c4a6ce 1-30
+.vscode/launch.json
+  s_0276221d01c0b0::t_baa0e4ff91f1db 1-42
+README.md
+  s_0276221d01c0b0::t_7e652d161b481c 49-53,56
+  s_0276221d01c0b0::t_4f2caf4a6e1bb2 168-172
+project-words.dic
+  s_0276221d01c0b0::t_28c14b0d0d4ff8 7,13
+.idea/portal-update.iml
+  s_0276221d01c0b0::t_5b2af2bfbb86f2 3-14
+.idea/runConfigurations/Daphne_SSL_No_HSTS.xml
+  s_0276221d01c0b0::t_2a94ebd7b8725e 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "e12918150511542f1a6834f07cc99ea6179ba922",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

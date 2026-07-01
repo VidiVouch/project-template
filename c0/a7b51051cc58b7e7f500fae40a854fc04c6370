@@ -1,0 +1,27 @@
+apps/data/capture/tests/conftest.py
+  s_062b4d28690cee::t_f7cba7a2d0d23e 12-16
+apps/data/conftest.py
+  s_062b4d28690cee::t_34353048fa7fab 1
+  s_062b4d28690cee::t_a6ccc751bd7262 7-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c0a7b51051cc58b7e7f500fae40a854fc04c6370",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_062b4d28690cee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82c5bd0f-5ac6-4a85-a8f5-cb42d691d549",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

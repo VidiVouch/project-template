@@ -1,0 +1,25 @@
+apps/billing/tests/test_webhooks.py
+  s_0276221d01c0b0::t_c8f4ffaf389db1 142-174
+  s_0276221d01c0b0::t_1c11c594d6badd 12
+  s_0276221d01c0b0::t_fd251e8fb89845 7
+apps/billing/models.py
+  s_0276221d01c0b0::t_167f8705a90df4 20
+  s_0276221d01c0b0::t_bff0bf8a587828 81
+  s_0276221d01c0b0::t_0e8ee934b2831f 67-76,78-80,82-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "5269a58fd6bf4746817a4e9b536dfbec1910c80f",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

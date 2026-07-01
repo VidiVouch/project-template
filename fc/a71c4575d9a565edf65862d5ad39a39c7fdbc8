@@ -1,0 +1,25 @@
+traffic_adapters/tests/test_expoplatform.py
+  s_5b002650df0863::t_75aeebe8271d8b 1-105
+traffic_adapters/adapters/expoplatform.py
+  s_5b002650df0863::t_75aeebe8271d8b 1-120
+traffic_adapters/tests/test_provider_registry.py
+  s_5b002650df0863::t_1c90e358a5f9e1 113,119-120
+  s_5b002650df0863::t_d270caace16643 118,140-141,143-144
+  s_5b002650df0863::t_ded6ef113705e3 142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "fca71c4575d9a565edf65862d5ad39a39c7fdbc8",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

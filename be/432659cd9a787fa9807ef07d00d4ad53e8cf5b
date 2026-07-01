@@ -1,0 +1,25 @@
+scripts/spikes/gemini_batch_spike.py
+  s_0276221d01c0b0::t_5043a8cf5ecc05 5
+apps/disambiguator/providers_gemini.py
+  s_0276221d01c0b0::t_a394af9e9cd3a8 164-169
+  s_0276221d01c0b0::t_c20e8706744e88 181
+  s_0276221d01c0b0::t_823c47cd7065fb 140
+  s_0276221d01c0b0::t_b9506ec1be9d49 196-208
+  s_0276221d01c0b0::t_92968147b90902 56-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "be432659cd9a787fa9807ef07d00d4ad53e8cf5b",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

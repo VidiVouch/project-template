@@ -1,0 +1,33 @@
+apps/identity/admin.py
+  s_0276221d01c0b0::t_9e7b0c77d0c238 24
+  s_0276221d01c0b0::t_8379fbc31ab499 12
+  s_0276221d01c0b0::t_013b443fa13294 125-128
+  s_0276221d01c0b0::t_e111a2c68938f5 144-166
+apps/identity/groups.py
+  s_0276221d01c0b0::t_6f84e6be3c50ed 1-4,6-23
+  s_0276221d01c0b0::t_773a178735e23d 5
+apps/identity/migrations/0006_seed_auth_groups.py
+  s_0276221d01c0b0::t_a77b8acc802265 1-37
+apps/identity/permissions.py
+  s_0276221d01c0b0::t_6f84e6be3c50ed 1-75
+apps/identity/tests/test_permissions.py
+  s_0276221d01c0b0::t_882595c3e804ff 1-61
+apps/identity/tests/test_admin.py
+  s_0276221d01c0b0::t_8eb8dbd8f298de 1-561
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "860506496389a89a6adaf2a0ffd54e700e830579",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

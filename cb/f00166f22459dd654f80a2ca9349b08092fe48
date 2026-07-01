@@ -1,0 +1,23 @@
+pyproject.toml
+  s_0276221d01c0b0::t_717028c34bb852 26
+config/settings/local.py
+  s_0276221d01c0b0::t_7de5ac5e0ba7b7 4-13
+config/urls.py
+  s_0276221d01c0b0::t_edd5f59527551c 3,12-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "cbf00166f22459dd654f80a2ca9349b08092fe48",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

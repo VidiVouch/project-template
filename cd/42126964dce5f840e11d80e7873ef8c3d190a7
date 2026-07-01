@@ -1,0 +1,95 @@
+apps/githubapp/retroactive.py
+  s_17405aaf91a59b::t_792f7d0fb9b581 79
+  s_17405aaf91a59b::t_b163b7fe83a972 37
+  s_17405aaf91a59b::t_55dc1ad1d98827 1-36,38-78,80-93,96-120,123-155,162-163,165-182,185-215,219-256
+  s_17405aaf91a59b::t_3dd9957c9f6f15 156-161,164
+apps/githubapp/tests/test_vouch.py
+  s_17405aaf91a59b::t_2b897a9489af07 281
+  s_17405aaf91a59b::t_3cb1a28d95836e 125-128
+  s_17405aaf91a59b::t_0f174788791de3 235-238
+  s_17405aaf91a59b::t_9f6382fd507335 18
+  s_17405aaf91a59b::t_bc547193c2e2df 66-67,83
+  s_17405aaf91a59b::t_f2410717382272 227,230-234,239-240,246,248,252-253,256,259-263,265,268-271,274,277-278,280,283-286,289,292,294-295,299-300,310,315,319,322
+  s_17405aaf91a59b::t_16e75faba5d5cb 228
+  s_17405aaf91a59b::t_5a33d5651da485 266
+  s_17405aaf91a59b::t_2eb36a5dde8911 195
+  s_17405aaf91a59b::t_6387b7197781e6 151-152
+  s_17405aaf91a59b::t_3acf18af918315 249
+  s_17405aaf91a59b::t_86e8225facba78 311
+apps/githubapp/tests/test_seatrequest_rls.py
+  s_17405aaf91a59b::t_36230e88bd7242 1-72
+apps/githubapp/tests/test_seataware.py
+  s_17405aaf91a59b::t_80e5c2eb7273b6 1-27,29-79,86-87,89-96,98-116,118,120-137,139-160,162-174,179,181-199,201-206,208-224,226-231,233-243,245-250,252-263
+  s_17405aaf91a59b::t_e59c6cea2a9649 28
+  s_17405aaf91a59b::t_c8ac1043afe719 81-85,88
+apps/githubapp/tests/test_notary.py
+  s_17405aaf91a59b::t_f033c56da69155 24,40
+  s_17405aaf91a59b::t_a18050a8af6c89 231-237,242,245-247
+  s_17405aaf91a59b::t_7d703953b53a94 229
+  s_17405aaf91a59b::t_e0c9d2af2b098c 202
+  s_17405aaf91a59b::t_700266db489b7c 240
+  s_17405aaf91a59b::t_2aaa08759df6de 31
+  s_17405aaf91a59b::t_d1934bbedda80a 187-195,201,203-205,207-228,230,238-239,241,243-244,248-249
+  s_17405aaf91a59b::t_efbd93efa9d678 196-200,206
+apps/githubapp/tests/test_retroactive.py
+  s_17405aaf91a59b::t_ce1c5661558814 1-79,81-156,158-164,166-194
+  s_17405aaf91a59b::t_83c6e5a88326c9 80
+  s_17405aaf91a59b::t_a8babbed09a42b 157
+apps/githubapp/tests/test_tasks.py
+  s_17405aaf91a59b::t_fbcfbc067c8f77 32
+  s_17405aaf91a59b::t_37784caeeb94f8 5-6,16-18,23,25
+  s_17405aaf91a59b::t_c9ecc0003dcaa6 1-4,7-15,19-22,24,26-31,33-69
+apps/githubapp/models.py
+  s_17405aaf91a59b::t_f537ed31fe9429 31
+  s_17405aaf91a59b::t_14dfa128d43941 160-187,189-223
+  s_17405aaf91a59b::t_6a6230ed106694 188
+apps/githubapp/signals.py
+  s_17405aaf91a59b::t_59afe720dce269 88
+  s_17405aaf91a59b::t_91296395f71749 49
+  s_17405aaf91a59b::t_73d5e929c470d8 1-8,11-48,50-69,71,73-87,89-121
+apps/githubapp/vouch.py
+  s_17405aaf91a59b::t_624fb8c10fa9d7 45-46,50-60
+  s_17405aaf91a59b::t_5cb3b71f8efa0f 118-126,145,151-173
+  s_17405aaf91a59b::t_9b633a3d447667 176,180-197,200,205,208-209
+apps/notary/models.py
+  s_17405aaf91a59b::t_c691490ac62599 156-163
+  s_17405aaf91a59b::t_c0f44cbbdeeb2f 104-111
+  s_17405aaf91a59b::t_9a3aba9a3ec5ba 164-168
+apps/githubapp/notary.py
+  s_17405aaf91a59b::t_3cada338c60c96 43,55
+  s_17405aaf91a59b::t_2f0e590e39620e 251-328
+apps/githubapp/seataware.py
+  s_17405aaf91a59b::t_8c801e6d291d71 178-186,190-200
+  s_17405aaf91a59b::t_f9cc249c080a4a 260,266,288-290
+  s_17405aaf91a59b::t_e0778a3718a79b 79
+  s_17405aaf91a59b::t_02274fe5e133d0 157-159
+  s_17405aaf91a59b::t_77185a740a6fd3 1-78,80-156,160-177,187-189,201-208,213-220,222-227,231-243,247-259,261-265,267-287,291-375
+  s_17405aaf91a59b::t_3f3d1d7b9f9031 210,212,221,228-230,244-246
+apps/githubapp/tasks.py
+  s_17405aaf91a59b::t_d1db1d95fb2d6f 1-81
+apps/githubapp/migrations/0003_seatrequest.py
+  s_17405aaf91a59b::t_789db1a2f60619 40-44
+  s_17405aaf91a59b::t_35c182764fe5b7 8-9
+apps/githubapp/apps.py
+  s_17405aaf91a59b::t_58e4b20c11246a 26,31-37,39
+apps/githubapp/tests/test_signals.py
+  s_17405aaf91a59b::t_9eb90bc3f4809c 33
+  s_17405aaf91a59b::t_fda5051d4cad33 1-32,34-47,49-76
+  s_17405aaf91a59b::t_b6d3f1dc3be6c7 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "cd42126964dce5f840e11d80e7873ef8c3d190a7",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

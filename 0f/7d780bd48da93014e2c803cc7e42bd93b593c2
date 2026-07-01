@@ -1,0 +1,40 @@
+apps/data/base/models/abstract_models.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 268,326
+apps/data/capture/models.py
+  s_5b002650df0863::t_c471f7dba73f07 27
+  s_5b002650df0863::t_2fcaa2c7d8bbb9 117
+config/settings/base.py
+  s_5b002650df0863::t_7b601b147a8e02 94,92-93
+  s_5b002650df0863::t_4b47bc34478b19 95,131,144,149,320-321,325-331,337-339,366,381,147,314,319,335,361,372,374,376,380,271,284,294,289,98,219,227,229,239,241,252,254
+  s_5b002650df0863::t_80dd0c6d11f722 134-135,137,322,324,136,323,395,307,305-306,310-312,203,202
+  s_5b002650df0863::t_63b7ed74f23be4 315-318
+  s_5b002650df0863::t_90400a7abda1ff 19,33,59,130,148,253,360,373,375,377-379,146,283,288,308,97,293,313,104,117,128,218,226,228,240,270,66
+  s_5b002650df0863::t_b82f85f3ae94eb 129,139,126-127
+  s_5b002650df0863::t_aad84bce2383cc 91
+apps/data/base/tests/models.py
+  s_03d4e22efd389d::t_9cc8f59de7f0e0 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "0f7d780bd48da93014e2c803cc7e42bd93b593c2",
+  "prompts": {},
+  "sessions": {
+    "s_03d4e22efd389d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eee70820-4840-46c0-ac73-0c0a42bab83f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

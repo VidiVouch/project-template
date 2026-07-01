@@ -1,0 +1,52 @@
+apps/catalog/promoters.py
+  s_ffd92932362e87::t_c3f62534367b41 125
+  s_ffd92932362e87::t_7682d753464f9b 66-73
+  s_ffd92932362e87::t_52008bac4df524 146-150
+  s_ffd92932362e87::t_085e87fa52f5b1 105-112
+config/settings/base.py
+  s_ffd92932362e87::t_afa9e8fededc6c 115
+apps/catalog/tests/test_promote_websummit.py
+  s_ffd92932362e87::t_dc892df6d62c08 120
+  s_ffd92932362e87::t_3eccff586ba9df 193
+  s_ffd92932362e87::t_39187a1b761736 42
+apps/catalog/handlers/websummit.py
+  s_ffd92932362e87::t_3fc555754c5d8d 205
+  s_ffd92932362e87::t_d4e32e5f400aac 88
+  s_ffd92932362e87::t_e1a302f390f91e 148
+  s_ffd92932362e87::t_2fb7b6e89261e2 254
+  s_ffd92932362e87::t_40c897741d54e4 128
+scrapers/event_spiders/websummit.py
+  s_ffd92932362e87::t_9834d46ea930e4 13
+  s_ffd92932362e87::t_a8ce4905877318 19
+envelopes/websummit/versions.py
+  s_ffd92932362e87::t_cd62a69a985c32 1-20,22-23
+  s_ffd92932362e87::t_e0ac30b32087da 21
+apps/catalog/tests/test_promoter_registry.py
+  s_ffd92932362e87::t_65e780096d032d 101-108
+  s_ffd92932362e87::t_32b35fc64b8703 278-283
+  s_ffd92932362e87::t_671c508e127a7c 54-61
+apps/data/websummit/models.py
+  s_ffd92932362e87::t_f4d326c1ea6479 47
+  s_ffd92932362e87::t_00617fdfba2bf0 59-237
+apps/bootstrap.py
+  s_ffd92932362e87::t_3670160bd3571d 95,98-110
+apps/data/websummit/transformers.py
+  s_ffd92932362e87::t_28315c648aa238 16-41
+  s_ffd92932362e87::t_c0a9c61cb3abc1 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c275f724b947a306ac3c8081d23d6bb7ffcaeb05",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

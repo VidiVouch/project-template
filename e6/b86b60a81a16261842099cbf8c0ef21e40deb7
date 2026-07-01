@@ -1,0 +1,19 @@
+CLIENT_VISIBILITY_INTERVIEW.html
+  s_3748ef8a5eb7ff::t_26c41e0f1bbe5f 814
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "e6b86b60a81a16261842099cbf8c0ef21e40deb7",
+  "prompts": {},
+  "sessions": {
+    "s_3748ef8a5eb7ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b813614c-7a5d-44e5-b404-387757f8b245",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

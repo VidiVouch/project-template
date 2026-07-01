@@ -1,0 +1,39 @@
+config/settings/base.py
+  s_0276221d01c0b0::t_1d1a36621c29dd 116
+apps/data/allintheloop/registrations.py
+  s_0276221d01c0b0::t_810da07d1a9bd8 1-57
+apps/data/allintheloop/migrations/0001_initial.py
+  s_0276221d01c0b0::t_18007355469e14 1-143
+apps/data/allintheloop/admin.py
+  s_0276221d01c0b0::t_810da07d1a9bd8 1-34
+apps/data/allintheloop/apps.py
+  s_0276221d01c0b0::t_810da07d1a9bd8 1-8
+apps/data/allintheloop/models.py
+  s_0276221d01c0b0::t_810da07d1a9bd8 1-119
+apps/bootstrap.py
+  s_0276221d01c0b0::t_699927fb717d3e 94-96,108-113
+envelopes/allintheloop/versions.py
+  s_0276221d01c0b0::t_810da07d1a9bd8 1-25
+apps/data/allintheloop/transformers.py
+  s_0276221d01c0b0::t_810da07d1a9bd8 1-113
+apps/data/allintheloop/mapping.py
+  s_0276221d01c0b0::t_810da07d1a9bd8 1-199
+envelopes/allintheloop/response.py
+  s_0276221d01c0b0::t_810da07d1a9bd8 1-391
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "a559d599841cf2784f022b047cef1d44abb39393",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

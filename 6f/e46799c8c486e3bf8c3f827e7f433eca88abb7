@@ -1,0 +1,86 @@
+apps/data/affiliate_world/tests/test_app_registration.py
+  s_5c14a78a4d4fab::t_71aee0b60cad9b 1-39
+apps/data/affiliate_world/mapping.py
+  s_5c14a78a4d4fab::t_fb9f9a145eef7d 1-77,79-82,84-124
+  s_5c14a78a4d4fab::t_e6b531c12f9d69 78
+  s_5c14a78a4d4fab::t_35bd537330fbba 83
+apps/data/affiliate_world/tests/test_transformers.py
+  s_5c14a78a4d4fab::t_3b88bcb40fb7ef 1-67
+apps/catalog/promoters.py
+  s_5c14a78a4d4fab::t_58213d731b55bb 82
+  s_5c14a78a4d4fab::t_88b4db74d77320 21-26
+  s_5c14a78a4d4fab::t_ef7e966eccc0e0 87-89
+  s_5c14a78a4d4fab::t_c618cdea5c12bb 54-59
+apps/catalog/tests/test_promote_affiliate_world.py
+  s_5c14a78a4d4fab::t_1d28c9f086fb45 1
+  s_5c14a78a4d4fab::t_9331823f41879a 2,9-138,144-146,148-152,183-265,269-299
+  s_5c14a78a4d4fab::t_c40ccfe18727ad 3-8
+  s_5c14a78a4d4fab::t_3ad4969e953ade 139-143,147,153-182
+  s_5c14a78a4d4fab::t_71a9b82f40589d 266-268
+apps/bootstrap.py
+  s_5c14a78a4d4fab::t_07c207c4b4a14f 85,92
+apps/data/affiliate_world/admin.py
+  s_5c14a78a4d4fab::t_f3281b9e4b89ae 1-30
+config/settings/base.py
+  s_5c14a78a4d4fab::t_21d3ed36b874f3 94
+apps/data/affiliate_world/transformers.py
+  s_5c14a78a4d4fab::t_429b2f3202682c 72
+  s_5c14a78a4d4fab::t_12e278d5dacbe9 1-71,73-82
+apps/data/affiliate_world/registrations.py
+  s_5c14a78a4d4fab::t_51f44276249e43 1-52
+apps/data/affiliate_world/tests/test_mapping.py
+  s_5c14a78a4d4fab::t_9ac53e2b826ffa 1-97
+apps/data/affiliate_world/tests/test_contracts.py
+  s_5c14a78a4d4fab::t_07df20a8d2f430 1-24,26-77
+  s_5c14a78a4d4fab::t_71a9b82f40589d 25
+scrapers/event_spiders/tests/test_affiliate_world_spider.py
+  s_5c14a78a4d4fab::t_fa9ba6c1709952 76-85
+  s_5c14a78a4d4fab::t_703608798cb6f5 1-75,86-124
+apps/catalog/handlers/affiliate_world.py
+  s_5c14a78a4d4fab::t_5eeb244942ade4 143
+  s_5c14a78a4d4fab::t_452c55a1da0b07 158
+  s_5c14a78a4d4fab::t_224313539734c1 70-76,80-81
+  s_5c14a78a4d4fab::t_f84ae1127b740c 17-27
+  s_5c14a78a4d4fab::t_f2ac08fd833256 1-16,28-69,77-79,82-101,103-142,145-148,150-151,153-155,159-171,173-191,193-283
+  s_5c14a78a4d4fab::t_609bacc7593f31 102
+  s_5c14a78a4d4fab::t_1840b7452b56c7 172
+  s_5c14a78a4d4fab::t_19fa0ac9638404 192
+apps/data/affiliate_world/tests/test_response.py
+  s_5c14a78a4d4fab::t_a1f50fafca835c 1-48,50-118
+  s_5c14a78a4d4fab::t_71a9b82f40589d 49
+apps/data/affiliate_world/tests/test_admin.py
+  s_5c14a78a4d4fab::t_aea75241e7dc9e 1-44
+scrapers/event_spiders/affiliate_world.py
+  s_5c14a78a4d4fab::t_646deb4938721f 140-148
+  s_5c14a78a4d4fab::t_f7722875ac5477 1-51,53-139,149-180
+  s_5c14a78a4d4fab::t_1b266623a237cf 52
+apps/data/affiliate_world/migrations/0001_initial.py
+  s_5c14a78a4d4fab::t_5f8418da85b75a 1-97
+apps/data/affiliate_world/response.py
+  s_5c14a78a4d4fab::t_aff0747a749a7a 144
+  s_5c14a78a4d4fab::t_50eca4488dddf4 1-119,131,141-143,145-151
+  s_5c14a78a4d4fab::t_416dcc683a0451 120-130,132-140
+apps/data/affiliate_world/apps.py
+  s_5c14a78a4d4fab::t_bb880572375a63 1-8
+apps/data/affiliate_world/models.py
+  s_5c14a78a4d4fab::t_d1d58ae66a4666 46-53
+  s_5c14a78a4d4fab::t_4fc7aa18433034 77-78
+  s_5c14a78a4d4fab::t_7a436bb2b5238d 1-25,28-45,54-76,79-98
+  s_5c14a78a4d4fab::t_231f7a55cdf091 26-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "6fe46799c8c486e3bf8c3f827e7f433eca88abb7",
+  "prompts": {},
+  "sessions": {
+    "s_5c14a78a4d4fab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b8e53f77-e6a5-44aa-8101-806823e06003",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

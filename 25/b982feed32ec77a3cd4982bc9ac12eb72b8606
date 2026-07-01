@@ -1,0 +1,40 @@
+apps/bootstrap.py
+  s_5b002650df0863::t_de08c5c0e3b6da 86
+  s_5b002650df0863::t_ddca3c96e7ae2c 159
+  s_5b002650df0863::t_42dd5ac172a677 92,163
+  s_5b002650df0863::t_64fd1f4221b16b 89,161
+scrapers/event_spiders/cvent/cvent_attendees.py
+  s_5b002650df0863::t_b2e18c5dcc02eb 1-278
+apps/data/cvent/sessions.py
+  s_5b002650df0863::t_881e45fb18dbd8 1-80,83-86
+  s_5b002650df0863::t_709a00978cf2fd 81-82
+apps/data/cvent/tests/test_sessions.py
+  s_5b002650df0863::t_513c1644b7c807 1-85
+  s_5b002650df0863::t_f41de000d73b8b 86-108
+scrapers/event_spiders/cvent/cvent_events.py
+  s_5b002650df0863::t_55061b81de874f 1-146
+scrapers/event_spiders/tests/test_cvent_spiders.py
+  s_5b002650df0863::t_a828016b217279 1-201
+apps/data/cvent/registrations.py
+  s_5b002650df0863::t_aa8e69a9d20b3f 1-11,14-18,20-41,43-44
+  s_5b002650df0863::t_c895adf8d7c2ef 12-13,19
+  s_5b002650df0863::t_798b43dee573a0 42
+scrapers/event_spiders/cvent/searchAttendees.graphql
+  s_5b002650df0863::t_739272153984cc 1-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "25b982feed32ec77a3cd4982bc9ac12eb72b8606",
+  "prompts": {},
+  "sessions": {
+    "s_5b002650df0863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54b3fcb5-fea3-4483-b454-8f32c9311e92",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

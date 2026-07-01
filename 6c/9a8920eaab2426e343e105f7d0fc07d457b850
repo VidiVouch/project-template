@@ -1,0 +1,45 @@
+apps/catalog/handlers/__init__.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-7
+apps/catalog/handlers/cadmium/orgs.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-178
+apps/catalog/tests/test_person_resolution.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-199
+apps/catalog/tests/test_promote_event.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-241
+apps/catalog/handlers/cadmium/events.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-104
+apps/catalog/tests/test_promote_event_organization_relationship.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-331
+apps/catalog/tests/test_promote_event_participation.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-308
+apps/catalog/tests/test_employment_from_participation.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-134
+apps/catalog/tests/test_promote_event_participation_attendee.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-317
+apps/catalog/handlers/cadmium/people.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-131
+apps/catalog/promoters.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 21-37,41-48
+apps/catalog/tests/test_promoter_registry.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 15-22,31-38,178-187
+apps/catalog/handlers/_shared.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-247
+apps/catalog/handlers/cadmium/__init__.py
+  s_0276221d01c0b0::t_c0d64de40d8c2c 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6c9a8920eaab2426e343e105f7d0fc07d457b850",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

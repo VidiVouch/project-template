@@ -1,0 +1,26 @@
+templates/allauth/layouts/base.html
+  s_c3bfa30f51a6e1::t_724e1fd0804918 26
+templates/app/base.html
+  s_c3bfa30f51a6e1::t_4127a72758b0dd 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "2661298bb8d76d71e032e3a233ac57f572e025ff",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_c3bfa30f51a6e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5479aa6-cd8c-4e05-8e0e-61bc4be8fe4c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

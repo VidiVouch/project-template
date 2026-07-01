@@ -1,0 +1,30 @@
+.claude/commands/deep-review.md
+  s_67d1eb697ad238::t_48c2066d0d76d0 173,192,218,225,239,270,272
+  s_67d1eb697ad238::t_6e459a9d4df111 86,93,96,103,133,347,366,368,373,375
+  h_795c5e33ecc5af 3,28-33
+.claude/commands/check-coverage.md
+  h_795c5e33ecc5af 3,42,187
+.claude/commands/local-review.md
+  h_795c5e33ecc5af 3,28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "d14db931ee0d89c5e173a081e2c4999dba9a33ba",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_67d1eb697ad238": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e66af8e3-dd09-4e4d-8c12-d26c49643ef2",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

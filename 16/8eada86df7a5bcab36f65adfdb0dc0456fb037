@@ -1,0 +1,35 @@
+apps/data/brella/tests/test_response.py
+  s_ffd92932362e87::t_f229b35eef12f6 11
+  s_ffd92932362e87::t_9cd7b9cd31fcb8 12
+  s_ffd92932362e87::t_f0f9f1ad97a2e4 22-29,31-33
+  s_ffd92932362e87::t_f9631013898686 79,83-84
+envelopes/brella/response.py
+  s_ffd92932362e87::t_237f04f72c2abd 47-48
+  s_ffd92932362e87::t_b433475b4b4ed4 24-27
+  s_ffd92932362e87::t_934ce040d7e69f 33
+  s_ffd92932362e87::t_de51249206237f 34,102-107,112,115-116,118-121
+  s_ffd92932362e87::t_a3c651c7a89680 155-157
+  s_ffd92932362e87::t_014cdc5de8b56c 215-218,221-227
+scrapers/event_spiders/tests/test_brella_spider.py
+  s_ffd92932362e87::t_1e2461c07871f0 20
+  s_ffd92932362e87::t_6f35118020bf78 178
+traffic_adapters/tests/test_brella.py
+  s_ffd92932362e87::t_3716c1c9d30886 8
+  s_ffd92932362e87::t_03b0eca05c2c42 131,170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "168eada86df7a5bcab36f65adfdb0dc0456fb037",
+  "prompts": {},
+  "sessions": {
+    "s_ffd92932362e87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f33f8d3a-be57-4be1-9341-0e76f72b6b28",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

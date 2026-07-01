@@ -1,0 +1,18 @@
+.claude/commands/check-coverage.md
+  h_795c5e33ecc5af 3,42,187
+.claude/commands/local-review.md
+  h_795c5e33ecc5af 3,28
+.claude/commands/deep-review.md
+  h_795c5e33ecc5af 3,28-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "6c01167a5832f36ff1053f039738594b54c44131",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

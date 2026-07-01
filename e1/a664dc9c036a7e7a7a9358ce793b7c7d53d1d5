@@ -1,0 +1,31 @@
+apps/data/awsummit/tests/test_admin.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-52
+apps/data/awsummit/tests/test_app_registration.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-46
+apps/data/awsummit/tests/test_response.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-154
+apps/data/awsummit/tests/test_contracts.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-154
+apps/data/capture/tests/factories.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-78
+apps/data/awsummit/tests/test_models.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-126
+apps/data/awsummit/tests/test_mapping.py
+  s_0276221d01c0b0::t_64eec62f3444d8 1-157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "e1a664dc9c036a7e7a7a9358ce793b7c7d53d1d5",
+  "prompts": {},
+  "sessions": {
+    "s_0276221d01c0b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc50ec0-48b3-44d9-b6e5-3edc6b74554a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
