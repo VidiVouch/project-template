@@ -1,0 +1,22 @@
+.idea/bets-project-s26.iml
+  s_a9f07316d2a020::t_1a7f1b7a3ea1ec 13
+  s_a9f07316d2a020::t_4802d460e1d773 15
+.idea/misc.xml
+  s_a9f07316d2a020::t_9e0e39ee85fcaa 4,6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "975264a6833a0b2892e666baba8ae325e64e9901",
+  "prompts": {},
+  "sessions": {
+    "s_a9f07316d2a020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ad5b90e-cf03-465d-9f55-09226629844a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
