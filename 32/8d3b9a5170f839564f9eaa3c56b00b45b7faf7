@@ -1,0 +1,27 @@
+.idea/project-template.iml
+  s_8f80a9759f4533::t_6cd03bc5693378 5
+.agents/hooks/enforce_uv.py
+  s_8f80a9759f4533::t_a40824c8e5b091 1-130
+.codex/hooks.json
+  s_8f80a9759f4533::t_e617219a8192a4 2-15
+tests/hooks/conftest.py
+  s_8f80a9759f4533::t_8dedfa39ccb925 1-46
+tests/hooks/test_enforce_uv.py
+  s_8f80a9759f4533::t_33b79331196190 1-194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "328d3b9a5170f839564f9eaa3c56b00b45b7faf7",
+  "prompts": {},
+  "sessions": {
+    "s_8f80a9759f4533": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b2a9b97a-b6b5-481c-a279-4050dc989828",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}

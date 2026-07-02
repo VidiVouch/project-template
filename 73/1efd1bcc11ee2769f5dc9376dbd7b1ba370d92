@@ -1,0 +1,21 @@
+.idea/project-template.iml
+  s_8f80a9759f4533::t_bd6039e1b044fe 20-22
+.idea/runConfigurations/Pytest__All_.xml
+  s_8f80a9759f4533::t_b0c6040db477dd 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "731efd1bcc11ee2769f5dc9376dbd7b1ba370d92",
+  "prompts": {},
+  "sessions": {
+    "s_8f80a9759f4533": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b2a9b97a-b6b5-481c-a279-4050dc989828",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
