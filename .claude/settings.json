@@ -36,6 +36,18 @@
   "feedbackSurveyRate": 0,
   "forceLoginMethod": "claudeai",
   "hooks": {
+    "PreToolUse": [
+      {
+        "hooks": [
+          {
+            "command": "${CLAUDE_PROJECT_DIR}/.claude/hooks/block-no-verify.sh",
+            "timeout": 10,
+            "type": "command"
+          }
+        ],
+        "matcher": "Bash"
+      }
+    ],
     "Stop": [
       {
         "hooks": [
