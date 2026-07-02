@@ -51,11 +51,16 @@ gate() { # gate "<label>" cmd...
 if [[ -f "$ROOT/Cargo.toml" ]]; then
     gate "cargo fmt" cargo fmt --all -- --check
     [[ -z "$ERRORS" ]] && gate "cargo clippy" cargo clippy --all-targets --all-features -- -D warnings
+    # Tests run at every stage, not only epoch gates, but after the cheap
+    # static checks, so a fmt slip doesn't cost a full test run.
+    [[ -z "$ERRORS" ]] && gate "cargo test" cargo test --quiet
 elif [[ -f "$ROOT/pyproject.toml" ]]; then
     gate "ruff check" uv run ruff check
     gate "ruff format" uv run ruff format --check
     # basedpyright is slow: only run if the fast checks passed.
     [[ -z "$ERRORS" ]] && gate "basedpyright" uv run basedpyright
+    # Fail-fast test pass (-x) keeps the gate bounded on large suites.
+    [[ -z "$ERRORS" ]] && gate "pytest" uv run pytest -q -x
 else
     # No recognised toolchain: nothing to gate on.
     exit 0
