@@ -1,0 +1,32 @@
+.idea/project-template.iml
+  s_8f80a9759f4533::t_edde68bb149084 5,8,13,16-18
+  s_8f80a9759f4533::t_932e3eeb408387 19
+.idea/codeStyles/Project.xml
+  s_8f80a9759f4533::t_c4bf99388056c4 1-10
+.idea/inspectionProfiles/Project_Default.xml
+  s_8f80a9759f4533::t_3b0b6978b68064 5-18,20
+.idea/misc.xml
+  s_8f80a9759f4533::t_dee8af9c2efed3 3-7
+.idea/pyProjectModel.xml
+  s_8f80a9759f4533::t_727dff8a7662c2 1-7
+.idea/pySourceRootDetection.xml
+  s_8f80a9759f4533::t_621f8a9ffee268 1-10
+.idea/vcs.xml
+  s_8f80a9759f4533::t_3055506045d16a 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "2668b449f15ef0785e6205145881f567ae38ef05",
+  "prompts": {},
+  "sessions": {
+    "s_8f80a9759f4533": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b2a9b97a-b6b5-481c-a279-4050dc989828",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
