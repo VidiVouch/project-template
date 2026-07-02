@@ -1,0 +1,21 @@
+docs/VOUCH-ARCHITECTURE.html
+  s_f78d2cec747f7f::t_4bcd9fce98a922 1-201
+docs/DESIGN.html
+  s_f78d2cec747f7f::t_4bcd9fce98a922 1-851
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "d7fc7ef4235f713844917cb5f4be641016bb87b9",
+  "prompts": {},
+  "sessions": {
+    "s_f78d2cec747f7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07573a7b-c985-4c80-9af5-61b645d89bcd",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
