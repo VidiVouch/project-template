@@ -1,0 +1,25 @@
+.idea/project-template.iml
+  s_8f80a9759f4533::t_9b197aa5c309eb 5
+.agents/hooks/enforce_cargo.py
+  s_8f80a9759f4533::t_f3b5f635b50cb4 1-118
+.claude/settings.json
+  s_8f80a9759f4533::t_f8fa9fed1f0289 15,38-40,46-53,69-76,91-92,104-105
+.codex/hooks.json
+  s_8f80a9759f4533::t_aba59e5ffa5127 2-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "841343b941eec5be99991ca4cd4209853c116764",
+  "prompts": {},
+  "sessions": {
+    "s_8f80a9759f4533": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b2a9b97a-b6b5-481c-a279-4050dc989828",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
