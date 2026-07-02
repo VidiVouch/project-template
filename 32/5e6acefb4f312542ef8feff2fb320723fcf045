@@ -1,0 +1,29 @@
+.claude/settings.json
+  s_f78d2cec747f7f::t_017a92b60704a1 37-48
+.claude/hooks/block-no-verify.sh
+  s_74d81bf5f15faf::t_e36891005ecc4d 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "325e6acefb4f312542ef8feff2fb320723fcf045",
+  "prompts": {},
+  "sessions": {
+    "s_74d81bf5f15faf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c3739137-4abf-43c7-8351-3c9fc21d648f",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    },
+    "s_f78d2cec747f7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07573a7b-c985-4c80-9af5-61b645d89bcd",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
