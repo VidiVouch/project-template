@@ -1,0 +1,19 @@
+.claude/hooks/review-gate.sh
+  s_f78d2cec747f7f::t_6e0cecc7614068 54-56,62-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "8dea0dbcd58cdd3ab5c6c376f5e9dd27923f72c8",
+  "prompts": {},
+  "sessions": {
+    "s_f78d2cec747f7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07573a7b-c985-4c80-9af5-61b645d89bcd",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
