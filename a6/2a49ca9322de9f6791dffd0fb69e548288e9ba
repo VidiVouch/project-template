@@ -1,0 +1,35 @@
+.idea/project-template.iml
+  s_8f80a9759f4533::t_d3ebe5ac526980 4-7
+.agents/skills/local-review/SKILL.md
+  s_8f80a9759f4533::t_f520e0a2f4b49a 1-110
+.claude/commands/deep-review.md
+  s_8f80a9759f4533::t_556608aa687b7a 1-570
+.claude/hooks/review-gate.sh
+  s_8f80a9759f4533::t_df7ac2986e0ccb 1-77
+.claude/settings.json
+  s_8f80a9759f4533::t_49c545701aafd0 28-41,47,49,52,56
+.claude/skills
+  s_8f80a9759f4533::t_5066f8c00dd312 1
+.gitignore
+  s_8f80a9759f4533::t_427bee926405f1 547-548
+README.md
+  s_8f80a9759f4533::t_404ac0211adeb8 1-114
+REVIEW.md
+  s_8f80a9759f4533::t_970d2d8fb711c4 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "a62a49ca9322de9f6791dffd0fb69e548288e9ba",
+  "prompts": {},
+  "sessions": {
+    "s_8f80a9759f4533": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b2a9b97a-b6b5-481c-a279-4050dc989828",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
