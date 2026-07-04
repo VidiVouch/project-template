@@ -1,0 +1,20 @@
+.agents/skills/check-coverage/SKILL.md
+  s_49a93411c42fd4::t_222a34e8a6ed0a 211,216-250
+  s_49a93411c42fd4::t_3d30f61a408f21 317
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b877173de2b44452b10524d63729e7e43e00fab0",
+  "prompts": {},
+  "sessions": {
+    "s_49a93411c42fd4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bf41df25-dca0-45c9-9f63-a14276b19946",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
