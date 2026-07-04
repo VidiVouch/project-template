@@ -1,0 +1,51 @@
+crates/vidi-core/src/error.rs
+  s_dee56432316ff2::t_0ab50e44f66a3b 122-168
+crates/vidi-core/src/ledger/authorship.rs
+  s_dee56432316ff2::t_ecd1c503f0c4f3 1-84
+crates/vidi-core/src/ledger/base64.rs
+  s_dee56432316ff2::t_64637cdeac0387 1-163
+crates/vidi-core/src/ledger/codec.rs
+  s_dee56432316ff2::t_8c39500e76075d 1-453
+crates/vidi-core/src/ledger/layout.rs
+  s_dee56432316ff2::t_abf052304ecd69 1-148
+crates/vidi-core/src/ledger/mod.rs
+  s_dee56432316ff2::t_bd2aeea3a20735 1-2,4-37
+crates/vidi-core/src/ledger/reader.rs
+  s_dee56432316ff2::t_296c31e977a341 1-124
+crates/vidi-core/src/ledger/staleness.rs
+  s_dee56432316ff2::t_75d81b5e863b8f 1-338
+crates/vidi-core/src/ledger/store.rs
+  s_dee56432316ff2::t_6d8cede178bd36 1-147
+crates/vidi-core/src/ledger/writer.rs
+  s_dee56432316ff2::t_bfea38c1bbc3c9 1-65
+crates/vidi-core/tests/common/mod.rs
+  s_dee56432316ff2::t_f774fdff16077f 1-153
+crates/vidi-core/tests/corrupt_recovery.rs
+  s_dee56432316ff2::t_917af573b66625 1-101
+crates/vidi-core/tests/ledger_codec.rs
+  s_dee56432316ff2::t_369ae4f686738f 1-142
+crates/vidi-core/tests/ledger_crdt.rs
+  s_dee56432316ff2::t_474a72630db9f8 1-127
+crates/vidi-core/tests/ledger_reader.rs
+  s_dee56432316ff2::t_f6f93e7cd2efba 1-89
+crates/vidi-core/tests/rewrite_no_follow.rs
+  s_dee56432316ff2::t_6e2f3d00e0790f 1-63
+crates/vidi-core/tests/staleness.rs
+  s_dee56432316ff2::t_cbaf5430ee20b7 1-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "04ffecfef26463c625bf749a4377825272320554",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
