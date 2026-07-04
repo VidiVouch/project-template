@@ -1,0 +1,21 @@
+crates/vidi-cli/Cargo.toml
+  s_dee56432316ff2::t_536eca181ca7d1 24-29
+Cargo.lock
+  s_dee56432316ff2::t_5140528f10c189 1170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9b5aab2c30700bb245c069fccb0b7fb98f46a0e7",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
