@@ -6,7 +6,7 @@ crates/vidi-cli/src/commands.rs
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.10",
-  "base_commit_sha": "33486f87dc5ff161473cf1bf4a8c86d0323ead1f",
+  "base_commit_sha": "0fdabe8432d3559af8025b2147fc112c7303016c",
   "prompts": {},
   "sessions": {
     "s_a464b688cb76de": {
