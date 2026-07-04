@@ -4,7 +4,7 @@ crates/vidi-core/tests/corrupt_recovery.rs
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.10",
-  "base_commit_sha": "2e48915b22aa4aa2b8d091c78a1a3954e7ea34ef",
+  "base_commit_sha": "b772fa198b0da19e0ec2ad515aefb615a3ab0249",
   "prompts": {},
   "sessions": {
     "s_dee56432316ff2": {
