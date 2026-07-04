@@ -1,0 +1,24 @@
+crates/vidi-core/tests/signing_vectors.rs
+  s_dee56432316ff2::t_ae49d6e4ab010f 561-575
+  s_dee56432316ff2::t_62a738acc5f6e6 172-176
+  s_dee56432316ff2::t_6d07d1219be228 560
+  s_dee56432316ff2::t_29f07f1ff3a36e 266,281,328,362,381,395,408,414,432
+crates/vidi-core/src/crypto/envelope.rs
+  s_dee56432316ff2::t_b6ce4e935057ce 52,54-65,68-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "18a2caf7e2a4658020ad6af5efc0d3bba32db25b",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
