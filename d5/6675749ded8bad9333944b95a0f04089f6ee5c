@@ -1,0 +1,43 @@
+crates/vidi-core/tests/wu11_conformance.rs
+  s_dee56432316ff2::t_bf0aa4e5d715b6 1-602
+crates/vidi-core/tests/wu11_digestset.rs
+  s_dee56432316ff2::t_3b74ec4d22a2a7 1-201
+crates/vidi-core/tests/wu11_records.rs
+  s_dee56432316ff2::t_6aa81fe206a9c0 1-264
+schemas/examples/report-off-axis-minimal.json
+  s_dee56432316ff2::t_feecd7571cc926 1-34
+schemas/examples/report-on-axis.json
+  s_dee56432316ff2::t_49c7b991efc880 1-65
+schemas/interop/conformance/conformance-1-current-v4.0.json
+  s_dee56432316ff2::t_2a75786b923c44 1-123
+schemas/interop/conformance/conformance-2-minor-extra-field.json
+  s_dee56432316ff2::t_a89423bc672fd6 1-38
+schemas/interop/conformance/conformance-3-minor-unknown-enum.json
+  s_dee56432316ff2::t_41c794d28cdd60 1-38
+schemas/interop/conformance/conformance-4-major-ahead.json
+  s_dee56432316ff2::t_51990e90ebf61b 1-27
+schemas/interop/content-id-vectors.json
+  s_dee56432316ff2::t_beba3f88938825 1-19
+schemas/interop/digestset-vectors.json
+  s_dee56432316ff2::t_ed785318e6ec10 1-28
+schemas/interop/record-vectors.json
+  s_dee56432316ff2::t_1bd1c5b47078e6 1-36
+schemas/vidi-json-v4.schema.json
+  s_dee56432316ff2::t_8550f4437a233b 1-418
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d56675749ded8bad9333944b95a0f04089f6ee5c",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
