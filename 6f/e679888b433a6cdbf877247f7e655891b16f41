@@ -1,0 +1,20 @@
+.agents/skills/check-coverage-rust/measure.sh
+  s_a464b688cb76de::t_e1e005d06138bc 158-159
+  s_a464b688cb76de::t_dfefc18ad0cb50 296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6fe679888b433a6cdbf877247f7e655891b16f41",
+  "prompts": {},
+  "sessions": {
+    "s_a464b688cb76de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10f79a89-a49c-4a99-bdec-dd864a27143b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
