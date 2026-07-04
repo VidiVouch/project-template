@@ -1,0 +1,19 @@
+src/lib.rs
+  s_dee56432316ff2::t_9ddd6b0b4bc666 3,5-6,11,14-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "31fef07c6df27b6f4644d764435b34dba4e181b3",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "perf <perf@greenfield.local>"
+    }
+  }
+}
