@@ -1,20 +1,20 @@
 crates/vidi-core/tests/wu11_digestset.rs
-  s_dee56432316ff2::t_ada66449391800 39-41
-  s_dee56432316ff2::t_8a1edabf25d37f 161-167,169-170,173-197,199
   s_dee56432316ff2::t_45c0398fd350cf 198,200
+  s_dee56432316ff2::t_8a1edabf25d37f 161-167,169-170,173-197,199
+  s_dee56432316ff2::t_ada66449391800 39-41
+crates/vidi-core/tests/wu11_conformance.rs
+  s_dee56432316ff2::t_06540ddef8d1d8 401
+  s_dee56432316ff2::t_0185a7d4f92f34 343
+  s_dee56432316ff2::t_7990b6d89646de 159-164
+  s_dee56432316ff2::t_45035108d8c507 270-273
+  s_dee56432316ff2::t_33a5966bd9bfb1 305-342,344-400,402-602
 crates/vidi-core/tests/wu11_records.rs
   s_dee56432316ff2::t_95ab79b77a04d5 231-233,239-242
-crates/vidi-core/tests/wu11_conformance.rs
-  s_dee56432316ff2::t_7990b6d89646de 159-164
-  s_dee56432316ff2::t_33a5966bd9bfb1 305-342,344-400,402-602
-  s_dee56432316ff2::t_06540ddef8d1d8 401
-  s_dee56432316ff2::t_45035108d8c507 270-273
-  s_dee56432316ff2::t_0185a7d4f92f34 343
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.10",
-  "base_commit_sha": "ca293ee5be113ed8ff1cb4f7a5357b81cb49fdd8",
+  "base_commit_sha": "85265a240de64ec556b3d8e047b176c0e73370f7",
   "prompts": {},
   "sessions": {
     "s_dee56432316ff2": {
