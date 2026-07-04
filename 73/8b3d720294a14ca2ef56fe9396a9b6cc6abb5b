@@ -1,0 +1,26 @@
+.agents/skills/check-coverage-rust/measure.sh
+  s_a464b688cb76de::t_5964a306ec6af5 172
+  s_a464b688cb76de::t_7bf69ed0cea195 158-166,168-171,173-177
+  s_a464b688cb76de::t_9a629bfc825fe9 167,178
+.agents/skills/check-coverage-rust/SKILL.md
+  s_a464b688cb76de::t_19c19e35deb378 153-156
+  s_a464b688cb76de::t_7efd5160509fdf 136-138
+  s_a464b688cb76de::t_761881de1694bc 198-213
+  s_a464b688cb76de::t_f99b676060fdfb 231-234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "738b3d720294a14ca2ef56fe9396a9b6cc6abb5b",
+  "prompts": {},
+  "sessions": {
+    "s_a464b688cb76de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10f79a89-a49c-4a99-bdec-dd864a27143b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
