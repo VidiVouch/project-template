@@ -1,0 +1,55 @@
+schemas/vidi-json-v4.schema.json
+  s_dee56432316ff2::t_cce08fcf2e5284 1-4,6-418
+  s_dee56432316ff2::t_a7de029c15d632 5
+schemas/examples/report-off-axis-minimal.json
+  s_dee56432316ff2::t_5f155342931ec3 1-34
+crates/vidi-core/tests/wu11_records.rs
+  s_dee56432316ff2::t_a6423410bdd719 1-257
+  s_dee56432316ff2::t_fd4fc495aad26b 258-259
+schemas/interop/conformance/conformance-1-current-v4.0.json
+  s_dee56432316ff2::t_ae477505437ed3 1-123
+schemas/interop/conformance/conformance-4-major-ahead.json
+  s_dee56432316ff2::t_0a555224b1f1c5 1-27
+schemas/examples/report-on-axis.json
+  s_dee56432316ff2::t_61d685f0a25e53 1-65
+schemas/interop/conformance/conformance-2-minor-extra-field.json
+  s_dee56432316ff2::t_339be1d39e6aff 1-38
+crates/vidi-core/tests/wu11_conformance.rs
+  s_dee56432316ff2::t_ff3c89fa8f66b2 241-269
+  s_dee56432316ff2::t_2a16aa040e7daa 270-287
+  s_dee56432316ff2::t_83ea8bbb4bb940 1-4,11-107,110-113,115-128,130-211,220-240,288-297
+  s_dee56432316ff2::t_20622a369074b1 5-10
+  s_dee56432316ff2::t_4ed2eec0591af7 108-109
+  s_dee56432316ff2::t_522535c747e450 212-219
+  s_dee56432316ff2::t_7ac97938b79202 114
+  s_dee56432316ff2::t_112302f4f0f855 129
+crates/vidi-core/tests/wu11_digestset.rs
+  s_dee56432316ff2::t_ffd11dece10099 43-45
+  s_dee56432316ff2::t_235b46d0a557d7 161-167
+  s_dee56432316ff2::t_df978f6496a9b5 2,6-42,46-160,168-177
+  s_dee56432316ff2::t_7e0d217e773589 1,3-5,178-180
+schemas/interop/conformance/conformance-3-minor-unknown-enum.json
+  s_dee56432316ff2::t_294d1fc91ecca6 1-38
+schemas/interop/content-id-vectors.json
+  s_dee56432316ff2::t_8f0a88073541ec 1-19
+schemas/interop/digestset-vectors.json
+  s_dee56432316ff2::t_65a60b86e4a589 1-28
+schemas/interop/record-vectors.json
+  s_dee56432316ff2::t_daa7f36d3565ce 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4b4c15760aa8cafce9ffa3487db7ce3633bb36cf",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
