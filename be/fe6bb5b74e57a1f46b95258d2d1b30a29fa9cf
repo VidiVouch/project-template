@@ -1,0 +1,19 @@
+.gitignore
+  s_542556136344d6::t_74fe49daadf62c 784-786
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "befe6bb5b74e57a1f46b95258d2d1b30a29fa9cf",
+  "prompts": {},
+  "sessions": {
+    "s_542556136344d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d79e2ce-7814-42e0-ac2e-764688411652",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@graze.ai>"
+    }
+  }
+}
