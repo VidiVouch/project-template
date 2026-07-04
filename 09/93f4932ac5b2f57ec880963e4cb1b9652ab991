@@ -1,0 +1,19 @@
+deny.toml
+  s_a464b688cb76de::t_f2a8aaeae84c6c 20-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0993f4932ac5b2f57ec880963e4cb1b9652ab991",
+  "prompts": {},
+  "sessions": {
+    "s_a464b688cb76de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10f79a89-a49c-4a99-bdec-dd864a27143b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
