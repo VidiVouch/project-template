@@ -1,0 +1,29 @@
+.agents/skills/check-coverage-rust/smoke.sh
+  s_549d7abd1e1cf3::t_922d94231aa239 1-153
+.agents/skills/check-coverage-rust/measure.sh
+  s_549d7abd1e1cf3::t_57b5a4b7d2487c 209-212
+  s_549d7abd1e1cf3::t_5daa0395fa02e6 339-340,345-346,348
+  s_549d7abd1e1cf3::t_6c5da4f23cce04 259-310
+  s_549d7abd1e1cf3::t_8d529221c628d0 378,384
+  s_549d7abd1e1cf3::t_5219eefa6c3d1c 312-314
+.agents/skills/check-coverage-rust/SKILL.md
+  s_549d7abd1e1cf3::t_d9445ca98a2b91 217-228
+  s_549d7abd1e1cf3::t_a300254b3a6b71 43-47
+  s_549d7abd1e1cf3::t_43a70d8715e99e 152-157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1f717f5c0e72b720c872ae7380270175ef995979",
+  "prompts": {},
+  "sessions": {
+    "s_549d7abd1e1cf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "692aea7e-733a-4f23-80ae-1d2334b00f92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
