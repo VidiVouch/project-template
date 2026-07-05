@@ -1,0 +1,35 @@
+.claude/commands/deep-review.md
+  s_af7456766cf9f2::t_bbac135fb47c93 305
+  s_af7456766cf9f2::t_2bec8990887519 178,180,182
+  s_af7456766cf9f2::t_04a1e799b118c4 9
+  s_af7456766cf9f2::t_15253c5782faf8 28-33
+  s_af7456766cf9f2::t_90d4cfaebafcdf 490-491
+  s_af7456766cf9f2::t_b65b43b48b6b0b 513
+  s_af7456766cf9f2::t_c57ca0fba23d3b 167
+  s_af7456766cf9f2::t_ee74057a5ba400 317,321
+  s_af7456766cf9f2::t_1d9d512e3c2d21 4
+  s_af7456766cf9f2::t_28e9c3dc5ee6b0 473
+.agents/skills/local-review/SKILL.md
+  s_af7456766cf9f2::t_3e5504e0d2faad 10
+README.md
+  s_af7456766cf9f2::t_abef5f7fccb0d4 163
+  s_af7456766cf9f2::t_48cda33c3ef70f 167
+.claude/loop.md
+  s_af7456766cf9f2::t_27338bb34b708a 152-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "35ceb7f6248153c7222a8499cf4a5fd26957a69b",
+  "prompts": {},
+  "sessions": {
+    "s_af7456766cf9f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2a57f194-f15d-4346-b677-c2c3fef8a654",
+        "model": "claude-fable-5"
+      },
+      "human_author": "perf <perf@greenfield.local>"
+    }
+  }
+}
