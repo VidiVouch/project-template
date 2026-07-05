@@ -1,0 +1,19 @@
+project-words.dic
+  s_af7456766cf9f2::t_6877d770d8960b 3-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e046df6304c96eaec28e237edb87c6c1926624bf",
+  "prompts": {},
+  "sessions": {
+    "s_af7456766cf9f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2a57f194-f15d-4346-b677-c2c3fef8a654",
+        "model": "claude-fable-5"
+      },
+      "human_author": "perf <perf@greenfield.local>"
+    }
+  }
+}
