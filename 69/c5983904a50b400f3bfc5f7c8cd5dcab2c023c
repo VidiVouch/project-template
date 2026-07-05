@@ -1,13 +1,13 @@
 crates/vidi-lang/src/registry.rs
-  s_549d7abd1e1cf3::t_e54f83f943a498 764-770
-  s_549d7abd1e1cf3::t_6f6ce48124c867 903-912
+  s_549d7abd1e1cf3::t_e54f83f943a498 764-770,780-786
+  s_549d7abd1e1cf3::t_6f6ce48124c867 903-912,919-928
 crates/vidi-lang/src/address.rs
   s_549d7abd1e1cf3::t_69788c8fbddf1b 31-75,77-79,81-83
 crates/vidi-lang/src/conformance.rs
   s_549d7abd1e1cf3::t_acfce1bf3fc7b3 370-373,390,401-411
   s_549d7abd1e1cf3::t_b088bc7c2a01c9 501
   s_549d7abd1e1cf3::t_cf5a6f5d97e529 460-463
-  s_549d7abd1e1cf3::t_e6d367c682c2fa 412,510-543
+  s_549d7abd1e1cf3::t_e6d367c682c2fa 412,510-543,542-565,655-664
   s_549d7abd1e1cf3::t_ff1e4a2085adcf 413
 ---
 {
