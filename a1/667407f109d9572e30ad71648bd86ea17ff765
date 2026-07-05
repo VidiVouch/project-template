@@ -1,0 +1,21 @@
+tests/hooks/test_enforce_uv.py
+  s_86bc0ea1929c3c::t_04c21aaaae3f6c 118-178
+.agents/hooks/enforce_uv.py
+  s_86bc0ea1929c3c::t_04c21aaaae3f6c 10-16,24-29,38,53-62,100-120,126-129,131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a1667407f109d9572e30ad71648bd86ea17ff765",
+  "prompts": {},
+  "sessions": {
+    "s_86bc0ea1929c3c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c0006f9c-3b58-42c3-9157-9b2909c5ba19",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
