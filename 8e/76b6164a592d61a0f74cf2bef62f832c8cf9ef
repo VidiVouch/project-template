@@ -1,0 +1,22 @@
+.claude/hooks/block-no-verify.test.sh
+  s_549d7abd1e1cf3::t_5413a773dee607 35-38
+  s_549d7abd1e1cf3::t_26c4ac5998b10a 62
+.claude/hooks/block-no-verify.sh
+  s_549d7abd1e1cf3::t_c0cdcb809d8689 40-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8e76b6164a592d61a0f74cf2bef62f832c8cf9ef",
+  "prompts": {},
+  "sessions": {
+    "s_549d7abd1e1cf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "692aea7e-733a-4f23-80ae-1d2334b00f92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
