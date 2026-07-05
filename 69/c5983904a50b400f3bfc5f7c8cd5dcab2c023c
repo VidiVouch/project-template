@@ -13,7 +13,7 @@ crates/vidi-lang/src/conformance.rs
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.10",
-  "base_commit_sha": "9aead4141bbfb210cdb2e4296ad42a515293132f",
+  "base_commit_sha": "69c5983904a50b400f3bfc5f7c8cd5dcab2c023c",
   "prompts": {},
   "sessions": {
     "s_549d7abd1e1cf3": {
