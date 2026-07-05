@@ -9,11 +9,13 @@ crates/vidi-lang/src/registry.rs
   s_549d7abd1e1cf3::t_bc2d08c4ff9e95 814,831,1117
   s_549d7abd1e1cf3::t_0a2ca81366338e 858-865,874,1187-1194,1213
   s_549d7abd1e1cf3::t_aa81a88e959681 857,1186
+  s_549d7abd1e1cf3::t_8d6a378b82e4bb 1012-1016
+  s_549d7abd1e1cf3::t_8070c13b9b6858 1096
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.10",
-  "base_commit_sha": "d5ce7ecfba18f28180715ed07274b6ee364639c9",
+  "base_commit_sha": "6c96438c294b12bdf8f45171d8a6970893dd0121",
   "prompts": {},
   "sessions": {
     "s_549d7abd1e1cf3": {
