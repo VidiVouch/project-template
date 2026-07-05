@@ -1,0 +1,31 @@
+.agents/hooks/enforce_uv.py
+  s_af7456766cf9f2::t_6d72ec20301d49 1-136
+.codex/hooks.json
+  s_af7456766cf9f2::t_93b0c3e37c93b7 2-15
+.idea/project-template.iml
+  s_af7456766cf9f2::t_ea2d78b69f287c 5
+PLUGINS.md
+  s_af7456766cf9f2::t_f05d3dfb05c5e7 29-41
+tests/hooks/conftest.py
+  s_af7456766cf9f2::t_be0dea1bbf7c12 1-46
+tests/hooks/test_enforce_uv.py
+  s_af7456766cf9f2::t_7492524d1b8dda 1-194
+.claude/settings.json
+  s_af7456766cf9f2::t_595f2fbe6b7a35 7,17-22,46-49,82-87,90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "00a841f4543b631f87c922a86387362b14a54239",
+  "prompts": {},
+  "sessions": {
+    "s_af7456766cf9f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2a57f194-f15d-4346-b677-c2c3fef8a654",
+        "model": "claude-fable-5"
+      },
+      "human_author": "perf <perf@greenfield.local>"
+    }
+  }
+}
