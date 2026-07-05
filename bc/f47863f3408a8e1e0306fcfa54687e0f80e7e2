@@ -1,0 +1,23 @@
+crates/vidi-core/examples/mint_trust_root.rs
+  s_549d7abd1e1cf3::t_d9342d0a9c56ab 35-60
+  s_549d7abd1e1cf3::t_c30fcccf213ff8 5
+  s_549d7abd1e1cf3::t_6db30813640083 130-131
+  s_549d7abd1e1cf3::t_1cb45249fe2946 1-4,6-34,61-129,132-173
+  s_549d7abd1e1cf3::t_d5c5fd19e47682 174-185
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bcf47863f3408a8e1e0306fcfa54687e0f80e7e2",
+  "prompts": {},
+  "sessions": {
+    "s_549d7abd1e1cf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "692aea7e-733a-4f23-80ae-1d2334b00f92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
