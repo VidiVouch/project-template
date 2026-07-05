@@ -4,17 +4,20 @@ crates/vidi-lang/src/conformance.rs
 crates/vidi-lang/src/address.rs
   s_549d7abd1e1cf3::t_1f9de9bcde3199 31-46,58-59,76-88,107-108
   s_549d7abd1e1cf3::t_e6d02f200e2b45 60,109
+  s_549d7abd1e1cf3::t_b604165a4de062 89-92
 crates/vidi-lang/src/registry.rs
   s_549d7abd1e1cf3::t_afd961a2814a91 974,992,1464
   s_549d7abd1e1cf3::t_5fc57e99a94321 130-132,160-162
   s_549d7abd1e1cf3::t_cd93a2a60d7f64 1029-1036,1047,1562-1563,1565-1569,1592
   s_549d7abd1e1cf3::t_9a06141eb5e835 818-930,932,947,1278-1390,1413
   s_549d7abd1e1cf3::t_c5591c600eec25 1028,1561
+  s_549d7abd1e1cf3::t_8a8f50deb5a32a 1440
+  s_549d7abd1e1cf3::t_a019a0cb578907 1564
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.10",
-  "base_commit_sha": "6e11fd402e96640cc12b52a03db731de48fa15a0",
+  "base_commit_sha": "56a7561793a4783dfc11c8a581dc8ca73ce30319",
   "prompts": {},
   "sessions": {
     "s_549d7abd1e1cf3": {
