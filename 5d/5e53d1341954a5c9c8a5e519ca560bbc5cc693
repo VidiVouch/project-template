@@ -1,0 +1,51 @@
+crates/vidi-cli/tests/cli.rs
+  s_dee56432316ff2::t_a3468a956a5881 125
+  s_dee56432316ff2::t_ec277046c79544 121
+crates/vidi-graph/src/lib.rs
+  s_dee56432316ff2::t_a3468a956a5881 24
+schemas/interop/conformance/conformance-2-minor-extra-field.json
+  s_dee56432316ff2::t_a3468a956a5881 4-5,7,36
+crates/vidi-cli/src/commands.rs
+  s_dee56432316ff2::t_a3468a956a5881 62,94,96,101,235,237,245
+crates/vidi-core/tests/wu11_digestset.rs
+  s_dee56432316ff2::t_a3468a956a5881 145,176
+  s_dee56432316ff2::t_ec277046c79544 177
+schemas/interop/conformance/conformance-3-minor-unknown-enum.json
+  s_dee56432316ff2::t_a3468a956a5881 4-5,8
+crates/vidi-core/tests/wu11_conformance.rs
+  s_dee56432316ff2::t_ec277046c79544 268,277
+  s_dee56432316ff2::t_a3468a956a5881 3,5,23,193,213,216,245,248,259,263-264,267,272,285,289,315,318,338,354,369,374-375,397
+  s_dee56432316ff2::t_ad1c8dc84ce8bc 20
+  s_dee56432316ff2::t_51eda4754da128 244
+crates/vidi-graph/src/significance.rs
+  s_dee56432316ff2::t_a3468a956a5881 6
+crates/vidi-cli/src/cli.rs
+  s_dee56432316ff2::t_a3468a956a5881 116
+schemas/examples/report-off-axis-minimal.json
+  s_dee56432316ff2::t_a3468a956a5881 2
+schemas/vidi-json-v1.schema.json
+  s_dee56432316ff2::t_a3468a956a5881 1-418
+schemas/interop/conformance/conformance-1-current-v1.0.json
+  s_dee56432316ff2::t_a3468a956a5881 1-123
+schemas/interop/conformance/conformance-4-major-ahead.json
+  s_dee56432316ff2::t_51eda4754da128 4
+  s_dee56432316ff2::t_a3468a956a5881 5,7
+schemas/examples/report-on-axis.json
+  s_dee56432316ff2::t_a3468a956a5881 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "962c4985b67e925811a4a01a4ec595ef8f4d9362",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
