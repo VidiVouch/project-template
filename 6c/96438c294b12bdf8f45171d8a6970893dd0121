@@ -1,14 +1,14 @@
 crates/vidi-lang/src/engine.rs
   s_549d7abd1e1cf3::t_907e420238dd95 157-170,175-181
 crates/vidi-lang/src/conformance.rs
-  s_549d7abd1e1cf3::t_183203b9685c00 341-382
+  s_549d7abd1e1cf3::t_183203b9685c00 341-382,495-536
 crates/vidi-lang/src/registry.rs
-  s_549d7abd1e1cf3::t_6ca3c556a75b5f 138-140
-  s_549d7abd1e1cf3::t_787f560aba539c 711-771,773,787
-  s_549d7abd1e1cf3::t_eac8dea1939e75 77-87,96
-  s_549d7abd1e1cf3::t_bc2d08c4ff9e95 814,831
-  s_549d7abd1e1cf3::t_0a2ca81366338e 858-865,874
-  s_549d7abd1e1cf3::t_aa81a88e959681 857
+  s_549d7abd1e1cf3::t_6ca3c556a75b5f 138-140,151-153
+  s_549d7abd1e1cf3::t_787f560aba539c 711-771,773,787,984-1011,1017-1049,1069
+  s_549d7abd1e1cf3::t_eac8dea1939e75 77-87,77-80,95,96
+  s_549d7abd1e1cf3::t_bc2d08c4ff9e95 814,831,1117
+  s_549d7abd1e1cf3::t_0a2ca81366338e 858-865,874,1187-1194,1213
+  s_549d7abd1e1cf3::t_aa81a88e959681 857,1186
 ---
 {
   "schema_version": "authorship/3.0.0",
