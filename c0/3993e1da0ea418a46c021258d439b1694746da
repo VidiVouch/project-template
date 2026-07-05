@@ -1,0 +1,21 @@
+editors/vscode/src/test/scripts/field-coverage-cli.ts
+  s_268237d5f3cacc::t_810dda9b64547f 6-10,25-27,29-32
+editors/vscode/package.json
+  s_268237d5f3cacc::t_7601570aa1a250 90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c03993e1da0ea418a46c021258d439b1694746da",
+  "prompts": {},
+  "sessions": {
+    "s_268237d5f3cacc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ac09d61a-7ce3-4dee-8364-323e4bb27ba0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
