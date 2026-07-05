@@ -1,0 +1,25 @@
+crates/vidi-interop/src/ramp.rs
+  s_268237d5f3cacc::t_71fe857a7ee207 367
+  s_268237d5f3cacc::t_801ff1d094f13d 587
+  s_268237d5f3cacc::t_c9bf60773888ce 585-586,588
+  s_268237d5f3cacc::t_fa551aa9cdbde1 15,24-29
+  s_268237d5f3cacc::t_ba50e7c2bb9997 495-500
+schemas/brand/status-ramp.tokens.json
+  s_268237d5f3cacc::t_a6080225058d4c 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "55a43e373e81acfd682d3f17fc68c53348d104f1",
+  "prompts": {},
+  "sessions": {
+    "s_268237d5f3cacc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ac09d61a-7ce3-4dee-8364-323e4bb27ba0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
