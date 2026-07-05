@@ -1,0 +1,45 @@
+crates/vidi-interop/src/ramp.rs
+  s_268237d5f3cacc::t_abd28ef8764644 1-2,5-7,9,13-31,33,36,49-54
+  s_268237d5f3cacc::t_f7a17bd1e33c74 158-467,470,738
+  s_268237d5f3cacc::t_f6f6c728cdf69f 468-469
+  s_268237d5f3cacc::t_ea4a7d568d379e 667-737
+  s_268237d5f3cacc::t_67089a2a1d617e 55-57
+  s_268237d5f3cacc::t_1f2ac723aec753 471-473
+  s_268237d5f3cacc::t_f42b7e4cbe8bbd 739-741
+  s_268237d5f3cacc::t_1f7e7874647ac2 58,474-479,484-487,742-758
+crates/vidi-interop/src/conformance.rs
+  s_268237d5f3cacc::t_f6daaba56a8d88 505-514,516
+  s_268237d5f3cacc::t_de7a36d521163c 184-225,238-240
+  s_268237d5f3cacc::t_6f8d2887a0237d 241
+  s_268237d5f3cacc::t_c41b48adb0c042 515
+  s_268237d5f3cacc::t_15f948fdbfbb97 517
+  s_268237d5f3cacc::t_d2308e7f7e7e9d 243,245
+crates/vidi-interop/src/lib.rs
+  s_268237d5f3cacc::t_85e177df3a7a85 13-17,23-25,27-29
+schemas/brand/status-ramp.tokens.json
+  s_268237d5f3cacc::t_72ad241b9a67e1 6-9
+schemas/interop/field-manifest.v1.json
+  s_268237d5f3cacc::t_fc5fe73a0f4c8d 1-77
+crates/vidi-interop/Cargo.toml
+  s_268237d5f3cacc::t_039a6517a468e2 22-28
+crates/vidi-interop/src/gen_artifacts.rs
+  s_268237d5f3cacc::t_ed840b00559a2f 1-38
+schemas/brand/README.md
+  s_268237d5f3cacc::t_65fcfbc251de81 12,17-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c42b9ad24c4ecb256a1c0943423a59ab1d45ebbb",
+  "prompts": {},
+  "sessions": {
+    "s_268237d5f3cacc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ac09d61a-7ce3-4dee-8364-323e4bb27ba0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
