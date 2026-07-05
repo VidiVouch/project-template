@@ -1,0 +1,22 @@
+.claude/settings.json
+  s_af7456766cf9f2::t_9b66fc459f5bb5 10
+  s_af7456766cf9f2::t_70cf5ba66f79ff 82
+.mcp.json
+  s_af7456766cf9f2::t_4bd504fb9f8711 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "959866c3baa1eb600224c8401b7cdd5a639acde1",
+  "prompts": {},
+  "sessions": {
+    "s_af7456766cf9f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2a57f194-f15d-4346-b677-c2c3fef8a654",
+        "model": "claude-fable-5"
+      },
+      "human_author": "perf <perf@greenfield.local>"
+    }
+  }
+}
