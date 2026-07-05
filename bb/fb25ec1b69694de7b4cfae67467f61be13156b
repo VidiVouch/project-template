@@ -1,0 +1,27 @@
+crates/vidi-lang/src/conformance.rs
+  s_549d7abd1e1cf3::t_31881498f13e1b 341-377
+crates/vidi-lang/src/registry.rs
+  s_549d7abd1e1cf3::t_dfc6138951055b 700-759,761,775
+  s_549d7abd1e1cf3::t_481c3fceab48fe 846-855,864-865
+  s_549d7abd1e1cf3::t_758d26f77647b0 127-129
+  s_549d7abd1e1cf3::t_9c75554fbfb0a8 802,819
+  s_549d7abd1e1cf3::t_a6613a92c418c4 845
+crates/vidi-lang/src/address.rs
+  s_549d7abd1e1cf3::t_7a4bf3d6a833f6 52-64,67-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bbfb25ec1b69694de7b4cfae67467f61be13156b",
+  "prompts": {},
+  "sessions": {
+    "s_549d7abd1e1cf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "692aea7e-733a-4f23-80ae-1d2334b00f92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
