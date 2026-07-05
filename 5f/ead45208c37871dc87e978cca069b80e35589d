@@ -1,0 +1,26 @@
+README.md
+  s_af7456766cf9f2::t_1089d7cbcbfc80 71
+  s_af7456766cf9f2::t_539c6d41990cd6 66
+.agents/skills/local-review/SKILL.md
+  s_af7456766cf9f2::t_879f9f560897df 10
+.claude/commands/deep-review.md
+  s_af7456766cf9f2::t_d2c53ce7a87dcf 4,9,28-33,167,178,180,182,305,317,321,473,490-491,513
+.claude/loop.md
+  s_af7456766cf9f2::t_4ac121762a6af6 152-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5fead45208c37871dc87e978cca069b80e35589d",
+  "prompts": {},
+  "sessions": {
+    "s_af7456766cf9f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2a57f194-f15d-4346-b677-c2c3fef8a654",
+        "model": "claude-fable-5"
+      },
+      "human_author": "perf <perf@greenfield.local>"
+    }
+  }
+}
