@@ -1,0 +1,67 @@
+.claude/skills/deep-review/reviewers/codex-adversarial.md
+  s_9168805e8f08b7::t_0805e51a925b9a 1-49
+.claude/skills/deep-review/reviewers/claude-bugs.md
+  s_9168805e8f08b7::t_0805e51a925b9a 1-40
+.claude/agents/fixer.md
+  s_9168805e8f08b7::t_bb0c08e9257fae 1-38
+.claude/skills/deep-review/deep-review.workflow.js
+  s_9168805e8f08b7::t_4bc0d7f80c53e7 3,5-7,9-10,16-22,29-31,33-34,36-38,49,51-53,58-60,91,93,95-109,118,132,134,145-151,204,208,210-226,242-254,256-258,262-303,305-306,308,310-311,314,320,331,335-336,351-359,362-363,366,371,376-379,381-386,396
+  s_9168805e8f08b7::t_0805e51a925b9a 1-2,4,8,11-15,23-28,32,35,39-48,50,54-57,61-90,92,94,110-117,119-131,133,135-144,152-203,205-207,209,227-241,255,259-261,304,307,309,312-313,315-319,321-330,332-334,337-350,360-361,364-365,367-370,372-375,380,387-395,397-400
+.claude/skills/deep-review/reviewers/codex-native.md
+  s_9168805e8f08b7::t_0805e51a925b9a 1-5,7-14,16-44
+  s_9168805e8f08b7::t_7de9ec8bf0980d 6,15
+.claude/settings.json
+  s_9168805e8f08b7::t_12277d82930a2f 67-69
+  s_9168805e8f08b7::t_fd339c20488c79 121-123
+  s_c6f145fe694f89::t_f589c1536dc2b2 57
+.claude/skills/deep-review/reviewers/claude-conventions.md
+  s_9168805e8f08b7::t_0805e51a925b9a 1-43
+.claude/skills/deep-review/reviewers/cubic.md
+  s_9168805e8f08b7::t_0805e51a925b9a 1-52
+.claude/skills/deep-review/SKILL.md
+  s_9168805e8f08b7::t_6a05e7fafbe703 66-74
+  s_9168805e8f08b7::t_3b3bca3739bef1 342-347
+  s_9168805e8f08b7::t_76b4d1a4372add 260,262-270,280,282,284
+  s_9168805e8f08b7::t_4abd837f24b6e4 360-380
+  s_9168805e8f08b7::t_12a9b0be3a9424 232-237
+  s_9168805e8f08b7::t_0805e51a925b9a 1,5-34,36-65,75-200,218-231,238-259,261,271-279,281,283,285-297,300-302,307-341,348-359,381-425,441
+  s_9168805e8f08b7::t_7de61f9fd4c237 35
+  s_9168805e8f08b7::t_3529af31e3c421 201-217
+  s_9168805e8f08b7::t_c610a40b06b359 426-440
+  s_9168805e8f08b7::t_f4cdd2e86e007d 298-299,303-306
+  s_9168805e8f08b7::t_cbdb458f58724f 2-4
+pyproject.toml
+  s_9168805e8f08b7::t_470941c520e338 182,184
+  s_9168805e8f08b7::t_f807cf121d24dd 183,185
+  s_9168805e8f08b7::t_90e5bff0396799 63-64,67
+  s_9168805e8f08b7::t_3c01578a075cc4 65-66,68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cffd77a0cc7cb43809faced6962227c5c1db7277",
+  "prompts": {},
+  "humans": {
+    "h_ec9f7a7421a0ad": {
+      "author": "Tom Price <tom@vidi.sh>"
+    }
+  },
+  "sessions": {
+    "s_9168805e8f08b7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8ba872a-daa5-4c0a-b64d-548f0ec438df",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    },
+    "s_c6f145fe694f89": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c511f52e-e939-44d6-878d-08dbec17bf68",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
