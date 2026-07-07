@@ -14,6 +14,7 @@ crates/vidi-core/src/report/mod.rs
 crates/vidi-cli/Cargo.toml
   s_ebe6ed5da5511c::t_820a39401fe3b8 52-53,56
   s_ebe6ed5da5511c::t_b7807996191417 30-36,42-45,49-51,54-55,57
+  s_f3a39bcec77f0e::t_0ccee100b95688 46-47,58
 crates/vidi-core/src/policy/gate.rs
   s_ebe6ed5da5511c::t_e924e4cb98b193 171-273
 crates/vidi-core/src/policy/globs.rs
@@ -42,6 +43,14 @@ crates/vidi-cli/tests/cli.rs
       "agent_id": {
         "tool": "claude",
         "id": "81a5e0cc-3a15-483d-b939-149e0a6ac495",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_f3a39bcec77f0e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "074fdf60-9f4a-40f9-a6cd-60f09bc21e69",
         "model": "claude-fable-5"
       },
       "human_author": "Tom Price <tom@tomprice.ca>"
