@@ -1,0 +1,24 @@
+AGENTS.md
+  s_4a1130229bc742::t_9fd068d86cd44b 18-25
+deny.toml
+  s_4a1130229bc742::t_3af3226ee0927b 1-26,30-44
+  s_4a1130229bc742::t_5099baec88bc12 27-29
+.github/workflows/audit.yml
+  s_4a1130229bc742::t_643e8175477bb1 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e32077059a63d1fec2591bd55842654201198f1b",
+  "prompts": {},
+  "sessions": {
+    "s_4a1130229bc742": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14a0dc49-8548-4ea7-b429-be8f1129a68b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
