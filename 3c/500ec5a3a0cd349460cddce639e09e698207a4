@@ -1,0 +1,19 @@
+README.md
+  s_005fe2a112e4e9::t_95a3c284f7115a 107-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3c500ec5a3a0cd349460cddce639e09e698207a4",
+  "prompts": {},
+  "sessions": {
+    "s_005fe2a112e4e9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b7f57092-cc3d-4999-ba0e-99d8a9d2b066",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
