@@ -1,0 +1,14 @@
+.github/workflows/lint.yml
+  h_ec9f7a7421a0ad 16,40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1d08feb52390443e2c809cb1d05ca9e9b6852d2c",
+  "prompts": {},
+  "humans": {
+    "h_ec9f7a7421a0ad": {
+      "author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
