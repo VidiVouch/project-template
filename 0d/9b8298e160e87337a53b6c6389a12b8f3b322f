@@ -1,0 +1,26 @@
+deny.toml
+  s_4a1130229bc742::t_60e9a14eca191e 2-7
+.github/workflows/audit.yml
+  s_4a1130229bc742::t_04528e11d5cefb 2-23
+  s_4a1130229bc742::t_a70b101dc7a97e 1
+AGENTS.md
+  s_4a1130229bc742::t_519528fccab475 18-25
+Cargo.lock
+  s_4a1130229bc742::t_0d5fb3f8e74b96 262,264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c902a4d9b7c6b0638df76cbc518794388fae68fe",
+  "prompts": {},
+  "sessions": {
+    "s_4a1130229bc742": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14a0dc49-8548-4ea7-b429-be8f1129a68b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

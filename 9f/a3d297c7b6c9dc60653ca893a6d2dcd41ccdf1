@@ -1,0 +1,37 @@
+crates/vidi-py/src/lib.rs
+  s_549d7abd1e1cf3::t_7b13c4e675b797 24-28
+  s_549d7abd1e1cf3::t_7a8ff0991d2eb9 41
+  s_549d7abd1e1cf3::t_0d516fba6e04b7 190
+  s_549d7abd1e1cf3::t_e3f61df6d379fc 242-247
+  s_549d7abd1e1cf3::t_425d4718502e4a 116-127
+crates/vidi-core/tests/panic_profile_tripwire.rs
+  s_549d7abd1e1cf3::t_0f9c503c619949 13-18
+crates/vidi-py/tests/test_bridge_conformance.py
+  s_549d7abd1e1cf3::t_b8f023e4a15736 28-34,36-39
+  s_549d7abd1e1cf3::t_20bc00acfc54a9 87
+crates/vidi-core/tests/py_bridge_vectors.rs
+  s_549d7abd1e1cf3::t_6a5178a5733f58 27
+  s_549d7abd1e1cf3::t_b4aaea566ca410 91-94,96,103,118-120
+  s_549d7abd1e1cf3::t_9404789f994dd5 229-247
+  s_549d7abd1e1cf3::t_8eadfcf08c814a 275-276
+  s_549d7abd1e1cf3::t_50a9964efdf628 369-398
+  s_549d7abd1e1cf3::t_dfc37b80e2e477 121-122
+schemas/interop/py-bridge-vectors.json
+  s_549d7abd1e1cf3::t_bde2e60e7bfbbe 97-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b453b97a8ca33b52ef9c3240e8e472a5be1365a5",
+  "prompts": {},
+  "sessions": {
+    "s_549d7abd1e1cf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "692aea7e-733a-4f23-80ae-1d2334b00f92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
