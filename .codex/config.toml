@@ -3,5 +3,12 @@ approval_policy = "on-request"
 [features]
 codex_hooks = true
 
+[marketplaces.vidi]
+source_type = "git"
+source = "https://github.com/VidiVouch/vidi-plugins.git"
+
+[plugins."vidi-skills@vidi"]
+enabled = true
+
 [shell_environment_policy]
 inherit = "core"

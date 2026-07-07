@@ -26,3 +26,14 @@ Delegate tasks, code reviews, and bug investigations to Codex from within Claude
   /codex:status                         # Check background job status
   /codex:setup                          # Verify Codex readiness
   ```
+
+## vidi-skills - Vidi AI Development Skills
+
+Shared Vidi workflow skills for AI-driven development, reviews, reports, and
+attestation-oriented project work.
+
+- **Plugin**: `vidi-skills@vidi`
+- **Marketplace**: `VidiVouch/vidi-plugins` (GitHub)
+- **Claude Code**: Enabled by default in `.claude/settings.json`
+- **Codex**: Enabled by default in `.codex/config.toml` from the Git
+  marketplace `https://github.com/VidiVouch/vidi-plugins.git`

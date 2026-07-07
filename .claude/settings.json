@@ -5,7 +5,8 @@
   },
   "enabledPlugins": {
     "codex@openai-codex": true,
-    "context7@claude-plugins-official": true
+    "context7@claude-plugins-official": true,
+    "vidi-skills@vidi": true
   },
   "env": {
     "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
@@ -14,6 +15,12 @@
     "openai-codex": {
       "source": {
         "repo": "openai/codex-plugin-cc",
+        "source": "github"
+      }
+    },
+    "vidi": {
+      "source": {
+        "repo": "VidiVouch/vidi-plugins",
         "source": "github"
       }
     }
