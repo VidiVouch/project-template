@@ -160,11 +160,21 @@ Ruff formats on save and organizes imports automatically via `codeActionsOnSave`
 
 ## Code Review
 
-Orchestrated multi-tool code review via Claude Code commands. Reviews combine findings from Codex and Claude agents, then synthesize into a single deduplicated report.
+Orchestrated code review is provided by the Vidi skills plugin
+(`vidi-skills@vidi` — see `PLUGINS.md`). The repo no longer carries its own
+reviewer skill bodies or reviewer prompt definitions; `deep-review`,
+`local-review`, `check-coverage`, and the `codex-*` reviewer helpers are loaded
+from the plugin in both Claude Code and Codex.
+
+Reviews combine findings from the configured Vidi plugin reviewers, then
+synthesize them into a single deduplicated report.
 
 ### `/deep-review`
 
-Runs pre-flight CI checks, launches up to 4 parallel reviewers, then synthesises findings with REVIEW.md-aware false positive filtering.
+Runs pre-flight CI checks, launches the Vidi plugin reviewer set, then
+synthesises findings with REVIEW.md-aware false positive filtering. The
+orchestration, reviewer prompts, and output-parsing specs live in the
+`vidi-skills@vidi` plugin rather than this repository.
 
 ```bash
 /deep-review --base main                    # review branch vs main
@@ -181,15 +191,13 @@ Runs pre-flight CI checks, launches up to 4 parallel reviewers, then synthesises
 
 1. **Diff-hash dedup** — skips if diff unchanged since last review
 2. **Pre-flight CI** — by default runs `uv lock`, `uv run ruff check --fix`, `uv run ruff format .`, `uv run basedpyright` (auto-fixing in place). With `--nofix`, runs the check-only variants and stops at the first failure.
-3. **Parallel reviews** (all as background agents):
-   - Codex standard (via `codex exec review --json`)
-   - Codex adversarial (via the Codex plugin's `codex-companion.mjs adversarial-review`)
-   - Claude opus bug scanner
-   - Claude sonnet convention compliance
+3. **Parallel reviews** — run the reviewer lanes configured by the
+   `vidi-skills@vidi` plugin, including Codex-backed reviewers when available
 4. **Synthesis** — collect, deduplicate, validate against REVIEW.md skip list
 5. **Output** — categorized table (critical/warning/nit/dismissed)
 
-Tools that aren't installed are skipped gracefully. Claude agents always run.
+Tools that aren't installed are skipped gracefully according to the plugin's
+reviewer configuration.
 
 ### `/local-review`
 
