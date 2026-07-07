@@ -1,0 +1,23 @@
+# Scheduled RustSec advisory audit. Advisories are environmental (a function of
+# the live RustSec DB, not the code), so they run here — never as a local or
+# agent-session gate. See deny.toml header and AGENTS.md "Dependency policy".
+name: audit
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  push:
+    paths:
+      - "**/Cargo.toml"
+      - "Cargo.lock"
+      - "deny.toml"
+      - ".github/workflows/audit.yml"
+  workflow_dispatch:
+
+jobs:
+  cargo-deny:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: EmbarkStudios/cargo-deny-action@v2
+        with:
+          command: check advisories bans licenses sources

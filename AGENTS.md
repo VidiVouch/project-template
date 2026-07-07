@@ -27,6 +27,14 @@ Pre-production, no users. Prefer the best design over backwards compatibility. D
 - **Tests**: `cargo test` (single test: `cargo test <name> -- --nocapture`)
 - **Lint**: `cargo clippy --all-targets --all-features` (must be clean)
 - **Format**: `cargo fmt` (check-only: `cargo fmt --check`)
+- **Dependency policy**: `cargo deny check bans licenses sources` — these are
+  deterministic functions of the code. **Never run the `advisories` check (or
+  bare `cargo deny check`, which includes it) in a session**: it consults the
+  live RustSec DB, so a new overnight advisory fails it with zero code change.
+  Advisories are environmental and handled by scheduled CI
+  (`.github/workflows/audit.yml`). If one surfaces anyway, do not let it block,
+  downgrade, or sidetrack the unit of work — mention it in the report and move
+  on; the fix is a routine `cargo update -p <crate>` done separately.
 
 ## Code Standards
 

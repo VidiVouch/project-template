@@ -1,0 +1,44 @@
+# cargo-deny configuration — https://embarkstudios.github.io/cargo-deny/
+# Local/agent runs: cargo deny check bans licenses sources
+#
+# Do NOT run the `advisories` check (or bare `cargo deny check`, which includes
+# it) as a session gate: it consults the live RustSec DB, so a new overnight
+# advisory fails it with zero code change and derails the session. Advisories
+# are environmental — scheduled CI's job (.github/workflows/audit.yml).
+
+[advisories]
+# RustSec advisory DB. Vulnerabilities, unmaintained, and yanked crates are
+# denied by default; add IDs (with a reason) here to make a considered exception.
+ignore = []
+
+[licenses]
+# Permissive licenses allowed for dependencies. Extend as real deps land.
+allow = [
+    "MIT",
+    "Apache-2.0",
+    "Apache-2.0 WITH LLVM-exception",
+    "BSD-2-Clause",
+    "BSD-3-Clause",
+    "ISC",
+    "Unicode-3.0",
+    "Zlib",
+]
+confidence-threshold = 0.8
+# The starter allow-list is broader than the starter dep tree; don't warn
+# about allowances no dep uses yet.
+unused-allowed-license = "allow"
+
+[licenses.private]
+# The project itself is unpublished (publish = false), so its own license
+# check is skipped while the license is TBD.
+ignore = true
+
+[bans]
+multiple-versions = "warn"
+wildcards = "deny"           # no `*` version requirements from crates.io …
+allow-wildcard-paths = true  # … but internal path deps are fine
+
+[sources]
+unknown-registry = "deny"
+unknown-git = "deny"
+allow-registry = ["https://github.com/rust-lang/crates.io-index"]
