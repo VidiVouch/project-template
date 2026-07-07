@@ -1,0 +1,30 @@
+.claude/settings.json
+  s_79e5f4cf5768f7::t_465e4b4bf2b686 10-11,28-31
+  s_4c86fe84aae704::t_f336b7c8dc8fb6 32-33
+PLUGINS.md
+  s_79e5f4cf5768f7::t_a43882ca8dd454 30-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3c2c0605cc31dfab8a4244d75976de8c28ae6799",
+  "prompts": {},
+  "sessions": {
+    "s_4c86fe84aae704": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ac82f7a1-7ba3-4b86-87d0-37a7182168e5",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    },
+    "s_79e5f4cf5768f7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3e1e-a244-7920-9f6c-a19d2fb4bfc6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
