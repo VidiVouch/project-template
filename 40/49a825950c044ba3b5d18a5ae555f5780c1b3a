@@ -1,0 +1,49 @@
+crates/vidi-cli/src/notary_client.rs
+  s_0dad1f9ccee343::t_d1364b49ddfb84 200-202
+  s_0dad1f9ccee343::t_b015139292e554 133
+  s_0dad1f9ccee343::t_14c727ad5904db 6-7
+  s_f91db2fc791a4d::t_c2566737f5e05e 466,520,539
+  s_f91db2fc791a4d::t_a513ec09cbeb91 246,383-385,395-396,418
+  s_f91db2fc791a4d::t_2b9c6143a1c0ba 1-5,8-25,27,29-56,58,60-72,74-78,85-101,110-111,113-127,129-130,138-197,199,203-209,214-226,229-245,247-382,397-417,419-449,459-465,469-482,486,488-500,504-516,518-519,523-535,537-538,542-564,586,590-607,611,613-623,627-635
+  s_f91db2fc791a4d::t_910dd7b052db5c 210-213,227-228
+  s_f91db2fc791a4d::t_10ecf69b72de49 73
+  s_f91db2fc791a4d::t_4d69734a8d055c 131,134-137
+  s_0dad1f9ccee343::t_ff1eeec4c108f1 388-390,487,565-585,612
+  s_f91db2fc791a4d::t_ebb47e1007b54f 467-468,483-485,501-503,517,521-522,536,540-541,587-589,608-610,624-626
+  s_0dad1f9ccee343::t_0309d518c224bb 26,28,57,59,79-84,102-109,112,128,132,198,386-387,391-394,450-458
+crates/vidi-cli/src/main.rs
+  s_f91db2fc791a4d::t_2b9c6143a1c0ba 16
+crates/vidi-cli/src/sign.rs
+  s_f91db2fc791a4d::t_2b9c6143a1c0ba 95-96
+  s_0dad1f9ccee343::t_7d33b4dbc27d94 54,102
+crates/vidi-core/src/crypto/entrypoint.rs
+  s_f91db2fc791a4d::t_2b9c6143a1c0ba 18-19,30-31,49-50
+crates/vidi-cli/Cargo.toml
+  s_f91db2fc791a4d::t_2b9c6143a1c0ba 34-39
+Cargo.lock
+  s_f91db2fc791a4d::t_5f0f6b710713be 50,61,82-87,338-348,398,431-439,496-598,639-650,678-683,739-747,965-978,1004-1039,1161-1166,1196-1206,1223-1233,1533-1571,1589-1592,1679-1696,1703-1711,1721-1784,1797-1825,1846-1866,1873-1905
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4049a825950c044ba3b5d18a5ae555f5780c1b3a",
+  "prompts": {},
+  "sessions": {
+    "s_0dad1f9ccee343": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3b9d-2781-7313-bff0-b823452d0574",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_f91db2fc791a4d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3b8a-a174-7572-af79-bd48e1de90f0",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
