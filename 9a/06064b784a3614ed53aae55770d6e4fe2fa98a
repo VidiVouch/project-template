@@ -1,7 +1,17 @@
 ---
 {
   "schema_version": "authorship/3.0.0",
-  "git_ai_version": "1.6.8",
+  "git_ai_version": "1.6.10",
   "base_commit_sha": "9a06064b784a3614ed53aae55770d6e4fe2fa98a",
-  "prompts": {}
+  "prompts": {},
+  "sessions": {
+    "s_474fca05151d03": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3eb2-c68a-7d32-84fc-3b76485870e8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
 }
