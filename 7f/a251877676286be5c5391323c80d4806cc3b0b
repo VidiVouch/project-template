@@ -1,0 +1,21 @@
+.claude/agents/fixer.md
+  s_8fb9623ecacf13::t_fc711a6c1cffce 1-38
+.claude/settings.json
+  s_8fb9623ecacf13::t_cf93aebb369944 64,74-76,128-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7fa251877676286be5c5391323c80d4806cc3b0b",
+  "prompts": {},
+  "sessions": {
+    "s_8fb9623ecacf13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f931446-0816-4e3e-b506-a0b0f76a8a67",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
