@@ -112,5 +112,6 @@
     ],
     "deny": []
   },
-  "spinnerTipsEnabled": false
+  "spinnerTipsEnabled": false,
+  "teammateMode": "auto"
 }
