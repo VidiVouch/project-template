@@ -1,0 +1,24 @@
+crates/vidi-core/src/ledger/codec.rs
+  s_20177da02186b9::t_4f3b4062f37c7f 239-240,254-256
+  s_20177da02186b9::t_5953f568a20c5b 51-55
+  s_20177da02186b9::t_2a8aae9bb4a02d 468-475
+  s_20177da02186b9::t_d45ea889a6b3bb 85-93
+  s_20177da02186b9::t_5d1cf09df26adf 195
+  s_20177da02186b9::t_ac2648b4f84352 204-208,220
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f6e0529873db2ce4fd322efd47519ceb328f8250",
+  "prompts": {},
+  "sessions": {
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
