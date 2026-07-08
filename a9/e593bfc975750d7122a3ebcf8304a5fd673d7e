@@ -1,0 +1,24 @@
+.codex/config.toml
+  s_4ede0a4ce2f46b::t_927de642ea9a0d 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a9e593bfc975750d7122a3ebcf8304a5fd673d7e",
+  "prompts": {},
+  "humans": {
+    "h_ec9f7a7421a0ad": {
+      "author": "Tom Price <tom@vidi.sh>"
+    }
+  },
+  "sessions": {
+    "s_4ede0a4ce2f46b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3e0e-0b4e-7693-b43f-e2f25d60205e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
