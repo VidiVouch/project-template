@@ -1,0 +1,19 @@
+.codex/hooks.json
+  s_8fb9623ecacf13::t_13540d2324a9c1 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f8ad101397fc9afb4403635a7cb93e01971a2889",
+  "prompts": {},
+  "sessions": {
+    "s_8fb9623ecacf13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f931446-0816-4e3e-b506-a0b0f76a8a67",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
