@@ -1,0 +1,26 @@
+.claude/settings.json
+  s_474fca05151d03::t_e98b54e0a3fb53 11
+  s_474fca05151d03::t_a1c38b589dd15b 47-50,71-78,93-94
+.codex/hooks.json
+  s_474fca05151d03::t_a1c38b589dd15b 2-6,8-15
+.idea/project-template.iml
+  s_474fca05151d03::t_a1c38b589dd15b 5
+.agents/hooks/enforce_cargo.py
+  s_474fca05151d03::t_a1c38b589dd15b 1-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3056d781c32c733458790c04de2520953f9a5473",
+  "prompts": {},
+  "sessions": {
+    "s_474fca05151d03": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3eb2-c68a-7d32-84fc-3b76485870e8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
