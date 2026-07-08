@@ -1,0 +1,19 @@
+README.md
+  s_d6858211c3cd94::t_c965bfe4905ea2 163-170,174-177,194-195,199-200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1279933a3ac399ccf05d3f3544e85a82beb5a80f",
+  "prompts": {},
+  "sessions": {
+    "s_d6858211c3cd94": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3fe5-6ce4-7dc3-afbd-af8cf922d075",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
