@@ -1,0 +1,21 @@
+editors/jetbrains/build.gradle.kts
+  s_0d5a0cad4f2aec::t_bd0dd85e5b7dfe 100-101,104-107
+editors/jetbrains/dev-runide.sh
+  s_0d5a0cad4f2aec::t_5ed9a22437ce9d 2-4,10-13,17,19-50,61,63-65,70,75-160,162,164,166-167,170-171,178-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "76196d5d7aa5ba1011108a17d5849d6be9359f14",
+  "prompts": {},
+  "sessions": {
+    "s_0d5a0cad4f2aec": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f68aefc6-e451-443c-ba4e-587949bbc18b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
