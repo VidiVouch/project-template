@@ -66,6 +66,9 @@
       "Bash(find:*)",
       "Bash(git add:*)",
       "Bash(git bisect:*)",
+      "Bash(git worktree add:*)",
+      "Bash(git worktree prune)",
+      "Bash(git worktree remove --force *deep-review-wt*)",
       "Bash(git commit:*)",
       "Bash(git log:*)",
       "Bash(git ls-tree:*)",
@@ -110,7 +113,9 @@
       "Bash(killall *)",
       "Bash(pkill *)"
     ],
-    "deny": []
+    "deny": [
+      "Bash(git clean:*)"
+    ]
   },
   "spinnerTipsEnabled": false,
   "teammateMode": "auto"
