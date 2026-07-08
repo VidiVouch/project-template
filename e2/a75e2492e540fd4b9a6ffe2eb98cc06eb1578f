@@ -1,0 +1,32 @@
+.idea/project-template.iml
+  s_20177da02186b9::t_8970ad7dcf454d 7-18
+crates/vidi-cli/src/device_flow.rs
+  s_20177da02186b9::t_c8bf02ff590d00 176-180
+  s_20177da02186b9::t_28f276bd7b1f43 181-183,271
+uv.lock
+  s_f78d2cec747f7f::t_a3444cc8a50697 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e2a75e2492e540fd4b9a6ffe2eb98cc06eb1578f",
+  "prompts": {},
+  "sessions": {
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_f78d2cec747f7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07573a7b-c985-4c80-9af5-61b645d89bcd",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
