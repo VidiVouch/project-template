@@ -4,7 +4,7 @@ deny.toml
   s_4a1130229bc742::t_04528e11d5cefb 2-23
   s_4a1130229bc742::t_a70b101dc7a97e 1
 AGENTS.md
-  s_4a1130229bc742::t_519528fccab475 18-25
+  s_4a1130229bc742::t_519528fccab475 18-25,30-37
 Cargo.lock
   s_4a1130229bc742::t_0d5fb3f8e74b96 262,264
 ---
