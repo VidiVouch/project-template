@@ -4,6 +4,18 @@
 
 Pre-production, no users. Prefer the best design over backwards compatibility. Destructive migrations are fine. Don't add compatibility shims.
 
+## Skills layout
+
+- Workflow skills (`deep-review`, `local-review`, `check-coverage`,
+  `html-report`, the `codex-*` skills) are **not bundled in this repo** — they
+  ship via the Vidi skills plugin (`vidi-skills@vidi`, see `PLUGINS.md`).
+- If a repo-local skill is ever needed: shared (Claude + Codex) skills live in
+  `.agents/skills/<name>/` with a per-skill symlink in `.claude/skills/<name>`
+  (Codex does not scan `.claude/skills`); Claude-only skills are real
+  directories in `.claude/skills/<name>/`. Keep shared skill bodies
+  **portable**: no `` !` `` dynamic-context injection, no `@path` imports —
+  those are Claude Code runtime features that Codex reads as literal text.
+
 ## Code Standards
 
 - Keep changes small and well-scoped; document non-obvious intent.
