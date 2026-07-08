@@ -1,0 +1,48 @@
+.codex/hooks.json
+  s_474fca05151d03::t_04b1f51f025323 2-6,8-15
+.idea/project-template.iml
+  s_474fca05151d03::t_04b1f51f025323 5
+PLUGINS.md
+  s_474fca05151d03::t_04b1f51f025323 30-41
+  s_474fca05151d03::t_f0ec6f06e1674d 42
+tests/hooks/conftest.py
+  s_474fca05151d03::t_04b1f51f025323 1-46
+.claude/settings.json
+  s_474fca05151d03::t_04b1f51f025323 7,18-23,53-56,86-91,94
+tests/hooks/test_enforce_uv.py
+  s_474fca05151d03::t_04b1f51f025323 1-255
+.agents/hooks/enforce_uv.py
+  s_474fca05151d03::t_04b1f51f025323 2,4-182
+  s_474fca05151d03::t_ef189caa3232ad 1,3
+.codex/config.toml
+  s_4ede0a4ce2f46b::t_927de642ea9a0d 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5c39538cbfd41c5769860254969430c904c394ac",
+  "prompts": {},
+  "humans": {
+    "h_ec9f7a7421a0ad": {
+      "author": "Tom Price <tom@vidi.sh>"
+    }
+  },
+  "sessions": {
+    "s_474fca05151d03": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3eb2-c68a-7d32-84fc-3b76485870e8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    },
+    "s_4ede0a4ce2f46b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3e0e-0b4e-7693-b43f-e2f25d60205e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
