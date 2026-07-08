@@ -1,0 +1,36 @@
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/LaneGatingTest.kt
+  s_20177da02186b9::t_190dfd4832bdf1 42-43,49-55
+  s_20177da02186b9::t_87db4e7f0f059a 56-57
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVerbs.kt
+  s_20177da02186b9::t_a28be1ca391630 30-35,37-40,43,48-51
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_20177da02186b9::t_58549039f126d8 130-136
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReviewPanel.kt
+  s_20177da02186b9::t_7337f5d919f60f 305
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVouchPopup.kt
+  s_20177da02186b9::t_35dded02b75c8b 203
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiSelectors.kt
+  s_20177da02186b9::t_22d06b21e1ecf9 43-46
+  s_20177da02186b9::t_9cc1ae0a7ff78f 20-40
+  s_20177da02186b9::t_1606490fbadc46 47
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/ReviewWalkAndCheckinTest.kt
+  s_20177da02186b9::t_06eecca2dea705 56-93
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCli.kt
+  s_20177da02186b9::t_d6904d1c575c1a 11-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f7ba2b3e1b42f22f4fa451b0ba0e71e4ccbb6324",
+  "prompts": {},
+  "sessions": {
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
