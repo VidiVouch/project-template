@@ -12,8 +12,6 @@
 #   pyproject.toml -> uv run ruff check + ruff format --check + basedpyright
 #   neither        -> no-op (exit 0)
 #
-# This is NOT the full /deep-review — it just ensures basic CI passes before
-# Claude finishes. Run /deep-review manually for the full multi-tool review.
 
 set -euo pipefail
 
