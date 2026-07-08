@@ -1,0 +1,19 @@
+.claude/settings.json
+  s_8fb9623ecacf13::t_bf7b5368f4e769 53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "08a3bb1441fd216ef8650ecd49ad9550fb56b996",
+  "prompts": {},
+  "sessions": {
+    "s_8fb9623ecacf13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f931446-0816-4e3e-b506-a0b0f76a8a67",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
