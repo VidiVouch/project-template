@@ -1,0 +1,26 @@
+AGENTS.md
+  s_8fb9623ecacf13::t_482a03a5fc47a5 32-35
+  s_8fb9623ecacf13::t_30873d5dc44d93 5-18,38-41
+.editorconfig
+  s_8fb9623ecacf13::t_1ee3762befe121 18-25
+.envrc
+  s_8fb9623ecacf13::t_12618ef18f3f0b 1-14
+TOOLS.md
+  s_8fb9623ecacf13::t_15304b2ae87c85 18-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7ec3afec39bfdd74f72181e382ed0025c375b551",
+  "prompts": {},
+  "sessions": {
+    "s_8fb9623ecacf13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f931446-0816-4e3e-b506-a0b0f76a8a67",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
