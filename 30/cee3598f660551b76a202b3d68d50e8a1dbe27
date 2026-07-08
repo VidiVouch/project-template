@@ -1,0 +1,64 @@
+.idea/project-template.iml
+  s_975954073ef289::t_531b1507cdddf2 9-10
+.claude/skills/codex-computer-use/SKILL.md
+  s_9168805e8f08b7::t_721a04b0ae22fc 3
+  s_364d1c1364f072::t_a42281c2a84da3 1-2,4-10
+.agents/skills/check-coverage/SKILL.md
+  s_975954073ef289::t_531b1507cdddf2 14-16,34,41
+AGENTS.md
+  s_975954073ef289::t_531b1507cdddf2 20-34
+.claude/skills/codex-review/SKILL.md
+  s_9168805e8f08b7::t_721a04b0ae22fc 1-49
+.claude/skills/codex-cli/SKILL.md
+  s_9168805e8f08b7::t_721a04b0ae22fc 1-2,4-97
+  s_c6f145fe694f89::t_8738e3313a3e40 3
+README.md
+  s_975954073ef289::t_531b1507cdddf2 163,167,189
+CLAUDE.md
+  s_975954073ef289::t_531b1507cdddf2 13,15-22
+  s_c6f145fe694f89::t_46b7ede7be6932 14
+.claude/skills/check-coverage
+  s_9168805e8f08b7::t_adebfbe9ff041d 1
+.claude/skills/local-review
+  s_9168805e8f08b7::t_6d3ee814ab6230 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "30cee3598f660551b76a202b3d68d50e8a1dbe27",
+  "prompts": {},
+  "sessions": {
+    "s_364d1c1364f072": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20f67a6c-8590-431e-b252-ef64e62dca51",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    },
+    "s_9168805e8f08b7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8ba872a-daa5-4c0a-b64d-548f0ec438df",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    },
+    "s_975954073ef289": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9cda2b1a-31c3-4fb8-ac8a-9844336a97d0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    },
+    "s_c6f145fe694f89": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c511f52e-e939-44d6-878d-08dbec17bf68",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}

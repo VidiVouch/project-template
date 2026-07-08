@@ -1,0 +1,58 @@
+.claude/skills/deep-review/deep-review.workflow.js
+  s_9168805e8f08b7::t_82dd80cca226e0 344-347
+  s_9168805e8f08b7::t_162b81d5df502a 381-385,390-397,399-400,403
+  s_9168805e8f08b7::t_151c09de2e29f5 66
+  s_9168805e8f08b7::t_f09ea9e22e83d3 28-29
+  s_9168805e8f08b7::t_7a28143007b40e 338-343,350-358
+  s_9168805e8f08b7::t_5d2d429e39117c 130
+.agents/skills/html-report/scripts/serve_note.py
+  s_9168805e8f08b7::t_044e39502bb87a 241-245
+  s_9168805e8f08b7::t_a3b901d82c20d7 246-248
+  s_9168805e8f08b7::t_d0ec4a402ee021 109-113,116-131,133-134,141-145
+  s_9168805e8f08b7::t_3477dda11eb11e 114-115
+  s_9168805e8f08b7::t_3dd92ca048685c 137-139
+  s_9168805e8f08b7::t_1abca68a033792 140,146-148,154
+  s_9168805e8f08b7::t_b7a34d675af018 135
+.claude/skills/codex-computer-use/SKILL.md
+  s_364d1c1364f072::t_3823f6c14f0973 3
+.claude/skills/deep-review/reviewers/coderabbit.md
+  s_9168805e8f08b7::t_4841127e46ed15 26-29
+  s_9168805e8f08b7::t_8f19e39fe4a6a6 1-25,30-75
+.claude/skills/deep-review/SKILL.md
+  s_9168805e8f08b7::t_5db6a02a89294c 239-242
+  s_9168805e8f08b7::t_bde55423753917 456-457
+  s_9168805e8f08b7::t_82b71e7988c5c0 296-303
+  s_9168805e8f08b7::t_9eb6327b721050 313-314,316,325
+  s_9168805e8f08b7::t_57e73c72da4ec1 32
+  s_9168805e8f08b7::t_53157057f62f22 4
+  s_9168805e8f08b7::t_30e4cfa2110a6c 409-416,418-419
+  s_9168805e8f08b7::t_9d082b95d5e1ca 149-164
+.agents/skills/html-report/scripts/render_note.py
+  s_9168805e8f08b7::t_29e91daeee7e3f 310-312
+  s_9168805e8f08b7::t_f3cc92b8b09634 232
+  s_9168805e8f08b7::t_d7fd979c4a1f96 381
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "17dd3f33ea0021077ebb953af53e408f21463d33",
+  "prompts": {},
+  "sessions": {
+    "s_364d1c1364f072": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20f67a6c-8590-431e-b252-ef64e62dca51",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    },
+    "s_9168805e8f08b7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8ba872a-daa5-4c0a-b64d-548f0ec438df",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}

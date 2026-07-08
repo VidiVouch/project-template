@@ -1,0 +1,28 @@
+.agents/skills/codex-computer-use/SKILL.md
+  h_ec9f7a7421a0ad 1,3-10
+  s_44895c723f2b16::t_99987ce304528c 2
+.agents/skills/codex-review/SKILL.md
+  h_ec9f7a7421a0ad 1-23,25,27-49
+  s_44895c723f2b16::t_0de32b07de7c41 24,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9606490440e0c5562e35616685d6cd5f29adf0ed",
+  "prompts": {},
+  "humans": {
+    "h_ec9f7a7421a0ad": {
+      "author": "Tom Price <tom@vidi.sh>"
+    }
+  },
+  "sessions": {
+    "s_44895c723f2b16": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "605ed58b-5926-438e-b79e-a244043448f7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
