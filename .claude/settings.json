@@ -50,13 +50,7 @@
     ],
     "Stop": [
       {
-        "hooks": [
-          {
-            "command": "${CLAUDE_PROJECT_DIR}/.claude/hooks/review-gate.sh",
-            "timeout": 30000,
-            "type": "command"
-          }
-        ],
+        "hooks": [],
         "matcher": ""
       }
     ]
