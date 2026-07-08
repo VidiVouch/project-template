@@ -1,0 +1,19 @@
+.codex/config.toml
+  s_8fb9623ecacf13::t_0c35298a1744f3 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b3ba065d637dd98871aa16271a4459da58531de8",
+  "prompts": {},
+  "sessions": {
+    "s_8fb9623ecacf13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f931446-0816-4e3e-b506-a0b0f76a8a67",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
