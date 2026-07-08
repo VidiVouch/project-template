@@ -1,0 +1,25 @@
+.claude/skills/codex-computer-use/SKILL.md
+  h_ec9f7a7421a0ad 3
+  s_79e5f4cf5768f7::t_e9ce656f0a22ab 10-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "117f109382ce941c508fe73036b2ab872d074df3",
+  "prompts": {},
+  "humans": {
+    "h_ec9f7a7421a0ad": {
+      "author": "Tom Price <tom@vidi.sh>"
+    }
+  },
+  "sessions": {
+    "s_79e5f4cf5768f7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3e1e-a244-7920-9f6c-a19d2fb4bfc6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}

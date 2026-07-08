@@ -1,0 +1,38 @@
+AGENTS.md
+  s_005fe2a112e4e9::t_f9a7a6c733f9a7 22-30
+README.md
+  s_005fe2a112e4e9::t_b778ebbf5657de 163
+.codex/hooks.json
+  s_4ede0a4ce2f46b::t_927de642ea9a0d 7
+.github/workflows/lint.yml
+  h_ec9f7a7421a0ad 16,40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "04b11b6359eeb87d6ea226bf9828b54bd5c27231",
+  "prompts": {},
+  "humans": {
+    "h_ec9f7a7421a0ad": {
+      "author": "Tom Price <tom@vidi.sh>"
+    }
+  },
+  "sessions": {
+    "s_005fe2a112e4e9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b7f57092-cc3d-4999-ba0e-99d8a9d2b066",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    },
+    "s_4ede0a4ce2f46b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3e0e-0b4e-7693-b43f-e2f25d60205e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}

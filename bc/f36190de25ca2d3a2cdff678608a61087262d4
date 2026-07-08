@@ -1,0 +1,24 @@
+.claude/settings.json
+  s_975954073ef289::t_af532c61b3de0d 133-134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bcf36190de25ca2d3a2cdff678608a61087262d4",
+  "prompts": {},
+  "humans": {
+    "h_ec9f7a7421a0ad": {
+      "author": "Tom Price <tom@vidi.sh>"
+    }
+  },
+  "sessions": {
+    "s_975954073ef289": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9cda2b1a-31c3-4fb8-ac8a-9844336a97d0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}

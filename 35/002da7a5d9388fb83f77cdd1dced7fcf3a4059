@@ -1,0 +1,21 @@
+.claude/skills/deep-review/SKILL.md
+  s_c6f145fe694f89::t_ef9273a5fadf70 298,300
+  s_c6f145fe694f89::t_07f181fbea2998 32
+  s_c6f145fe694f89::t_2d61712801685a 49-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "35002da7a5d9388fb83f77cdd1dced7fcf3a4059",
+  "prompts": {},
+  "sessions": {
+    "s_c6f145fe694f89": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c511f52e-e939-44d6-878d-08dbec17bf68",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}

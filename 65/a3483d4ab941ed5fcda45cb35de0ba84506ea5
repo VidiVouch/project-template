@@ -1,0 +1,32 @@
+.agents/skills/check-coverage/SKILL.md
+  s_327d75a82b85f7::t_7f0864d57c5fb6 401,417-425
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "65a3483d4ab941ed5fcda45cb35de0ba84506ea5",
+  "prompts": {},
+  "humans": {
+    "h_ec9f7a7421a0ad": {
+      "author": "Tom Price <tom@vidi.sh>"
+    }
+  },
+  "sessions": {
+    "s_327d75a82b85f7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2ea12804-e8bf-40ba-8b5f-4adab1e8477f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    },
+    "s_44895c723f2b16": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "605ed58b-5926-438e-b79e-a244043448f7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@vidi.sh>"
+    }
+  }
+}
