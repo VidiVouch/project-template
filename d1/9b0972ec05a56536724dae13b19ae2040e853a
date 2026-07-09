@@ -1,0 +1,58 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyPanel.kt
+  s_20177da02186b9::t_cc11de4b77c6a5 74
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiRunner.kt
+  s_20177da02186b9::t_3c3aa6afce2fdf 51
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiSelectors.kt
+  s_20177da02186b9::t_929171a76baf8c 20-59
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_20177da02186b9::t_4e4a2ffada123d 130-143
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVerbs.kt
+  s_20177da02186b9::t_efa4c8037dfbfa 29-32,34-37,40,42-43,45-47
+  s_20177da02186b9::t_674f7bbc3463c2 69-77,83,88-92
+  s_20177da02186b9::t_50b5da61a0c1b4 160-164
+  s_20177da02186b9::t_21a1c7e44f4d9f 93
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/LaneGatingTest.kt
+  s_20177da02186b9::t_8a70cf7cbac28f 3,5,12-14,17-18,22-23,25-27,31-37,41-44,49-51,54-60
+  s_1709e42774b3bb::t_f5c27e2314d221 61
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/VerbDenyPathTest.kt
+  s_20177da02186b9::t_200b2b043687b5 20-21,23,32-34,36-39,45,49-52,54,57-58
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVouchPopup.kt
+  s_20177da02186b9::t_f4ca2e6f7e6db2 203
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VouchAction.kt
+  s_20177da02186b9::t_ecf49adfe2707f 74-77
+  s_20177da02186b9::t_bfe657acc836fe 23-27
+  s_20177da02186b9::t_58ed3ebb5f7500 100-104,106-107,111,114
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiMatrixPanel.kt
+  s_20177da02186b9::t_d9f9253d36a799 231
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReviewPanel.kt
+  s_20177da02186b9::t_e309d201360479 305
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCli.kt
+  s_20177da02186b9::t_775a73c739f934 10-17
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/ReviewWalkAndCheckinTest.kt
+  s_20177da02186b9::t_d72008d073c816 5
+  s_20177da02186b9::t_89c270e39ccab6 26-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d19b0972ec05a56536724dae13b19ae2040e853a",
+  "prompts": {},
+  "sessions": {
+    "s_1709e42774b3bb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b3260ec-ada3-4c9c-881a-9c678d5e860a",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
