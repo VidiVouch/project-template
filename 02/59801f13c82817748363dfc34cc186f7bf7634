@@ -1,0 +1,26 @@
+crates/vidi-cli/src/verify_vouches.rs
+  s_869d67031f2c61::t_efb97fbe29eb94 163-170,172-187
+  s_869d67031f2c61::t_3fa509af508694 73-77,79,81-83,87-90
+  s_869d67031f2c61::t_eb564765bb7ced 9-18,20-21,24-29
+  s_869d67031f2c61::t_b1977c63a426f3 171
+  s_869d67031f2c61::t_5b12b9519918fb 514-647,649-671
+  s_869d67031f2c61::t_79e1ecee489044 330,334,336
+  s_869d67031f2c61::t_eb8cef061db252 19
+  s_869d67031f2c61::t_7bab97765e4b52 648
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "0259801f13c82817748363dfc34cc186f7bf7634",
+  "prompts": {},
+  "sessions": {
+    "s_869d67031f2c61": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9f0458bb-05a7-450b-b998-43fc3819670d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
