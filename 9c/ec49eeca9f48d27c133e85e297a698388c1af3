@@ -1,0 +1,37 @@
+crates/vidi-cli/tests/cli.rs
+  s_8e77d9a7d0e322::t_01716ac87c5f9b 72-75
+  s_8e77d9a7d0e322::t_9c460ccd6778f1 62-64
+  s_8e77d9a7d0e322::t_701b37f4039e48 275-278
+  s_8e77d9a7d0e322::t_785c4ffdf39529 18-30
+  s_8e77d9a7d0e322::t_15d284cbc8902c 214-256
+crates/vidi-core/src/crypto/entrypoint.rs
+  s_8e77d9a7d0e322::t_649deeb2110ae4 281-282,286-295
+  s_8e77d9a7d0e322::t_333b5ed20e0901 25-42
+  s_d690bed3d64763::t_85e330c0edd35c 296
+crates/vidi-cli/tests/json_report.rs
+  s_8e77d9a7d0e322::t_3941cf058bddcf 75-86,90-92,94-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9cec49eeca9f48d27c133e85e297a698388c1af3",
+  "prompts": {},
+  "sessions": {
+    "s_8e77d9a7d0e322": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d674643f-111f-4275-803e-ed3fc3a7555c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_d690bed3d64763": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62945f3e-355a-4b4d-94ec-977a4c620031",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
