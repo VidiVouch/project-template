@@ -1,0 +1,109 @@
+schemas/examples/report-off-axis-minimal.json
+  s_80df4f06e942a8::t_4cdd9deab6af0c 2
+crates/vidi-cli/tests/cli.rs
+  s_80df4f06e942a8::t_0726cc581d3cdf 158
+schemas/interop/conformance/conformance-1-current-v1.0.json
+  s_80df4f06e942a8::t_855cebe9847eba 81-90,94-97
+  s_80df4f06e942a8::t_b361f09c516bcc 22
+  s_80df4f06e942a8::t_d634fc1d2ce192 4-5,7
+crates/vidi-cli/src/provenance.rs
+  s_80df4f06e942a8::t_8f7020df3ea4e2 564-567
+  s_80df4f06e942a8::t_5cff3afc6d38eb 581-591,595
+  s_80df4f06e942a8::t_09e25463ee9d98 34-36
+schemas/interop/conformance/conformance-3-minor-unknown-enum.json
+  s_80df4f06e942a8::t_66fdd8f504b2b3 8
+  s_80df4f06e942a8::t_23af30589759a5 4-5
+crates/vidi-core/src/report/mod.rs
+  s_80df4f06e942a8::t_7ca5d0b17e1451 78
+  s_80df4f06e942a8::t_6401212cb9b9ff 720-721,733,752,766-768,773-780
+  s_80df4f06e942a8::t_e5b98da1aee905 70
+  s_80df4f06e942a8::t_9bcb0a1aeeccaf 459
+  s_80df4f06e942a8::t_1986096062b27b 498,514-518
+  s_80df4f06e942a8::t_4800251d02caa8 622-625
+  s_80df4f06e942a8::t_09d145e70aff6a 884
+  s_80df4f06e942a8::t_6565b75b11f060 22-28
+  s_80df4f06e942a8::t_1897e899c15c10 1
+  s_80df4f06e942a8::t_27858b8e7d7638 94-96
+  s_80df4f06e942a8::t_8b948ef9725c98 107-135
+crates/vidi-interop/src/conformance.rs
+  s_80df4f06e942a8::t_4196c354a2f3f2 212-213
+  s_80df4f06e942a8::t_9a6cc42e6fa275 466
+  s_80df4f06e942a8::t_d04945b9200237 272,282-287
+  s_ca7e88469463e8::t_4f398f218cdfe3 288-289
+crates/vidi-cli/src/commands.rs
+  s_80df4f06e942a8::t_deb15a80d717e4 22-24
+  s_80df4f06e942a8::t_e5d8c5d53a09fe 504-507
+  s_80df4f06e942a8::t_417cab66b08342 257-270,273-281,508
+  s_80df4f06e942a8::t_d43fcc0615d68f 282-284,509-510,1324
+crates/vidi-interop/src/handshake.rs
+  s_80df4f06e942a8::t_bb16e7cedde61b 94-95,98-101
+  s_80df4f06e942a8::t_230398119ab9e1 216,220,224,228
+  s_80df4f06e942a8::t_9194ee1b93092c 102
+crates/vidi-cli/tests/json_report.rs
+  s_80df4f06e942a8::t_2f84309bd241d1 1161-1184,1187-1204
+  s_80df4f06e942a8::t_bdac7f027563f6 1185-1186
+  s_80df4f06e942a8::t_d0b4362ba9e0d3 288-292
+  s_80df4f06e942a8::t_cfec747df642f8 355
+  s_80df4f06e942a8::t_5b082155a17acd 214
+  s_80df4f06e942a8::t_830817c5f02c0f 591-599
+  s_80df4f06e942a8::t_94375198dcf41a 286-287
+  s_80df4f06e942a8::t_767409fcb73e0e 1160
+crates/vidi-core/src/lib.rs
+  s_80df4f06e942a8::t_e33ab45f0282f9 38
+crates/vidi-core/tests/wu11_conformance.rs
+  s_80df4f06e942a8::t_1a640210de1822 418
+  s_80df4f06e942a8::t_ed8ae630c642f6 265-266
+  s_80df4f06e942a8::t_8d4fa5efebf3d3 317,320
+  s_80df4f06e942a8::t_9803a6b370a04e 376-377
+  s_80df4f06e942a8::t_1dc8688d111aea 535,537-548
+  s_80df4f06e942a8::t_d314d3ff0f0fd7 218
+  s_80df4f06e942a8::t_54c7879dbeae8e 21
+  s_80df4f06e942a8::t_6a5a5fca55a20a 34-35,37
+  s_3ed9a8fab61a4f::t_8434ee698cb9eb 536
+schemas/vidi-json-v1.schema.json
+  s_80df4f06e942a8::t_3eccfcaa9c87d8 4
+  s_80df4f06e942a8::t_e32ac1979a0310 65,67
+  s_80df4f06e942a8::t_035001a6b796fe 21
+  s_80df4f06e942a8::t_b99e8c8d3ff33a 166-178
+schemas/examples/report-on-axis.json
+  s_80df4f06e942a8::t_aa5e658eed0c0c 2
+crates/vidi-cli/src/cli.rs
+  s_80df4f06e942a8::t_4c32d301d677a5 119
+schemas/interop/conformance/conformance-2-minor-extra-field.json
+  s_80df4f06e942a8::t_5a9de15e7cd247 4-5,7
+  s_80df4f06e942a8::t_da2c4d5c35f052 36
+schemas/interop/field-manifest.v1.json
+  s_80df4f06e942a8::t_21888cf33c6445 27-28,77-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f006296a9466560b2a9202f905ca386fb3033912",
+  "prompts": {},
+  "sessions": {
+    "s_3ed9a8fab61a4f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb195dd3-cf8a-4d4e-aa22-66ee8177660a",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_80df4f06e942a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b1cee4c3-6a91-4baa-924d-74249a6e80a5",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ca7e88469463e8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7c5b2a11-0eba-46ad-9dd6-29ee9a8ed3af",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
