@@ -1,0 +1,19 @@
+schemas/interop/receipt-vectors.json
+  s_93ea56513c5189::t_1b5ee741729ca8 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "52f30345ccb54b53244b06c4f7f0698889e73a4c",
+  "prompts": {},
+  "sessions": {
+    "s_93ea56513c5189": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d328bf57-9404-4192-a2c3-79105cf34fe2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
