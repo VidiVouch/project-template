@@ -1,0 +1,24 @@
+crates/vidi-cli/tests/cli.rs
+  s_8e77d9a7d0e322::t_18d6c9cdc40b6d 198
+crates/vidi-core/src/crypto/entrypoint.rs
+  s_8e77d9a7d0e322::t_1236342d2120f5 177-178
+  s_8e77d9a7d0e322::t_1040a1aee1d32f 111-114
+crates/vidi-cli/src/sign.rs
+  s_8e77d9a7d0e322::t_da4f22dce10873 128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3adb66c57b37abb6f2089b3319d6ddf89b0fe172",
+  "prompts": {},
+  "sessions": {
+    "s_8e77d9a7d0e322": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d674643f-111f-4275-803e-ed3fc3a7555c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
