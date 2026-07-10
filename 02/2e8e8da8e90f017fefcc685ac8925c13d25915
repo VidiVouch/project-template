@@ -1,0 +1,21 @@
+crates/vidi-cli/src/notary_client.rs
+  s_04b0e831f8de89::t_7699d4816458b1 878-899
+  s_04b0e831f8de89::t_7b335d842a7ce2 228-238,246-249,251,254,256-257,259
+  s_04b0e831f8de89::t_0f5a5f45adacae 877
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "022e8e8da8e90f017fefcc685ac8925c13d25915",
+  "prompts": {},
+  "sessions": {
+    "s_04b0e831f8de89": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fdcd9e29-71c4-4b0f-acd5-3c2edadc53fd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
