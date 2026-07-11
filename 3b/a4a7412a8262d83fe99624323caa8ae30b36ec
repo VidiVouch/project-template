@@ -2,7 +2,7 @@ crates/vidi-cli/tests/json_report.rs
   s_8601be4325f9df::t_1b31b75679196b 75,77-89
   s_8601be4325f9df::t_3a3031c6684dd2 76
 crates/vidi-core/src/crypto/entrypoint.rs
-  s_8601be4325f9df::t_203efd55592c15 325-330,333-343
+  s_8601be4325f9df::t_203efd55592c15 325-330,333-343,339-344,347-357
   s_8601be4325f9df::t_03355b734cbbf6 23,26-36,41-52,54-56,58-63,68-78
   s_8601be4325f9df::t_c79cf5c9796010 53
 design/D8-contract-ledger.json
