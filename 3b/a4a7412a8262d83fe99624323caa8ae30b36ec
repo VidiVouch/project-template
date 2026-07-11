@@ -1,0 +1,34 @@
+crates/vidi-cli/tests/json_report.rs
+  s_8601be4325f9df::t_1b31b75679196b 75,77-89
+  s_8601be4325f9df::t_3a3031c6684dd2 76
+crates/vidi-core/src/crypto/entrypoint.rs
+  s_8601be4325f9df::t_203efd55592c15 325-330,333-343
+  s_8601be4325f9df::t_03355b734cbbf6 23,26-36,41-52,54-56,58-63,68-78
+  s_8601be4325f9df::t_c79cf5c9796010 53
+design/D8-contract-ledger.json
+  s_8601be4325f9df::t_4b7557ef46a40d 521
+crates/vidi-cli/tests/cli.rs
+  s_8601be4325f9df::t_430f4f0d68bc39 230-242
+  s_8601be4325f9df::t_7d4e08a4537455 18,20-34
+  s_8601be4325f9df::t_b5bffdca60b9a6 281-299
+  s_8601be4325f9df::t_97b78f2701d717 19
+  s_8601be4325f9df::t_830de72522b900 280
+design/marker-widen-evidence.html
+  s_8601be4325f9df::t_3fe07f45a2464a 1-144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "c85ba4d0157dbdf479d043ec6fdeeba4c4328c4d",
+  "prompts": {},
+  "sessions": {
+    "s_8601be4325f9df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b17f106-06fb-45ce-adb6-29a4fa3880d7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
