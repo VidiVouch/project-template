@@ -1,44 +1,77 @@
-design/D8-contract-ledger.json
-  s_8601be4325f9df::t_1d3ed57c0df6fe 521
-crates/vidi-cli/src/commands.rs
-  s_8601be4325f9df::t_64d5ca7c773582 986
-  s_8601be4325f9df::t_355753c61269c2 982-985,987-994
-  s_8601be4325f9df::t_80f94370bd1b7f 612
-  s_8601be4325f9df::t_47aa5426f03d90 525
-  s_8601be4325f9df::t_003ae6515634ce 563
-  s_8601be4325f9df::t_acbc51b158b7f9 725-732,736-745
 crates/vidi-cli/tests/json_report.rs
   s_8601be4325f9df::t_d22ef1f1fec68a 139-142,147-148
   s_8601be4325f9df::t_33b1d5e0339ae3 850
+crates/vidi-cli/src/commands.rs
+  s_8601be4325f9df::t_355753c61269c2 982-985,987-994
+  s_8601be4325f9df::t_47aa5426f03d90 525
+  s_8601be4325f9df::t_003ae6515634ce 563
+  s_8601be4325f9df::t_80f94370bd1b7f 612
+  s_8601be4325f9df::t_acbc51b158b7f9 725-732,736-745
+  s_8601be4325f9df::t_64d5ca7c773582 986
 crates/vidi-cli/tests/cli.rs
-  s_8601be4325f9df::t_95cff706a93286 190-194,197-198,202,208,211-214,220-221,225,231,234-237,241-245,247-248,260-264,268,285-289,302-336
-  s_8601be4325f9df::t_6320526254ef3b 337-338
-crates/vidi-cli/src/sign.rs
-  s_8601be4325f9df::t_2d40f2b82bb37d 405,410-411
-  s_8601be4325f9df::t_ae5ee48740b828 446-480,487-491,503,513-518,524-530,536-540,550-556,561-572,574-583
-  s_8601be4325f9df::t_116aacd9ef0da0 22-24
-  s_8601be4325f9df::t_7667806f44aaf1 45-52,58,62-63,74-171
-  s_8601be4325f9df::t_00e5139607e901 573
-  s_8601be4325f9df::t_72e50890853525 61
-  s_8601be4325f9df::t_67a1cd637c4e08 225-238,240
-  s_8601be4325f9df::t_ad685a2c3fe22f 172
-  s_8601be4325f9df::t_861ad676182557 584
+  s_8e77d9a7d0e322::t_15d284cbc8902c 240
+  s_8601be4325f9df::t_6320526254ef3b 238,362-363
+  s_8601be4325f9df::t_95cff706a93286 190-194,197-198,202,208,211-214,220-221,225-237,266-270,272-273,285-289,293,310-314,327-361
+  s_8601be4325f9df::t_44fd6bd2102aee 241-250,256,259-262
+  s_0ee921b0a94e17::t_27c74aad65f21b 239
 crates/vidi-core/src/crypto/entrypoint.rs
+  s_8601be4325f9df::t_b51bc1c0a23fb2 300-321,323-326,328-332,334-345
   s_8601be4325f9df::t_ed7f148cb00066 433-445
   s_8601be4325f9df::t_ff07bdec8461f9 146-154
-  s_8601be4325f9df::t_b51bc1c0a23fb2 300-321,323-326,328-332,334-345
+crates/vidi-cli/src/sign.rs
+  s_8601be4325f9df::t_72e50890853525 61
+  s_8601be4325f9df::t_ae5ee48740b828 462-496,503-507,519,529-534,540-546,552-556,566-572,574,577-588,590-598
+  s_f2f8b598db1c74::t_2b89753cbc6519 573
+  s_8601be4325f9df::t_116aacd9ef0da0 22-24
+  s_8601be4325f9df::t_00e5139607e901 589
+  s_8601be4325f9df::t_f4b062c54cb8c6 141-142
+  s_8601be4325f9df::t_feedde0b4336a3 575,599,601-619,623-638
+  s_8601be4325f9df::t_67a1cd637c4e08 241-254,256
+  s_8601be4325f9df::t_c98ad911fdc3b4 162-176,180
+  s_8601be4325f9df::t_ad685a2c3fe22f 188
+  s_8601be4325f9df::t_7667806f44aaf1 45-52,58,62-63,74-140,143-161,177-179,181-187
+  s_8601be4325f9df::t_2d40f2b82bb37d 421,426
+  s_8601be4325f9df::t_a50ebab4eb83a1 427
+  s_8601be4325f9df::t_8825ad45219600 576
+  s_8601be4325f9df::t_1de577c5d68bf6 600
+design/D8-contract-ledger.json
+  s_8601be4325f9df::t_1d3ed57c0df6fe 521
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.12",
-  "base_commit_sha": "1521aedb7780a7e1d07d3431000bcf31ebaec18c",
+  "base_commit_sha": "22fc844bcafa8ba0147990f54b5c4e4860076a07",
   "prompts": {},
   "sessions": {
+    "s_0ee921b0a94e17": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e56fb06c-9623-4ada-bad1-e911282d0890",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
     "s_8601be4325f9df": {
       "agent_id": {
         "tool": "claude",
         "id": "2b17f106-06fb-45ce-adb6-29a4fa3880d7",
         "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    },
+    "s_8e77d9a7d0e322": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d674643f-111f-4275-803e-ed3fc3a7555c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_f2f8b598db1c74": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0a20e14c-aec3-40ec-8f7e-980bdd530d59",
+        "model": "claude-fable-5"
       },
       "human_author": "Tom Price <tom@tomprice.ca>"
     }
