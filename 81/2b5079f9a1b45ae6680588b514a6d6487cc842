@@ -1,20 +1,18 @@
-Cargo.toml
-  s_0f5f8261e2fde5::t_6380f948b34755 115-118
+crates/vidi-cli/src/commands.rs
+  s_0f5f8261e2fde5::t_15e964a9d94f0e 108-116,121-131,133-152,154-155,157,163-171,173-174,176-180,183-186
 crates/vidi-cli/Cargo.toml
   s_0f5f8261e2fde5::t_6380f948b34755 41-42
 crates/vidi-cli/tests/json_report.rs
   s_0f5f8261e2fde5::t_ba56720a4544f2 1709-1762
-crates/vidi-cli/src/commands.rs
-  s_0f5f8261e2fde5::t_15e964a9d94f0e 108-116,121-131,133-152,154-155,157,163-171,173-174,176-180,183-186
-.gitattributes
-  s_0f5f8261e2fde5::t_db04f8eba357a2 1
+Cargo.toml
+  s_0f5f8261e2fde5::t_6380f948b34755 115-118
 Cargo.lock
   s_0f5f8261e2fde5::t_5a0c98ce8c5b78 138-147,494-506,622-637,1093-1101,1638,1722-1731,1765-1773
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.12",
-  "base_commit_sha": "64ad2a6268c0b8cceac1c6d7cdf33f01e8b66694",
+  "base_commit_sha": "812b5079f9a1b45ae6680588b514a6d6487cc842",
   "prompts": {},
   "sessions": {
     "s_0f5f8261e2fde5": {
