@@ -1,16 +1,18 @@
-editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/PolicyTomlTest.kt
-  s_0f5f8261e2fde5::t_50cd86e861c0b9 11-12
-  s_0f5f8261e2fde5::t_48174fda555fe1 65-69,83
-editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyPanel.kt
-  s_0f5f8261e2fde5::t_e8591c65db5a10 581-582
-  s_268237d5f3cacc::t_69d997e9aac84d 692
 editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyFiles.kt
   s_0f5f8261e2fde5::t_3cf9f4c566a4d0 7-11,14,16-18,20,22
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/PolicyTomlTest.kt
+  s_0f5f8261e2fde5::t_48174fda555fe1 65-69,83
+  s_0f5f8261e2fde5::t_50cd86e861c0b9 11-12
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCli.kt
+  s_0f5f8261e2fde5::t_53f63fd406eb39 81
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyPanel.kt
+  s_268237d5f3cacc::t_69d997e9aac84d 692
+  s_0f5f8261e2fde5::t_e8591c65db5a10 581-582
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.12",
-  "base_commit_sha": "ec3d61c31d37e86dd7987ce90fffe4dfd6cff80e",
+  "base_commit_sha": "65628439737f7c48dbc0e620b9db4566f78d2069",
   "prompts": {},
   "sessions": {
     "s_0f5f8261e2fde5": {
@@ -19,7 +21,7 @@ editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyFiles.kt
         "id": "940d5b14-1db4-4cdf-a017-f74462f98611",
         "model": "claude-fable-5"
       },
-      "human_author": "Tom Price <tom@tomprice.ca>"
+      "human_author": null
     },
     "s_268237d5f3cacc": {
       "agent_id": {
