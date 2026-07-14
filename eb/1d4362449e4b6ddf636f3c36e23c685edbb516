@@ -1,0 +1,52 @@
+crates/vidi-core/src/ledger/reader.rs
+  s_3b7ac5ecc0b8f6::t_05d9608cf8ead1 63-65
+crates/vidi-core/tests/fixtures/design-fixtures.json
+  s_3b7ac5ecc0b8f6::t_bb350f6384a8c0 38-39,79-80,119-120,184-185
+  s_3b7ac5ecc0b8f6::t_b90df3c63dad60 145-146
+  s_3b7ac5ecc0b8f6::t_a364676b39ef37 17,59,101,131,135,161
+schemas/interop/record-vectors.json
+  s_3b7ac5ecc0b8f6::t_537b5d8b029af4 6-9,12-15,18-21,24-27,30-33
+schemas/interop/py-bridge-vectors.json
+  s_3b7ac5ecc0b8f6::t_acfc255f0c1b5b 4-5,7,10-11,13,18,20,52-53,55,59-60,62,65,76,82,88,94,100,116
+schemas/interop/content-id-vectors.json
+  s_3b7ac5ecc0b8f6::t_0549eff25136d2 8-9,14-15
+crates/vidi-core/src/report/mod.rs
+  s_3b7ac5ecc0b8f6::t_05d9608cf8ead1 16,475
+crates/vidi-core/tests/adversarial.rs
+  s_0f5f8261e2fde5::t_1d382ac37bcc44 217,224
+schemas/interop/signing-vectors.json
+  s_3b7ac5ecc0b8f6::t_0549eff25136d2 2,19,24,29,34,45,51
+crates/vidi-cli/src/provenance.rs
+  s_3b7ac5ecc0b8f6::t_05d9608cf8ead1 148
+crates/vidi-core/tests/wu11_records.rs
+  s_3b7ac5ecc0b8f6::t_8b428d4a609c5d 155,157,161,167,173,179
+  s_3b7ac5ecc0b8f6::t_537b5d8b029af4 163,169,175,181
+crates/vidi-core/tests/conformance.rs
+  s_3b7ac5ecc0b8f6::t_6f4078e4f58fc8 206
+crates/vidi-core/tests/ledger_codec.rs
+  s_3b7ac5ecc0b8f6::t_143d3daf669268 69,109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "eb1d4362449e4b6ddf636f3c36e23c685edbb516",
+  "prompts": {},
+  "sessions": {
+    "s_0f5f8261e2fde5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "940d5b14-1db4-4cdf-a017-f74462f98611",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_3b7ac5ecc0b8f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09b1910-e4e9-48b8-b0db-60dfefaf0c22",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
