@@ -1,0 +1,55 @@
+crates/vidi-cli/src/token.rs
+  s_3b7ac5ecc0b8f6::t_24e5071b565547 106-108
+  s_3b7ac5ecc0b8f6::t_5e11fb109a984a 122-124
+  s_3b7ac5ecc0b8f6::t_cd6e00ab577006 155
+  s_3b7ac5ecc0b8f6::t_e9857958fb389a 126,186-190,193
+  s_3b7ac5ecc0b8f6::t_d05e5950302d6c 54-57
+  s_3b7ac5ecc0b8f6::t_4f0d67af5f72e9 324,343,362,400
+  s_3b7ac5ecc0b8f6::t_df302f12339ffa 141
+  s_3b7ac5ecc0b8f6::t_9e6fe0b140c8ab 125
+crates/vidi-cli/src/commands.rs
+  s_3b7ac5ecc0b8f6::t_9ca6c13111f5fe 1013-1022
+  s_3b7ac5ecc0b8f6::t_7b8dfbcf47a5d9 1044
+  s_3b7ac5ecc0b8f6::t_cb95ccbc394a94 679-686
+  s_3b7ac5ecc0b8f6::t_2a96a5676d1283 1160
+  s_3b7ac5ecc0b8f6::t_5e5e78b8cbec4e 272
+  s_3b7ac5ecc0b8f6::t_2d6a7ef97021bd 1214-1215,1222-1228,1230-1231,1240-1241,1244
+  s_3b7ac5ecc0b8f6::t_6ffa3edc58ec07 1313
+  s_3b7ac5ecc0b8f6::t_1f356b015d79e5 814
+  s_3b7ac5ecc0b8f6::t_b1a25de55f4b27 1498
+  s_3b7ac5ecc0b8f6::t_f0717151c15d5c 929,935-936
+  s_3b7ac5ecc0b8f6::t_e05df666d83386 754-758
+crates/vidi-cli/src/main.rs
+  s_3b7ac5ecc0b8f6::t_49a1e344bc3ff9 27
+crates/vidi-cli/src/identity_client.rs
+  s_3b7ac5ecc0b8f6::t_20cac73b3822c4 40-41,46-58
+  s_3b7ac5ecc0b8f6::t_2e8c770388b317 130,134-137
+  s_3b7ac5ecc0b8f6::t_7ff0c4b3545951 88
+  s_3b7ac5ecc0b8f6::t_be001565f49dea 200-215,220-222
+.gitattributes
+  s_087c2050fa5b14::t_92f2990ce1defb 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "e67ffafde3c63b95aede951f82f28e296bb7bedc",
+  "prompts": {},
+  "sessions": {
+    "s_087c2050fa5b14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24408329-2292-4d8f-b196-267278f0890a",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_3b7ac5ecc0b8f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09b1910-e4e9-48b8-b0db-60dfefaf0c22",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
