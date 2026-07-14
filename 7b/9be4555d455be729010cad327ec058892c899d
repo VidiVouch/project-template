@@ -1,0 +1,25 @@
+crates/vidi-cli/src/remote.rs
+  s_3b7ac5ecc0b8f6::t_affc2824a2d5fe 36
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVerbs.kt
+  s_3b7ac5ecc0b8f6::t_ab3428e02904b3 15
+editors/vscode/src/verbs-logic.ts
+  s_3b7ac5ecc0b8f6::t_ab3428e02904b3 6
+crates/vidi-cli/src/commands.rs
+  s_3b7ac5ecc0b8f6::t_affc2824a2d5fe 1163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "7b9be4555d455be729010cad327ec058892c899d",
+  "prompts": {},
+  "sessions": {
+    "s_3b7ac5ecc0b8f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09b1910-e4e9-48b8-b0db-60dfefaf0c22",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
