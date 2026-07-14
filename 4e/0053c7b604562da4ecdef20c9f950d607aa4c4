@@ -1,0 +1,73 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVerbs.kt
+  s_0f5f8261e2fde5::t_55351a76b5e709 29-32,34-36,43-49,52
+editors/vscode/src/webview.ts
+  s_0f5f8261e2fde5::t_8f275c0583370d 131
+  s_0f5f8261e2fde5::t_c3727b47df1dc0 162
+  s_0f5f8261e2fde5::t_7847ef9d487612 86,186
+  s_0f5f8261e2fde5::t_1806f8ddbc08db 9
+  s_0f5f8261e2fde5::t_f41a1c22890f43 81-85,87-93,95-100
+crates/vidi-core/src/record.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 21-23,52-57,63-65,80-82,371,440,472,474,479,552,558,565
+crates/vidi-cli/src/pull.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 231
+crates/vidi-core/tests/wu11_records.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 156,162,168,174,180
+crates/vidi-core/src/ledger/writer.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 21-22
+editors/vscode/src/extension.ts
+  s_0f5f8261e2fde5::t_279f71b8cc7217 137
+  s_0f5f8261e2fde5::t_7a33308675e885 48-51,53,56-62,71
+crates/vidi-cli/src/verify_vouches.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 405
+  s_0f5f8261e2fde5::t_edab1c7b8c83e8 264-268
+editors/vscode/src/verbs.ts
+  s_0f5f8261e2fde5::t_acb040a9147f83 138-141,143-148
+  s_0f5f8261e2fde5::t_7523eb38b21d81 167
+  s_0f5f8261e2fde5::t_0f51c01fb15df3 110
+editors/vscode/package.json
+  s_0f5f8261e2fde5::t_f0b33849371665 9-24,26-28,31-82,86-90,95-102,107-131,134-137,140-143,147-164
+editors/vscode/src/coverageService.ts
+  s_0f5f8261e2fde5::t_c9d06a0e53db50 29-30
+  s_0f5f8261e2fde5::t_0c9ee35bd54577 65-77
+crates/vidi-cli/tests/json_report.rs
+  s_0f5f8261e2fde5::t_2a144debd90b47 1763-1770,1772-1777,1784,1790,1793-1794
+  s_0f5f8261e2fde5::t_bab7a72a0c236f 1771,1778-1783,1785-1789,1791-1792
+crates/vidi-core/tests/py_bridge_vectors.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 65
+crates/vidi-core/src/ledger/reader.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 63-65
+crates/vidi-core/src/ledger/layout.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 37,39,63,71-72
+crates/vidi-core/tests/signing_vectors.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 63
+crates/vidi-cli/src/provenance.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 858
+crates/vidi-cli/src/commands.rs
+  s_0f5f8261e2fde5::t_695774eaf59504 413-422
+crates/vidi-core/src/ledger/codec.rs
+  s_3b7ac5ecc0b8f6::t_c82d272eb2c57b 120,389
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "4e0053c7b604562da4ecdef20c9f950d607aa4c4",
+  "prompts": {},
+  "sessions": {
+    "s_0f5f8261e2fde5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "940d5b14-1db4-4cdf-a017-f74462f98611",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_3b7ac5ecc0b8f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09b1910-e4e9-48b8-b0db-60dfefaf0c22",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
