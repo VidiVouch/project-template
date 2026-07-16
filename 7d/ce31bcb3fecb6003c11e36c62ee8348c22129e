@@ -1,0 +1,42 @@
+crates/vidi-cli/src/auth.rs
+  s_cb5164c2da77e0::t_82c0fb70ac7884 31-43
+  s_cb5164c2da77e0::t_4bbdc3e93e8072 258
+  s_cb5164c2da77e0::t_1d90083308d523 59-93
+  s_cb5164c2da77e0::t_e8fc10516d5a4b 253-257,259-280
+  s_cb5164c2da77e0::t_00122b41526095 204
+crates/vidi-cli/src/sign.rs
+  s_cb5164c2da77e0::t_ed16cd1db76787 323,325
+crates/vidi-cli/src/device_flow.rs
+  s_cb5164c2da77e0::t_917a40b64f193f 460
+crates/vidi-cli/tests/cli.rs
+  s_cb5164c2da77e0::t_99aaebb83e9c63 764
+  s_cb5164c2da77e0::t_a77c5fdc446648 785-787
+  s_cb5164c2da77e0::t_7fd755ede39ebf 763,765-784,788-793
+  s_cb5164c2da77e0::t_0690fd6c909d2d 762
+crates/vidi-cli/src/remote.rs
+  s_cb5164c2da77e0::t_d6ad0265411f3e 44
+  s_cb5164c2da77e0::t_b2dc4705f2b3a9 100
+  s_cb5164c2da77e0::t_41609a3b9e1a1f 72
+  s_cb5164c2da77e0::t_bc5b3da7a242f1 263,266,279-281
+  s_cb5164c2da77e0::t_dc43e806a4554d 129-131,139,269,277
+  s_cb5164c2da77e0::t_a26a4f16d1fcd9 267-268,270-274,276,278
+  s_cb5164c2da77e0::t_5cbda476584529 25
+  s_cb5164c2da77e0::t_61acd3f0c3bdda 115-128,132-138,140
+  s_cb5164c2da77e0::t_06f18b265e963a 41-43,45-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7dce31bcb3fecb6003c11e36c62ee8348c22129e",
+  "prompts": {},
+  "sessions": {
+    "s_cb5164c2da77e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77fa10ee-8a93-4991-b18a-3c49287cee42",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
