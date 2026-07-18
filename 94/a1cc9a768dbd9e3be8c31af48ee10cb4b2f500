@@ -1,0 +1,42 @@
+crates/vidi-cli/src/cli.rs
+  s_e478a0b3ca14f0::t_ec238d11382e80 120-124
+  s_e478a0b3ca14f0::t_1c913fdfa6556f 300-320
+crates/vidi-cli/tests/hooks.rs
+  s_e478a0b3ca14f0::t_f3f3793f232f8f 384-394,397,401-411
+  s_e478a0b3ca14f0::t_528da216794ccf 395-396,398-400
+  s_e478a0b3ca14f0::t_286e216ad4149e 95
+  s_e478a0b3ca14f0::t_b5029df32b2421 41-44
+  s_e478a0b3ca14f0::t_60d0c0c2219ec6 119-121,123
+  s_e478a0b3ca14f0::t_84712af537f011 25-34
+  s_e478a0b3ca14f0::t_50e1b05db8403d 155-158,231-232
+  s_e478a0b3ca14f0::t_311a87cd8b1439 1-24,35-40,45-94,96-118,122,124-154,159-230,233-383,412-429
+crates/vidi-cli/src/main.rs
+  s_e478a0b3ca14f0::t_65fbbb4800ec7b 22
+crates/vidi-cli/tests/cli.rs
+  s_e478a0b3ca14f0::t_6e2a14b9f4dc28 7
+  s_e478a0b3ca14f0::t_48680bacd77004 44-46
+  s_e478a0b3ca14f0::t_c9784261ac0203 60
+crates/vidi-cli/src/hooks.rs
+  s_e478a0b3ca14f0::t_50e1b05db8403d 530,540
+  s_e478a0b3ca14f0::t_0308053b6f57c4 1-529,531-539,541-623
+crates/vidi-cli/src/commands.rs
+  s_e478a0b3ca14f0::t_690e5fe594bfac 57
+crates/vidi-cli/tests/no_internal_citations.rs
+  s_e478a0b3ca14f0::t_aa25d6aaed4e65 62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "94a1cc9a768dbd9e3be8c31af48ee10cb4b2f500",
+  "prompts": {},
+  "sessions": {
+    "s_e478a0b3ca14f0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34a3af01-676c-40d4-baf8-b30ef883869b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
