@@ -1,0 +1,63 @@
+crates/vidi-cli/src/commands.rs
+  s_9ba9506c927f10::t_9b9528227ee8fb 718-719,742,748,751-754
+  s_9ba9506c927f10::t_6b5fcfbe5ed0f5 1024-1025,1053,1055-1083
+crates/vidi-core/src/record.rs
+  s_9ba9506c927f10::t_ab9fa8acf94b88 163-165
+  s_9ba9506c927f10::t_208f1cde761ab3 162,166-173
+  s_9ba9506c927f10::t_c93ff05785c31d 413-420
+crates/vidi-cli/tests/json_report.rs
+  s_9ba9506c927f10::t_054921f14ea75d 1177-1182,1195-1199,1203-1204,1236-1240,1244-1300,1304-1306,1308-1358,1362-1395
+  s_9ba9506c927f10::t_92fcae89ca4e3f 1359-1361
+  s_9ba9506c927f10::t_bc0fd17f7a8ce4 1301-1303,1307
+crates/vidi-core/src/policy/gate.rs
+  s_9ba9506c927f10::t_d853e7da0e33e8 180-199,203-207,209,217
+  s_9ba9506c927f10::t_473dca106fdf1d 977-991
+  s_9ba9506c927f10::t_6a2b8e6dba475e 35
+crates/vidi-core/src/policy/diagnostics.rs
+  s_9ba9506c927f10::t_706748cf1f8c1f 217,223-256
+  s_9ba9506c927f10::t_7dddba55e8c10b 645-686
+  s_9ba9506c927f10::t_dc0b700eadaa77 132
+  s_9ba9506c927f10::t_7fdd64089f645c 108-111
+  s_9ba9506c927f10::t_a7a67b5acc5b1a 198
+  s_9ba9506c927f10::t_ea73c8d337b7a8 257-259
+crates/vidi-cli/src/provenance.rs
+  s_9ba9506c927f10::t_ed2482abb205e8 552,561-562,568
+  s_9ba9506c927f10::t_3e3970731e3cd1 520-522,533
+  s_9ba9506c927f10::t_b993ba7cca1966 588
+  s_9ba9506c927f10::t_acdca65361013f 478-511
+  s_9ba9506c927f10::t_bcc9380563b148 821,830
+crates/vidi-cli/src/sign.rs
+  s_9ba9506c927f10::t_0f58f1578c78f8 468-469
+  s_9ba9506c927f10::t_6fb64f54583782 873
+crates/vidi-core/tests/wu11_records.rs
+  s_9ba9506c927f10::t_ef81d61e21d5de 242
+  s_9ba9506c927f10::t_cb5bc4c46fcb6d 240-241,243-244
+  s_9ba9506c927f10::t_c103783d362713 141-167
+  s_23c82ae8d6d601::t_c20febe1cbc7e8 239
+schemas/interop/record-vectors.json
+  s_9ba9506c927f10::t_922ddc53f060b7 29-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b624261ef8be7982105eac537beaa0c04184d425",
+  "prompts": {},
+  "sessions": {
+    "s_23c82ae8d6d601": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e167c7b-6352-41ea-a3a6-700553c61c3f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_9ba9506c927f10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "043a8f6b-bd5a-47b1-a67e-9b1f3790194f",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
