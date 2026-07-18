@@ -1,0 +1,25 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_64c7ade1f3dab6::t_f8f7e823224ce6 252-255
+crates/vidi-lang/src/conformance.rs
+  s_64c7ade1f3dab6::t_321358496a4fe6 992-996,999,1002-1003,1006,1009-1011,1014-1015,1183-1201
+  s_64c7ade1f3dab6::t_aa861b0fc7c0fb 997-998,1000-1001,1004-1005,1007-1008,1012-1013
+  s_64c7ade1f3dab6::t_eed9a97c26d24a 1202
+crates/vidi-lang/src/prose.rs
+  s_64c7ade1f3dab6::t_9e1e4ab18ce590 210-216
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "92fe00c2ece876e6b268a63e2b3ccf5825ca8ad0",
+  "prompts": {},
+  "sessions": {
+    "s_64c7ade1f3dab6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49069942-5883-473f-ac36-ab91685ae3ff",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
