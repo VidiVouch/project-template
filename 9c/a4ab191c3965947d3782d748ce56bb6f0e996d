@@ -1,0 +1,49 @@
+crates/vidi-py/tests/test_bridge_conformance.py
+  s_64c7ade1f3dab6::t_37cde477c0155d 96,103-110,112-115,117
+  s_64c7ade1f3dab6::t_4ffdec5faeea91 123-124
+  s_64c7ade1f3dab6::t_dea54459fd0c76 118-122
+  s_64c7ade1f3dab6::t_5ca97c120b13fe 59-60
+  s_64c7ade1f3dab6::t_ef452c06316f7f 61-62,67,70
+  s_64c7ade1f3dab6::t_a3b19553648a17 58,71,111,116
+schemas/interop/py-bridge-vectors.json
+  s_64c7ade1f3dab6::t_c16e72f1cd7ead 42
+crates/vidi-core/src/crypto/error.rs
+  s_64c7ade1f3dab6::t_8a3af594ec38c9 43-45
+  s_64c7ade1f3dab6::t_e8c8e5227ee9d6 88
+crates/vidi-py/src/lib.rs
+  s_e0463c2f683c4c::t_c555c9567465c6 241-242
+  s_64c7ade1f3dab6::t_3e964f3234ffeb 209,232-234,236,238
+  s_64c7ade1f3dab6::t_2d10d2fef33503 183-185,189
+  s_64c7ade1f3dab6::t_cd41ac778a1009 235,237,239-240
+  s_64c7ade1f3dab6::t_a3d421901e0da0 249-251,265-271
+  s_64c7ade1f3dab6::t_c6972067f3710d 274-278
+  s_64c7ade1f3dab6::t_619469816ad8ea 292,296-304,310
+  s_64c7ade1f3dab6::t_3fb021498a5a78 169-170
+  s_64c7ade1f3dab6::t_09181bd6af31a1 246
+crates/vidi-core/tests/py_bridge_vectors.rs
+  s_64c7ade1f3dab6::t_5ade495d27f807 256-259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "9ca4ab191c3965947d3782d748ce56bb6f0e996d",
+  "prompts": {},
+  "sessions": {
+    "s_64c7ade1f3dab6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49069942-5883-473f-ac36-ab91685ae3ff",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_e0463c2f683c4c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "30cdfdc5-ecd5-432a-8695-b8c435d88e14",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
