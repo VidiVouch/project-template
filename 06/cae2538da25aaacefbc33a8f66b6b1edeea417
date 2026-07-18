@@ -1,0 +1,45 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_64c7ade1f3dab6::t_23607bfc839f2a 224-231,243-248,250-255,286-298,300,304,306-318,350-353,355-358
+  s_64c7ade1f3dab6::t_91ac6469ffc508 235-237,242
+  s_64c7ade1f3dab6::t_65fc22b8380732 232-234,238-241,249,256-285,299,301-303,305,319-349
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCli.kt
+  s_64c7ade1f3dab6::t_b67ce5fb406c53 78-87,90
+editors/jetbrains/swap.sh
+  s_64c7ade1f3dab6::t_6bdc3369fca0e1 4-8,14,23-30
+  s_64c7ade1f3dab6::t_aa086a4991f8fd 20-22
+  s_64c7ade1f3dab6::t_f4bbb14beb36e9 31
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoverageParseTest.kt
+  s_64c7ade1f3dab6::t_d03853745da908 162
+  s_64c7ade1f3dab6::t_6c9ec108ec3fe6 6
+  s_64c7ade1f3dab6::t_b1fac810a71d1a 119-161
+  s_64c7ade1f3dab6::t_1013658b3ae424 94-118
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/PolicyTomlTest.kt
+  s_64c7ade1f3dab6::t_7a6e03261b25e2 130,134,137,139-142
+  s_64c7ade1f3dab6::t_6052cbf97d9d9a 135
+  s_64c7ade1f3dab6::t_9e34852b17660c 114-129,131-133,136,138,143
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyPanel.kt
+  s_64c7ade1f3dab6::t_7ed0417c3fc32c 682
+  s_64c7ade1f3dab6::t_21305157da73eb 512
+  s_64c7ade1f3dab6::t_edaf24c2eaa73a 509-511
+  s_64c7ade1f3dab6::t_1085d6d16093c9 264-265,270-273
+  s_64c7ade1f3dab6::t_6dd130468accb3 604
+  s_64c7ade1f3dab6::t_3fd00e6629946f 611
+  s_64c7ade1f3dab6::t_be8d1b1ab9224e 541
+  s_64c7ade1f3dab6::t_de8b88b2999dd4 692
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "06cae2538da25aaacefbc33a8f66b6b1edeea417",
+  "prompts": {},
+  "sessions": {
+    "s_64c7ade1f3dab6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49069942-5883-473f-ac36-ab91685ae3ff",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
