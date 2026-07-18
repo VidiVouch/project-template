@@ -1,0 +1,19 @@
+design/FEEDBACK.md
+  s_d9e71e7883dcbe::t_b5c88b3696aea6 117-166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b30a643b9c1901e51be07c8ff7c14a74ec2deb79",
+  "prompts": {},
+  "sessions": {
+    "s_d9e71e7883dcbe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c5719d48-49f7-4aa2-8bbd-7e0e71a10a3d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
