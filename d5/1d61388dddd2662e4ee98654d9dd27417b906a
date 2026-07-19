@@ -1,0 +1,27 @@
+schemas/brand/README.md
+  s_3df86c7ca5259b::t_e677eeb94dc464 1-60
+schemas/brand/cyanotype.css
+  s_3df86c7ca5259b::t_4e16202f9c0a34 1-321
+schemas/brand/field-coverage-pattern.md
+  s_3df86c7ca5259b::t_98ea17c1593fe8 1-77
+schemas/brand/status-ramp.tokens.json
+  s_3df86c7ca5259b::t_3e5e7f25444aae 1-106
+schemas/brand/version-handshake.md
+  s_3df86c7ca5259b::t_3bcc35af9dca7d 1-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d51d61388dddd2662e4ee98654d9dd27417b906a",
+  "prompts": {},
+  "sessions": {
+    "s_3df86c7ca5259b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "93aed0cf-3240-4279-8907-98103b401da6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
