@@ -1,0 +1,19 @@
+REBUILD-EPOCHS.md
+  s_b0c41a2287f613::t_5aa998cdf14015 1-631
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "3800b8f4269f3d564128b2cef79c403181b91e73",
+  "prompts": {},
+  "sessions": {
+    "s_b0c41a2287f613": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f7358db9-b3ed-4d8a-8f78-125b9a023661",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
