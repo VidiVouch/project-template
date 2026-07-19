@@ -1,13 +1,14 @@
 deny.toml
-  s_563f5ba883e193::t_ad6222878162e3 1-2,4-7,10-11,25-26,31-32
-  s_9832363861b899::t_518ceef4f12d5b 30
-  s_9832363861b899::t_389ad3bc518f99 16-21
+  s_563f5ba883e193::t_ad6222878162e3 1-2,4-7,10-11,34-35
   s_9832363861b899::t_84e708b54e4ae4 15
+  s_5930423a812e22::t_de444bb0fc0296 25-29
+  s_9832363861b899::t_518ceef4f12d5b 33
+  s_9832363861b899::t_389ad3bc518f99 16-21
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.14",
-  "base_commit_sha": "c738da35add0f9fb06ae22bfeae8914905c7ea3b",
+  "base_commit_sha": "241d59bc0d99b7887554b4e16c4f1fa859170679",
   "prompts": {},
   "sessions": {
     "s_563f5ba883e193": {
@@ -17,6 +18,14 @@ deny.toml
         "model": "claude-opus-4-8"
       },
       "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5930423a812e22": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "513008ab-d6b2-426e-b308-e106a51d1091",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
     },
     "s_9832363861b899": {
       "agent_id": {
