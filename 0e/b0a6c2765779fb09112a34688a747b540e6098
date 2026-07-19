@@ -1,0 +1,41 @@
+README.md
+  s_5930423a812e22::t_9fda9b47f6ed0f 21
+  s_5930423a812e22::t_2744f719b86fbe 8
+  s_5930423a812e22::t_c9306630cba27e 82-83,86-89,92-96
+  s_5930423a812e22::t_5ab2a84681b674 104,106,108-110,112-113,115-120,122,124-131
+  s_5930423a812e22::t_d7a1773dcafabc 9-11
+  s_5930423a812e22::t_8db26b959d2b71 19-20
+  s_5930423a812e22::t_7bd182d967c28a 22-24
+  s_5930423a812e22::t_24811dc137d77c 1,3-6,13-15,17,25-53,57,60,64,66-67,72,77,80,98-102,133,135-139,141,143-147,149,151
+REVIEW.md
+  s_5930423a812e22::t_b9cc196c13cd4c 47-52
+  s_99dcda38415784::t_784472aa9807ca 3-4,8-43,53-66,70,72-86
+LICENSE.md
+  s_5930423a812e22::t_2a165df5c9a706 1,10-13
+AGENTS.md
+  s_5930423a812e22::t_ec0a7bf3223d20 5-7,11-12,17-27,32-42,46-50,54-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "0eb0a6c2765779fb09112a34688a747b540e6098",
+  "prompts": {},
+  "sessions": {
+    "s_5930423a812e22": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "513008ab-d6b2-426e-b308-e106a51d1091",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_99dcda38415784": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c61705fc-489e-4112-b9f6-5aeaf08608f4",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
