@@ -1,0 +1,21 @@
+.github/workflows/audit.yml
+  s_3df86c7ca5259b::t_fcdcffb9c37b74 20
+.github/workflows/lint.yml
+  s_3df86c7ca5259b::t_d65e6353b3dec5 19,25,28,32-41,45,53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "9ad49335f164d2b6b5c21a5f489d9faf62c9c207",
+  "prompts": {},
+  "sessions": {
+    "s_3df86c7ca5259b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "93aed0cf-3240-4279-8907-98103b401da6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
