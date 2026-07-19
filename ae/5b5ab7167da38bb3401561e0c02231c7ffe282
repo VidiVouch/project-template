@@ -1,0 +1,19 @@
+Cargo.toml
+  s_9832363861b899::t_f08feaf6764615 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "ae5b5ab7167da38bb3401561e0c02231c7ffe282",
+  "prompts": {},
+  "sessions": {
+    "s_9832363861b899": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "802439c0-5179-4db1-9a14-4bca48b02459",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
