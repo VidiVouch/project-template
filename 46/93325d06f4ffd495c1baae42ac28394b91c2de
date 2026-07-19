@@ -14,7 +14,7 @@ crates/vidi-lang/Cargo.toml
 crates/vidi-core/tests/content_id_trap_vectors.rs
   s_9f62b6ef5efa63::t_e877b278bdf0a2 1-276
 Cargo.lock
-  s_9f62b6ef5efa63::t_6eb832294bdd0d 1681-1682
+  s_9f62b6ef5efa63::t_6eb832294bdd0d 1681-1682,1683-1684
 ---
 {
   "schema_version": "authorship/3.0.0",
