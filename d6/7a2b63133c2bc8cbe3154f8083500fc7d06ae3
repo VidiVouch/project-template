@@ -1,87 +1,41 @@
-schemas/brand/version-handshake.md
-  s_9832363861b899::t_f8fed31f70fa6d 4-5
-  s_66bc780e7bb7cf::t_c45b3deb48b7df 6-8
-  s_9832363861b899::t_80359dc45d5d0e 74
-  s_563f5ba883e193::t_ad6222878162e3 3,14,16-18,29-30,42-43,45-50,54-60
-  s_2b3dfd187453cf::t_dcaa8ca72cfa51 1-2,9-13,15,19-28,31-41,44,51-53,61,63,66-70
-  s_66bc780e7bb7cf::t_cbd0090258e909 62,64-65,71-73,75-76
-schemas/brand/field-coverage-pattern.md
-  s_9832363861b899::t_48869f09a1347a 4,15-17,42-43,68,70,77
-  s_563f5ba883e193::t_ad6222878162e3 10,12-13,24,28,31-32,34-35,39-41,48-51,74-75
-  s_66bc780e7bb7cf::t_14bab768c0ad92 21-22
-  s_66bc780e7bb7cf::t_27092f45d9c28b 53,55-56,62-66
-  s_66bc780e7bb7cf::t_4d9011a58e4c3d 47
-  s_2b3dfd187453cf::t_7ef29d9b4678b4 1-3,7-9,11,14,18-20,23,25-27,29-30,33,36-38,44-46,52,54,57-61,67,69,71-73,76
-  s_66bc780e7bb7cf::t_23bd6e16ebb8e4 5-6
-schemas/brand/status-ramp.tokens.json
-  s_e8092d3aa1de0c::t_152ef686695d69 48
-  s_2b3dfd187453cf::t_5b53650958e6e5 1-4,6-12,14-47,49-106
-  s_9832363861b899::t_5c751b504d2e2d 5
-  s_e8092d3aa1de0c::t_fb42a4f979d4dd 13
 schemas/brand/cyanotype.css
-  s_e8092d3aa1de0c::t_4325edd1808fb3 141-142
-  s_2b3dfd187453cf::t_a6898eedfff653 1,3,10-14,19-43,45-49,51-75,78-113,115-125,127-140,143-155,157-239,245-291,293-320
-  s_e8092d3aa1de0c::t_9a0f85ff0dca23 76-77
-  s_e8092d3aa1de0c::t_9c2fea7a8e8928 114
-  s_e8092d3aa1de0c::t_24439e594dcdd1 126
-  s_e8092d3aa1de0c::t_bb3743a866cc13 2,4-9,15-18
-  s_e8092d3aa1de0c::t_0324e59bd824a6 44
-  s_e8092d3aa1de0c::t_4d7fb83bfc51b2 50
-  s_e8092d3aa1de0c::t_a8b64ca012f31a 240-244
-  s_e8092d3aa1de0c::t_f33e418ec708ad 292
-  s_e8092d3aa1de0c::t_30ceb1bb18fda1 156
+  s_de5660f286a8d6::t_52aa8577022473 5-9
+  s_d438b464f9386d::t_14541c96be1562 1-4,10-321
 schemas/brand/README.md
-  s_66bc780e7bb7cf::t_397524050a46aa 40,42-43
-  s_66bc780e7bb7cf::t_1efba631e865c8 6,8-9
-  s_9832363861b899::t_fd83dc62f2d700 1,4-5,7,15-16,18,28,30-33,44-49,51-54
-  s_563f5ba883e193::t_ad6222878162e3 3,17,22-24,29,34,38,50,55,57
-  s_2b3dfd187453cf::t_328e932f27f4d8 2,10-14,19-21,25-27,35-37,39,41,56,58
+  s_de5660f286a8d6::t_447c3147943eaa 15-16
+  s_de5660f286a8d6::t_4c03aa5369a4d4 45-55
+  s_d438b464f9386d::t_1d35b3042b44b1 1-14,17-44,56-59
+schemas/brand/status-ramp.tokens.json
+  s_de5660f286a8d6::t_b73456443f5c97 5
+  s_de5660f286a8d6::t_28d1ee51bf4b1c 2-4
+  s_de5660f286a8d6::t_6db63a2afa59ce 6-8
+  s_de5660f286a8d6::t_5884228d88ab64 1,9-106
+schemas/brand/field-coverage-pattern.md
+  s_de5660f286a8d6::t_9244594d294f45 1-77
+schemas/brand/version-handshake.md
+  s_de5660f286a8d6::t_45acd804520fa0 1-76
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.14",
-  "base_commit_sha": "e14fbc8245ef6b9b6c2d926ae6cb660268575b49",
+  "base_commit_sha": "d67a2b63133c2bc8cbe3154f8083500fc7d06ae3",
   "prompts": {},
   "sessions": {
-    "s_2b3dfd187453cf": {
+    "s_d438b464f9386d": {
       "agent_id": {
         "tool": "claude",
-        "id": "a643ed62-2dd0-420c-8fa0-03bd38367034",
-        "model": "claude-opus-4-8"
+        "id": "43a6cab1-c102-47c9-9388-2831d28fbf10",
+        "model": "gpt-5.6-sol"
       },
       "human_author": "Tom Price <tom@tomprice.ca>"
     },
-    "s_563f5ba883e193": {
+    "s_de5660f286a8d6": {
       "agent_id": {
         "tool": "claude",
-        "id": "d66f7036-713a-41f6-be5e-a3feae445eac",
+        "id": "b64a6beb-9545-4bec-b8d8-fbbe207497e6",
         "model": "claude-opus-4-8"
       },
       "human_author": "Tom Price <tom@tomprice.ca>"
-    },
-    "s_66bc780e7bb7cf": {
-      "agent_id": {
-        "tool": "claude",
-        "id": "91630967-7d07-451a-80e3-2efbce7571a5",
-        "model": "claude-opus-4-8"
-      },
-      "human_author": null
-    },
-    "s_9832363861b899": {
-      "agent_id": {
-        "tool": "claude",
-        "id": "802439c0-5179-4db1-9a14-4bca48b02459",
-        "model": "claude-opus-4-8"
-      },
-      "human_author": null
-    },
-    "s_e8092d3aa1de0c": {
-      "agent_id": {
-        "tool": "claude",
-        "id": "e4712e9a-b1a0-445e-9922-a0dd20ac8714",
-        "model": "claude-opus-4-8"
-      },
-      "human_author": null
     }
   }
 }
