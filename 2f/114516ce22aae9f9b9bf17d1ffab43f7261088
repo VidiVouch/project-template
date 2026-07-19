@@ -1,0 +1,23 @@
+design/D8-contract-ledger.json
+  s_3df86c7ca5259b::t_a254a052e5bde3 1-674
+design/README.md
+  s_3df86c7ca5259b::t_abe491a5d73628 1-18
+design/marker-widen-evidence.html
+  s_3df86c7ca5259b::t_a135e028249b33 1-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2f114516ce22aae9f9b9bf17d1ffab43f7261088",
+  "prompts": {},
+  "sessions": {
+    "s_3df86c7ca5259b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "93aed0cf-3240-4279-8907-98103b401da6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
