@@ -1,14 +1,15 @@
-REVIEW.md
-  s_9832363861b899::t_051cff6c80c2a8 37-40
-  s_563f5ba883e193::t_ad6222878162e3 3-4,8-33,36,41-46,50-67,71,73-90
-  s_9832363861b899::t_f5db60b94de676 34-35
 AGENTS.md
   s_563f5ba883e193::t_ad6222878162e3 5-7,11-12,17-27,32-42,46-50,54-66
+REVIEW.md
+  s_66bc780e7bb7cf::t_c59a6723d18cff 58-59
+  s_66bc780e7bb7cf::t_520a90e4501f7e 12-17
+  s_9832363861b899::t_f5db60b94de676 36-37
+  s_563f5ba883e193::t_ad6222878162e3 3-4,8-11,18-35,38-43,47-57,60-64,68,70-84
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.14",
-  "base_commit_sha": "d7c74a891ef56290a58e708e9e1e20818f9fee00",
+  "base_commit_sha": "cf9c12861e95b1973bb9fa549cc68ef939cca8a6",
   "prompts": {},
   "sessions": {
     "s_563f5ba883e193": {
@@ -19,13 +20,21 @@ AGENTS.md
       },
       "human_author": "Tom Price <tom@tomprice.ca>"
     },
+    "s_66bc780e7bb7cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "91630967-7d07-451a-80e3-2efbce7571a5",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    },
     "s_9832363861b899": {
       "agent_id": {
         "tool": "claude",
         "id": "802439c0-5179-4db1-9a14-4bca48b02459",
         "model": "claude-opus-4-8"
       },
-      "human_author": "Tom Price <tom@tomprice.ca>"
+      "human_author": null
     }
   }
 }
