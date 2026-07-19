@@ -1,0 +1,41 @@
+schemas/brand/cyanotype.css
+  s_de5660f286a8d6::t_52aa8577022473 5-9
+  s_d438b464f9386d::t_14541c96be1562 1-4,10-321
+schemas/brand/README.md
+  s_de5660f286a8d6::t_447c3147943eaa 15-16
+  s_de5660f286a8d6::t_4c03aa5369a4d4 45-55
+  s_d438b464f9386d::t_1d35b3042b44b1 1-14,17-44,56-59
+schemas/brand/status-ramp.tokens.json
+  s_de5660f286a8d6::t_b73456443f5c97 5
+  s_de5660f286a8d6::t_28d1ee51bf4b1c 2-4
+  s_de5660f286a8d6::t_6db63a2afa59ce 6-8
+  s_de5660f286a8d6::t_5884228d88ab64 1,9-106
+schemas/brand/field-coverage-pattern.md
+  s_de5660f286a8d6::t_9244594d294f45 1-77
+schemas/brand/version-handshake.md
+  s_de5660f286a8d6::t_45acd804520fa0 1-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "67d9a08f7c6392a2ad7b2a2382bce86c970dcbf9",
+  "prompts": {},
+  "sessions": {
+    "s_d438b464f9386d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "43a6cab1-c102-47c9-9388-2831d28fbf10",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_de5660f286a8d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b64a6beb-9545-4bec-b8d8-fbbe207497e6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
