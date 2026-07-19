@@ -1,0 +1,20 @@
+crates/vidi-py/src/lib.rs
+  s_563f5ba883e193::t_ffbf5b765f937c 12
+  s_563f5ba883e193::t_58c5f11a3ec47b 10-11,13-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a888826375f4d5750eb8991771149e1482d0b245",
+  "prompts": {},
+  "sessions": {
+    "s_563f5ba883e193": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d66f7036-713a-41f6-be5e-a3feae445eac",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
