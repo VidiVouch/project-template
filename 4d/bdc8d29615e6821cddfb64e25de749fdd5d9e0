@@ -1,0 +1,26 @@
+crates/vidi-lang/src/engine.rs
+  s_b5f08b4b8d4348::t_209908993d8e3b 149-163
+  s_b5f08b4b8d4348::t_428098c0c91b7c 192-196,198,200-217,219,241,245,261,266,271,274-276
+crates/vidi-lang/src/conformance.rs
+  s_b5f08b4b8d4348::t_e3d42c91e4c549 804-806,808,810-824
+  s_b5f08b4b8d4348::t_ffa6dbfc3bf148 807
+  s_b5f08b4b8d4348::t_aa560e8caaef08 759-803,809,825-826
+crates/vidi-cli/tests/json_report.rs
+  s_b5f08b4b8d4348::t_e19fb443e5eb78 2819-2867
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "4dbdc8d29615e6821cddfb64e25de749fdd5d9e0",
+  "prompts": {},
+  "sessions": {
+    "s_b5f08b4b8d4348": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f0a9ce2-1a81-46dc-a025-d4420241c47b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
