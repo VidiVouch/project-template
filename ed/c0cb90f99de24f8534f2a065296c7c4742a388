@@ -1,0 +1,30 @@
+crates/vidi-lang/src/conformance.rs
+  s_d5f3bf91addc6f::t_515a4055a7c653 778,805
+crates/vidi-lang/src/registry.rs
+  s_d5f3bf91addc6f::t_5cddf3361c1c99 538-550,554
+  s_d5f3bf91addc6f::t_84e17b7f3c1a63 591-596
+  s_d5f3bf91addc6f::t_c8c361e32de65d 1307-1317,1321
+  s_d5f3bf91addc6f::t_221f57ddda8546 1381-1386
+crates/vidi-lang/src/harvest_tests.rs
+  s_d5f3bf91addc6f::t_515a4055a7c653 104
+crates/vidi-lang/tests/vectors/unit_hash_trap_vectors.json
+  s_d5f3bf91addc6f::t_d4fb83facf3575 359-386
+  s_d5f3bf91addc6f::t_2714160ba30aff 544-571
+  s_d5f3bf91addc6f::t_3d509f65fa9407 140,221
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "edc0cb90f99de24f8534f2a065296c7c4742a388",
+  "prompts": {},
+  "sessions": {
+    "s_d5f3bf91addc6f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81533acf-4c78-43f6-b7f4-357eaa1856e3",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
