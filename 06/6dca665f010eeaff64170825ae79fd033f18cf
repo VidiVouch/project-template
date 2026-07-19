@@ -1,0 +1,33 @@
+design/D8-contract-ledger.json
+  s_2b3dfd187453cf::t_7c4b8856d88202 1-678
+design/README.md
+  s_2b3dfd187453cf::t_996bdc2359fc2a 1-5
+design/marker-widen-evidence.html
+  s_2b3dfd187453cf::t_abcfd3bfb37ed3 1-144
+schemas/brand/README.md
+  s_2b3dfd187453cf::t_328e932f27f4d8 1-62
+schemas/brand/cyanotype.css
+  s_2b3dfd187453cf::t_a6898eedfff653 1-319
+schemas/brand/field-coverage-pattern.md
+  s_2b3dfd187453cf::t_7ef29d9b4678b4 1-75
+schemas/brand/status-ramp.tokens.json
+  s_2b3dfd187453cf::t_5b53650958e6e5 1-106
+schemas/brand/version-handshake.md
+  s_2b3dfd187453cf::t_dcaa8ca72cfa51 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "066dca665f010eeaff64170825ae79fd033f18cf",
+  "prompts": {},
+  "sessions": {
+    "s_2b3dfd187453cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a643ed62-2dd0-420c-8fa0-03bd38367034",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
