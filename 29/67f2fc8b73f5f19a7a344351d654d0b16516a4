@@ -1,23 +1,14 @@
-crates/vidi-graph/Cargo.toml
-  s_4a5567b950a3f3::t_271eb73456f76a 3,14-16
-  s_4a5567b950a3f3::t_519c9365e8e299 17
-crates/vidi-graph/src/significance.rs
-  s_4a5567b950a3f3::t_a0529d3d339a8e 1-102
+crates/vidi-graph/src/resolve.rs
+  s_4a5567b950a3f3::t_3921798c5ac1dd 1-250,260,262-426
+  s_4a5567b950a3f3::t_1eaf0bab4d2392 261
+  s_4a5567b950a3f3::t_32103c9c6e2eae 251-259
 crates/vidi-graph/src/lib.rs
-  s_4a5567b950a3f3::t_a17169149c6d58 1-2,4-7,9-21,23-30
-crates/vidi-graph/src/reference.rs
-  s_4a5567b950a3f3::t_8ce4c224dba559 1-115
-Cargo.toml
-  s_4a5567b950a3f3::t_36f030155c1b7c 48-51
-crates/vidi-graph/src/provider.rs
-  s_4a5567b950a3f3::t_77a14f334ebb70 1-54
-Cargo.lock
-  s_4a5567b950a3f3::t_fd5d1fdb51a515 719-721
+  s_4a5567b950a3f3::t_b1b48625cbb387 19-20,28,33
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.14",
-  "base_commit_sha": "21975dc25f14d4245f0da954b7733d116c499082",
+  "base_commit_sha": "eeeed4a3b39edffbd6c8a29eca321c8d199f98e2",
   "prompts": {},
   "sessions": {
     "s_4a5567b950a3f3": {
@@ -32,12 +23,12 @@ Cargo.lock
 }
 
 crates/vidi-graph/src/lib.rs
-  s_4a5567b950a3f3::t_0b9494fb125707 18-19
+  s_4a5567b950a3f3::t_12877d3a0b8990 20
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.14",
-  "base_commit_sha": "241116c5262582135728f77af203efca45b3101e",
+  "base_commit_sha": "633f9ff56a998ddf8e9bce12b0799eba5a18974f",
   "prompts": {},
   "sessions": {
     "s_4a5567b950a3f3": {
