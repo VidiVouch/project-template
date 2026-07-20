@@ -1,0 +1,40 @@
+editors/vscode/src/contract/tree-model.ts
+  s_4f3b0a210c2559::t_a5db6ed743e49f 55-106
+  s_4f3b0a210c2559::t_9e37c4b1a13383 12-30
+editors/vscode/src/extension.ts
+  s_4f3b0a210c2559::t_aed8fb20d12cf1 89
+editors/vscode/package.json
+  s_4f3b0a210c2559::t_f158a0a1e4f1e6 133-136,140
+  s_4f3b0a210c2559::t_86e2a6c299c89d 71-74
+  s_4f3b0a210c2559::t_b8a1a4779708b5 70
+  s_4f3b0a210c2559::t_a5b48704b45290 132
+editors/vscode/src/tree.ts
+  s_4f3b0a210c2559::t_b03fe18c56567b 56-60
+  s_4f3b0a210c2559::t_32cd29f98130ff 43
+  s_4f3b0a210c2559::t_3da41c26d6aeaa 90-91
+  s_4f3b0a210c2559::t_9bf0b25d87ff03 32
+  s_4f3b0a210c2559::t_3bde7212146bd3 83-88
+  s_4f3b0a210c2559::t_609b1223da8ec5 121-130,136-141
+  s_4f3b0a210c2559::t_8fc52c12a92bdd 11-17
+editors/vscode/src/test/tree-model.test.ts
+  s_4f3b0a210c2559::t_b56c98ce33994f 4-10
+  s_4f3b0a210c2559::t_f3d4f5d1b01051 25-26,31,33-64
+  s_4f3b0a210c2559::t_310a6e99c78b7e 85-92
+  s_4f3b0a210c2559::t_ad145acc31073f 27-30,32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "3b0f4a709a2b9cb8459aa12b74b086aa1dd71339",
+  "prompts": {},
+  "sessions": {
+    "s_4f3b0a210c2559": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "31e5409e-e5fb-4338-b524-f1ecbe62ebe6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
