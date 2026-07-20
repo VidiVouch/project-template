@@ -1,0 +1,27 @@
+crates/vidi-core/tests/content_id_trap_vectors.rs
+  s_2589428288c681::t_83db0a110e8dc5 1-210
+crates/vidi-core/tests/roundtrip.rs
+  s_2589428288c681::t_a9416cfdaa66c6 1-175
+crates/vidi-core/tests/vectors/content_id_trap_vectors.json
+  s_2589428288c681::t_06fa076f80a315 1-11
+schemas/interop/content-id-vectors.json
+  s_2589428288c681::t_336dcaa12a2b97 1-19
+schemas/interop/digestset-vectors.json
+  s_2589428288c681::t_2ea01f7cb3319d 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "ef592de73fbb30026189495a3428be7a2d39fbe1",
+  "prompts": {},
+  "sessions": {
+    "s_2589428288c681": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f1cc58f6-e130-47bd-9ee7-a8b493d2bf60",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
