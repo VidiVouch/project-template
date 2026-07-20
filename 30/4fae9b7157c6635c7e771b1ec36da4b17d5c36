@@ -1,0 +1,19 @@
+crates/vidi-core/tests/wu11_conformance.rs
+  s_d790b5e7a566fa::t_187566abb33f22 1-656
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "304fae9b7157c6635c7e771b1ec36da4b17d5c36",
+  "prompts": {},
+  "sessions": {
+    "s_d790b5e7a566fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6713f966-dff7-44ff-834b-26e7d42ff7d7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
