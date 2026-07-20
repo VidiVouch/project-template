@@ -1,0 +1,31 @@
+schemas/examples/report-off-axis-minimal.json
+  s_d0d75261e7ffb5::t_a000d0f1d4c35b 1-43
+schemas/examples/report-on-axis.json
+  s_d0d75261e7ffb5::t_444467c4348514 1-98
+schemas/interop/conformance/conformance-1-current-v1.0.json
+  s_d0d75261e7ffb5::t_5cff711cfd5717 1-193
+schemas/interop/conformance/conformance-2-minor-extra-field.json
+  s_d0d75261e7ffb5::t_4164a24ccdfb2c 1-48
+schemas/interop/conformance/conformance-3-minor-unknown-enum.json
+  s_d0d75261e7ffb5::t_453a6a9fdff132 1-51
+schemas/interop/conformance/conformance-4-major-ahead.json
+  s_d0d75261e7ffb5::t_9a67f51bbd51e0 1-34
+schemas/vidi-json-v1.schema.json
+  s_d0d75261e7ffb5::t_2dd4f126703927 1-602
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "30898a252179ed691cdb3a7185ff43a59b5bcf0f",
+  "prompts": {},
+  "sessions": {
+    "s_d0d75261e7ffb5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62a05ee0-626f-49a5-8b20-f04c15d8b5f9",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
