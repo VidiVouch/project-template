@@ -1,0 +1,19 @@
+crates/vidi-lang/tests/cache_invariance.rs
+  s_09d127744db0a9::t_477e41843009a9 1-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2763d7333485ad5e68ffa0b2ef7dbd57a59118bb",
+  "prompts": {},
+  "sessions": {
+    "s_09d127744db0a9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a20bb679-5be6-4fd6-a917-000f444216f3",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
