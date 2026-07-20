@@ -1,0 +1,46 @@
+crates/vidi-core/src/crypto/key.rs
+  s_7f0c90fe157128::t_a3f7273bd31c30 1-90,92-154
+  s_7f0c90fe157128::t_074634b7c053f6 91
+crates/vidi-core/src/crypto/mod.rs
+  s_7f0c90fe157128::t_ab6eba94d3b972 3-5,8-16,21-23,26,28-33
+Cargo.toml
+  s_7f0c90fe157128::t_bd1286168d8271 55-63
+crates/vidi-core/src/crypto/pae.rs
+  s_7f0c90fe157128::t_074634b7c053f6 45-48
+  s_7f0c90fe157128::t_b0567ab107777f 1-44,49-72
+crates/vidi-core/Cargo.toml
+  s_7f0c90fe157128::t_8a9ad70dd9a091 24-25,28-33
+  s_7f0c90fe157128::t_8e8648675d5cf9 34
+crates/vidi-core/src/ledger/mod.rs
+  s_7f0c90fe157128::t_822ab90987f30c 16-18
+crates/vidi-core/src/crypto/keyid.rs
+  s_7f0c90fe157128::t_9184dd69a2aa37 1-98
+crates/vidi-core/src/crypto/hex.rs
+  s_7f0c90fe157128::t_8dc23d1bc9e0e1 1-101
+crates/vidi-core/src/crypto/error.rs
+  s_7f0c90fe157128::t_85fc824e36758e 1-105
+deny.toml
+  s_7f0c90fe157128::t_a0bc42137bec0c 23
+crates/vidi-core/src/ledger/base64.rs
+  s_7f0c90fe157128::t_d23b32956bd5b4 14-19
+  s_7f0c90fe157128::t_4c5ce2943be1c5 62-63
+  s_7f0c90fe157128::t_97f9c0bdbc4647 7-8
+Cargo.lock
+  s_7f0c90fe157128::t_b481a7399088e9 23-28,61-70,89-94,101-109,119-199,222-227,240-260,339-348,420,430-439,457,466-474,500-505,558-568,575-599,674-679,692-697,707,712,741-746,803-808
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8e84b95ef6d38765a240ad6e4222464e002a6a02",
+  "prompts": {},
+  "sessions": {
+    "s_7f0c90fe157128": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "145b83d4-7458-412e-a4fc-f8fffc47de9c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
