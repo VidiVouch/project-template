@@ -1,0 +1,53 @@
+crates/vidi-core/src/policy/diagnostics.rs
+  s_2e57ddfab7dec4::t_515aaf402700c1 174-177,525-528,545-548,637-641,668-671,680-683,745-750,864-867,869-872
+  s_2e57ddfab7dec4::t_77186510fa9075 1-5,7-173,178-524,529-544,549-636,642-667,672-679,684-744,751-863,868,873-881
+  s_2e57ddfab7dec4::t_753301cac5ae2c 6
+crates/vidi-core/src/policy/globs.rs
+  s_2e57ddfab7dec4::t_515aaf402700c1 93-100
+  s_2e57ddfab7dec4::t_7eb31c46914c76 1-92,101-140
+crates/vidi-core/src/policy/gate.rs
+  s_2e57ddfab7dec4::t_e5502cf1b15e50 22
+  s_2e57ddfab7dec4::t_515aaf402700c1 292-301,354-358,467-469,523-527,534-538,561-565,618-625,809-813,821-825,873-875,1022-1026,1034-1038,1070-1074,1093-1097
+  s_2e57ddfab7dec4::t_16bd9742cbf0e8 1-21,23-90,92-291,302-353,359-466,470-522,528-533,539-560,566-617,626-808,814-820,826-872,876-1021,1027-1033,1039-1069,1075-1092,1098-1100
+  s_2e57ddfab7dec4::t_ddc9742b636cbc 91
+crates/vidi-core/src/policy/discovery.rs
+  s_2e57ddfab7dec4::t_aea55b0f7cbfae 1-225,230-276
+  s_2e57ddfab7dec4::t_515aaf402700c1 226-229
+crates/vidi-core/src/policy/mod.rs
+  s_2e57ddfab7dec4::t_020604960d7656 37-39
+  s_2e57ddfab7dec4::t_fcc57df048f705 50-51
+  s_2e57ddfab7dec4::t_7cda1be197e014 1-11,13-36,40-49,52-134,139-146,151-152
+  s_2e57ddfab7dec4::t_a2e6cc686f5501 12
+  s_2e57ddfab7dec4::t_515aaf402700c1 135-138,147-150
+crates/vidi-core/Cargo.toml
+  s_2e57ddfab7dec4::t_725ecc330fc599 17-18,23-27,35-39
+  s_2e57ddfab7dec4::t_a1f55c9c747118 40
+crates/vidi-core/src/lib.rs
+  s_2e57ddfab7dec4::t_725ecc330fc599 14-19,30
+crates/vidi-core/src/policy/proptests.rs
+  s_2e57ddfab7dec4::t_9886485b268ae2 1-109
+crates/vidi-core/src/policy/schema.rs
+  s_2e57ddfab7dec4::t_515aaf402700c1 286-289
+  s_2e57ddfab7dec4::t_6cc0a8f8691012 1-24,27-285,290-306
+  s_2e57ddfab7dec4::t_ec78b5b5c0f726 25-26
+Cargo.toml
+  s_2e57ddfab7dec4::t_725ecc330fc599 43-46,52-53
+Cargo.lock
+  s_2e57ddfab7dec4::t_0e58c46f70f93d 17-43,89-110,117-161,174-179,186-209,219-243,253-333,361,377-385,392-402,414-471,488,491,510-574
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b34e9b58a2c32c967325714130a88bda0788bfce",
+  "prompts": {},
+  "sessions": {
+    "s_2e57ddfab7dec4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d5d5136-fb2f-42b7-9a64-7a0adcf660ad",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
