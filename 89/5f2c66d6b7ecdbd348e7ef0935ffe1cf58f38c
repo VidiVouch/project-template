@@ -1,5 +1,5 @@
 crates/vidi-graph/src/lib.rs
-  s_4a5567b950a3f3::t_e3096004710c5e 21-22,28-29,33,39,41-137
+  s_4a5567b950a3f3::t_e3096004710c5e 21-22,22-23,28-29,29-30,33,34,39,40,41-137,42-138
 crates/vidi-graph/src/score.rs
   s_4a5567b950a3f3::t_2e97d17923ac5a 1-171
 ---
