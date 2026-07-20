@@ -1,0 +1,21 @@
+.github/workflows/d8-pin-sweep.yml
+  s_7f0c90fe157128::t_b8fd8732c0b7fe 1-24
+scripts/d8-pin-sweep.py
+  s_7f0c90fe157128::t_1452bdf45f3d9e 1-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f9f9ae424ebc153301eb7ec114b8538297a0b080",
+  "prompts": {},
+  "sessions": {
+    "s_7f0c90fe157128": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "145b83d4-7458-412e-a4fc-f8fffc47de9c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
