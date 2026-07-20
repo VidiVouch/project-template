@@ -2,6 +2,9 @@ crates/vidi-graph/src/churn.rs
   s_4a5567b950a3f3::t_aed4a124a491a1 1-68
 crates/vidi-graph/src/lib.rs
   s_4a5567b950a3f3::t_e3f09792be3f4b 25-26,32
+  s_4a5567b950a3f3::t_e3096004710c5e 21-22,30-31,36,42,44-47,49-140
+crates/vidi-graph/src/score.rs
+  s_4a5567b950a3f3::t_2e97d17923ac5a 1-171
 ---
 {
   "schema_version": "authorship/3.0.0",

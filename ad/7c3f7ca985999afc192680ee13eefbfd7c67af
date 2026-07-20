@@ -2,6 +2,7 @@ crates/vidi-graph/src/conformance.rs
   s_4a5567b950a3f3::t_4469e73d9d5c3e 1-622
 crates/vidi-graph/src/lib.rs
   s_4a5567b950a3f3::t_3732c034ee2550 39-41
+  s_4a5567b950a3f3::t_e3708fb9852909 51
 ---
 {
   "schema_version": "authorship/3.0.0",
