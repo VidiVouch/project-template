@@ -1,0 +1,23 @@
+crates/vidi-py/tests/test_bridge_conformance.py
+  s_5858f378b78b44::t_97bf49891ce1fc 1-152
+crates/vidi-py/pyproject.toml
+  s_5858f378b78b44::t_58e3f4dae99a24 1-26
+uv.lock
+  s_5858f378b78b44::t_46703735951cf9 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "551eb1c050a2698989bc71f8b22e2ac98a627d2b",
+  "prompts": {},
+  "sessions": {
+    "s_5858f378b78b44": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca4b156f-2985-43e7-9213-fd3ae29daa37",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
