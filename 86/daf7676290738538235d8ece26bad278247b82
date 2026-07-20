@@ -1,15 +1,13 @@
 crates/vidi-graph/src/conformance.rs
-  s_4a5567b950a3f3::t_4469e73d9d5c3e 1-622
+  s_4a5567b950a3f3::t_bf9f2ab3413dd8 496-501,503-510,512-517
+  s_4a5567b950a3f3::t_4469e73d9d5c3e 1-495,502,511,518-623
 crates/vidi-graph/src/lib.rs
-  s_4a5567b950a3f3::t_3732c034ee2550 39-41,40-42
-  s_4a5567b950a3f3::t_e3708fb9852909 51,52
-  s_4a5567b950a3f3::t_0b9494fb125707 18-19
-  s_4a5567b950a3f3::t_12877d3a0b8990 20
+  s_4a5567b950a3f3::t_3732c034ee2550 40-42
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.14",
-  "base_commit_sha": "fb2981a04278b8121b3ee7a21b59af1157f3ece7",
+  "base_commit_sha": "86daf7676290738538235d8ece26bad278247b82",
   "prompts": {},
   "sessions": {
     "s_4a5567b950a3f3": {
@@ -18,7 +16,7 @@ crates/vidi-graph/src/lib.rs
         "id": "bb963104-ff5e-47b5-bfcc-2c54468175ba",
         "model": "claude-opus-4-8"
       },
-      "human_author": "Tom Price <tom@tomprice.ca>"
+      "human_author": null
     }
   }
 }
