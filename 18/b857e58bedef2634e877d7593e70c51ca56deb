@@ -1,0 +1,63 @@
+editors/jetbrains/src/main/resources/icons/vidi.svg
+  s_82a67a9c6793b1::t_a88c3833b2f8e4 1-4
+editors/jetbrains/README.md
+  s_eea7310cfab183::t_8584c2e9ee8528 1-49
+editors/jetbrains/src/main/resources/META-INF/pluginIcon_dark.svg
+  s_82a67a9c6793b1::t_a88c3833b2f8e4 1-16
+editors/jetbrains/settings.gradle.kts
+  s_eea7310cfab183::t_6f0bbe22326917 1-8
+editors/jetbrains/screenshots/README.md
+  s_eea7310cfab183::t_9e7471985c0ea5 1-41
+editors/jetbrains/.gitignore
+  s_eea7310cfab183::t_1bdbca637884cc 1-8
+editors/jetbrains/gradlew
+  s_82a67a9c6793b1::t_a88c3833b2f8e4 1-248
+editors/jetbrains/DEVELOPMENT.md
+  s_eea7310cfab183::t_633e64296d8813 1-58
+editors/jetbrains/src/main/resources/icons/vidi_dark.svg
+  s_82a67a9c6793b1::t_a88c3833b2f8e4 1-4
+editors/jetbrains/src/main/resources/icons/vidi@20x20.svg
+  s_82a67a9c6793b1::t_a88c3833b2f8e4 1-4
+editors/jetbrains/src/main/resources/META-INF/pluginIcon.svg
+  s_82a67a9c6793b1::t_a88c3833b2f8e4 1-16
+editors/jetbrains/src/main/resources/META-INF/plugin.xml
+  s_eea7310cfab183::t_c6c987ec5c3766 1-88
+editors/jetbrains/swap.sh
+  s_eea7310cfab183::t_0bbe4ff01b181d 1-88
+editors/jetbrains/gradle/wrapper/gradle-wrapper.properties
+  s_eea7310cfab183::t_b362021a172f8a 1-9
+editors/jetbrains/build.gradle.kts
+  s_eea7310cfab183::t_fe9c519d938112 1-121
+editors/jetbrains/gradlew.bat
+  s_82a67a9c6793b1::t_a88c3833b2f8e4 1-82
+editors/jetbrains/src/main/resources/icons/vidi@20x20_dark.svg
+  s_82a67a9c6793b1::t_a88c3833b2f8e4 1-4
+editors/jetbrains/gradle.properties
+  s_eea7310cfab183::t_d84cc496cd1358 1-11
+editors/jetbrains/dev-runide.sh
+  s_eea7310cfab183::t_5fc4eb120c7616 1-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "18b857e58bedef2634e877d7593e70c51ca56deb",
+  "prompts": {},
+  "sessions": {
+    "s_82a67a9c6793b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "118b78ad-c215-462a-ac15-780eeacdd65e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_eea7310cfab183": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0e82dae7-68e6-4841-ae98-055aa2f7a221",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
