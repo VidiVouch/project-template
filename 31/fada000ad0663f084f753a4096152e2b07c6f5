@@ -1,0 +1,22 @@
+Cargo.toml
+  s_178ba848af52b6::t_a344a35aed1897 104-108
+  s_178ba848af52b6::t_4a836002935cfd 89
+Cargo.lock
+  s_178ba848af52b6::t_d75cf4fcac1f42 120,125,127,129,169,171,191,193,198,215,217,232,234,278,280,282,287,289,292,313,315,318,335,337,344,346,390,392,480-488,594,596,638,640,875,885,903,1114,1116,1119,1131,1133,1853,1855,1862,1864
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "31fada000ad0663f084f753a4096152e2b07c6f5",
+  "prompts": {},
+  "sessions": {
+    "s_178ba848af52b6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9a28f2ce-14a9-4541-a5e5-1f36570bcfac",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
