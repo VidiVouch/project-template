@@ -1,0 +1,44 @@
+editors/vscode/src/contract/coverage.ts
+  s_ced4edfad0877c::t_bc277cb4242bc1 1-166
+editors/vscode/src/contract/model-names.ts
+  s_ced4edfad0877c::t_fd0d2b9460917b 1-46
+editors/vscode/src/contract/handshake.ts
+  s_ced4edfad0877c::t_c3562aff81e2d6 1-78
+editors/vscode/src/contract/schema-types.ts
+  s_ced4edfad0877c::t_824961abba4812 1-149
+editors/vscode/src/contract/decode.ts
+  s_5660e5f5705f48::t_4499302c8e6055 105
+  s_ced4edfad0877c::t_346b2fcff52d7a 1-104,106-235
+editors/vscode/src/contract/tokens.ts
+  s_ced4edfad0877c::t_98d9a66a46a546 1-81
+editors/vscode/src/contract/ingest.ts
+  s_ced4edfad0877c::t_13c4d2ad5bc345 1-41
+editors/vscode/src/contract/qualpath.ts
+  s_ced4edfad0877c::t_6d72feed149b7e 1-8
+editors/vscode/src/contract/tree-model.ts
+  s_ced4edfad0877c::t_1f82ff49deb079 1-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "6eee76a154f754807a5c2dfc60d919e56a84fb19",
+  "prompts": {},
+  "sessions": {
+    "s_5660e5f5705f48": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "11967310-4d3f-4554-97f0-9c4ec1b194cf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_ced4edfad0877c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e26f5a47-1925-40b4-8891-e5c42104f8e9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
