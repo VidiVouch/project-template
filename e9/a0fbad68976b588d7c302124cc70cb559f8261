@@ -1,0 +1,50 @@
+crates/vidi-cli/Cargo.toml
+  s_b22993a3b4110e::t_007d05025dc1b6 34-37
+  s_b22993a3b4110e::t_a4c2296e2f54f0 47-49
+crates/vidi-cli/src/history/mod.rs
+  s_b22993a3b4110e::t_eba89f23932114 15-21
+  s_b22993a3b4110e::t_b8711e14f7eb5e 1-14,22-220
+  s_b22993a3b4110e::t_38884bcf54d777 221-222
+crates/vidi-cli/src/history/interrogate.rs
+  s_b22993a3b4110e::t_9e7230d016a02b 1-316
+crates/vidi-cli/src/history/registry.rs
+  s_b22993a3b4110e::t_3b60ff59ac23ed 1-948
+crates/vidi-cli/src/commands.rs
+  s_b22993a3b4110e::t_dc59e260a1c3e2 59
+Cargo.toml
+  s_b22993a3b4110e::t_fed177bd73f94e 93-99
+crates/vidi-cli/src/history/sweep.rs
+  s_b22993a3b4110e::t_60d7f14b0978a9 180
+  s_b22993a3b4110e::t_b3e769e8acf8df 1034-1039
+  s_b22993a3b4110e::t_e7867afddb8c11 627-629
+  s_b22993a3b4110e::t_5d8420adfb98b0 1-179,181-626,630-1033,1040-1088
+  s_b22993a3b4110e::t_c3c13158ebb45f 1089-1096
+crates/vidi-cli/src/history/report.rs
+  s_b22993a3b4110e::t_35cac42faeec30 899-902
+  s_b22993a3b4110e::t_f39cf7c7c39dd6 12-14
+  s_b22993a3b4110e::t_face2628ffdfa6 1-11,15-898,903-1152
+  s_b22993a3b4110e::t_c212af8309bd37 1153-1170
+crates/vidi-cli/src/main.rs
+  s_b22993a3b4110e::t_b01e0c6cc79cc5 15
+crates/vidi-cli/src/cli.rs
+  s_b22993a3b4110e::t_13f476ad53c749 142-147
+  s_b22993a3b4110e::t_3d2ba18d67fd34 390-435
+Cargo.lock
+  s_b22993a3b4110e::t_0d6a39e8d5adb6 1647,1651
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "e9a0fbad68976b588d7c302124cc70cb559f8261",
+  "prompts": {},
+  "sessions": {
+    "s_b22993a3b4110e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd6f0feb-c2de-4994-940d-d22f322cd5cf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
