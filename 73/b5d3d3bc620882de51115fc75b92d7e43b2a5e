@@ -1,0 +1,23 @@
+crates/vidi-interop/src/lib.rs
+  s_706519f7eb782e::t_53f91afbc49b72 20-22,28
+crates/vidi-interop/src/handshake.rs
+  s_706519f7eb782e::t_fccb38217d46dc 1-11,13-65,70-110,125-145,154-158,163-231
+  s_706519f7eb782e::t_780b05ef81e931 12
+  s_706519f7eb782e::t_3d1911897aa21d 66-69,111-124,146-153,159-162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "73b5d3d3bc620882de51115fc75b92d7e43b2a5e",
+  "prompts": {},
+  "sessions": {
+    "s_706519f7eb782e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "61d8ae3b-c661-4022-972b-cf8afd5625e7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
