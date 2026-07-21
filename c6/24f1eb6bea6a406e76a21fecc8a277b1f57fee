@@ -1,0 +1,37 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiModelNames.kt
+  s_eea7310cfab183::t_a2e0009e26dd87 1-44
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPalette.kt
+  s_eea7310cfab183::t_24d052cb21d8fb 1-97
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/SchemaVersion.kt
+  s_eea7310cfab183::t_ca63a7c43fb645 1-95
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiSelectors.kt
+  s_eea7310cfab183::t_207f922f6317d8 1-81
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVerbs.kt
+  s_eea7310cfab183::t_5acafbac7cc76e 1-213
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_eea7310cfab183::t_1d3e616d56a809 1-361
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyFiles.kt
+  s_eea7310cfab183::t_d695e31e4f116e 1-22
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/RampTokens.kt
+  s_eea7310cfab183::t_43d5ebfdd8e3a9 1-95
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiText.kt
+  s_eea7310cfab183::t_3b2799cb27e5bb 1-63
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/SchemaWalker.kt
+  s_eea7310cfab183::t_b9b1297cb1c754 1-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "c624f1eb6bea6a406e76a21fecc8a277b1f57fee",
+  "prompts": {},
+  "sessions": {
+    "s_eea7310cfab183": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0e82dae7-68e6-4841-ae98-055aa2f7a221",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
