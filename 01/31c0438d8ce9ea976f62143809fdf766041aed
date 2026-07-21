@@ -1,0 +1,25 @@
+editors/jetbrains/build.gradle.kts
+  s_1a288a67f8b261::t_f3c5a38e1efe23 13-14
+editors/jetbrains/gradle/wrapper/gradle-wrapper.properties
+  s_1a288a67f8b261::t_697ddeab434868 3
+editors/jetbrains/gradlew
+  s_1a288a67f8b261::t_697ddeab434868 23,32
+editors/jetbrains/gradlew.bat
+  s_1a288a67f8b261::t_c2e5f7b134a9ed 22,75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "0131c0438d8ce9ea976f62143809fdf766041aed",
+  "prompts": {},
+  "sessions": {
+    "s_1a288a67f8b261": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f7904480-268e-401f-a404-db8e5b494545",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
