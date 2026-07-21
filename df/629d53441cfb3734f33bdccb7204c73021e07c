@@ -1,0 +1,22 @@
+crates/vidi-cli/tests/cli.rs
+  s_c9a9f9d6cb99cd::t_e7b315623c5ab6 89-90
+  s_c9a9f9d6cb99cd::t_3937fb4c5a475c 329-332,355-366,400-408,435-438,477-480
+  s_c9a9f9d6cb99cd::t_498e59db4bf512 30-33
+  s_c9a9f9d6cb99cd::t_acdb7b828b4af7 255-328,333-354,367-399,409-434,439-476,481-483
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "df629d53441cfb3734f33bdccb7204c73021e07c",
+  "prompts": {},
+  "sessions": {
+    "s_c9a9f9d6cb99cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0e13ef2d-76b0-47a2-9e56-ac3df5773354",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
