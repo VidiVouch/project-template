@@ -1,0 +1,29 @@
+editors/vscode/src/coverageService.ts
+  s_ced4edfad0877c::t_f5fbc10c809a76 1-117
+editors/vscode/src/statusbar-model.ts
+  s_ced4edfad0877c::t_29290474732cfd 1-79
+editors/vscode/src/runner.ts
+  s_ced4edfad0877c::t_47c48b1a60d456 1-122
+editors/vscode/src/verbs-logic.ts
+  s_ced4edfad0877c::t_30ddc4d1cd3b0c 1-181
+editors/vscode/src/present.ts
+  s_ced4edfad0877c::t_cdc216460eacd7 1-57
+editors/vscode/src/host.ts
+  s_ced4edfad0877c::t_8f177362e16b99 1-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "b8cc39984cd7b8f9965ffd5873ff3c70f237d743",
+  "prompts": {},
+  "sessions": {
+    "s_ced4edfad0877c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e26f5a47-1925-40b4-8891-e5c42104f8e9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
