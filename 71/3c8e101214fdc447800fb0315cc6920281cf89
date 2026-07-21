@@ -1,0 +1,30 @@
+crates/vidi-interop/src/conformance.rs
+  s_706519f7eb782e::t_ef7431ad454530 1-95,103-550,555-570,575,585-586
+  s_706519f7eb782e::t_8c4e217bfd8e98 96-102,551-554,571-574,576-584
+crates/vidi-interop/src/lib.rs
+  s_706519f7eb782e::t_af6b8ad2cb85d9 23-26,28-29,32
+schemas/interop/field-manifest.v1.json
+  s_706519f7eb782e::t_8c4e217bfd8e98 1-84
+crates/vidi-interop/src/gen_artifacts.rs
+  s_706519f7eb782e::t_8c4e217bfd8e98 37-40
+  s_706519f7eb782e::t_70f6cc503a79f9 20-25
+  s_706519f7eb782e::t_c50465eef9c2b5 1-19,26-36,41-48
+crates/vidi-interop/Cargo.toml
+  s_706519f7eb782e::t_70621a5fa7288d 22-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "713c8e101214fdc447800fb0315cc6920281cf89",
+  "prompts": {},
+  "sessions": {
+    "s_706519f7eb782e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "61d8ae3b-c661-4022-972b-cf8afd5625e7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
