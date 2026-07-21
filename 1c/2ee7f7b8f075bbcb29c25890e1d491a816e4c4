@@ -1,0 +1,55 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStatusBar.kt
+  s_eea7310cfab183::t_5a111d109bf1fb 1-113
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReviewPanel.kt
+  s_eea7310cfab183::t_407939226409c8 1-353
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiBadges.kt
+  s_eea7310cfab183::t_a554c39bc02a3d 1-126
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiFileType.kt
+  s_eea7310cfab183::t_21174af123e1ea 1-25
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiConfigurable.kt
+  s_eea7310cfab183::t_81fbc6f67035c9 1-242
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VouchAction.kt
+  s_eea7310cfab183::t_7524320d608ef0 1-197
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReviewFromAction.kt
+  s_eea7310cfab183::t_5b8ce2c57133eb 1-67
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiGutterHighlighter.kt
+  s_eea7310cfab183::t_4d27898839e904 1-144
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiToolWindowFactory.kt
+  s_eea7310cfab183::t_6b33df992cb512 1-624
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVouchPopup.kt
+  s_eea7310cfab183::t_f2ff529007b055 1-250
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStripeAnnotator.kt
+  s_eea7310cfab183::t_10395544be2a29 1-46
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyPanel.kt
+  s_eea7310cfab183::t_ca47a622abc5dd 1-710
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCheckinHandler.kt
+  s_eea7310cfab183::t_3eb54d6512e24c 1-113
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCoverageTree.kt
+  s_eea7310cfab183::t_c456ea4951bca1 1-124
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiInlayHints.kt
+  s_eea7310cfab183::t_f27594de00a8cf 1-130
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiSettings.kt
+  s_eea7310cfab183::t_a8eba069ca878e 1-68
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiMatrixPanel.kt
+  s_eea7310cfab183::t_98ba80ab8f9aa9 1-376
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VerbActions.kt
+  s_eea7310cfab183::t_24b03360bf6128 1-152
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiLineMarkerProvider.kt
+  s_eea7310cfab183::t_06016101a4c656 1-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "1c2ee7f7b8f075bbcb29c25890e1d491a816e4c4",
+  "prompts": {},
+  "sessions": {
+    "s_eea7310cfab183": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0e82dae7-68e6-4841-ae98-055aa2f7a221",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
