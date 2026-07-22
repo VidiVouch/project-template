@@ -1,0 +1,52 @@
+crates/vidi-cli/src/commands.rs
+  s_d541d5391680ee::t_2ebf137af68e56 662,1956-1962,1967-1985,1994-1997,2002-2003
+  s_d541d5391680ee::t_11e11bfa1acdc3 401-403,411-413,661,1963-1966,1986-1993,1998-2001
+  s_d541d5391680ee::t_05b2f347b99932 674-678,681-685,694
+  s_d541d5391680ee::t_6901aa4ea5dc68 395-400,404-410,414-444
+  s_d541d5391680ee::t_a3494f5c8e75c7 660
+  s_d541d5391680ee::t_2d868eb4703939 664-673,679-680,686-690
+  s_d541d5391680ee::t_8a2c88f2aedd76 691-692,695
+  s_d541d5391680ee::t_c0deb03d490f28 663
+editors/vscode/src/test/qualpath.test.ts
+  s_d541d5391680ee::t_28c3e6706293b1 1-31
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoverageExpansionTest.kt
+  s_d541d5391680ee::t_a4891c0fbb0e76 1-45,52-62,64-96
+  s_d541d5391680ee::t_a9726ce6e88235 46-51
+  s_d541d5391680ee::t_d297af93ccb571 63
+editors/vscode/src/webview.ts
+  s_d541d5391680ee::t_b60a41185a75d6 7
+  s_d541d5391680ee::t_9af66b1181737d 114,117
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/ProseLabelTest.kt
+  s_d541d5391680ee::t_70c5c23e75cf15 1-44
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiToolWindowFactory.kt
+  s_d541d5391680ee::t_ee38a6836522d4 628-630,632
+  s_d541d5391680ee::t_b1e39a34954ca6 226
+  s_d541d5391680ee::t_20cd848af77f39 258-260,271,274-276,285
+  s_d541d5391680ee::t_35b38e4ef81b81 52-55,61-62,66-97
+  s_d541d5391680ee::t_1c2aae91e19623 277,286
+  s_d541d5391680ee::t_ae29f61b25f063 645,647
+  s_d541d5391680ee::t_0938a3a004b73e 98
+editors/vscode/src/tree.ts
+  s_d541d5391680ee::t_ac6fc3d85d15d3 74-77
+  s_d541d5391680ee::t_e4291b492dac28 10
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCoverageService.kt
+  s_d541d5391680ee::t_ccb1c78d970caf 273-299
+editors/vscode/src/contract/qualpath.ts
+  s_d541d5391680ee::t_cc771eef7ecb63 9-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "9019d96803e576cc67c4958635c5dabb7bc275d4",
+  "prompts": {},
+  "sessions": {
+    "s_d541d5391680ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d8f4df31-4376-4257-866e-ff435751f964",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
