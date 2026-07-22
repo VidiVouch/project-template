@@ -1,0 +1,19 @@
+crates/vidi-core/src/error.rs
+  s_d8405927f03148::t_68f8518c41ddbc 222-225
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "2b71c27bbfab2d7ef816f1285af84d60e30547a5",
+  "prompts": {},
+  "sessions": {
+    "s_d8405927f03148": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8244d3ee-81d0-4af5-bb44-b290a5dfd173",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
