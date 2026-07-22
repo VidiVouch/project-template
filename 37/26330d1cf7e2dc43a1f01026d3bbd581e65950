@@ -2,6 +2,12 @@ crates/vidi-cli/src/provenance.rs
   s_d8405927f03148::t_73d5b928f244af 362-368
   s_d8405927f03148::t_12e0fd4e9858ac 804-812,814-862
   s_d8405927f03148::t_bbd7629926ca05 370-375,378-404,407-408,410-415
+crates/vidi-core/src/error.rs
+  s_d8405927f03148::t_178f6d31362de5 221,226-238
+  s_d8405927f03148::t_2d7838c54f9a55 108-114
+  s_d8405927f03148::t_68f8518c41ddbc 222-225
+crates/vidi-cli/src/explain.rs
+  s_d8405927f03148::t_96ff8331adb7c4 350-351,355
 ---
 {
   "schema_version": "authorship/3.0.0",
