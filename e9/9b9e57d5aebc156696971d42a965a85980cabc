@@ -1,0 +1,55 @@
+editors/jetbrains/.gitignore
+  s_b771d99100a061::t_dda909a90c45bc 1-3
+editors/jetbrains/README.md
+  s_b771d99100a061::t_4aebd532100d68 1-33
+editors/jetbrains/build.gradle.kts
+  s_b771d99100a061::t_fd4f3c89e6e9f5 1-56
+editors/jetbrains/gradle.properties
+  s_b771d99100a061::t_34a222f029992a 1-7
+editors/jetbrains/gradle/wrapper/gradle-wrapper.properties
+  s_b771d99100a061::t_eeb3f5631557db 1-9
+editors/jetbrains/gradlew
+  s_b771d99100a061::t_2dc7bd35b1d44a 1-248
+editors/jetbrains/gradlew.bat
+  s_b771d99100a061::t_9233912add7932 1-82
+editors/jetbrains/settings.gradle.kts
+  s_b771d99100a061::t_a65680b185df80 1-8
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCoverageService.kt
+  s_b771d99100a061::t_0d3b5894054a4d 1-240
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiLineMarkerProvider.kt
+  s_b771d99100a061::t_e55a1c1ee6b7e7 1-99
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPalette.kt
+  s_b771d99100a061::t_71ae1821a2e2e4 1-61
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiRunner.kt
+  s_b771d99100a061::t_08d39abac81e2c 1-64
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiToolWindowFactory.kt
+  s_b771d99100a061::t_29a2ba49dc3b03 1-159
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VouchAction.kt
+  s_b771d99100a061::t_5a83f50ede1d7b 1-177
+editors/jetbrains/src/main/resources/META-INF/plugin.xml
+  s_b771d99100a061::t_cc5060cb65296d 1-30
+editors/jetbrains/src/main/resources/META-INF/pluginIcon.svg
+  s_b771d99100a061::t_c60872bf7c1f21 1-4
+editors/jetbrains/src/main/resources/META-INF/pluginIcon_dark.svg
+  s_b771d99100a061::t_a0860a4a5521f5 1-4
+editors/jetbrains/src/main/resources/icons/vidi.svg
+  s_b771d99100a061::t_b17eed27c0d468 1-4
+editors/jetbrains/src/main/resources/icons/vidi_dark.svg
+  s_b771d99100a061::t_9282aac6a7440f 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "e99b9e57d5aebc156696971d42a965a85980cabc",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

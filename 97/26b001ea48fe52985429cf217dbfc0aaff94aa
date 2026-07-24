@@ -1,0 +1,30 @@
+crates/vid-lang/src/configs/rust.rs
+  s_cf46f2a9c74543::t_ead5c610af43df 447-471
+crates/vid-lang/src/engine.rs
+  s_cf46f2a9c74543::t_40ddcc6b6bbb01 95-99
+  s_cf46f2a9c74543::t_310e62a430af4f 157-165,282-290,956-960
+  s_cf46f2a9c74543::t_f04707ab003aa6 306,315
+  s_cf46f2a9c74543::t_22d272e34bf070 924-925
+  s_cf46f2a9c74543::t_05beb719b762f1 949-955,961-964,966-983,985
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "9726b001ea48fe52985429cf217dbfc0aaff94aa",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

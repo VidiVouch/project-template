@@ -1,0 +1,34 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidToolWindowFactory.kt
+  s_cf46f2a9c74543::t_b45f5e2fd34f18 101-103
+  s_cf46f2a9c74543::t_b8d59f9890a5d5 87-91
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidCoverageService.kt
+  s_cf46f2a9c74543::t_35dc5da02c28d8 10-15
+  s_cf46f2a9c74543::t_6b7a50d2e77655 51
+  s_cf46f2a9c74543::t_a9bfafd011d6a1 43-49
+  s_cf46f2a9c74543::t_905257ee5382d7 136-142
+  s_cf46f2a9c74543::t_a71b04cf7d777b 169-177,180-181,187-188,195-197
+  s_cf46f2a9c74543::t_83dba6d988c5ae 79-82,84-93,95-106
+  s_cf46f2a9c74543::t_346dee307ca6b0 61-68,71-74
+  s_cf46f2a9c74543::t_5a35dfe4ea6b08 161-168,178-179,182-186,189-194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "7b6dcbf9511b5b5a46f6e6b3870fd55711fb03a3",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

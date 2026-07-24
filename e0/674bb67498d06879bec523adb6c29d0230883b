@@ -1,0 +1,53 @@
+crates/vidi-cli/src/cli.rs
+  s_3dc900536b089d::t_246fbb2e75b53f 116-117
+  s_3dc900536b089d::t_abd9cb64b7d7a7 298-299,301
+crates/vidi-cli/src/main.rs
+  s_3dc900536b089d::t_f40691da6a8be5 16
+crates/vidi-core/src/report/mod.rs
+  s_3dc900536b089d::t_08dc52c27c537d 995
+  s_3dc900536b089d::t_ab5e915aa87ca3 332-337,341-351
+  s_3dc900536b089d::t_0fc52e7c9efe16 338-340
+  s_3dc900536b089d::t_86c8cc9a35f0f0 394-396
+crates/vidi-cli/tests/json_report.rs
+  s_3dc900536b089d::t_565b0b0d11ffc9 2263
+  s_3dc900536b089d::t_5301f5114488a2 2018-2020,2022-2087,2092-2093,2098-2121,2127-2179,2184-2204,2209-2257,2261-2262
+  s_3dc900536b089d::t_69d77a7c6cd261 2021
+  s_3dc900536b089d::t_2f76b4165a2be7 2088-2091,2094-2097,2122-2126,2180-2183,2205-2208,2258-2260
+  s_3dc900536b089d::t_d6b12d1c025380 336-337
+crates/vidi-cli/tests/cli.rs
+  s_3dc900536b089d::t_2eaf76080a311f 880-883
+  s_3dc900536b089d::t_212b639e455e6f 451-464,470-472,475,487-489,498-534,539
+  s_3dc900536b089d::t_2f76b4165a2be7 535-538
+crates/vidi-cli/src/attribute.rs
+  s_3dc900536b089d::t_95c9cd7dc4dd0c 539
+  s_3dc900536b089d::t_2f76b4165a2be7 209-213,570-574,587-591,613-614,663-664,677-681,728-731,749-752
+  s_3dc900536b089d::t_36cc4a03d52c7f 433
+  s_3dc900536b089d::t_5890c2072f25c1 1-28,30-208,214-408,416-432,434-443,447-449,457-460,462-478,480-491,493-510,512-538,540-569,575-586,592-612,615-662,665-676,682-727,732-748,753-803
+  s_3dc900536b089d::t_434c0f03b8fbb1 444-446,450-456,461
+  s_3dc900536b089d::t_2064b2abaf6c93 409-415
+  s_3dc900536b089d::t_44bf2ebb9bd741 479
+  s_3dc900536b089d::t_d13b74508894e2 492
+  s_3dc900536b089d::t_e96697cdb4e5e4 511
+  s_3dc900536b089d::t_8bdfe9a905ff70 29
+crates/vidi-cli/src/provenance.rs
+  s_3dc900536b089d::t_c7248759e5f370 87-92,99
+crates/vidi-cli/src/commands.rs
+  s_3dc900536b089d::t_0ed673cb7fe49a 1159-1166,1171-1172
+  s_3dc900536b089d::t_49ac3352a2a8f1 127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "e0674bb67498d06879bec523adb6c29d0230883b",
+  "prompts": {},
+  "sessions": {
+    "s_3dc900536b089d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34ebf687-aa3f-43c0-8d4a-c38d173ad250",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

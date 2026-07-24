@@ -1,0 +1,36 @@
+editors/vscode/src/extension.ts
+  s_20177da02186b9::t_ee25c5fe40860e 30
+  s_20177da02186b9::t_21128502d8b288 29
+  s_20177da02186b9::t_aa308db9abd257 98-114
+editors/vscode/src/verbs-logic.ts
+  s_20177da02186b9::t_53cf46d93b91ea 39,76-158
+  s_20177da02186b9::t_c9786aeb19aa6c 40-52
+editors/vscode/src/verbs.ts
+  s_20177da02186b9::t_376f29605c7196 13
+  s_20177da02186b9::t_2a5c811883d78e 147-149,152-154
+editors/vscode/src/test/deny-path.test.ts
+  s_20177da02186b9::t_ba169c5fec695f 71-81
+  s_20177da02186b9::t_14c7558069fda8 14
+  s_20177da02186b9::t_956bc5eb6f6658 70
+editors/vscode/src/test/gate.test.ts
+  s_20177da02186b9::t_cea5ac0a04eaa7 1-76
+editors/vscode/src/host.ts
+  s_20177da02186b9::t_215d0c8a9bf521 7
+  s_20177da02186b9::t_e1242d58d7c88a 31-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a125dceeed02d032c95832dce4cfa69f995be731",
+  "prompts": {},
+  "sessions": {
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

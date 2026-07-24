@@ -1,0 +1,32 @@
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoveragePlatformTest.kt
+  s_d02375e9bb9a0b::t_e98cdcc5b786cb 76-108
+  s_d02375e9bb9a0b::t_96b9c4ae2cb1fd 4-6
+  s_d02375e9bb9a0b::t_cb70fa67286931 35-40
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCoverageService.kt
+  s_d02375e9bb9a0b::t_fdd7ab0265288d 67
+  s_d02375e9bb9a0b::t_2df68a436d82e9 228-230,232
+  s_d02375e9bb9a0b::t_9f392ec8058cb5 39-66,68-92,94,105-107,109
+  s_d02375e9bb9a0b::t_dec567b006b2e8 180-183,185-187
+  s_d02375e9bb9a0b::t_b949824e7946f0 93,95-104,108
+  s_d02375e9bb9a0b::t_d9b8481f2d43df 184
+  s_d02375e9bb9a0b::t_10766c848b0abd 207
+  s_d02375e9bb9a0b::t_c1c85d3f1bea90 3,7-13
+  s_d02375e9bb9a0b::t_93b3d76b0f6015 172-175
+  s_d02375e9bb9a0b::t_fcad0671f66d6a 38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "0959fd5576eb3516013d64a70c7de27a5792f2d1",
+  "prompts": {},
+  "sessions": {
+    "s_d02375e9bb9a0b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "09f3baea-13b8-4aad-9158-f35db206163c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+crates/vidi-cli/src/hooks.rs
+  s_73b636b5c0ea9d::t_50b204f56eefa4 612
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "503d3f8a69f026dfa62245bc079f89d57235e363",
+  "prompts": {},
+  "sessions": {
+    "s_73b636b5c0ea9d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e24a70d-06ba-4b7e-ba83-f968d754d9dd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

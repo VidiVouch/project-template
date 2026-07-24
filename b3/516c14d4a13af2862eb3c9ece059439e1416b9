@@ -1,0 +1,24 @@
+Cargo.toml
+  s_3eef9ab50d8f0a::t_bc3962bc2c13aa 10
+  s_3eef9ab50d8f0a::t_f153f940110701 11-12
+  s_3eef9ab50d8f0a::t_3e7eaf35899b92 29
+README.md
+  s_3eef9ab50d8f0a::t_78b1a5e6c73868 71-73,77
+  s_3eef9ab50d8f0a::t_77be12f6c17d7a 68-70,74-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b3516c14d4a13af2862eb3c9ece059439e1416b9",
+  "prompts": {},
+  "sessions": {
+    "s_3eef9ab50d8f0a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "638f27da-6a9a-4d38-92d6-71670a382c12",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

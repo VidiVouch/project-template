@@ -1,0 +1,25 @@
+crates/vid-cli/tests/contract_conformance.rs
+  s_17405aaf91a59b::t_c56c99a17a92ac 336-343,345-346,350-351
+  s_17405aaf91a59b::t_cc7a475eef3745 331-335,344,347-349,352-354
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "ff975cbd1b059968c4b6b8bf322617b15f400fe7",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

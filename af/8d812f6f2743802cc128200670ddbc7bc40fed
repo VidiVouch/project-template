@@ -1,0 +1,41 @@
+crates/vidi-core/src/ledger/writer.rs
+  s_7f0c90fe157128::t_2ba23396d70dce 113
+  s_7f0c90fe157128::t_51e13b6755da0b 121
+crates/vidi-core/src/ledger/authorship.rs
+  s_7f0c90fe157128::t_da3624a7ec9b6b 314
+  s_7f0c90fe157128::t_cc4028c98a3fb0 436
+crates/vidi-core/src/ledger/fixtures.rs
+  s_7f0c90fe157128::t_42e487a7ce2527 6-10
+  s_7f0c90fe157128::t_a0c1a62292d6d4 1-5,11-27
+crates/vidi-core/src/ledger/custody.rs
+  s_7f0c90fe157128::t_4d7ab175b3eae0 178
+crates/vidi-core/src/ledger/codec.rs
+  s_7f0c90fe157128::t_2ba23396d70dce 525
+crates/vidi-core/src/ledger/store.rs
+  s_7f0c90fe157128::t_2ba23396d70dce 243
+crates/vidi-core/src/ledger/reader.rs
+  s_7f0c90fe157128::t_16241b4889710f 361
+  s_7f0c90fe157128::t_2ba23396d70dce 268
+crates/vidi-core/src/ledger/mod.rs
+  s_7f0c90fe157128::t_758205a1472376 20-24
+crates/vidi-core/src/ledger/layout.rs
+  s_7f0c90fe157128::t_8428d89ab6a501 211
+crates/vidi-core/src/cache/mod.rs
+  s_7f0c90fe157128::t_9adef62ffb5e28 350
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "af8d812f6f2743802cc128200670ddbc7bc40fed",
+  "prompts": {},
+  "sessions": {
+    "s_7f0c90fe157128": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "145b83d4-7458-412e-a4fc-f8fffc47de9c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

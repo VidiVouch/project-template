@@ -1,0 +1,86 @@
+REBUILD.html
+  s_a8fa6210c93696::t_9073188977316f 78-79
+  s_a8fa6210c93696::t_7f09a718cbd847 70-71
+INTEGRATIONS.html
+  s_a8fa6210c93696::t_b8b41a5825e5ee 171-175,179
+  s_a8fa6210c93696::t_e6721dcefe5ef4 113
+  s_a8fa6210c93696::t_a68447612d3edf 105-106,108-109
+  s_a8fa6210c93696::t_53dc38324f5e43 185
+AGENTS.md
+  s_a8fa6210c93696::t_fa0a073483d238 36-39
+  s_a8fa6210c93696::t_7320393693f4d2 68-84
+  s_a8fa6210c93696::t_ed4bd2fb7ca278 28-30
+  s_a8fa6210c93696::t_60ffe737fac336 62-64
+  s_a8fa6210c93696::t_20528417f6736e 21-23
+BUILD.md
+  s_a8fa6210c93696::t_dee0da6b3c2646 58-60,62-77
+  s_a8fa6210c93696::t_e968674db3b0ad 50-52
+  s_a8fa6210c93696::t_ab313af3deb81d 19-23
+  s_a8fa6210c93696::t_1fc3f0f0db3c16 89-96
+  s_a8fa6210c93696::t_a063e268eb2921 164-170
+  s_a8fa6210c93696::t_f387d58732029d 137-140,142-144
+  s_a8fa6210c93696::t_e4ae8b0192d114 33-35
+DESIGN.html
+  s_a8fa6210c93696::t_d5a00d8db65995 216
+  s_a8fa6210c93696::t_514789d30e6a3d 315,317-323
+  s_a8fa6210c93696::t_48f4fc14d9ac98 477
+  s_a8fa6210c93696::t_d6e94c1deb185c 777
+  s_a8fa6210c93696::t_21a5046af9d286 546
+  s_a8fa6210c93696::t_1de419700cc5d9 702
+  s_a8fa6210c93696::t_daa16de6505556 668
+  s_a8fa6210c93696::t_1ccfaed40da4cc 489
+  s_a8fa6210c93696::t_29e6d9abd95a60 562,564-568
+  s_a8fa6210c93696::t_f1ce39c8b78eaf 781
+  s_a8fa6210c93696::t_fd4ac46100d787 45
+  s_a8fa6210c93696::t_b383c70d85e4f0 278-306
+  s_a8fa6210c93696::t_f8d63430602f41 709
+  s_a8fa6210c93696::t_6dd79f31953436 775
+  s_a8fa6210c93696::t_f3d902339be0f7 253
+  s_a8fa6210c93696::t_33ab162bfbeff1 372-394
+  s_a8fa6210c93696::t_6eb6917264833f 657-658
+  s_a8fa6210c93696::t_94b3fa992a88fa 473
+  s_a8fa6210c93696::t_5949ae73148d6d 583
+  s_a8fa6210c93696::t_498bc82c9e8747 692-693
+  s_a8fa6210c93696::t_980443270b3dc5 370-371
+  s_a8fa6210c93696::t_7288d183874bbe 236
+  s_a8fa6210c93696::t_b81e5b10bb8ff0 331-366,368
+  s_a8fa6210c93696::t_ebc1e9518e8047 581
+  s_a8fa6210c93696::t_faf8b9926f20e1 190
+  s_a8fa6210c93696::t_ede928cde1ae9d 794
+  s_a8fa6210c93696::t_c2656e2d8a825b 574
+  s_a8fa6210c93696::t_34431776d381eb 711
+  s_a8fa6210c93696::t_6d9a2f4ace8f2e 778
+  s_a8fa6210c93696::t_e15b0c698dc0af 792
+  s_a8fa6210c93696::t_8d62b4144e5f68 271-273
+  s_a8fa6210c93696::t_91ccf3fd216311 43
+  s_a8fa6210c93696::t_1bf3f81ff9adc4 395-396,399-400,403,408,413
+  s_a8fa6210c93696::t_2ce9b7089e24bf 463
+  s_a8fa6210c93696::t_8b978cbfed56cb 417-418,425,427,429,434-435,437
+  s_a8fa6210c93696::t_031db80dd92f3b 698
+README.md
+  s_a8fa6210c93696::t_233f5d967e2a69 19-22
+  s_a8fa6210c93696::t_55f82ad8b9c82b 24-35
+  s_a8fa6210c93696::t_83756d3cba240c 78-79
+  s_a8fa6210c93696::t_0a928f3edd0d62 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "aed21a69de98a51ebbdf79900514a4c5eb30a56f",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

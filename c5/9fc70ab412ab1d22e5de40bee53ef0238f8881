@@ -1,0 +1,25 @@
+editors/jetbrains/src/main/resources/icons/vidi_dark.svg
+  s_c42ac4ade5bb14::t_83b35f4c29bbb5 1-3
+editors/jetbrains/src/main/resources/icons/vidi@20x20_dark.svg
+  s_c42ac4ade5bb14::t_7d16cfa89196d3 1-4
+editors/jetbrains/src/main/resources/icons/vidi@20x20.svg
+  s_c42ac4ade5bb14::t_0b238fb47ff16d 1-4
+editors/jetbrains/src/main/resources/icons/vidi.svg
+  s_c42ac4ade5bb14::t_83806b21cb0e63 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "765b283d01cce4a9aa3e4689d21999b102382834",
+  "prompts": {},
+  "sessions": {
+    "s_c42ac4ade5bb14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b13c952f-1626-40dd-9c05-92562963bcbb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

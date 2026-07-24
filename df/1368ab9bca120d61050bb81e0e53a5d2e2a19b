@@ -1,0 +1,23 @@
+crates/vidi-cli/src/explain.rs
+  s_7bc756d6759e4f::t_86420515f0c49f 559,562,564
+  s_7bc756d6759e4f::t_85a2de023c2e26 530-537
+  s_7bc756d6759e4f::t_6518fff95bd259 697
+  s_7bc756d6759e4f::t_b6ba9d0c50bbd9 558
+  s_7bc756d6759e4f::t_b67f12b317f489 891-903
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "71531d37f983ed1f8713ca5f9621251e9a68c335",
+  "prompts": {},
+  "sessions": {
+    "s_7bc756d6759e4f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f9c1035-96b4-4cb8-a3df-7a2c010237ed",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

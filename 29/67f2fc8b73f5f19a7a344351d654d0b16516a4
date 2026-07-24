@@ -1,0 +1,21 @@
+crates/vidi-graph/src/lib.rs
+  s_4a5567b950a3f3::t_af706b93c8a7f6 20-21,29,34
+crates/vidi-graph/src/resolve.rs
+  s_4a5567b950a3f3::t_af706b93c8a7f6 1-426
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2967f2fc8b73f5f19a7a344351d654d0b16516a4",
+  "prompts": {},
+  "sessions": {
+    "s_4a5567b950a3f3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb963104-ff5e-47b5-bfcc-2c54468175ba",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

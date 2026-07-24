@@ -1,0 +1,21 @@
+crates/vidi-lang/examples/scan_bench.rs
+  s_fd042b2a742b7c::t_2175dad130259f 17-21
+  s_fd042b2a742b7c::t_34330ab7875def 1
+  s_fd042b2a742b7c::t_cd8e76abf4325e 2-16,22-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "33eae9dabf7f3bf6b0f955d416ae0ad2b722ee30",
+  "prompts": {},
+  "sessions": {
+    "s_fd042b2a742b7c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ed69f41d-6a0a-4f32-8140-d58ed0b19c44",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

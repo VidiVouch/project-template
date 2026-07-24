@@ -1,0 +1,21 @@
+crates/vidi-core/src/ledger/store.rs
+  s_3069eb4ca415a3::t_927425b9b086fd 1-271
+crates/vidi-core/src/ledger/mod.rs
+  s_3069eb4ca415a3::t_710a3e60e499ff 7-10,13-14,24,33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f80e6ade14a59cec132fd5afc82575a076bb6246",
+  "prompts": {},
+  "sessions": {
+    "s_3069eb4ca415a3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8bcab214-a802-4b32-8aa7-703da002c4cd",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

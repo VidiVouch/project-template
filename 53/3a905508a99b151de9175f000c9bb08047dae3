@@ -1,0 +1,23 @@
+editors/claude-code/README.md
+  s_b771d99100a061::t_1b69832c55c135 1-140
+editors/claude-code/vidi-attribute-hook.py
+  s_b771d99100a061::t_96f0e246a79a74 1-229
+editors/claude-code/vidi-finalize-hook.sh
+  s_b771d99100a061::t_ec98fe5684aa2e 1-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "533a905508a99b151de9175f000c9bb08047dae3",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

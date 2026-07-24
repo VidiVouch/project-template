@@ -1,0 +1,53 @@
+editors/vscode/src/test/electron/README.md
+  s_ced4edfad0877c::t_fd147d50686b60 1-40
+editors/vscode/src/test/tokens.test.ts
+  s_ced4edfad0877c::t_432661e8bfad8d 1-46
+  s_ced4edfad0877c::t_b29a2375baf118 47-60
+editors/vscode/src/test/electron/suite/integration.ts
+  s_ced4edfad0877c::t_d7b719985a8a36 1-62
+editors/vscode/src/test/gate.test.ts
+  s_ced4edfad0877c::t_d2b0c376b030c6 1-117
+editors/vscode/src/test/coverage.test.ts
+  s_ced4edfad0877c::t_fcab43ee2bb8aa 1-76,88,91-99
+  s_ced4edfad0877c::t_6e1cfdecbdbc11 77-87,89-90
+editors/vscode/src/test/runner.test.ts
+  s_ced4edfad0877c::t_ef48a4fa39ecf7 1-70
+editors/vscode/src/test/state.test.ts
+  s_ced4edfad0877c::t_369931d1804e6a 1-77
+editors/vscode/src/test/deny-path.test.ts
+  s_ced4edfad0877c::t_76eb2a0351356c 1-96
+editors/vscode/src/test/support/vscode-stub.ts
+  s_ced4edfad0877c::t_1ff215fee33956 1-35
+editors/vscode/src/test/electron/suite/index.ts
+  s_ced4edfad0877c::t_11c34bdce5aa1f 1-18
+editors/vscode/src/test/model-names.test.ts
+  s_ced4edfad0877c::t_bea5632ac000dd 1-22
+editors/vscode/src/test/support/fixtures.ts
+  s_ced4edfad0877c::t_f18cd474b04216 1-46
+editors/vscode/src/test/ingest.test.ts
+  s_ced4edfad0877c::t_2adf99a59a8da7 1-52
+editors/vscode/src/test/tree-model.test.ts
+  s_ced4edfad0877c::t_c0c1f6c6a0a9c8 1-90
+editors/vscode/src/test/scripts/field-coverage-cli.ts
+  s_ced4edfad0877c::t_9c8a4700fc96de 1-44
+editors/vscode/src/test/electron/runTest.ts
+  s_ced4edfad0877c::t_1f9603bd7ae230 1-23
+editors/vscode/src/test/handshake.test.ts
+  s_ced4edfad0877c::t_121405287cd950 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "089c88c2fefff9818eb38df3e0dd68322c379764",
+  "prompts": {},
+  "sessions": {
+    "s_ced4edfad0877c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e26f5a47-1925-40b4-8891-e5c42104f8e9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

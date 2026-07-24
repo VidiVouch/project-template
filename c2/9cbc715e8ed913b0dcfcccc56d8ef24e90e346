@@ -1,0 +1,29 @@
+crates/vidi-graph/src/lib.rs
+  s_401bc4676aec49::t_8e5e045edd205a 26-27,33
+crates/vidi-graph/src/churn.rs
+  s_75927d1f08d411::t_001f8f14fefdb9 1-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "c29cbc715e8ed913b0dcfcccc56d8ef24e90e346",
+  "prompts": {},
+  "sessions": {
+    "s_401bc4676aec49": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c165bf49-2a26-4bb4-b4f4-3db7e2e15308",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_75927d1f08d411": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8de740e4-acf6-46b4-8f03-8dcbf9ac8592",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

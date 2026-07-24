@@ -1,0 +1,42 @@
+crates/vid-lang/src/configs/python.rs
+  s_a8fa6210c93696::t_0cc649d0db00eb 88
+crates/vid-lang/src/configs/go.rs
+  s_a8fa6210c93696::t_0cc649d0db00eb 93
+crates/vid-lang/src/configs/javascript.rs
+  s_a8fa6210c93696::t_0b0705a696342a 62-63
+  s_a8fa6210c93696::t_c7787bc8d5af21 1-61,64-127,129-137,142-214
+  s_a8fa6210c93696::t_a7883868478d5c 138-141
+  s_a8fa6210c93696::t_cfffde6fbfd954 128
+crates/vid-lang/src/configs/rust.rs
+  s_a8fa6210c93696::t_0cc649d0db00eb 130
+crates/vid-lang/src/config.rs
+  s_a8fa6210c93696::t_9953b586a9635d 176-180
+crates/vid-lang/src/engine.rs
+  s_a8fa6210c93696::t_44bc2ac79af0c3 434-455
+  s_a8fa6210c93696::t_10f5f6f26b9e0d 426-430
+crates/vid-lang/src/configs.rs
+  s_a8fa6210c93696::t_35c82dbe6d93f8 8
+crates/vid-lang/src/registry.rs
+  s_a8fa6210c93696::t_fe4f05bee136ab 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "51de7961d3d6625ac4b1b9f87cce3133e34c731c",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

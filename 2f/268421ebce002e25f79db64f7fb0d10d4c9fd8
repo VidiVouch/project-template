@@ -1,0 +1,45 @@
+Cargo.lock
+  s_3df86c7ca5259b::t_6f0c1c7e32e825 6-26
+Cargo.toml
+  s_3df86c7ca5259b::t_981629b363a462 1-38,41-42,44,46-51,56,71-82
+crates/vidi-cli/Cargo.toml
+  s_3df86c7ca5259b::t_4d2de4ca3cd5be 1-22
+crates/vidi-cli/src/main.rs
+  s_3df86c7ca5259b::t_bc182b726687e3 1-12
+crates/vidi-core/Cargo.toml
+  s_3df86c7ca5259b::t_f45bf25fd47f67 1-15
+crates/vidi-core/src/lib.rs
+  s_3df86c7ca5259b::t_f636c0663c8e5d 1-11
+crates/vidi-graph/Cargo.toml
+  s_3df86c7ca5259b::t_977c0daeadd120 1-15
+crates/vidi-graph/src/lib.rs
+  s_3df86c7ca5259b::t_8a7585cd8fc45a 1-11
+crates/vidi-interop/Cargo.toml
+  s_3df86c7ca5259b::t_c5418de0b4946b 1-15
+crates/vidi-interop/src/lib.rs
+  s_3df86c7ca5259b::t_b5988d2eaaaaf7 1-13
+crates/vidi-lang/Cargo.toml
+  s_3df86c7ca5259b::t_c71d43168cf78b 1-15
+crates/vidi-lang/src/lib.rs
+  s_3df86c7ca5259b::t_118a4d72bfcca3 1-11
+crates/vidi-py/Cargo.toml
+  s_3df86c7ca5259b::t_968b633a5b2f7f 1-15
+crates/vidi-py/src/lib.rs
+  s_3df86c7ca5259b::t_a0cd8819bb5229 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2f268421ebce002e25f79db64f7fb0d10d4c9fd8",
+  "prompts": {},
+  "sessions": {
+    "s_3df86c7ca5259b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "93aed0cf-3240-4279-8907-98103b401da6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

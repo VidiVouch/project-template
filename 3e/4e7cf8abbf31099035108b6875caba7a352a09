@@ -1,0 +1,33 @@
+crates/vidi-core/tests/ledger_codec.rs
+  s_3e2752937ad065::t_c28adc30c873bc 1-202
+crates/vidi-core/tests/corrupt_recovery.rs
+  s_3e2752937ad065::t_c28adc30c873bc 1-98
+crates/vidi-core/tests/ledger_reader.rs
+  s_3e2752937ad065::t_c28adc30c873bc 1-87
+crates/vidi-core/tests/ledger_crdt.rs
+  s_3e2752937ad065::t_c28adc30c873bc 1-166
+crates/vidi-core/tests/common/mod.rs
+  s_3e2752937ad065::t_c28adc30c873bc 1-151
+crates/vidi-core/tests/rewrite_no_follow.rs
+  s_3e2752937ad065::t_c28adc30c873bc 1-61
+crates/vidi-core/tests/staleness.rs
+  s_3e2752937ad065::t_c28adc30c873bc 1-86
+crates/vidi-core/tests/ledger_writer.rs
+  s_3e2752937ad065::t_c28adc30c873bc 1-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "3e4e7cf8abbf31099035108b6875caba7a352a09",
+  "prompts": {},
+  "sessions": {
+    "s_3e2752937ad065": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "76bd7c91-7f2c-42da-b155-b22524d00c4f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/RampBindingTest.kt
+  s_eea7310cfab183::t_37bd5080ee925d 1-59
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/TestFixtures.kt
+  s_eea7310cfab183::t_931f7afc4f2fe4 1-55
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/TextPresentationTest.kt
+  s_eea7310cfab183::t_e43acc3a765682 1-94
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoveragePlatformTest.kt
+  s_eea7310cfab183::t_e2462b184d460a 1-109
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/ReviewWalkAndCheckinTest.kt
+  s_eea7310cfab183::t_062cc0efa1eb9b 1-93
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CaretResolutionTest.kt
+  s_eea7310cfab183::t_6551e1ebee421d 1-71
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/HandshakeTest.kt
+  s_eea7310cfab183::t_ec96188b8b0a88 1-69
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/VerbDenyPathTest.kt
+  s_eea7310cfab183::t_1c59e4cd1803b1 1-117
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/PolicyTomlTest.kt
+  s_eea7310cfab183::t_08eae9c3a89140 1-165
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoverageDirectoryTreeTest.kt
+  s_eea7310cfab183::t_91aa6dc191a329 1-118
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoverageParseTest.kt
+  s_eea7310cfab183::t_7a665e89090ad2 1-177
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/FieldCoverageTest.kt
+  s_eea7310cfab183::t_80906c8088aced 1-149
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/LaneGatingTest.kt
+  s_eea7310cfab183::t_3a613288e76a86 1-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "c41a81155e430b8f5d89d203598bc764db7ad1de",
+  "prompts": {},
+  "sessions": {
+    "s_eea7310cfab183": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0e82dae7-68e6-4841-ae98-055aa2f7a221",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

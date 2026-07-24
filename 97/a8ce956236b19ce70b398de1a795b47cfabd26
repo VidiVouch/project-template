@@ -1,0 +1,30 @@
+crates/vidi-core/src/crypto/manifest.rs
+  s_7f0c90fe157128::t_fa66bc7de96dda 265-266
+  s_7f0c90fe157128::t_a8e465cce91ec8 1-264,267-390,397-402
+  s_7f0c90fe157128::t_b476d4eb71ffb3 391-396
+crates/vidi-core/examples/mint_trust_root.rs
+  s_7f0c90fe157128::t_6d7f76e158041a 25-29
+  s_7f0c90fe157128::t_f2d32e5981ca63 1-24,30-55,58-185,190-209
+  s_7f0c90fe157128::t_b476d4eb71ffb3 56-57,186-189
+crates/vidi-core/src/crypto/mod.rs
+  s_7f0c90fe157128::t_6b723483f6b8ff 34,36
+  s_7f0c90fe157128::t_b81df22e7f99e3 15-17
+crates/vidi-core/src/crypto/timestamp.rs
+  s_7f0c90fe157128::t_01042bffa9d49b 1-167
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "97a8ce956236b19ce70b398de1a795b47cfabd26",
+  "prompts": {},
+  "sessions": {
+    "s_7f0c90fe157128": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "145b83d4-7458-412e-a4fc-f8fffc47de9c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

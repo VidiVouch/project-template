@@ -1,0 +1,59 @@
+crates/vid-lang/src/configs/kotlin.rs
+  s_a8fa6210c93696::t_d2ef1688272071 124
+  s_a8fa6210c93696::t_588bd352909f1d 120
+crates/vid-lang/src/configs/csharp.rs
+  s_a8fa6210c93696::t_588bd352909f1d 192
+  s_a8fa6210c93696::t_d2ef1688272071 195
+crates/vid-lang/src/engine.rs
+  s_a8fa6210c93696::t_1946646495e975 401-404
+  s_a8fa6210c93696::t_936045f71bb1a8 464-471,485-496
+crates/vid-lang/src/configs/rust.rs
+  s_a8fa6210c93696::t_588bd352909f1d 129
+  s_a8fa6210c93696::t_d2ef1688272071 132
+crates/vid-lang/src/configs/zig.rs
+  s_a8fa6210c93696::t_0490214546b6dd 1-84,89-182
+  s_a8fa6210c93696::t_588bd352909f1d 85
+  s_a8fa6210c93696::t_823bc924c11400 86-88
+crates/vid-lang/examples/probe.rs
+  s_a8fa6210c93696::t_4574349bc65eed 35-56
+crates/vid-lang/src/configs.rs
+  s_a8fa6210c93696::t_08103134200767 14
+crates/vid-lang/src/configs/python.rs
+  s_a8fa6210c93696::t_588bd352909f1d 86
+  s_a8fa6210c93696::t_d2ef1688272071 89
+crates/vid-lang/src/configs/go.rs
+  s_a8fa6210c93696::t_588bd352909f1d 88
+  s_a8fa6210c93696::t_d2ef1688272071 93
+crates/vid-lang/src/config.rs
+  s_a8fa6210c93696::t_a8ae533fe696a8 182-185
+  s_a8fa6210c93696::t_a667daa4b8321a 171-175
+crates/vid-lang/src/configs/java.rs
+  s_a8fa6210c93696::t_d2ef1688272071 160
+  s_a8fa6210c93696::t_588bd352909f1d 157
+crates/vid-lang/src/configs/javascript.rs
+  s_a8fa6210c93696::t_d2ef1688272071 112
+  s_a8fa6210c93696::t_588bd352909f1d 109
+crates/vid-lang/src/registry.rs
+  s_a8fa6210c93696::t_092dc7ec69d379 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "12fb22690dcfaa99ed2d7262c547a35db88127af",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

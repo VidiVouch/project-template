@@ -1,0 +1,22 @@
+crates/vidi-core/src/policy/diagnostics.rs
+  s_20177da02186b9::t_cf2235a934069a 469-510
+  s_20177da02186b9::t_c4287f61893027 309-321
+  s_20177da02186b9::t_a6c5757640f1ee 267-270
+  s_20177da02186b9::t_d919452f6093b1 511
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1175f275a2b65360e867415cc5ae09590a7dafc7",
+  "prompts": {},
+  "sessions": {
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/VerbDenyPathTest.kt
+  s_3b7ac5ecc0b8f6::t_137d9b7c12f763 70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "a6192ee3346dd1534d02d1cb22fcdde4d37813a6",
+  "prompts": {},
+  "sessions": {
+    "s_3b7ac5ecc0b8f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09b1910-e4e9-48b8-b0db-60dfefaf0c22",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

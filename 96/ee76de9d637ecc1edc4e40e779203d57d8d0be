@@ -1,0 +1,22 @@
+crates/vidi-cli/tests/history_audit.rs
+  s_b22993a3b4110e::t_d14c3a53ca1fd8 1-561,610-867
+  s_b22993a3b4110e::t_f023dab1481700 562-609
+  s_b22993a3b4110e::t_4df49deedf5ecf 868-876
+  s_b22993a3b4110e::t_ad444c5b36b5d5 877
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "96ee76de9d637ecc1edc4e40e779203d57d8d0be",
+  "prompts": {},
+  "sessions": {
+    "s_b22993a3b4110e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd6f0feb-c2de-4994-940d-d22f322cd5cf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

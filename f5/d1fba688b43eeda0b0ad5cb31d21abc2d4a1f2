@@ -1,0 +1,31 @@
+crates/vidi-core/src/error.rs
+  s_7f12aef57f5498::t_21d9c2e46408e5 78-91
+  s_7f12aef57f5498::t_402b2b494567fd 130-137
+crates/vidi-core/src/record.rs
+  s_7f12aef57f5498::t_ddbea8a13ff956 604-606
+  s_7f12aef57f5498::t_9d26bbabd9f1c0 469-486,492-561
+  s_7f12aef57f5498::t_bc4ec779aa96b5 751-811
+  s_7f12aef57f5498::t_35586d99ff336b 697-701
+  s_7f12aef57f5498::t_f6f85c28e2a130 487-491
+crates/vidi-py/src/lib.rs
+  s_7f12aef57f5498::t_91126f57c794e7 83
+crates/vidi-core/tests/ledger_codec.rs
+  s_7f12aef57f5498::t_073461d524cc06 113-176
+  s_7f12aef57f5498::t_a31891a49f331f 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f5d1fba688b43eeda0b0ad5cb31d21abc2d4a1f2",
+  "prompts": {},
+  "sessions": {
+    "s_7f12aef57f5498": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "31829a54-5649-4fcd-8cad-90a074e42d93",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

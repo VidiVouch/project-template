@@ -1,0 +1,45 @@
+design/D8-contract-ledger.json
+  s_9832363861b899::t_7b0c731e04f1f7 4
+  s_2b3dfd187453cf::t_7c4b8856d88202 1-3,5-505,507,509-510,513-519,521-524,526-672,674
+  s_9832363861b899::t_b6a7816a379078 520,525
+  s_9832363861b899::t_9562fd3fd6417e 673
+  s_9832363861b899::t_5ed44edac51fdb 506,508,511-512
+design/marker-widen-evidence.html
+  s_563f5ba883e193::t_ad6222878162e3 6,10,18-19,28,34-40,44-50,59-62,64,70-73,78-80,87-89,96,102-104,109-112,116-117,124-127,132-133,139-144
+  s_2b3dfd187453cf::t_abcfd3bfb37ed3 1-5,7-9,11-17,20-27,31-33,41-43,51-58,63,65-69,74-77,81-86,90-95,97-101,105-108,113-115,118-123,128-131,134-138,145-147
+  s_9832363861b899::t_b434a54d685d27 29-30
+design/README.md
+  s_9832363861b899::t_cbaec540f80835 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "34a0930d4062233a075b0d9e21b6573437142713",
+  "prompts": {},
+  "sessions": {
+    "s_2b3dfd187453cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a643ed62-2dd0-420c-8fa0-03bd38367034",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_563f5ba883e193": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d66f7036-713a-41f6-be5e-a3feae445eac",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_9832363861b899": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "802439c0-5179-4db1-9a14-4bca48b02459",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

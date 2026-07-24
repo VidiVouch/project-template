@@ -1,0 +1,19 @@
+editors/jetbrains/build.gradle.kts
+  s_ebe6ed5da5511c::t_cc7cc0423e1891 96-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "01c61d9553f27ac8efe4e658ef060677a06df70d",
+  "prompts": {},
+  "sessions": {
+    "s_ebe6ed5da5511c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81a5e0cc-3a15-483d-b939-149e0a6ac495",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

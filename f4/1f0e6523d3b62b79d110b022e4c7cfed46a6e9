@@ -1,0 +1,36 @@
+crates/vid-core/src/trust.rs
+  s_cf46f2a9c74543::t_8b68e6de6fc08d 639
+  s_cf46f2a9c74543::t_0af560fea7f7d9 635-636,640,643-648
+  s_cf46f2a9c74543::t_1a0fbe71b51ef7 340-350
+  s_cf46f2a9c74543::t_6da8eaeeb4c11a 634,637-638,650-670,679-682
+  s_cf46f2a9c74543::t_5e310ffb4a7230 351-352
+  s_cf46f2a9c74543::t_70cc87aa9904dd 330-333
+  s_cf46f2a9c74543::t_2e15e2cb36d751 671-678
+  s_cf46f2a9c74543::t_6391323f557e65 649
+  s_cf46f2a9c74543::t_81a48a3f913a8d 641-642
+crates/vid-core/tests/conformance.rs
+  s_cf46f2a9c74543::t_bc11605812084f 167
+  s_cf46f2a9c74543::t_e4e77182634312 157-166,168-189
+  s_cf46f2a9c74543::t_32a3a49f78690e 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f41f0e6523d3b62b79d110b022e4c7cfed46a6e9",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

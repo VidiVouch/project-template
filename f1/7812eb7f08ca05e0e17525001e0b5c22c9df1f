@@ -1,0 +1,30 @@
+crates/vidi-core/tests/adversarial.rs
+  s_2e57ddfab7dec4::t_515aaf402700c1 127-130,132-135,158-162,167-170,195-199,206-210,330-333,355-358,377-381,394-397,407-410
+  s_2e57ddfab7dec4::t_25a4448f83c781 1-126,131,136-157,163-166,171-194,200-205,211-329,334-354,359-376,382-393,398-406,411-422
+crates/vidi-core/tests/conformance.rs
+  s_2e57ddfab7dec4::t_fb11861f863363 1-217
+crates/vidi-core/tests/fixtures/design-fixtures.json
+  s_2e57ddfab7dec4::t_72cfaa6c28d458 1-188
+crates/vidi-core/tests/wu11_digestset.rs
+  s_2e57ddfab7dec4::t_82ccaa1eee4215 1-44,55-168,173-174,178-202
+  s_2e57ddfab7dec4::t_515aaf402700c1 45-54,169-172,175-177
+crates/vidi-core/tests/wu11_records.rs
+  s_2e57ddfab7dec4::t_515aaf402700c1 267-270,312-315
+  s_2e57ddfab7dec4::t_049f53c9cbffed 1-266,271-311,316-337
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f17812eb7f08ca05e0e17525001e0b5c22c9df1f",
+  "prompts": {},
+  "sessions": {
+    "s_2e57ddfab7dec4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d5d5136-fb2f-42b7-9a64-7a0adcf660ad",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

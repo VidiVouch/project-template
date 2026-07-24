@@ -1,0 +1,53 @@
+crates/vid-lang/src/configs/javascript.rs
+  s_17405aaf91a59b::t_366130ea8fb54e 164-167
+crates/vid-lang/src/configs/rust.rs
+  s_17405aaf91a59b::t_1f1d85a06622e1 166-171,188-198
+crates/vid-lang/src/collector.rs
+  s_17405aaf91a59b::t_beb61cf39510a1 168-186,191-216,223,227,239-244,246,248-260,262-279
+  s_17405aaf91a59b::t_ec55ceb65f1aef 157,164
+crates/vid-graph/src/resolve.rs
+  s_17405aaf91a59b::t_3852db25d4a6f5 316-317
+  s_17405aaf91a59b::t_a8d796b5389429 145-150,154,159,166-171,177,192-220
+  s_17405aaf91a59b::t_aa42ca4aaa2a31 292-315,318-340
+  s_17405aaf91a59b::t_002f06d8a74b1b 396,404-489
+crates/vid-lang/src/config.rs
+  s_17405aaf91a59b::t_cbf258f616e5be 145-165
+  s_17405aaf91a59b::t_3d9673d139879d 178-179
+crates/vid-lang/src/configs/python.rs
+  s_17405aaf91a59b::t_3382c5424df7d7 120-124
+crates/vid-graph/src/lib.rs
+  s_17405aaf91a59b::t_db5104ff381a81 72
+  s_17405aaf91a59b::t_41dc920464dbdf 356-454,459-501,508-514
+  s_17405aaf91a59b::t_0b84753cef4bef 455-458,502-507
+  s_17405aaf91a59b::t_979fdb4484e7f2 87-88
+crates/vid-cli/src/significance.rs
+  s_17405aaf91a59b::t_1333b3ca4a01f3 733-740,749
+  s_17405aaf91a59b::t_b9696952f750f3 652-723
+schemas/vid-json-v3.schema.json
+  s_17405aaf91a59b::t_95b0e3f7b6d9cb 374
+crates/vid-lang/src/engine.rs
+  s_17405aaf91a59b::t_3dfce7a0af40ac 1742-1835
+crates/vid-graph/src/reference.rs
+  s_17405aaf91a59b::t_4493a40d1df266 88,92-99,103-104,111-124,132
+  s_17405aaf91a59b::t_be61d974e889a7 29-30,37-46
+  s_17405aaf91a59b::t_a2ae54965670ab 62-63
+crates/vid-graph/src/provider.rs
+  s_17405aaf91a59b::t_d7b450b9a1d6d7 32-37
+  s_17405aaf91a59b::t_7269030a7a240f 65,70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "e6754db658c6c52bb2b8770c68421e3599eb482a",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

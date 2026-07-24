@@ -1,0 +1,25 @@
+.github/workflows/ci.yml
+  s_77406b1cfb1f8f::t_0b1ccbb9eacca5 1-55
+.github/dependabot.yml
+  s_77406b1cfb1f8f::t_58a7eacf6d8bc3 1-10
+.worktreeinclude
+  s_77406b1cfb1f8f::t_ccf9dc7f180cab 1-2
+.pre-commit-config.yaml
+  s_77406b1cfb1f8f::t_e2875a783b8126 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "780490d2c194a21733dc1dae07a5035b38895e30",
+  "prompts": {},
+  "sessions": {
+    "s_77406b1cfb1f8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "96bcb36a-5ba6-434a-bfd7-777e21388cfa",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

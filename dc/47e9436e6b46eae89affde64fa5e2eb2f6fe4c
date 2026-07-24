@@ -1,0 +1,22 @@
+.github/workflows/lint.yml
+  s_37c1e7e7c6503c::t_2f38f267649d3c 55-60
+crates/vidi-cli/tests/json_report.rs
+  s_37c1e7e7c6503c::t_4a8655e2035ac8 108
+  s_37c1e7e7c6503c::t_d8292a676adee4 149-152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a03d46fc5420e0461cc45677107a843d027c6b51",
+  "prompts": {},
+  "sessions": {
+    "s_37c1e7e7c6503c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af302323-c503-4b5e-9af1-e56e1668f177",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

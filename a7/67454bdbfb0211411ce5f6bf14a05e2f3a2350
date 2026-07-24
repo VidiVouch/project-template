@@ -1,0 +1,39 @@
+crates/vidi-cli/src/hooks.rs
+  s_8a83461c605552::t_0a74e2f5aa756f 460
+  s_8a83461c605552::t_4478c1ffa5b232 90-96,98-99,102-103
+  s_8a83461c605552::t_b8fbe4285bcf7f 97,100-101
+  s_8a83461c605552::t_d13f0efb274450 150-151,154-163
+  s_8a83461c605552::t_ab1aeffa766cb1 651-652
+  s_8a83461c605552::t_aeba8e0d7ae51a 523-529,534-537
+  s_8a83461c605552::t_f9f393a94a05d1 300-302
+  s_8a83461c605552::t_3e1926d25238a0 110
+  s_8a83461c605552::t_fbc1acc6951366 530-533,653
+  s_8a83461c605552::t_3c84a610245f1b 655
+  s_8a83461c605552::t_21cf8f38cac452 37-39
+  s_8a83461c605552::t_fabb9f914f3f6a 66
+  s_8a83461c605552::t_39d9f2c648116e 370-372
+  s_8a83461c605552::t_9e3b122a0ea9e2 433,620
+  s_8a83461c605552::t_f22bedae7b79a8 269-299,303-309,311-312,315-317,326-327,332,334
+  s_8a83461c605552::t_93f4f5ba63b6f5 381-384
+  s_8a83461c605552::t_5194bdbf41f548 884-895
+crates/vidi-cli/tests/hooks.rs
+  s_8a83461c605552::t_06ae26209658e2 282-370
+  s_8a83461c605552::t_924e491c05d0ae 636-640
+  s_8a83461c605552::t_fc218c7713177b 688-695
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a767454bdbfb0211411ce5f6bf14a05e2f3a2350",
+  "prompts": {},
+  "sessions": {
+    "s_8a83461c605552": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "43edeb2d-37b3-42c7-b808-28af5c1c98b9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

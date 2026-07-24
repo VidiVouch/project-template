@@ -1,0 +1,74 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStatusBar.kt
+  s_038468eb1f3817::t_cf5e9e444febfe 13-43
+  s_038468eb1f3817::t_1e40eec6c883e4 94-108
+  s_038468eb1f3817::t_34b7dadfab415f 81-88
+editors/vscode/src/statusbar-model.ts
+  s_038468eb1f3817::t_1e61f37a94d6f8 67
+  s_038468eb1f3817::t_76d85e4e7bb951 1-7,9-48,51-61,63-65,68-79
+  s_038468eb1f3817::t_3d3dcad9ebcf40 8
+  s_038468eb1f3817::t_caa38da3ef37ed 49-50,66
+  s_038468eb1f3817::t_3b641ff7c072aa 62
+editors/vscode/src/contract/decode.ts
+  s_038468eb1f3817::t_b6102c77c87e25 203,208-209
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVerbs.kt
+  s_038468eb1f3817::t_5faa2b1b6236f9 30,32
+  s_038468eb1f3817::t_213233763df35c 56-61,65,69
+  s_038468eb1f3817::t_a29d5ac3ff88f7 19-21,27-29,31,36-42
+  s_038468eb1f3817::t_ac9cabfe52fd60 43-44
+editors/vscode/src/test/state.test.ts
+  s_038468eb1f3817::t_f2099563ab4db6 47-49
+  s_038468eb1f3817::t_d8dcd721287be9 52
+  s_038468eb1f3817::t_1164344096744d 6
+  s_038468eb1f3817::t_56cc3c55341f32 51,58
+  s_038468eb1f3817::t_79dd4996dc47f1 61
+  s_038468eb1f3817::t_b6a22cce46d34c 39-46,50,53-57,59-60,62-69
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_038468eb1f3817::t_aa0edbc201dc30 130-131
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCoverageService.kt
+  s_038468eb1f3817::t_b482fe8c4b537e 195,211
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/VerbDenyPathTest.kt
+  s_038468eb1f3817::t_4cc6de04e24997 86,97
+  s_038468eb1f3817::t_79d5860cb2350a 66-70
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/LaneGatingTest.kt
+  s_038468eb1f3817::t_d4591d7f2cdb65 79-81
+  s_038468eb1f3817::t_727760bbd4832f 12-14
+  s_038468eb1f3817::t_a9a62f7fca47b8 60-78
+  s_038468eb1f3817::t_9caf601ceff551 17-22
+  s_038468eb1f3817::t_867e339103322b 29
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/TextPresentationTest.kt
+  s_038468eb1f3817::t_f8c8c20cfdde7b 60-62,66-80,85-93
+  s_038468eb1f3817::t_513caec1f23815 63-65
+  s_038468eb1f3817::t_b741e21db0c2d2 81-84
+editors/vscode/src/contract/schema-types.ts
+  s_038468eb1f3817::t_ead5ab50075d07 121-123
+editors/vscode/src/statusbar.ts
+  s_038468eb1f3817::t_226f808e6b7a28 8
+  s_038468eb1f3817::t_f9ca756a87a8a1 31
+  s_038468eb1f3817::t_09fe1853774396 25
+  s_038468eb1f3817::t_5e1210999e821a 21,23-24,26-30
+editors/vscode/src/verbs.ts
+  s_038468eb1f3817::t_a2d5d0ee834f3b 147
+  s_038468eb1f3817::t_805ce5ef81cdd2 12
+editors/vscode/src/coverageService.ts
+  s_038468eb1f3817::t_6bf90373bc42e2 19-20
+  s_038468eb1f3817::t_eb2dd28b1bf907 62,66-67,69,75,77
+  s_038468eb1f3817::t_5bca63926c6848 13-14
+  s_038468eb1f3817::t_5a1980a9002327 47-49
+  s_038468eb1f3817::t_7b691fc7aa6bcb 93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "53e2df7d0083015e17cb47767fb1143696144481",
+  "prompts": {},
+  "sessions": {
+    "s_038468eb1f3817": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1d2f6a3c-a2a5-45de-b54a-2bfc82276040",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

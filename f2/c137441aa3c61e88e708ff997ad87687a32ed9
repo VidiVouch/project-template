@@ -1,0 +1,21 @@
+rust-toolchain.toml
+  s_fd58371f980512::t_4eaa41c7261c30 1-7
+rustfmt.toml
+  s_fd58371f980512::t_e32d358f86194a 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f2c137441aa3c61e88e708ff997ad87687a32ed9",
+  "prompts": {},
+  "sessions": {
+    "s_fd58371f980512": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "803b5984-805b-4a17-8298-4984b7a2472c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

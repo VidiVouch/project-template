@@ -1,0 +1,20 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiConfigurable.kt
+  s_db3ca8be3d7da9::t_44c1b8b49f34f2 183-186,188-194,199-201
+  s_db3ca8be3d7da9::t_212b9c0f001f9f 202-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "38c149393a478d6c47b1be0fa135d34110097324",
+  "prompts": {},
+  "sessions": {
+    "s_db3ca8be3d7da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f1938f61-9820-4c5a-823c-4dd771402dc4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

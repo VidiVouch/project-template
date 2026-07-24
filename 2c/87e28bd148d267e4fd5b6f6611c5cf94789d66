@@ -1,0 +1,33 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiToolWindowFactory.kt
+  s_486ed56d25e909::t_216b5a36102b7b 315,317-318,321,326-328,334-359
+  s_486ed56d25e909::t_ffb43f0a791ab8 4
+  s_486ed56d25e909::t_4efb6552d8a5bb 50-51,54-60
+  s_486ed56d25e909::t_61c4dc96256893 70-71
+  s_486ed56d25e909::t_65b389b140a37f 95-96
+  s_486ed56d25e909::t_60a8c5f59debc3 567-577,582
+  s_486ed56d25e909::t_0166a298b6eb59 181-196
+  s_486ed56d25e909::t_7cfeec4c174c0f 142-144
+  s_486ed56d25e909::t_9987066c13cf9d 366-371,373-387,391-393
+  s_486ed56d25e909::t_a892724b9b01f2 238-242,244
+  s_486ed56d25e909::t_2da9dfc6d69411 394
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoverageDirectoryTreeTest.kt
+  s_486ed56d25e909::t_efa1c2bad70c2a 1-118
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCoverageTree.kt
+  s_486ed56d25e909::t_9f4d2eeb85aaff 1-124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2c87e28bd148d267e4fd5b6f6611c5cf94789d66",
+  "prompts": {},
+  "sessions": {
+    "s_486ed56d25e909": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "397383c8-c320-49b7-8299-7e8dc3cc074e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+tests/gen-demo-repo.sh
+  s_bac4e4c9b679c7::t_e5897d97b85d34 70-103
+  s_bac4e4c9b679c7::t_db57a356b063b3 32
+  s_bac4e4c9b679c7::t_91d7cd84b69913 111-113,115,122-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "81eb56f26c7a57f1899fd3896e911b6895933587",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_bac4e4c9b679c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "40b64b71-7fb2-4022-b3b2-48457662f805",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

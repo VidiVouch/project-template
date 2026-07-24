@@ -1,0 +1,20 @@
+crates/vidi-cli/tests/history_audit.rs
+  s_b22993a3b4110e::t_d14c3a53ca1fd8 1-819
+  s_b22993a3b4110e::t_4df49deedf5ecf 820-828
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "be874c8f99d6f4e4e5cc6c15f5fa1c05d661e9a6",
+  "prompts": {},
+  "sessions": {
+    "s_b22993a3b4110e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd6f0feb-c2de-4994-940d-d22f322cd5cf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

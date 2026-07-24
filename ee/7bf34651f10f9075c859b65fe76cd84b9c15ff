@@ -1,0 +1,59 @@
+crates/vidi-cli/src/commands.rs
+  s_dee56432316ff2::t_49512f65b30a39 164-176,195-200,205-221,225-233,235,246-251
+crates/vidi-cli/src/main.rs
+  s_dee56432316ff2::t_b2865d4616abc9 16-17
+crates/vidi-cli/src/sign.rs
+  s_dee56432316ff2::t_60492a3e8716f5 1-201
+crates/vidi-cli/src/token.rs
+  s_dee56432316ff2::t_7d970703ce69eb 1-274
+crates/vidi-cli/tests/cli.rs
+  s_dee56432316ff2::t_d56df76426772a 163-181,199-200
+crates/vidi-core/src/crypto/assurance.rs
+  s_dee56432316ff2::t_99c95c2e2b14ea 1-155
+crates/vidi-core/src/crypto/entrypoint.rs
+  s_dee56432316ff2::t_3554f568cc12e9 1-334
+crates/vidi-core/src/crypto/envelope.rs
+  s_dee56432316ff2::t_16d946969a5e82 1-164
+crates/vidi-core/src/crypto/error.rs
+  s_dee56432316ff2::t_5fd5ce6b02bfab 1-106
+crates/vidi-core/src/crypto/guid.rs
+  s_dee56432316ff2::t_4038e559914bcd 1-126
+crates/vidi-core/src/crypto/hex.rs
+  s_dee56432316ff2::t_9f968ddc460388 1-100
+crates/vidi-core/src/crypto/key.rs
+  s_dee56432316ff2::t_0fb65375f661cd 1-151
+crates/vidi-core/src/crypto/keyid.rs
+  s_dee56432316ff2::t_20117411425f08 1-100
+crates/vidi-core/src/crypto/manifest.rs
+  s_dee56432316ff2::t_b6cbbbcfb06989 1-383
+crates/vidi-core/src/crypto/mod.rs
+  s_dee56432316ff2::t_adcd6add7edb92 3-42
+crates/vidi-core/src/crypto/notary.rs
+  s_dee56432316ff2::t_95e67a4d64965e 1-76
+crates/vidi-core/src/crypto/pae.rs
+  s_dee56432316ff2::t_f5edf42f0354ce 1-70
+crates/vidi-core/src/crypto/receipt.rs
+  s_dee56432316ff2::t_2d7592ca209c55 1-170
+crates/vidi-core/src/crypto/timestamp.rs
+  s_dee56432316ff2::t_79d7f79eb29c48 1-114
+crates/vidi-core/tests/signing_vectors.rs
+  s_dee56432316ff2::t_e72ef1f2f4a911 1-609
+schemas/interop/signing-vectors.json
+  s_dee56432316ff2::t_f84bb681298e00 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ee7bf34651f10f9075c859b65fe76cd84b9c15ff",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

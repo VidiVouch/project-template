@@ -1,0 +1,50 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiToolWindowFactory.kt
+  s_5924b317eafe82::t_0dd2902dd501c4 606-612
+  s_5924b317eafe82::t_e2160b2a98b6d8 64
+  s_5924b317eafe82::t_3eca802f620dda 233-234
+  s_5924b317eafe82::t_5722a0ce0610e1 381-382
+  s_5924b317eafe82::t_ebb820805d21ee 237,244-249
+  s_5924b317eafe82::t_dffb31d502ad68 467
+  s_5924b317eafe82::t_701a146f7ae966 493
+  s_5924b317eafe82::t_17b7391a242c94 250
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_5924b317eafe82::t_8096964cc52cb1 173-180
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoverageParseTest.kt
+  s_5924b317eafe82::t_3b3f65f1f0b736 61-78
+  s_3edc5a97231852::t_4f9e0e7c3da76e 60
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiRunner.kt
+  s_5924b317eafe82::t_92ed53b4930673 87
+  s_5924b317eafe82::t_dc86dfd7660305 17-58
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCli.kt
+  s_5924b317eafe82::t_4420f08753acad 78-80
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStatusBar.kt
+  s_5924b317eafe82::t_d738b988914e97 50-52
+  s_5924b317eafe82::t_848215c53c9e9d 63-70
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCoverageService.kt
+  s_5924b317eafe82::t_08f4adc41750d3 119
+  s_5924b317eafe82::t_67ded368fb2fa9 214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "ae3e8e7d3c76155714d3beaf15d4dc3a256c059b",
+  "prompts": {},
+  "sessions": {
+    "s_3edc5a97231852": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9afe170a-2f70-4bed-ac9e-f74903865055",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5924b317eafe82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57ccd166-77c2-4d80-92ec-7c7192fef2dd",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

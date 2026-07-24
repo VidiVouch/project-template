@@ -1,0 +1,21 @@
+crates/vidi-core/src/grade.rs
+  s_8d7b68ee0b474e::t_e9ef76580af89f 1-92
+crates/vidi-core/src/lib.rs
+  s_8d7b68ee0b474e::t_a277e8b3692178 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d941bda84331c039445615d97a7292a0f953c74d",
+  "prompts": {},
+  "sessions": {
+    "s_8d7b68ee0b474e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b145381-2514-401c-8469-df4b2b8f23f0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

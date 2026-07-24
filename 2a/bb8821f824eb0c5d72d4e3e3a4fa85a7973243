@@ -1,0 +1,25 @@
+.github/workflows/lint.yml
+  s_9b5f85d068882f::t_7834a7a20f4e6d 55-86
+crates/vidi-py/pyproject.toml
+  s_9b5f85d068882f::t_44bf9e2c803c4f 1-26
+crates/vidi-py/tests/test_bridge_conformance.py
+  s_9b5f85d068882f::t_59940a3a81cf75 1-152
+uv.lock
+  s_9b5f85d068882f::t_d0d4905e38bb55 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "2abb8821f824eb0c5d72d4e3e3a4fa85a7973243",
+  "prompts": {},
+  "sessions": {
+    "s_9b5f85d068882f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5bd616a6-1c2b-4cec-84cd-96e5b1e69665",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+editors/xcode/Info.plist
+  s_b771d99100a061::t_a7553fd0d67293 1-33
+editors/xcode/README.md
+  s_b771d99100a061::t_2f548050fe9af3 1-30
+editors/xcode/SourceEditorCommand.swift
+  s_b771d99100a061::t_39bb2916885f34 1-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "8081e4f45fbd0ee58d64bb623bf70dc3a167f224",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

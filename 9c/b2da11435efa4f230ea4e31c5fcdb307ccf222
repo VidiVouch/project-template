@@ -1,0 +1,20 @@
+schemas/vidi-json-v1.schema.json
+  s_64c7ade1f3dab6::t_efaa3ca76055d5 381-384
+  s_64c7ade1f3dab6::t_1c94fe4cf0c99b 405
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "9cb2da11435efa4f230ea4e31c5fcdb307ccf222",
+  "prompts": {},
+  "sessions": {
+    "s_64c7ade1f3dab6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49069942-5883-473f-ac36-ab91685ae3ff",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

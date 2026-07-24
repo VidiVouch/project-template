@@ -1,0 +1,56 @@
+editors/vscode/src/runner.ts
+  s_5924b317eafe82::t_33d9d40aa262a7 28,32-49
+  s_5924b317eafe82::t_c00f23b06ffad4 105-107,109-118
+  s_3edc5a97231852::t_b3379b7497046d 50
+editors/vscode/src/test/coverage.test.ts
+  s_5924b317eafe82::t_1352ab9167ca01 52-59
+  s_5924b317eafe82::t_c7934e410c3bb4 6
+editors/vscode/src/host.ts
+  s_5924b317eafe82::t_3b07e134b3cd75 24
+editors/vscode/src/test/runner.test.ts
+  s_5924b317eafe82::t_10513b6519fdea 36,41-59
+  s_5924b317eafe82::t_46ca749aeeb8f6 60
+editors/vscode/src/extension.ts
+  s_5924b317eafe82::t_58dfa873851491 62
+editors/vscode/src/coverageService.ts
+  s_5924b317eafe82::t_7fa21ae505daa2 18-20
+  s_5924b317eafe82::t_52664468601237 30
+  s_5924b317eafe82::t_31d9d8703c638e 41-43
+  s_5924b317eafe82::t_e82ad729f01f54 70
+  s_5924b317eafe82::t_4b12907d9bfd32 56,62,68,86
+editors/vscode/src/statusbar.ts
+  s_5924b317eafe82::t_a174c7c227c432 25-30
+editors/vscode/src/tree.ts
+  s_5924b317eafe82::t_75d56807db0852 54-69
+  s_5924b317eafe82::t_32911b48fd7b46 101-104,106
+  s_5924b317eafe82::t_b4ba2c34d111ba 28-29
+editors/vscode/src/webview.ts
+  s_5924b317eafe82::t_28a8e88a5a8a6d 103-109
+  s_5924b317eafe82::t_bb9e4161aebfeb 198
+  s_5924b317eafe82::t_de2ddcf1ba7bd5 172-175
+  s_5924b317eafe82::t_4c412f71e8c7a4 138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b126093a52cec7a7c48e193fe029c072bb8ac300",
+  "prompts": {},
+  "sessions": {
+    "s_3edc5a97231852": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9afe170a-2f70-4bed-ac9e-f74903865055",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_5924b317eafe82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57ccd166-77c2-4d80-92ec-7c7192fef2dd",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

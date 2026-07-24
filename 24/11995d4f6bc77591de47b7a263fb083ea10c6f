@@ -1,0 +1,19 @@
+.agents/skills/local-review/SKILL.md
+  s_77406b1cfb1f8f::t_3819d449355692 80-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2411995d4f6bc77591de47b7a263fb083ea10c6f",
+  "prompts": {},
+  "sessions": {
+    "s_77406b1cfb1f8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "96bcb36a-5ba6-434a-bfd7-777e21388cfa",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

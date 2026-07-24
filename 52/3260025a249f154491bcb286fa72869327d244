@@ -1,0 +1,21 @@
+crates/vidi-core/tests/unit_hash_vectors.rs
+  s_58c076b9e4c857::t_4f99100ab71834 1-333
+schemas/interop/unit-hash-vectors.json
+  s_58c076b9e4c857::t_297e315f11eefe 1-149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "523260025a249f154491bcb286fa72869327d244",
+  "prompts": {},
+  "sessions": {
+    "s_58c076b9e4c857": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca184d25-855f-457f-ae1c-f471e6a8e275",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

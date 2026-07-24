@@ -1,0 +1,32 @@
+crates/vidi-core/src/crypto/envelope.rs
+  s_7f0c90fe157128::t_12b635f962a22e 1-164
+crates/vidi-core/src/crypto/notary.rs
+  s_7f0c90fe157128::t_600d05807e1a81 1-84
+crates/vidi-core/src/crypto/entrypoint.rs
+  s_7f0c90fe157128::t_fc460c16e5290a 1-23,26-470
+  s_7f0c90fe157128::t_eee4c522470f06 24-25
+crates/vidi-core/src/crypto/receipt.rs
+  s_7f0c90fe157128::t_e874871cb06caa 1-114,118-172
+  s_7f0c90fe157128::t_e9f9fabb79ea96 115-117
+crates/vidi-core/src/lib.rs
+  s_7f0c90fe157128::t_2dc356ad4c195c 14-19
+crates/vidi-core/src/crypto/mod.rs
+  s_7f0c90fe157128::t_18d5951ae081d5 4-6,8,15-17,20-26,28-30,33-34,38-39,46,48
+  s_7f0c90fe157128::t_0a27224f343cf6 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "cf2ad8dfe625b0d5f4ad228a0d2b279b41b977e8",
+  "prompts": {},
+  "sessions": {
+    "s_7f0c90fe157128": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "145b83d4-7458-412e-a4fc-f8fffc47de9c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

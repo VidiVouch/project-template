@@ -1,0 +1,19 @@
+.agents/hooks/enforce_cargo.py
+  s_73b636b5c0ea9d::t_b9138e4712b457 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "c181ef301ecac8696fc7fe9f2ca8251bd2e9f3d5",
+  "prompts": {},
+  "sessions": {
+    "s_73b636b5c0ea9d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e24a70d-06ba-4b7e-ba83-f968d754d9dd",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

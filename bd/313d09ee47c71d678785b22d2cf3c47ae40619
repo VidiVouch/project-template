@@ -1,0 +1,28 @@
+.github/workflows/d8-pin-sweep.yml
+  s_3b7d45a1386420::t_faadbc0108cb8c 1-24
+design/README.md
+  s_3b7d45a1386420::t_faadbc0108cb8c 1-5
+design/D8-contract-ledger.json
+  s_3b7d45a1386420::t_459a8a189b6d8a 1-678
+scripts/d8-pin-sweep.py
+  s_3b7d45a1386420::t_2e942e9ec6204b 9-10
+  s_3b7d45a1386420::t_d860bc62c9ddd1 4-5
+  s_3b7d45a1386420::t_faadbc0108cb8c 1-3,6-8,11-74,76-79,81-84,89-125,127-154
+  s_3b7d45a1386420::t_ea764cc533cb71 75,80,85-88,126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bd313d09ee47c71d678785b22d2cf3c47ae40619",
+  "prompts": {},
+  "sessions": {
+    "s_3b7d45a1386420": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f42c0-3739-70f3-a60f-b2966cc0f8b1",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

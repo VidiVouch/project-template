@@ -1,0 +1,22 @@
+crates/vidi-core/src/error.rs
+  s_5924b317eafe82::t_9d379835e582a0 80-87
+  s_5924b317eafe82::t_261b3e6edd6dc4 94-103
+  s_5924b317eafe82::t_20cfa75e737b6a 188,190-218
+  s_5924b317eafe82::t_742091563e3fdd 92-93,189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b334331c2ffe2fe09630fec0ed42d57e0b44a43d",
+  "prompts": {},
+  "sessions": {
+    "s_5924b317eafe82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57ccd166-77c2-4d80-92ec-7c7192fef2dd",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

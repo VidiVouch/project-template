@@ -1,0 +1,45 @@
+crates/vidi-graph/src/reference.rs
+  s_dee56432316ff2::t_78511af0dfcec1 1-115
+crates/vidi-graph/src/lib.rs
+  s_dee56432316ff2::t_9320864be19c0d 135-140,142
+  s_dee56432316ff2::t_e554ad505abada 1-2,4-7,9-11,13-27,30-38,42-134
+  s_dee56432316ff2::t_facaf69d7f8c12 12
+  s_dee56432316ff2::t_732a31fd839d4c 40-41
+crates/vidi-graph/src/conformance.rs
+  s_dee56432316ff2::t_181ccec49cab26 418-567
+  s_dee56432316ff2::t_79187b82ccebf3 1-338,341,343-345,352-417
+  s_dee56432316ff2::t_766f29f9e66fd9 339-340,342,346-351
+crates/vidi-graph/src/score.rs
+  s_dee56432316ff2::t_ad87962e04cd5d 165-171
+  s_dee56432316ff2::t_f45dbb2a83444d 1-14,16-164
+  s_dee56432316ff2::t_fa8068e74f4c1f 15
+crates/vidi-graph/src/resolve.rs
+  s_dee56432316ff2::t_0478ef6cbc3f77 47-50
+  s_dee56432316ff2::t_4165b6e6be2289 1-46,51-363
+  s_dee56432316ff2::t_8a5949aa585fae 364-384
+crates/vidi-graph/src/significance.rs
+  s_dee56432316ff2::t_bc7c6259ee3671 1-24,29-77,82-102
+  s_dee56432316ff2::t_2051c4a8dbf9e9 78-81
+  s_dee56432316ff2::t_1c80b82a011c69 25-28
+crates/vidi-graph/src/churn.rs
+  s_dee56432316ff2::t_367c9a1bef9e8c 1-50,56-60,65,67-68
+  s_dee56432316ff2::t_0d9a000c02c0d2 51-55,61-64,66
+crates/vidi-graph/src/provider.rs
+  s_dee56432316ff2::t_b3ce86a75c161a 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7347bdef173368f0ac376cf1dbc5d999658d83a1",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

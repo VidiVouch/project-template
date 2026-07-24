@@ -1,0 +1,21 @@
+crates/vidi-core/src/digest.rs
+  s_dee56432316ff2::t_39d26ca24be5fb 230-234,319,353-397
+crates/vidi-core/src/unit/mod.rs
+  s_dee56432316ff2::t_11653e7c1fff40 8,12-15,20-22,31-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "35be5bc8ba697a618dafb9b689c1d31a2f2c71b7",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

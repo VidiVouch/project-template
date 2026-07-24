@@ -1,0 +1,21 @@
+crates/vidi-core/src/ledger/mod.rs
+  s_d4c72c31eb7028::t_6557d2a58581c5 8-10,12-14,23,28-31
+crates/vidi-core/src/ledger/staleness.rs
+  s_d4c72c31eb7028::t_0828f161d3c268 1-450
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "ade71863bbaad9226c3315f3d21601e906856e43",
+  "prompts": {},
+  "sessions": {
+    "s_d4c72c31eb7028": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0bd8c374-ac9d-4373-b290-a1a5d9aa485a",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

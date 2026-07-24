@@ -1,0 +1,57 @@
+crates/vid-lang/src/configs.rs
+  s_a8fa6210c93696::t_f644791fa4e6a5 8
+crates/vid-lang/src/configs/rust.rs
+  s_a8fa6210c93696::t_6feb2467dc6c4c 105,112
+  s_a8fa6210c93696::t_5c42d00ece3188 129
+crates/vid-lang/src/engine.rs
+  s_a8fa6210c93696::t_7ac7d7ec35c128 73-82,133,135-138,140-141,144,146-149,151-152
+  s_a8fa6210c93696::t_46816f898adaaa 164-180,182-188,192-194,196-211
+  s_a8fa6210c93696::t_929c4dcf4bf6a6 86-92,98,102-109,111-114,116
+  s_a8fa6210c93696::t_f45e9838625dfd 303
+  s_a8fa6210c93696::t_216e0f5ab9b3dd 449-450
+  s_a8fa6210c93696::t_57d50cf615e334 334-340
+  s_a8fa6210c93696::t_e4e5bcae1e152c 429-431
+  s_a8fa6210c93696::t_adb6a8f075e1ce 295-297
+  s_a8fa6210c93696::t_f4dc2518b68c30 181,189-191,195
+  s_a8fa6210c93696::t_a76a6bb55d553b 26
+  s_a8fa6210c93696::t_5487af098bd0d7 99-101,110
+  s_a8fa6210c93696::t_d8f4e2d45c294f 285-294,298-300,308,311-312,316,319,324,329-330
+  s_a8fa6210c93696::t_8c452ea2511ff1 139,150
+  s_a8fa6210c93696::t_3dac4b53fe85d7 367-378,389
+  s_a8fa6210c93696::t_6f13210d16ac89 442-444,447-448
+crates/vid-lang/src/configs/python.rs
+  s_a8fa6210c93696::t_f45e9838625dfd 121-128,182-185
+  s_a8fa6210c93696::t_7d5fcaf8fa5d07 55
+  s_a8fa6210c93696::t_93150a53ae6c10 1-54,56-86,88-120,129-181,186-201
+  s_a8fa6210c93696::t_5c42d00ece3188 87
+crates/vid-lang/src/registry.rs
+  s_a8fa6210c93696::t_7c8bae66fa34de 23
+crates/vid-lang/src/config.rs
+  s_a8fa6210c93696::t_f3a88d9a9a1423 142-147
+  s_a8fa6210c93696::t_2b8d6de957e8c2 40-45
+  s_a8fa6210c93696::t_87dd1328e13167 89-101
+  s_a8fa6210c93696::t_7cf9dec3885387 171-175
+crates/vid-lang/src/configs/go.rs
+  s_a8fa6210c93696::t_5c42d00ece3188 75,92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "15890ddc0d056bc6535a2b0f2a2e67acf1496f46",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

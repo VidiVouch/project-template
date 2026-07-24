@@ -1,0 +1,25 @@
+crates/vidi-cli/src/notary_client.rs
+  s_f3a39bcec77f0e::t_3dcfaad75e0aeb 340
+  s_f3a39bcec77f0e::t_884fae0f2cd762 638-685
+  s_f3a39bcec77f0e::t_6c2311c0ca1a3d 314-317
+crates/vidi-cli/src/cli.rs
+  s_f3a39bcec77f0e::t_5075f296fbcad2 116-118
+schemas/brand/cyanotype.css
+  s_f3a39bcec77f0e::t_245c92f010721e 14,237,247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "541f201a9397d0d6c71a401569fa51ae55853b2f",
+  "prompts": {},
+  "sessions": {
+    "s_f3a39bcec77f0e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "074fdf60-9f4a-40f9-a6cd-60f09bc21e69",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

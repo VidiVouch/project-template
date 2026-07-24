@@ -1,0 +1,37 @@
+.idea/.gitignore
+  s_b771d99100a061::t_9d818b29bb80c3 1-10
+.idea/externalDependencies.xml
+  s_b771d99100a061::t_4268d649f563f3 1-7
+.idea/inspectionProfiles/Project_Default.xml
+  s_b771d99100a061::t_fc562c2e3c5307 1-17
+.idea/markdown.xml
+  s_b771d99100a061::t_a5cb6c41e00656 1-8
+.idea/modules.xml
+  s_b771d99100a061::t_ea9ace1becbea0 1-8
+.idea/vcs.xml
+  s_b771d99100a061::t_25305170f0fcdf 1-15
+.idea/vid.iml
+  s_b771d99100a061::t_12c06b0e20d634 1-11
+.vscode/extensions.json
+  s_b771d99100a061::t_440298955cd8f4 1-14
+.vscode/settings.json
+  s_b771d99100a061::t_febedccff7a6ed 1-58
+.vscode/tasks.json
+  s_b771d99100a061::t_d6d51d3ab6110b 1-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "9d7622c8b3b69c96efc9e3f524d3b8d43214242a",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

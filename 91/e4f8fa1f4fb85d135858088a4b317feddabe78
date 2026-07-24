@@ -1,0 +1,29 @@
+Formula/vidi.rb
+  s_b771d99100a061::t_956dc08183879c 1-57
+npm/install.js
+  s_b771d99100a061::t_588632673bb646 1-105
+npm/bin/vidi.js
+  s_b771d99100a061::t_08f45580cd279b 1-18
+dist/vidi.rb
+  s_b771d99100a061::t_20b100f9eab604 1-44
+npm/README.md
+  s_b771d99100a061::t_ac967226f19ece 1-18
+npm/package.json
+  s_b771d99100a061::t_f8d1e7e1b1628d 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "91e4f8fa1f4fb85d135858088a4b317feddabe78",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

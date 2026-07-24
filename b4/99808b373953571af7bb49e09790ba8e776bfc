@@ -1,0 +1,32 @@
+crates/vid-lang-rust/Cargo.toml
+  s_a8fa6210c93696::t_63d2049cf10e1c 25-31
+  s_a8fa6210c93696::t_b06e72b62284e2 14-19
+crates/vid-lang-rust/benches/parse_hash.rs
+  s_a8fa6210c93696::t_669b14e81a741d 1-6,11-58
+  s_a8fa6210c93696::t_1d0b27e5317b50 7-10
+Cargo.lock
+  s_a8fa6210c93696::t_97ad2ef33ee3f7 38-42,175-180,208-234,296-329,355-360,543-553,566-571,803-813,829-837,1041-1046,1225-1233,1432-1441,1678,1684-1693,1783-1789
+Cargo.toml
+  s_a8fa6210c93696::t_990a69675a2bdf 32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b499808b373953571af7bb49e09790ba8e776bfc",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

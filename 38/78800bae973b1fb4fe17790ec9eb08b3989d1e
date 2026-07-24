@@ -1,0 +1,26 @@
+schemas/human-review-v1.schema.json
+  s_cf46f2a9c74543::t_9a926536a6cea7 58-59
+schemas/tool-review-v1.schema.json
+  s_cf46f2a9c74543::t_4f1469ab8452b8 58-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "3878800bae973b1fb4fe17790ec9eb08b3989d1e",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+crates/vidi-cli/tests/json_report.rs
+  s_eb2f8f50c49d11::t_e9b50dece5f735 605-609,960-964
+  s_eb2f8f50c49d11::t_c5e5320fda9507 588-589
+  s_eb2f8f50c49d11::t_2b1a322eec218c 430-433,480-485,600-604,654-656,738-741,854-860,955-959,1008-1011
+  s_eb2f8f50c49d11::t_915b224531d31f 1-429,434-479,486-587,590-599,610-653,657-737,742-853,861-954,965-1007,1012-1020
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "fb3cb45eed272290579f055813de3f10838d78ae",
+  "prompts": {},
+  "sessions": {
+    "s_eb2f8f50c49d11": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f82a3-823b-7723-8ead-4e12a6cb7252",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

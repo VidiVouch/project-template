@@ -1,0 +1,38 @@
+.github/workflows/audit.yml
+  s_9832363861b899::t_136aa7ed50b5e9 20
+.github/workflows/lint.yml
+  s_563f5ba883e193::t_ad6222878162e3 19,25,28,32-35,45,53
+  s_fd58371f980512::t_ac5a7ed5889573 36-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "61365c6ae6654c33a2f27dbc114d2eb89bcf04d0",
+  "prompts": {},
+  "sessions": {
+    "s_563f5ba883e193": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d66f7036-713a-41f6-be5e-a3feae445eac",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_9832363861b899": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "802439c0-5179-4db1-9a14-4bca48b02459",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_fd58371f980512": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "803b5984-805b-4a17-8298-4984b7a2472c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

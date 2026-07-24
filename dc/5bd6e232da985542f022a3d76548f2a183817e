@@ -1,0 +1,23 @@
+.claude/hooks/block-no-verify.sh
+  s_a464b688cb76de::t_adf74f5309c6de 1-33
+.claude/hooks/review-gate.sh
+  s_a464b688cb76de::t_ef0b5f675c662d 54-56,62-63
+.claude/settings.json
+  s_a464b688cb76de::t_d27a3c3226653c 41-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dc5bd6e232da985542f022a3d76548f2a183817e",
+  "prompts": {},
+  "sessions": {
+    "s_a464b688cb76de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10f79a89-a49c-4a99-bdec-dd864a27143b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

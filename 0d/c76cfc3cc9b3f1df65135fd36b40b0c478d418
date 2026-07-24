@@ -1,0 +1,40 @@
+.agents/skills/local-review/gather.sh
+  s_b771d99100a061::t_8595e1bfc80f35 1-50,54,56-63
+  s_db3ca8be3d7da9::t_a23c3835a1a386 51-53,55
+.agents/skills/local-review/SKILL.md
+  s_b771d99100a061::t_02461458a86242 154-179
+  s_b771d99100a061::t_7a2025e76b55fb 51-55
+  s_b771d99100a061::t_d384c681c6a78b 2,9-13,16-26,33,37-38,59,71,73-94,96-99,101,103-107,109-118,120,122-127,129,131-133,135-136,138,140-147,149,151-152,181,198-207,212-233
+  s_b771d99100a061::t_b2d4cee3c1178f 14-15
+  s_b771d99100a061::t_f70186c40af45d 4
+  s_db3ca8be3d7da9::t_e3ea9cf28d356d 134,137,139,148,150,153,180
+  s_b771d99100a061::t_c2592faa4c967e 208-211
+  s_b771d99100a061::t_66af33108c284a 3
+  s_b771d99100a061::t_2f676eac4af4ce 40,42-44
+  s_b771d99100a061::t_74e9902a7a9770 46-49
+  s_b771d99100a061::t_04678c1529838e 61,63-66,68-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "0dc76cfc3cc9b3f1df65135fd36b40b0c478d418",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_db3ca8be3d7da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f1938f61-9820-4c5a-823c-4dd771402dc4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

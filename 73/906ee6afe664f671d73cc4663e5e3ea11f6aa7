@@ -1,0 +1,26 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidRunner.kt
+  s_bac4e4c9b679c7::t_17fa3b3ea48886 29-33,35-40
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidCoverageService.kt
+  s_bac4e4c9b679c7::t_d8943855b5b81d 43-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "73906ee6afe664f671d73cc4663e5e3ea11f6aa7",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_bac4e4c9b679c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "40b64b71-7fb2-4022-b3b2-48457662f805",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

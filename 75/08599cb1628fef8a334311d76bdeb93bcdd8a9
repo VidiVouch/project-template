@@ -1,0 +1,19 @@
+crates/vidi-cli/src/attribute.rs
+  s_73b636b5c0ea9d::t_dd2d406f877ca1 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "7508599cb1628fef8a334311d76bdeb93bcdd8a9",
+  "prompts": {},
+  "sessions": {
+    "s_73b636b5c0ea9d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e24a70d-06ba-4b7e-ba83-f968d754d9dd",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+Cargo.lock
+  s_d790b5e7a566fa::t_207df18e03cad9 17-43,89-110,117-161,174-179,186-209,219-243,253-333,361,377-385,392-402,414-471,488,491,510-574
+Cargo.toml
+  s_d790b5e7a566fa::t_86514a647898d6 43-46,52-53
+crates/vidi-core/Cargo.toml
+  s_d790b5e7a566fa::t_01f097ee72d829 17-18,23-27,35-40
+crates/vidi-core/src/policy/mod.rs
+  s_d790b5e7a566fa::t_ed388f15545786 1-145
+crates/vidi-core/src/policy/proptests.rs
+  s_d790b5e7a566fa::t_8c4a71cb5a4a16 1-109
+crates/vidi-core/src/policy/schema.rs
+  s_d790b5e7a566fa::t_32b09858b2b2b8 1-305
+crates/vidi-core/src/lib.rs
+  s_d790b5e7a566fa::t_c22669c8428e3b 14-19,30
+crates/vidi-core/src/policy/diagnostics.rs
+  s_d790b5e7a566fa::t_b28106762a5edc 1-1023
+crates/vidi-core/src/policy/discovery.rs
+  s_d790b5e7a566fa::t_a711fe4c5fbf21 1-278
+crates/vidi-core/src/policy/gate.rs
+  s_d790b5e7a566fa::t_556c774c8118bb 1-1131
+crates/vidi-core/src/policy/globs.rs
+  s_d790b5e7a566fa::t_51cd4bd362f051 1-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1d667e16b66c19542b7ac95dad3b53761041515c",
+  "prompts": {},
+  "sessions": {
+    "s_d790b5e7a566fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6713f966-dff7-44ff-834b-26e7d42ff7d7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

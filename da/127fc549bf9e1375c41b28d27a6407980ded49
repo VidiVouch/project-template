@@ -1,0 +1,35 @@
+crates/vid-cli/src/login.rs
+  s_17405aaf91a59b::t_28cc2d95a2f824 266-278,280-282
+  s_17405aaf91a59b::t_d3ab3eff051420 243-257
+  s_17405aaf91a59b::t_5973880fde9f1d 216-227,229-231
+Cargo.toml
+  s_17405aaf91a59b::t_4800d1c1faaa6f 48-52
+crates/vid-cli/src/push.rs
+  s_17405aaf91a59b::t_1afd970c0abc52 182-185,187-193,195-197,199-201
+  s_17405aaf91a59b::t_849a011e130c56 326-330
+  s_17405aaf91a59b::t_471eb099716e26 323-325
+crates/vid-cli/src/notary.rs
+  s_17405aaf91a59b::t_40c56e7312288f 830-832,834-835
+  s_17405aaf91a59b::t_22ada2edf82619 107-109,111-116,118-120,122-124
+  s_17405aaf91a59b::t_827a0ccbaefb0f 853-854,856-857
+  s_17405aaf91a59b::t_891d5e667cc255 144-145,147-150,153-160
+crates/vid-cli/src/sync.rs
+  s_17405aaf91a59b::t_6611ac917d4c77 128-129,131-134,137-139,141-143
+  s_17405aaf91a59b::t_1f5a3785a56f67 90-92,94-99,101-103,105-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "da127fc549bf9e1375c41b28d27a6407980ded49",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

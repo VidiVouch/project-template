@@ -1,0 +1,31 @@
+Cargo.lock
+  s_d4c72c31eb7028::t_8f966d30d05930 179
+Cargo.toml
+  s_d4c72c31eb7028::t_6855a66d6cad1c 42-44,49
+crates/vidi-core/Cargo.toml
+  s_d4c72c31eb7028::t_6fe074806450b3 24-30
+crates/vidi-core/src/ledger/custody.rs
+  s_d4c72c31eb7028::t_b1593d07585c02 1-357
+crates/vidi-core/src/ledger/layout.rs
+  s_d4c72c31eb7028::t_d519dee44d56a3 1-270
+crates/vidi-core/src/ledger/mod.rs
+  s_d4c72c31eb7028::t_d638f859a81c26 1-18
+crates/vidi-core/src/lib.rs
+  s_d4c72c31eb7028::t_55ebc78c368e41 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "81d295edce8ddd3c5138554eef4ab0d2984c0cc0",
+  "prompts": {},
+  "sessions": {
+    "s_d4c72c31eb7028": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0bd8c374-ac9d-4373-b290-a1a5d9aa485a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

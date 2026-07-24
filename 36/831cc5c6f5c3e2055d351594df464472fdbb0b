@@ -1,0 +1,49 @@
+crates/vidi-cli/src/main.rs
+  s_8e77d9a7d0e322::t_d9a881e186a3bf 19
+crates/vidi-cli/src/identity.rs
+  s_8e77d9a7d0e322::t_c10665de0ab33e 1-64,66-67,72-78,80-89,92-94,97-98,101-102,105-114,117-120,122-125,127,137-138,148-150,152,154-157,159-162,173-176,180-183,190-212,215-217
+  s_8e77d9a7d0e322::t_6608b60805e0ac 65,68-71,79,90-91,95-96,99-100,103-104,115-116,121,126,128-136,139-147,151,153,158,163-172,177-179,184-189,213-214
+  s_8e77d9a7d0e322::t_fd180b4da2da8a 218-220
+crates/vidi-cli/src/cli.rs
+  s_8e77d9a7d0e322::t_c5bf7ff714c2a3 164-178
+  s_8e77d9a7d0e322::t_22c6a72aad95c3 66-68
+crates/vidi-cli/src/token.rs
+  s_8e77d9a7d0e322::t_2349ba529c892b 38,40
+  s_8e77d9a7d0e322::t_c25aa530988efe 185
+crates/vidi-cli/src/commands.rs
+  s_8e77d9a7d0e322::t_7a008e81b9f40c 607
+  s_8e77d9a7d0e322::t_4eb1a51a9beb91 755-766
+  s_8e77d9a7d0e322::t_bed02d6f01983b 928-941,951-968
+  s_8e77d9a7d0e322::t_243532016ef5a8 31-33
+  s_8e77d9a7d0e322::t_ab075ecc35b8f6 564
+  s_8e77d9a7d0e322::t_0fefdd5122c2a0 744
+  s_8e77d9a7d0e322::t_5501d64616043d 942-950
+  s_8e77d9a7d0e322::t_a0b6d96e449608 50
+  s_8e77d9a7d0e322::t_0222af929e44ed 881-898
+crates/vidi-cli/src/provenance.rs
+  s_8e77d9a7d0e322::t_6b37ed8933ce7f 258-268,274,294
+  s_8e77d9a7d0e322::t_c642cb5a63657e 291-293,295
+  s_8e77d9a7d0e322::t_efbe196117630b 277-281
+  s_8e77d9a7d0e322::t_4eb8eae0b09c20 275-276
+crates/vidi-cli/tests/json_report.rs
+  s_8e77d9a7d0e322::t_18d90482415c4e 97
+  s_8e77d9a7d0e322::t_feac73e15956e5 106-126
+  s_8e77d9a7d0e322::t_5be8e71c6a78d7 942,947-1004,1009-1010,1012-1013,1015-1016,1019-1042,1045-1046,1048
+  s_8e77d9a7d0e322::t_358e25418f19f2 130-131,133-135,932,936-937,1043-1044,1047,1049
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "36831cc5c6f5c3e2055d351594df464472fdbb0b",
+  "prompts": {},
+  "sessions": {
+    "s_8e77d9a7d0e322": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d674643f-111f-4275-803e-ed3fc3a7555c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

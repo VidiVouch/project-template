@@ -1,0 +1,21 @@
+.github/workflows/audit.yml
+  s_f78d2cec747f7f::t_4bcd9fce98a922 1-20
+.github/dependabot.yml
+  s_f78d2cec747f7f::t_4bcd9fce98a922 7-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "65a6315936ff1bb3e3e53f27e1e63d4e614854f9",
+  "prompts": {},
+  "sessions": {
+    "s_f78d2cec747f7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07573a7b-c985-4c80-9af5-61b645d89bcd",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+crates/vid-cli/src/main.rs
+  s_a8fa6210c93696::t_f9e8d6145f0119 1-11
+schemas/human-review-v1.schema.json
+  s_a8fa6210c93696::t_2b5c724d637d9d 1-83
+crates/vid-core/tests/conformance.rs
+  s_a8fa6210c93696::t_4b1bbcf1bd92a8 97-100,112-115,177-180
+  s_a8fa6210c93696::t_3298f34052bc52 152
+  s_a8fa6210c93696::t_465d0be15e046e 1-96,101-111,116-151,153-176,181-182
+crates/vid-core/src/digest.rs
+  s_a8fa6210c93696::t_f714b2f301e5cb 1-96,98-169
+  s_a8fa6210c93696::t_ab4f53bbd80fe6 97
+crates/vid-core/src/node.rs
+  s_a8fa6210c93696::t_5c9d6c5d00996a 44
+  s_a8fa6210c93696::t_9fad505434c423 1-43,45-49,54-95,101-120,126-205
+  s_a8fa6210c93696::t_4b1bbcf1bd92a8 50-53,96-100,121-125
+schemas/README.md
+  s_a8fa6210c93696::t_0cf24b034740d4 1-19
+crates/vid-core/Cargo.toml
+  s_a8fa6210c93696::t_10da5a3b037b2e 1-25
+crates/vid-core/src/severity.rs
+  s_a8fa6210c93696::t_ae70ca8bf17585 73
+  s_a8fa6210c93696::t_7793ed005da858 117
+  s_a8fa6210c93696::t_8f1a0f9691599f 275-288,293-302
+  s_a8fa6210c93696::t_dc7532c1778181 182-184,189-190
+  s_a8fa6210c93696::t_a0e9adca351d15 235,243,253,264,307,317,325
+  s_a8fa6210c93696::t_c0d0d42be46686 289-292
+  s_a8fa6210c93696::t_4b1bbcf1bd92a8 218-220,230-233,266-270,314-316
+  s_a8fa6210c93696::t_278491501a2907 1-72,74-90,107-116,118-181,185-188,191-217,221-229,234,236-242,244-252,254-263,265,271-274,303-306,308-313,318-324,326-328
+  s_a8fa6210c93696::t_8e87c7248c6f0d 91-106
+Cargo.toml
+  s_a8fa6210c93696::t_2e210dfc667d4e 1-6,11,13,15-22,24-27,32,36,39,46
+crates/vid-core/src/version.rs
+  s_a8fa6210c93696::t_e71846bcd37ead 1-30
+crates/vid-core/src/lib.rs
+  s_a8fa6210c93696::t_f7bac13689bdc1 1-57
+schemas/tool-review-v1.schema.json
+  s_a8fa6210c93696::t_43557c840cd916 1-86
+AGENTS.md
+  s_a8fa6210c93696::t_ee5d20dc42c855 8-63
+crates/vid-cli/Cargo.toml
+  s_a8fa6210c93696::t_79256d8c2b198b 1-22
+crates/vid-core/src/record.rs
+  s_a8fa6210c93696::t_68f5fba6699d7f 281
+  s_a8fa6210c93696::t_584493e916c448 233,241-242,248
+  s_a8fa6210c93696::t_01b86288c3062a 256
+  s_a8fa6210c93696::t_357fac7c2d8427 1-30,32-45,47-68,70-75,77-232,234-240,243-247,249-255,257-280,282-295
+  s_a8fa6210c93696::t_b9411da4975751 31,46,69,76
+crates/vid-core/src/dsse.rs
+  s_a8fa6210c93696::t_9213f7cce4c72a 21
+  s_a8fa6210c93696::t_b2c81dafd19401 1-20,22-131
+BUILD.md
+  s_a8fa6210c93696::t_87ab61b67595d4 1-23,25-207
+  s_a8fa6210c93696::t_e35aa4ee2c7058 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "01c00bd10ab1f04f04436ff586aeb38d6ca95810",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

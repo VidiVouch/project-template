@@ -1,0 +1,23 @@
+crates/vidi-lang/Cargo.toml
+  s_a464b688cb76de::t_cf1866ee62266a 15-16,18-30
+Cargo.toml
+  s_a464b688cb76de::t_aebfdfff1e86db 53-66
+Cargo.lock
+  s_a464b688cb76de::t_054ee24a883557 5-13,90-98,161-177,193-229,236-241,248-253,288-293,312-350,369-423,460,483-500,518-532,572-697,704-712,748-760
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "89228ceff70fb1fab56e8eb423977fb5d5d159a9",
+  "prompts": {},
+  "sessions": {
+    "s_a464b688cb76de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10f79a89-a49c-4a99-bdec-dd864a27143b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

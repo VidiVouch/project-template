@@ -1,0 +1,56 @@
+crates/vidi-lang/src/registry.rs
+  s_dee56432316ff2::t_6dc0feacb2feb5 53-55
+  s_dee56432316ff2::t_e39c1dee0fc723 279-283
+  s_dee56432316ff2::t_5cedb195adef88 1-52,56-278,284-387
+  s_dee56432316ff2::t_8927da11b4f044 388-613
+crates/vidi-lang/src/prose.rs
+  s_dee56432316ff2::t_b269a52c8f1428 1-88,90-113,115-127,129-136,138-153,155-161,163-176,178
+  s_dee56432316ff2::t_e2abfc426131b5 89
+  s_dee56432316ff2::t_ad19742ca7910f 114
+  s_dee56432316ff2::t_6329ee71a85453 128
+  s_dee56432316ff2::t_60bd12928014b9 137
+  s_dee56432316ff2::t_3850215d37e2dd 154
+  s_dee56432316ff2::t_dd4c2f476cec91 162
+  s_dee56432316ff2::t_4c15f5076dd560 177,179-184
+crates/vidi-lang/src/conformance.rs
+  s_dee56432316ff2::t_07d531a96dab31 1-278
+  s_dee56432316ff2::t_39aa7f6bf2a9c2 279-346
+crates/vidi-lang/src/lib.rs
+  s_dee56432316ff2::t_4aa9dd02797700 3-6,8-22,29-40,45-47,52-71,76-95,100
+  s_dee56432316ff2::t_a954994bb22142 48-51
+  s_dee56432316ff2::t_15f6456d202e5a 96-99
+  s_dee56432316ff2::t_cd4fb7a6cb847b 43-44
+  s_dee56432316ff2::t_29d557b466f6d7 74-75
+  s_dee56432316ff2::t_a17707ef3e3b40 24-28
+  s_dee56432316ff2::t_6dca155decd5e5 101-113
+crates/vidi-lang/src/grade.rs
+  s_dee56432316ff2::t_18ec426bd072ec 1-15
+crates/vidi-lang/src/normalize.rs
+  s_dee56432316ff2::t_d9b334d0d0c965 126-186
+  s_dee56432316ff2::t_39a7d03bc3e2e6 1-25,49,55-125
+  s_dee56432316ff2::t_fd56f6f69900f8 26-48,50-54
+  s_dee56432316ff2::t_d10318eaf4dc5b 187-212
+crates/vidi-lang/src/address.rs
+  s_dee56432316ff2::t_6a7a2df612eb25 13
+  s_dee56432316ff2::t_d97e5e7c7d468a 1-12,14-78
+crates/vidi-lang/src/engine.rs
+  s_dee56432316ff2::t_f4421cda5b2af1 1-2,8,10,12-27,30,32-35,37-40,56,62,75,77-78,88,118-120,148
+  s_dee56432316ff2::t_8602ea097fd6db 3-7,9,11,28-29,31,36,41-55,57-61,63-74,76,79-87,89-117,121-147,149-150
+  s_dee56432316ff2::t_222f7651f6d231 151-158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "73d8077d7eddfbaca741f26b2db74fccb888ec2b",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

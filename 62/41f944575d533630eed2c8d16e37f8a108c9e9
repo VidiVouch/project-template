@@ -1,0 +1,27 @@
+.pre-commit-config.yaml
+  s_58c076b9e4c857::t_31fedc395497b9 10-12,17,20-21,26-36
+Cargo.toml
+  s_58c076b9e4c857::t_08017559836b49 66-77
+README.md
+  s_58c076b9e4c857::t_6e6e128ee838eb 93-98,108-109,111-117,119-123,137-142
+REVIEW.md
+  s_58c076b9e4c857::t_e1f9dd42a4e80b 12-19,55,57-62,82-89
+clippy.toml
+  s_58c076b9e4c857::t_59d6572b5b0ab1 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "6241f944575d533630eed2c8d16e37f8a108c9e9",
+  "prompts": {},
+  "sessions": {
+    "s_58c076b9e4c857": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca184d25-855f-457f-ae1c-f471e6a8e275",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

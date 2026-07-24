@@ -1,0 +1,118 @@
+crates/vidi-core/src/crypto/notary.rs
+  s_dee56432316ff2::t_e5e9cf2ca97d38 54
+  s_dee56432316ff2::t_1fe822d5fc3144 1-27,33-53,55-76
+  s_dee56432316ff2::t_f9bdaf7979654d 28-32
+crates/vidi-core/src/crypto/keyid.rs
+  s_dee56432316ff2::t_39e9b710ccf490 6
+  s_dee56432316ff2::t_5e8aa1d692a6c7 57-69
+  s_dee56432316ff2::t_9b1cc8fb827ee6 13
+  s_dee56432316ff2::t_bd9cc2896a5dfb 1-5,7-12,14-56,70-100
+crates/vidi-core/src/crypto/timestamp.rs
+  s_dee56432316ff2::t_81f7ac79498a5d 15-16
+  s_dee56432316ff2::t_b820a866daee48 88
+  s_dee56432316ff2::t_999148b2d9e35b 74-86
+  s_dee56432316ff2::t_85721eff080b6c 1-14,17-73,87,89-114
+crates/vidi-core/src/crypto/error.rs
+  s_dee56432316ff2::t_6e4d1f1e25161e 22
+  s_dee56432316ff2::t_501141c32b2440 1-21,23-99
+crates/vidi-core/src/crypto/key.rs
+  s_dee56432316ff2::t_859c676976cb75 1-146
+  s_dee56432316ff2::t_5371f26381dae9 147-151
+crates/vidi-cli/src/sign.rs
+  s_dee56432316ff2::t_9d7d308bf02a1f 1-11,16-119,121-195
+  s_dee56432316ff2::t_1d698d57bccb52 12-15
+  s_dee56432316ff2::t_9552ce2497ec49 120
+  s_dee56432316ff2::t_e90b34a790fa6a 196-201
+crates/vidi-cli/src/commands.rs
+  s_dee56432316ff2::t_b0b84e15329ad7 167-175,177
+  s_dee56432316ff2::t_a6a1eca4697aea 147-163
+  s_dee56432316ff2::t_f91999a66211a2 137-142
+  s_dee56432316ff2::t_ff84b0e865a020 188-193
+crates/vidi-core/src/crypto/manifest.rs
+  s_dee56432316ff2::t_9d8c07bd4cf3c5 103
+  s_dee56432316ff2::t_f7a601e206a40c 117
+  s_dee56432316ff2::t_7b2c441c312b00 1-22,24-68,72-80,83-102,104-116,118-282,284-376
+  s_dee56432316ff2::t_e3507028c3ae88 23
+  s_dee56432316ff2::t_c4821dcd91409c 69-71
+  s_dee56432316ff2::t_b07adb92329d60 81-82
+  s_dee56432316ff2::t_45be1e6fa1f223 283
+  s_dee56432316ff2::t_8dc1da6e33053d 377-383
+crates/vidi-core/src/crypto/pae.rs
+  s_dee56432316ff2::t_0181cb1f699505 1-70
+crates/vidi-core/tests/signing_vectors.rs
+  s_dee56432316ff2::t_05708ee5f0af32 527-528
+  s_dee56432316ff2::t_401799761fb9ee 29
+  s_dee56432316ff2::t_1aaf2366403b0f 1-28,30-125,127-156,158-180,182-322,324-356,358-375,377-389,391-408,410-426,428-447,449-472,474-519,521-526,529-537,539-569
+  s_dee56432316ff2::t_8fe501daff4eaa 181
+  s_dee56432316ff2::t_4f3caa06343a24 126
+  s_dee56432316ff2::t_88026e428117d5 157
+  s_dee56432316ff2::t_53bc7b40b0dfc5 323
+  s_dee56432316ff2::t_246f7c4d9af433 357
+  s_dee56432316ff2::t_3e1aea8511a2de 376
+  s_dee56432316ff2::t_eda49cbe63b8ff 390
+  s_dee56432316ff2::t_c15271540bb4a3 409
+  s_dee56432316ff2::t_51e2268b042f95 427
+  s_dee56432316ff2::t_864420b2bb9bad 448
+  s_dee56432316ff2::t_5eba6d3efef474 473
+  s_dee56432316ff2::t_83da4f7ea52e73 520
+  s_dee56432316ff2::t_ed5b4ff8525399 538
+crates/vidi-cli/src/main.rs
+  s_dee56432316ff2::t_94e144dab4011c 16-17
+crates/vidi-cli/src/token.rs
+  s_dee56432316ff2::t_c459080fa1871c 11-12,20,24,26-27,38,46,51,54-89,92-93,101,109-110,114,117-118,130,139,142-148,150-155,157-159,165,173,178-179,181,183-186,188,195,197-204,206-216
+  s_dee56432316ff2::t_043ae50c93ff30 149
+  s_dee56432316ff2::t_edacc668efb2ab 156
+  s_dee56432316ff2::t_a68462e472b46a 1-10,13,18-19,21-23,25,28-37,39-45,47-50,52-53,90-91,94-100,102-108,111-113,115-116,119-129,131-138,140-141,160-164,166-172,174-177,187,189-194,196,205,217-218
+  s_dee56432316ff2::t_828a42c7767185 180,182
+  s_dee56432316ff2::t_89be7d6a03ace7 14-17
+  s_dee56432316ff2::t_cb6c1e09be2415 219-224
+crates/vidi-core/src/crypto/hex.rs
+  s_dee56432316ff2::t_9af8da1801270f 1-97
+  s_dee56432316ff2::t_5f8c899518426a 98-100
+crates/vidi-core/src/crypto/assurance.rs
+  s_dee56432316ff2::t_eca89d9eb9ea5d 73
+  s_dee56432316ff2::t_8d545c0a5b6141 1-24,30-72,74-154
+  s_dee56432316ff2::t_ad14afa3578f21 25-29
+  s_dee56432316ff2::t_785d785609b87f 155
+crates/vidi-core/src/crypto/guid.rs
+  s_dee56432316ff2::t_0bcd0a635a7b96 11-12
+  s_dee56432316ff2::t_6adead2c286552 1-2,4-10,14-19,21-47,49-55,57-72,86,88-118
+  s_dee56432316ff2::t_1d8309ca1ca4bb 73-85
+  s_dee56432316ff2::t_25f5f668a97fa4 87
+  s_dee56432316ff2::t_593e164a50b9a6 3,13,20,48,56
+  s_dee56432316ff2::t_61f61ead9f2780 119-126
+crates/vidi-core/src/crypto/mod.rs
+  s_dee56432316ff2::t_53d548ca32cb58 3-39,41-42
+  s_dee56432316ff2::t_e17c9d3ef9b575 40
+crates/vidi-core/src/crypto/receipt.rs
+  s_dee56432316ff2::t_e225be503389f9 129-133
+  s_dee56432316ff2::t_6a2af2f3d82df5 1-128,134-162
+crates/vidi-core/src/crypto/entrypoint.rs
+  s_dee56432316ff2::t_e63926d8f8f116 1-20,25-110,112-238,244-249,251-331
+  s_dee56432316ff2::t_de9433e04f4662 239-243
+  s_dee56432316ff2::t_4725238d06d909 111
+  s_dee56432316ff2::t_eda62792cd53f1 250
+  s_dee56432316ff2::t_cdb23197d013d2 21-24
+  s_dee56432316ff2::t_9cf462a2ff5e00 332-334
+crates/vidi-core/src/crypto/envelope.rs
+  s_dee56432316ff2::t_b97407ca46f661 1-4,6-151
+  s_dee56432316ff2::t_7d4ccf0b41e778 5
+schemas/interop/signing-vectors.json
+  s_dee56432316ff2::t_f807be45933a90 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f5a0e19276917d466d0042e2d3bb6d473057ab45",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

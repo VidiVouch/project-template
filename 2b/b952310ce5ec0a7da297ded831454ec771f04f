@@ -1,0 +1,34 @@
+crates/vid-lang/src/registry.rs
+  s_a8fa6210c93696::t_6b5466ff586d00 25
+  s_a8fa6210c93696::t_0fe3f3b2861066 26
+crates/vid-lang/src/configs/java.rs
+  s_a8fa6210c93696::t_7ad94e39241062 1-189,195-232,241-273
+  s_a8fa6210c93696::t_122c02289bb4b7 190-194,233-240
+crates/vid-lang/src/configs.rs
+  s_a8fa6210c93696::t_89d0ea0c8463f9 7
+  s_a8fa6210c93696::t_bf730b1af5ead2 9
+crates/vid-lang/src/configs/csharp.rs
+  s_a8fa6210c93696::t_301b6213fdb21e 1-234,237-243,245-248,250-264,273-297
+  s_a8fa6210c93696::t_122c02289bb4b7 235-236,244,249,265-272
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2bb952310ce5ec0a7da297ded831454ec771f04f",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

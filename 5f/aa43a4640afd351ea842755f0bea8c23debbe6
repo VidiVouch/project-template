@@ -1,0 +1,19 @@
+.gitattributes
+  s_087c2050fa5b14::t_9d56ab507d0663 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "5faa43a4640afd351ea842755f0bea8c23debbe6",
+  "prompts": {},
+  "sessions": {
+    "s_087c2050fa5b14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24408329-2292-4d8f-b196-267278f0890a",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

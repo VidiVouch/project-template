@@ -1,0 +1,19 @@
+editors/vscode/src/extension.ts
+  s_ced4edfad0877c::t_acc034669ecc3a 1-148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "8fbe3207739167c94fba097b44b8e3ec0193e640",
+  "prompts": {},
+  "sessions": {
+    "s_ced4edfad0877c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e26f5a47-1925-40b4-8891-e5c42104f8e9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

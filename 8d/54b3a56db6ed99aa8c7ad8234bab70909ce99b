@@ -1,0 +1,104 @@
+crates/vid-lang/src/config.rs
+  s_a8fa6210c93696::t_c7ad9e41336b98 104-112
+  s_a8fa6210c93696::t_db0a81f305601e 157-161
+  s_a8fa6210c93696::t_65821478c7611e 45-51
+  s_a8fa6210c93696::t_40c5ab1824a126 237-246
+  s_a8fa6210c93696::t_ac27d848a9b7c7 187-192
+  s_a8fa6210c93696::t_ead71a1cdfe3fb 99-103
+crates/vid-lang/src/configs/haskell.rs
+  s_a8fa6210c93696::t_72e32967c8e650 155-157
+  s_a8fa6210c93696::t_f9b8ccf7f32bcf 42,51,60,69,78,88,97,106,118,127
+  s_a8fa6210c93696::t_f0fb9aa5b21bb6 134
+  s_a8fa6210c93696::t_061e6a9efe4f1d 43,52,61,70,79,89,98,107
+crates/vid-lang/src/configs/swift.rs
+  s_a8fa6210c93696::t_c6c7efd8d60f21 1-68,70-77,79-86,88-295,300-412,418-435
+  s_a8fa6210c93696::t_ba76699974487c 69,78,87
+  s_a8fa6210c93696::t_8b0e664e4919c2 296-299,413-417
+crates/vid-lang/src/configs/kotlin.rs
+  s_a8fa6210c93696::t_8dbdefe6d84594 147-148
+  s_a8fa6210c93696::t_f9b8ccf7f32bcf 37,47,56,65,76,85,94,109,118
+  s_a8fa6210c93696::t_061e6a9efe4f1d 38,48,57,66,77,86,95
+  s_a8fa6210c93696::t_f0fb9aa5b21bb6 123
+Cargo.toml
+  s_a8fa6210c93696::t_09982ddc9b9336 21-25,35
+crates/vid-lang/src/configs/rust.rs
+  s_a8fa6210c93696::t_061e6a9efe4f1d 34,43,52,61,70,79,88,97,106,116
+  s_a8fa6210c93696::t_f9b8ccf7f32bcf 33,42,51,60,69,78,87,96,105,115,127,136
+  s_a8fa6210c93696::t_f0fb9aa5b21bb6 141
+  s_a8fa6210c93696::t_1595962c6c5fa7 159-160
+crates/vid-lang/src/configs.rs
+  s_a8fa6210c93696::t_e92b1b6c994746 15
+crates/vid-lang/src/configs/csharp.rs
+  s_a8fa6210c93696::t_3b5e7a5887beec 235-236
+  s_a8fa6210c93696::t_f9b8ccf7f32bcf 33,42,51,60,69,79,88,98,107,116,125,134,143,152,161,173,182,191,200,209
+  s_a8fa6210c93696::t_f0fb9aa5b21bb6 214
+  s_a8fa6210c93696::t_061e6a9efe4f1d 34,43,52,61,70,80,89,99,108,117,126,135,144,153,162
+crates/vid-lang/Cargo.toml
+  s_a8fa6210c93696::t_e707a00d6be7a3 32
+crates/vid-lang/src/registry.rs
+  s_a8fa6210c93696::t_280422076b3549 23
+crates/vid-lang/src/engine.rs
+  s_a8fa6210c93696::t_fad10b6fe75819 173-176,178-179
+  s_a8fa6210c93696::t_719857ab9c8ffa 499,511,519-526,529-533
+  s_a8fa6210c93696::t_bd25302a25b364 540-541,544,547
+  s_a8fa6210c93696::t_f900cf45eea8ec 576
+  s_a8fa6210c93696::t_ceedac1a91d833 674-682,684-686,692-703
+  s_a8fa6210c93696::t_5cb514d9926c90 339-342,344-345
+  s_a8fa6210c93696::t_72c9649c347d06 332-338
+  s_a8fa6210c93696::t_0104d295e32158 177
+  s_a8fa6210c93696::t_2bacebf1e8cab8 210-216,224-228
+  s_a8fa6210c93696::t_e351ed61986613 343
+  s_a8fa6210c93696::t_cdf8dc49f3dbc5 446
+  s_a8fa6210c93696::t_b6e44f55f3a6c9 89-99
+  s_a8fa6210c93696::t_c091ef2ce0a895 683,687-691
+crates/vid-lang/src/configs/zig.rs
+  s_a8fa6210c93696::t_6e934b247440c2 106-107
+  s_a8fa6210c93696::t_f9b8ccf7f32bcf 34,43,52,61,73
+  s_a8fa6210c93696::t_061e6a9efe4f1d 35,44,53,62,74
+  s_a8fa6210c93696::t_f0fb9aa5b21bb6 81
+DESIGN.html
+  s_a8fa6210c93696::t_8c124107575c98 224
+crates/vid-lang/src/configs/python.rs
+  s_a8fa6210c93696::t_f9b8ccf7f32bcf 33,42,52,63
+  s_a8fa6210c93696::t_31880a7d9c1cef 101-102
+  s_a8fa6210c93696::t_061e6a9efe4f1d 34,43,53
+  s_a8fa6210c93696::t_f0fb9aa5b21bb6 67
+crates/vid-lang/src/configs/javascript.rs
+  s_a8fa6210c93696::t_061e6a9efe4f1d 37,46,55,65,75,86,95
+  s_a8fa6210c93696::t_f9b8ccf7f32bcf 36,45,54,64,74,85,94,105
+  s_a8fa6210c93696::t_9a9d4c06308dbe 132-133
+  s_a8fa6210c93696::t_f0fb9aa5b21bb6 109
+AGENTS.md
+  s_a8fa6210c93696::t_dcd0ad20bf4e5d 50-53
+crates/vid-lang/src/configs/go.rs
+  s_a8fa6210c93696::t_169d507b7d4104 108-109
+  s_a8fa6210c93696::t_061e6a9efe4f1d 44,53,62,71,80
+  s_a8fa6210c93696::t_f9b8ccf7f32bcf 43,52,61,70,79
+  s_a8fa6210c93696::t_f0fb9aa5b21bb6 86
+crates/vid-lang/src/configs/java.rs
+  s_a8fa6210c93696::t_f0fb9aa5b21bb6 170
+  s_a8fa6210c93696::t_f9b8ccf7f32bcf 33,42,51,62,71,81,90,99,108,117,126,138,147,156,165
+  s_a8fa6210c93696::t_061e6a9efe4f1d 34,43,52,63,72,82,91,100,109,118,127
+  s_a8fa6210c93696::t_c5e0d506529734 191-192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8d54b3a56db6ed99aa8c7ad8234bab70909ce99b",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

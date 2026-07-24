@@ -1,0 +1,37 @@
+.agents/hooks/enforce_cargo.py
+  s_b771d99100a061::t_be1834e7aecaf8 1-118
+.agents/skills/local-review/SKILL.md
+  s_b771d99100a061::t_a372d6d1fd0090 1-110
+.claude/commands/deep-review.md
+  s_b771d99100a061::t_462c725e20617e 1-550
+.claude/hooks/review-gate.sh
+  s_b771d99100a061::t_39f1301aa128cc 1-83
+.claude/loop.md
+  s_b771d99100a061::t_562cb92fec4d6b 1-205
+.claude/settings.json
+  s_b771d99100a061::t_11676a8e13120f 1-127
+.claude/skills
+  s_b771d99100a061::t_9b1513cbd70478 1
+.codex/config.toml
+  s_b771d99100a061::t_d469e7f95afef9 1-7
+.codex/hooks.json
+  s_b771d99100a061::t_88c6787cb39ed7 1-16
+.mcp.json
+  s_b771d99100a061::t_194bf139d06952 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "d70af9cd61c3ba2818d7c738eef49da31b23da72",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

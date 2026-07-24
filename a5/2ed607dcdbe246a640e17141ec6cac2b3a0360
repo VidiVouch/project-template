@@ -1,0 +1,57 @@
+crates/vid-core/src/record.rs
+  s_a8fa6210c93696::t_cd2def0a83fe5f 190-239,241-244,249,253-254,259
+  s_a8fa6210c93696::t_3574205b633c34 276-277,290-295
+  s_a8fa6210c93696::t_b5eb7e263968c1 335-337,342-344
+  s_a8fa6210c93696::t_e0933ab9683e18 303-307,315-319
+crates/vid-core/tests/conformance.rs
+  s_a8fa6210c93696::t_a671e33f4b64f9 14-15
+  s_a8fa6210c93696::t_8a5fc569602926 49-52
+  s_a8fa6210c93696::t_a93d060cfe1c79 123-153
+  s_a8fa6210c93696::t_623a9fbb7c7f42 70-76
+crates/vid-core/src/dsse.rs
+  s_a8fa6210c93696::t_921dac12bfa2a8 53-58,60-62
+  s_a8fa6210c93696::t_c94dc15f30f069 146-155
+  s_a8fa6210c93696::t_97d4dabd59e014 73-77
+  s_a8fa6210c93696::t_1aa5fb78a130a4 87
+  s_a8fa6210c93696::t_a9b2ef6016c86e 97
+  s_a8fa6210c93696::t_0bb6d4fff3ec79 108-109,115-118
+schemas/tool-review-v1.schema.json
+  s_a8fa6210c93696::t_53c31b18a391f0 15
+  s_a8fa6210c93696::t_4de885765900fb 58
+  s_a8fa6210c93696::t_099c1704916adf 56-57,59-60
+crates/vid-core/src/node.rs
+  s_a8fa6210c93696::t_5f1c0f85e6605e 24
+  s_a8fa6210c93696::t_b76940ddca6593 224-236,239-240
+  s_a8fa6210c93696::t_4f12bf07c1540b 142-159
+  s_a8fa6210c93696::t_e0933ab9683e18 237-238
+schemas/human-review-v1.schema.json
+  s_a8fa6210c93696::t_e87e37184845e1 58
+  s_a8fa6210c93696::t_f2eec06501a74b 15
+  s_a8fa6210c93696::t_3503c3741ba081 56-57,59-60
+BUILD.md
+  s_a8fa6210c93696::t_1a2aea6aff6d25 15-17,22-27,32,34-39
+  s_a8fa6210c93696::t_7064a96c8a96ac 60-61
+  s_a8fa6210c93696::t_f2b919aa26a62f 172-176
+  s_a8fa6210c93696::t_174fdadd4f4630 49-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "a52ed607dcdbe246a640e17141ec6cac2b3a0360",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_a8fa6210c93696": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ebfcda-4dab-4dd5-a747-111c8939ccbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

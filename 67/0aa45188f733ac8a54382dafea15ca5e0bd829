@@ -1,0 +1,175 @@
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/ReviewWalkAndCheckinTest.kt
+  s_268237d5f3cacc::t_4441b5612e0b2f 1-56
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiToolWindowFactory.kt
+  s_268237d5f3cacc::t_dd868d6289db13 117,137-138,144-146,152-154,157-176,204,260,291,312,350,463,482,505,512,520,523
+  s_268237d5f3cacc::t_57fb121130efca 188-201
+  s_268237d5f3cacc::t_57c9562ff3d5ef 1-79,81-97,99-116,118-124,126-136,139-143,147-151,155-156,177-179,181-187,202-203,205,207-216,218,220-226,228-259,261-290,292-293,295-311,313-315,317-331,333-349,351-352,354-363,365,379-384,386-392,398-436,438,440-462,464,466-481,483-484,486-504,506-511,513-519,521-522,524-525,527-539,541-548
+  s_268237d5f3cacc::t_43d638396c8afc 217
+  s_268237d5f3cacc::t_096ec811f1437f 393-397
+  s_268237d5f3cacc::t_d1b12397bf3476 437
+  s_268237d5f3cacc::t_9e7d520b4472b9 80,98,125,180,206,219,227,294,316,332,353,364,366-378,385,439,465,485,526,540
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVouchPopup.kt
+  s_268237d5f3cacc::t_00702e55858337 158-160,164-166
+  s_268237d5f3cacc::t_89532e52668b80 246-250
+  s_268237d5f3cacc::t_3e1eb8ff97e2ce 41-43
+  s_268237d5f3cacc::t_b4df0b1ea6c82d 120-122,131-133
+  s_268237d5f3cacc::t_e2d61c99d9daac 173-174
+  s_268237d5f3cacc::t_959a80522f5b78 168-171
+  s_268237d5f3cacc::t_0acbafa1b75fb2 62-64,84-86
+  s_268237d5f3cacc::t_3d7d703e52a680 88-90,107-109
+  s_268237d5f3cacc::t_4684375b17b873 44,56,61,87,110-111,119,134,140-141,157,172,175-188,207,209,240,245,251
+  s_268237d5f3cacc::t_78b6ddbba14fd3 252-254
+  s_268237d5f3cacc::t_92701b71859a35 57-60
+  s_268237d5f3cacc::t_c8e143a048675e 142-144,154-156
+  s_268237d5f3cacc::t_08e0ab8672bc48 189-191,204-206
+  s_268237d5f3cacc::t_cc1d611c897622 210-212,237-239
+  s_268237d5f3cacc::t_5ec0f69e4aaf66 112-114,116-118
+  s_268237d5f3cacc::t_38d816bf5973b0 135-139
+  s_268237d5f3cacc::t_1ff44a9f09ece0 241-244
+  s_268237d5f3cacc::t_2492ff7560d257 167
+  s_268237d5f3cacc::t_96873252110d12 45-47,53-55
+  s_268237d5f3cacc::t_ad3e8ca8b64ce3 208
+  s_268237d5f3cacc::t_eedf9fe2195929 1-40,48-52,65-83,91-106,115,123-130,145-153,161-163,192-203,213-236,255-256
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyPanel.kt
+  s_268237d5f3cacc::t_69d997e9aac84d 1-514
+editors/jetbrains/src/main/resources/icons/vidi_dark.svg
+  s_268237d5f3cacc::t_a4606039f2883f 1-4
+editors/jetbrains/settings.gradle.kts
+  s_268237d5f3cacc::t_7ae3330d59e9ce 1-8
+editors/jetbrains/gradlew.bat
+  s_268237d5f3cacc::t_1464530c604dd6 1-82
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReviewFromAction.kt
+  s_268237d5f3cacc::t_5ece6b3a677fad 1-67
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiRunner.kt
+  s_268237d5f3cacc::t_ace8bfd64592a8 1-51,54-55,58
+  s_268237d5f3cacc::t_6e53b408e6a530 52-53,56-57
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPalette.kt
+  s_268237d5f3cacc::t_bb56a68d9e1f0d 1-97
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/RampBindingTest.kt
+  s_268237d5f3cacc::t_6a8a338ab18ce5 1-59
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCoverageService.kt
+  s_268237d5f3cacc::t_fc02242c805903 1-223
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCli.kt
+  s_268237d5f3cacc::t_723c6936943b10 1-72
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_268237d5f3cacc::t_fac1e918c88bfb 1-187
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/SchemaVersion.kt
+  s_268237d5f3cacc::t_fcc145e105e9bf 1-96
+editors/jetbrains/gradle.properties
+  s_268237d5f3cacc::t_490ced9392319c 1-11
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiLineMarkerProvider.kt
+  s_268237d5f3cacc::t_c24dbcd76e7e1f 1-41
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiInlayHints.kt
+  s_268237d5f3cacc::t_b3af2ad7958e93 1-130
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/SchemaWalker.kt
+  s_268237d5f3cacc::t_ae2431c82973e6 1-103
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CaretResolutionTest.kt
+  s_268237d5f3cacc::t_33a1060ebda22d 60-61
+  s_268237d5f3cacc::t_cabbfb7f45fc90 1-59,62-71
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStatusBar.kt
+  s_268237d5f3cacc::t_3b7a2bfcd401f0 1-67
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiText.kt
+  s_268237d5f3cacc::t_b6441ef5e2721f 31-42
+  s_268237d5f3cacc::t_4d8fd3b704ac3e 1-27,46-63
+  s_268237d5f3cacc::t_8393636cfbdedb 28-30
+  s_268237d5f3cacc::t_a597a20f380adb 43-45
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiGutterHighlighter.kt
+  s_268237d5f3cacc::t_14b18b6065799b 1-131
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiVerbs.kt
+  s_268237d5f3cacc::t_8b9c4fa571f382 1-201
+editors/jetbrains/dev-runide.sh
+  s_268237d5f3cacc::t_dbe3c86d11de4a 1-71
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStartupActivity.kt
+  s_268237d5f3cacc::t_595f49a8f0b6d1 1-18
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiConfigurable.kt
+  s_268237d5f3cacc::t_1f1b8d64ba51bc 1-224
+editors/jetbrains/src/main/resources/META-INF/pluginIcon_dark.svg
+  s_268237d5f3cacc::t_5c1f863bf77a8a 1-17
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoverageParseTest.kt
+  s_268237d5f3cacc::t_01330d6c805a34 1-74
+editors/jetbrains/.gitignore
+  s_268237d5f3cacc::t_f2e096c30cec31 1-8
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCheckinHandler.kt
+  s_268237d5f3cacc::t_6f402e099f4785 51-53
+  s_268237d5f3cacc::t_8f8ff644044899 1-50,54-113
+editors/jetbrains/src/main/resources/META-INF/plugin.xml
+  s_268237d5f3cacc::t_37faef454aa589 1-82
+editors/jetbrains/src/main/resources/icons/vidi@20x20.svg
+  s_268237d5f3cacc::t_75dd290612df46 1-4
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/RampTokens.kt
+  s_268237d5f3cacc::t_04e48fb088bdd4 1-94
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/TextPresentationTest.kt
+  s_268237d5f3cacc::t_83336c31874631 1-60
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiBadges.kt
+  s_268237d5f3cacc::t_35c70e13a26829 1-126
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiMatrixPanel.kt
+  s_268237d5f3cacc::t_a24790cb6045cc 1-312
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoveragePlatformTest.kt
+  s_268237d5f3cacc::t_a8215a995eae71 1-66
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/HandshakeTest.kt
+  s_268237d5f3cacc::t_179529ee3320da 1-69
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiStripeAnnotator.kt
+  s_268237d5f3cacc::t_38020c2bcd75fb 1-46
+editors/jetbrains/README.md
+  s_268237d5f3cacc::t_1ac44970d81982 1-49
+editors/jetbrains/gradlew
+  s_268237d5f3cacc::t_526c6785e935fe 1-248
+editors/jetbrains/src/main/resources/icons/vidi@20x20_dark.svg
+  s_268237d5f3cacc::t_cc3e97b68ba215 1-4
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/TestFixtures.kt
+  s_268237d5f3cacc::t_6cb35698f6a42a 1-55
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VouchAction.kt
+  s_268237d5f3cacc::t_b2929ba029ac81 1-175
+editors/jetbrains/DEVELOPMENT.md
+  s_268237d5f3cacc::t_7d2e72c2b6d0b1 1-58
+editors/jetbrains/screenshots/README.md
+  s_268237d5f3cacc::t_ba0c5e1f2ecaa1 1-41
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReviewPanel.kt
+  s_268237d5f3cacc::t_288dbd58af6be0 173-175
+  s_268237d5f3cacc::t_adf9c8b8d4c68e 261-263
+  s_268237d5f3cacc::t_b01e0191dae4f9 260
+  s_268237d5f3cacc::t_405b25dfa95497 180-182,257-259
+  s_268237d5f3cacc::t_95aba32c79e56d 1-172,183-256,264-349
+  s_268237d5f3cacc::t_19c0caf943a880 176-179
+editors/jetbrains/src/main/resources/META-INF/pluginIcon.svg
+  s_268237d5f3cacc::t_bab532f40d49ea 1-17
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiSelectors.kt
+  s_268237d5f3cacc::t_6110cb64ff2920 1-49
+editors/jetbrains/build.gradle.kts
+  s_268237d5f3cacc::t_4b8d4d8bfd440b 1-68,83-84,96-107
+  s_268237d5f3cacc::t_2f46de2ee85ebf 69-82
+  s_268237d5f3cacc::t_df531decc11da5 85-95
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/LaneGatingTest.kt
+  s_268237d5f3cacc::t_458a200f14736a 1-49
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/VerbDenyPathTest.kt
+  s_268237d5f3cacc::t_41da66862f59ba 1-111
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VerbActions.kt
+  s_268237d5f3cacc::t_ca99712b9c5ae6 1-152
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiSettings.kt
+  s_268237d5f3cacc::t_cf6e46f43c0739 1-68
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/FieldCoverageTest.kt
+  s_268237d5f3cacc::t_38288b72c26afb 43-59
+  s_268237d5f3cacc::t_7d03b0cdfcfa89 1-42,60-149
+editors/jetbrains/src/main/resources/icons/vidi.svg
+  s_268237d5f3cacc::t_42f919b36767b3 1-4
+editors/jetbrains/gradle/wrapper/gradle-wrapper.properties
+  s_268237d5f3cacc::t_b7634164a3364c 1-9
+editors/jetbrains/swap.sh
+  s_268237d5f3cacc::t_59254a16a6c995 1-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "670aa45188f733ac8a54382dafea15ca5e0bd829",
+  "prompts": {},
+  "sessions": {
+    "s_268237d5f3cacc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ac09d61a-7ce3-4dee-8364-323e4bb27ba0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}

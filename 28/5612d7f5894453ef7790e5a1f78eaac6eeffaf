@@ -1,0 +1,21 @@
+tests/gen-demo-repo.sh
+  s_db3ca8be3d7da9::t_bf3580806c467d 81-88
+crates/vidi-cli/src/graph.rs
+  s_db3ca8be3d7da9::t_a3b54fbe41a331 32-34,45-54,61-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "5c315981af5455ff4ad97160312181cf8fc5c769",
+  "prompts": {},
+  "sessions": {
+    "s_db3ca8be3d7da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f1938f61-9820-4c5a-823c-4dd771402dc4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

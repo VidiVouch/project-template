@@ -1,0 +1,69 @@
+crates/vidi-core/src/addressing.rs
+  s_a464b688cb76de::t_0126cf846bddd0 1-3
+crates/vidi-core/src/error.rs
+  s_a464b688cb76de::t_4262e61961e164 1-2
+crates/vidi-core/src/lib.rs
+  s_a464b688cb76de::t_0ae89ac22b937b 24
+  s_a464b688cb76de::t_2804bdc2960867 1-10,12-23,25-33
+  s_a464b688cb76de::t_ab34e8c08d3758 11
+crates/vidi-core/src/ledger/mod.rs
+  s_a464b688cb76de::t_c23852dd78042c 1-5
+crates/vidi-core/Cargo.toml
+  s_a464b688cb76de::t_6a3b802dbbc7dc 14-22
+  s_a464b688cb76de::t_399fac9350a3a8 1-13,23-25
+crates/vidi-cli/Cargo.toml
+  s_a464b688cb76de::t_f6f35d25dab0cb 1-26
+crates/vidi-core/src/unit/mod.rs
+  s_a464b688cb76de::t_53b59809875acf 1-6
+crates/vidi-core/src/content_id.rs
+  s_a464b688cb76de::t_7578b940a07e0c 1-2
+crates/vidi-lang/Cargo.toml
+  s_a464b688cb76de::t_026dbcd5669db8 1-19
+crates/vidi-lang/src/lib.rs
+  s_a464b688cb76de::t_c9ce7baddb9c05 1-19
+crates/vidi-cli/src/main.rs
+  s_a464b688cb76de::t_d79b97f7037364 14-16
+  s_a464b688cb76de::t_686dd035f321d8 1-13,17-26
+Cargo.lock
+  s_a464b688cb76de::t_e3c1327d24fc78 11,17,22,29,31,36,39,41,47,53,58,60,62,68,74,80,86,91,93,95,100,102,104,109,112,114,119,121,123,128,132,134,139,145,147,153,158,162,164,170-194,196-198,200
+  s_a464b688cb76de::t_76c8e53a035a1c 6-10,12-16,18-21,23-28,30,32-35,37-38,40,42-46,48-52,54-57,59,61,63-67,69-73,75-79,81-85,87-90,92,94,96-99,101,103,105-108,110-111,113,115-118,120,122,124-127,129-131,133,135-138,140-144,146,148-152,154-157,159-161,163,165-169,199,201-204
+crates/vidi-core/src/record.rs
+  s_a464b688cb76de::t_74e578c2572831 1,3-4
+  s_a464b688cb76de::t_6453447bc465d6 2
+crates/vidi-core/src/digest.rs
+  s_a464b688cb76de::t_2f684265e22630 1-2
+crates/vidi-graph/Cargo.toml
+  s_a464b688cb76de::t_800f89a832c714 1-19
+crates/vidi-graph/src/lib.rs
+  s_a464b688cb76de::t_cbb1907e22a7f5 1-19
+Cargo.toml
+  s_a464b688cb76de::t_8a85069bcc784a 1-33,36-37,39,41-64,69,84-89
+rust-toolchain.toml
+  s_a464b688cb76de::t_1651ca6dc5f068 1-4
+  s_a464b688cb76de::t_896155d5c203ef 5-7
+rustfmt.toml
+  s_a464b688cb76de::t_fc0917e9f048aa 1-7
+  s_a464b688cb76de::t_e70d7bf3b2ebb2 8-15
+crates/vidi-core/src/grade.rs
+  s_a464b688cb76de::t_37f24fdb77866b 1
+crates/vidi-core/src/policy/mod.rs
+  s_a464b688cb76de::t_77e9981398caca 1-2
+deny.toml
+  s_a464b688cb76de::t_cca6d19ccec931 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "70de5f97fbaa6af6d7e55c2c47bfcd85630c34fc",
+  "prompts": {},
+  "sessions": {
+    "s_a464b688cb76de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10f79a89-a49c-4a99-bdec-dd864a27143b",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}

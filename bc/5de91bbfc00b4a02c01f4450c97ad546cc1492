@@ -1,0 +1,25 @@
+schemas/interop/receipt-vectors.json
+  s_7f0c90fe157128::t_75294016712a47 1-35
+crates/vidi-core/tests/signing_vectors.rs
+  s_7f0c90fe157128::t_7710be8fade19a 523-527
+  s_7f0c90fe157128::t_7e6401e8bfb903 1-147,154-164,171-184,189-212,215-285,290-375,378-522,528-543,548-599
+  s_7f0c90fe157128::t_63353dad9c4e5c 148-153,165-170,185-188,213-214,286-289,376-377,544-547
+schemas/interop/signing-vectors.json
+  s_7f0c90fe157128::t_75294016712a47 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "bc5de91bbfc00b4a02c01f4450c97ad546cc1492",
+  "prompts": {},
+  "sessions": {
+    "s_7f0c90fe157128": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "145b83d4-7458-412e-a4fc-f8fffc47de9c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

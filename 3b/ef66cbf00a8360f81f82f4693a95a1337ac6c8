@@ -1,0 +1,19 @@
+REVIEW.md
+  s_be5fd478c14260::t_e4c01b7e973536 3,7-15,19-23,29-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3bef66cbf00a8360f81f82f4693a95a1337ac6c8",
+  "prompts": {},
+  "sessions": {
+    "s_be5fd478c14260": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b883ad54-4add-4cf8-9379-456a0ebb5fa2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

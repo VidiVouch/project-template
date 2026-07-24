@@ -1,0 +1,28 @@
+docs/DESIGN.html
+  s_17405aaf91a59b::t_c85255aef30a8f 1-810
+README.md
+  s_17405aaf91a59b::t_75d2a7f024c4dc 10-13
+docs/VOUCH-ARCHITECTURE.html
+  s_17405aaf91a59b::t_c85255aef30a8f 1-201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "557fbb410ee532dcb96c5847855628b9a0f31179",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

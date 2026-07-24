@@ -1,0 +1,19 @@
+crates/vidi-cli/tests/credential_resolution_order.rs
+  s_b771d99100a061::t_14420b23a06c2d 1-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "ba25ba055c64171ff1542af640ed8b5204eebc3b",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

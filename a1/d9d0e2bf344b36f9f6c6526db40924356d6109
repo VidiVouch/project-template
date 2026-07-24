@@ -1,0 +1,20 @@
+design/FEEDBACK.md
+  s_20177da02186b9::t_09bd7b85deb023 51-79
+  s_20177da02186b9::t_6992eeacef3989 80-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a1d9d0e2bf344b36f9f6c6526db40924356d6109",
+  "prompts": {},
+  "sessions": {
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

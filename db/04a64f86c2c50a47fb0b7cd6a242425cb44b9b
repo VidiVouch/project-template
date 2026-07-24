@@ -1,0 +1,19 @@
+crates/vidi-cli/tests/explain.rs
+  s_5269497ba8660f::t_a7d8b8deaef4da 1-755
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "db04a64f86c2c50a47fb0b7cd6a242425cb44b9b",
+  "prompts": {},
+  "sessions": {
+    "s_5269497ba8660f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "821f8722-c2aa-4449-9d52-e8937289f139",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

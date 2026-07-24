@@ -1,0 +1,19 @@
+.claude/hooks/block-no-verify.sh
+  s_73b636b5c0ea9d::t_1f7ef46723c875 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "126be24eac2a6e176eea6989e2059e85af9f6d2f",
+  "prompts": {},
+  "sessions": {
+    "s_73b636b5c0ea9d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e24a70d-06ba-4b7e-ba83-f968d754d9dd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

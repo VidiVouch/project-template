@@ -1,0 +1,37 @@
+.github/actions/vid-gate/action.yml
+  s_cf46f2a9c74543::t_3fe92bd45510b8 28-29,49-53
+  s_cf46f2a9c74543::t_b358279b799e34 9-11,13
+  s_cf46f2a9c74543::t_22d6f2b3f451c6 35-36
+  s_cf46f2a9c74543::t_ad775d73398bc6 15-19
+  s_cf46f2a9c74543::t_3c2d46b7139b83 37-41
+Cargo.toml
+  s_cf46f2a9c74543::t_454fc91f593b59 10
+.github/workflows/release.yml
+  s_cf46f2a9c74543::t_7ad07d25669889 152-157
+  s_cf46f2a9c74543::t_a7af3d06d4435c 56
+  s_cf46f2a9c74543::t_5eedcaac18bf94 64
+  s_cf46f2a9c74543::t_4fa2130f172b10 158
+  s_cf46f2a9c74543::t_9b0a6d9b7c297e 16-36,39
+  s_cf46f2a9c74543::t_8836c2b53f7be8 80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "1b1323219b4c047251d4da8f8e14105064fe4a60",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

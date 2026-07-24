@@ -1,0 +1,209 @@
+editors/vscode/src/contract/schema-types.ts
+  s_4fa4a88a1e7877::t_790d0b79228387 53
+  s_4fa4a88a1e7877::t_45c042bc05b9e6 54-59,126-127
+editors/jetbrains/src/main/resources/META-INF/pluginIcon.svg
+  s_4fa4a88a1e7877::t_44ba02797992b4 3,6-8
+crates/vidi-core/src/policy/gate.rs
+  s_4fa4a88a1e7877::t_d9dfba719874f6 527-531,541-542,551-553
+  s_4fa4a88a1e7877::t_c20adaa7a98001 149-153,157-159
+  s_4fa4a88a1e7877::t_1bb531c2442a3d 532-540,543-550
+  s_4fa4a88a1e7877::t_c75fb44aaa9272 526
+editors/vscode/src/extension.ts
+  s_4fa4a88a1e7877::t_dec87d215f5a7e 78
+  s_4fa4a88a1e7877::t_af485681864b73 14
+crates/vidi-cli/Cargo.toml
+  s_0f5f8261e2fde5::t_23b8b62c2106ee 46-47,50
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyPanel.kt
+  s_4fa4a88a1e7877::t_f64609aef11304 286-291
+  s_4fa4a88a1e7877::t_89dfaffbcc1617 86-89
+  s_4fa4a88a1e7877::t_5f68558dc2ba84 326-329
+schemas/examples/report-on-axis.json
+  s_4fa4a88a1e7877::t_7bc7c99b13074d 2-50,52-53,55-67,69-96
+crates/vidi-cli/tests/cli.rs
+  s_0f5f8261e2fde5::t_2eb5dd2788c10d 7,18-19,39-40
+  s_0f5f8261e2fde5::t_35d64a20f17bb2 274
+  s_0f5f8261e2fde5::t_4035e30d59d3a5 265-273,275-309
+  s_0f5f8261e2fde5::t_dfc905af6cf7b6 264
+crates/vidi-cli/src/cli.rs
+  s_0f5f8261e2fde5::t_173a24c3babc26 88-95
+schemas/examples/report-off-axis-minimal.json
+  s_4fa4a88a1e7877::t_7bc7c99b13074d 2-10,12-42
+crates/vidi-cli/tests/json_report.rs
+  s_4fa4a88a1e7877::t_5b86e555b3c4cf 177,229
+  s_4fa4a88a1e7877::t_fe96b4bef35c25 341-342,344-345
+  s_4fa4a88a1e7877::t_7d95ba8480832c 230
+  s_4fa4a88a1e7877::t_0434344f58abd8 343,348,352,357
+  s_4fa4a88a1e7877::t_8c08fc2338b0ac 228
+  s_4fa4a88a1e7877::t_e08e4702ad24c2 351,353-355
+  s_4fa4a88a1e7877::t_3e0f84170e8d86 346-347,349-350,356,358
+.idea/project-template.iml
+  s_20177da02186b9::t_47c63dce23a552 7-18
+crates/vidi-core/src/ledger/store.rs
+  s_4fa4a88a1e7877::t_7a86ac866b7f6c 147
+editors/vscode/media/eye.svg
+  s_4fa4a88a1e7877::t_2a87e3e9ba6f0c 1-5
+crates/vidi-cli/src/remote.rs
+  s_0f5f8261e2fde5::t_db54544074dfc8 143
+  s_0f5f8261e2fde5::t_11227dd8817694 114
+  s_0f5f8261e2fde5::t_d62cf130fc02aa 56,62-74,83,89,164-167,181-186,196-197,211-226
+  s_0f5f8261e2fde5::t_79e7fea5c56cad 132
+  s_0f5f8261e2fde5::t_61055bec3a1465 1-55,57-61,75-82,84-88,90-113,115-131,133-142,144-163,168-180,187-195,198-210,227-229
+schemas/interop/conformance/conformance-2-minor-extra-field.json
+  s_4fa4a88a1e7877::t_c076ec0a05ba5f 9,34-36
+  s_4fa4a88a1e7877::t_4f602132d822aa 2-3,6,8,10-33,37-47
+  s_4fa4a88a1e7877::t_6db04f249cbdfa 4-5,7
+crates/vidi-cli/src/commands.rs
+  s_0f5f8261e2fde5::t_b5e37661732432 56-57
+  s_0f5f8261e2fde5::t_938a7cf99dc790 904-983
+crates/vidi-core/tests/wu11_conformance.rs
+  s_4fa4a88a1e7877::t_0434344f58abd8 411-412,474-477
+  s_4fa4a88a1e7877::t_7d95ba8480832c 501-506
+  s_4fa4a88a1e7877::t_8c5b039b06543b 507-508
+schemas/interop/conformance/conformance-3-minor-unknown-enum.json
+  s_4fa4a88a1e7877::t_c076ec0a05ba5f 13,38-40
+  s_4fa4a88a1e7877::t_4f602132d822aa 2-3,6-10,12,14-37,41-50
+  s_4fa4a88a1e7877::t_6db04f249cbdfa 4-5,11
+editors/vscode/package.json
+  s_4fa4a88a1e7877::t_f7b314aec5f41b 22
+  s_4fa4a88a1e7877::t_c94ab25e88ab04 8-9
+editors/vscode/src/contract/decode.ts
+  s_4fa4a88a1e7877::t_45c042bc05b9e6 101-103,207
+crates/vidi-interop/src/conformance.rs
+  s_4fa4a88a1e7877::t_0434344f58abd8 268,318-320,482-484
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/TextPresentationTest.kt
+  s_4fa4a88a1e7877::t_2460e3958d0cfe 19
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_4fa4a88a1e7877::t_45c042bc05b9e6 57-62,125-126
+schemas/interop/field-manifest.v1.json
+  s_4fa4a88a1e7877::t_7d95ba8480832c 59
+  s_4fa4a88a1e7877::t_76be65e98fb4df 28,68
+  s_4fa4a88a1e7877::t_5ca9108e33cfef 57
+schemas/vidi-json-v1.schema.json
+  s_4fa4a88a1e7877::t_af3ff06e44eebb 16-17,110,365-367,398,403,408
+  s_4fa4a88a1e7877::t_74ead84f4682d4 215
+  s_4fa4a88a1e7877::t_df1146a0d87942 397,399-400,406
+  s_4fa4a88a1e7877::t_7d95ba8480832c 407,409-414
+  s_4fa4a88a1e7877::t_76be65e98fb4df 5,26-29,35-38,60-62,66-68,73-75,80-82,87-89,92,94-96,99,101-103,106,108-109,111-112,117,120-124,131,133-136,139,141-143,148,151-155,157-159,161,165,167-169,172,182-184,192-195,198,227-231,250-279,294-301,308,311-316,333-336,345-349,374-376,388,401-402,404-405,415-417,420-423,428-433,439-441,444,448,452,454-456,467,470-473,476,482-486,494-497,505,515-518,530-532,541-545,549-552,561-564
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiMatrixPanel.kt
+  s_4fa4a88a1e7877::t_6c68ede2c74b88 101
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoveragePlatformTest.kt
+  s_4fa4a88a1e7877::t_2460e3958d0cfe 15,20
+schemas/interop/conformance/conformance-4-major-ahead.json
+  s_4fa4a88a1e7877::t_0f5b81e912f1e6 2-33
+editors/vscode/src/policy.ts
+  s_4fa4a88a1e7877::t_f690779beb4dc9 41-47
+  s_4fa4a88a1e7877::t_61b58a2f5173cf 71-80
+  s_4fa4a88a1e7877::t_6d9aecbc05500f 109-149
+  s_4fa4a88a1e7877::t_16bf93d2622490 7,17-23
+crates/vidi-core/src/record.rs
+  s_4fa4a88a1e7877::t_5ed580e70174ad 356-364,368-370
+  s_4fa4a88a1e7877::t_94c2cca1ac023a 365-367
+editors/jetbrains/src/main/resources/META-INF/pluginIcon_dark.svg
+  s_4fa4a88a1e7877::t_44ba02797992b4 3,6-8
+crates/vidi-core/src/ledger/staleness.rs
+  s_4fa4a88a1e7877::t_94c2cca1ac023a 282-285
+  s_4fa4a88a1e7877::t_7a86ac866b7f6c 68-70
+  s_4fa4a88a1e7877::t_d794ac37a552dd 245,249-281,286
+  s_4fa4a88a1e7877::t_800383bb24bc76 41-45,88-91,111-113,117-122,130,132-135,137-138
+  s_4fa4a88a1e7877::t_5b771a68111bc2 287
+crates/vidi-cli/src/sync.rs
+  s_0f5f8261e2fde5::t_152a90de844b91 296
+  s_0f5f8261e2fde5::t_0857a4d419a347 110
+  s_0f5f8261e2fde5::t_c0c2ad0264000f 22
+  s_0f5f8261e2fde5::t_8a1b1761d1117b 117-121,123-124
+  s_0f5f8261e2fde5::t_f29c3206d53dfd 238-249
+  s_0f5f8261e2fde5::t_275344cc57c990 1-21,23-109,111-116,122,125-149,156,159-166,169-170,172-174,177-219,221,223-227,229-237,251-290,292-293,295,297-300,302-307,309-315,317-318,321,328,330,337,339,341,343,381-411,413-421,423-429,431-454,456-475
+  s_0f5f8261e2fde5::t_db7a9e64702f4b 291
+  s_0f5f8261e2fde5::t_61f8f805912d43 167-168,171,175-176
+  s_0f5f8261e2fde5::t_d72d353914241f 220,222,228
+  s_0f5f8261e2fde5::t_f80ad14335c0dd 294,301,308,316,319-320,322-327,329,331-336,338,340,342,344-380,412,422,430,455
+  s_0f5f8261e2fde5::t_4f88f17d774ba2 150
+  s_0f5f8261e2fde5::t_8cff5c7a15a5a8 250
+  s_0f5f8261e2fde5::t_a8a8b5d60cb69c 151-155,157-158
+crates/vidi-cli/src/main.rs
+  s_0f5f8261e2fde5::t_56c6b03a1fd373 21,23
+crates/vidi-cli/src/device_flow.rs
+  s_0f5f8261e2fde5::t_40b0140b542f4e 26-28,30-31
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CaretResolutionTest.kt
+  s_4fa4a88a1e7877::t_2460e3958d0cfe 15,21
+crates/vidi-core/src/report/mod.rs
+  s_4fa4a88a1e7877::t_7a86ac866b7f6c 389,751-754
+  s_4fa4a88a1e7877::t_02da3e51b8679c 159-160,162
+  s_4fa4a88a1e7877::t_76f4452340d0cf 82,84,163,165,558,842
+  s_4fa4a88a1e7877::t_80ddb32902bd3d 841
+  s_4fa4a88a1e7877::t_37d5f97b500891 83,161,164,167
+  s_4fa4a88a1e7877::t_5f8651fef41572 166,168,843
+schemas/interop/conformance/conformance-1-current-v1.0.json
+  s_4fa4a88a1e7877::t_c45adbcab2b3d6 2-3,6,8,10-43,46-53,55-66,69-78,81-103,106-147,149-150,153-154,156-162,164-165,167,169,171
+  s_4fa4a88a1e7877::t_76be65e98fb4df 9,44,67,79,104
+  s_4fa4a88a1e7877::t_6db04f249cbdfa 4-5,7
+  s_4fa4a88a1e7877::t_7d95ba8480832c 45,68,80,105
+AGENTS.md
+  s_8d947b4466efdf::t_9ae6ed36a8bc3f 39-55
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/ReviewWalkAndCheckinTest.kt
+  s_4fa4a88a1e7877::t_2460e3958d0cfe 16
+Cargo.lock
+  s_0f5f8261e2fde5::t_58d614b8f08f8b 1592
+schemas/interop/receipt-vectors.json
+  s_a6bf24db7a1020::t_e47f707c71d588 1-35
+uv.lock
+  s_f78d2cec747f7f::t_23c83e49e99c0c 1-7
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiCli.kt
+  s_4fa4a88a1e7877::t_10fb14a65a09ff 60-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "0de6d518753bb9c924638f1c35c4755a2d166b41",
+  "prompts": {},
+  "sessions": {
+    "s_0f5f8261e2fde5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "940d5b14-1db4-4cdf-a017-f74462f98611",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_4fa4a88a1e7877": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f9cd5d92-0c3a-4753-b81d-53f014cf37d7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_8d947b4466efdf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8974353d-f0ce-4fa3-a292-96c0e36da301",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a6bf24db7a1020": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6595b314-48f0-4656-9b61-f8d8f63eeeeb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_f78d2cec747f7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07573a7b-c985-4c80-9af5-61b645d89bcd",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

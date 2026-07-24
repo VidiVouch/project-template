@@ -1,0 +1,31 @@
+crates/vidi-cli/src/commands.rs
+  s_3b7ac5ecc0b8f6::t_d00a0b193c932a 1635-1636,1638-1639
+crates/vidi-cli/src/cli.rs
+  s_3b7ac5ecc0b8f6::t_d00a0b193c932a 100-103
+.gitattributes
+  s_087c2050fa5b14::t_04dca6d7948419 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "118dcf16de08aed5dde0e8856764a281c42af132",
+  "prompts": {},
+  "sessions": {
+    "s_087c2050fa5b14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24408329-2292-4d8f-b196-267278f0890a",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_3b7ac5ecc0b8f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09b1910-e4e9-48b8-b0db-60dfefaf0c22",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

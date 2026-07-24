@@ -1,0 +1,41 @@
+crates/vidi-cli/src/cli.rs
+  s_a2f1721672c1cf::t_84127a43877974 15-29
+  s_a2f1721672c1cf::t_5662318f304b66 34
+crates/vidi-cli/src/redact.rs
+  s_3b7ac5ecc0b8f6::t_3a1f93eb34770d 1-75
+crates/vidi-cli/src/pull_merge.rs
+  s_0f5f8261e2fde5::t_7dcb746f59962d 176-200,206
+  s_0f5f8261e2fde5::t_b244337f8aa89c 1-175,201-205,207-321
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "5eb99c5214bda57a79d6252aa722418af0afdc7c",
+  "prompts": {},
+  "sessions": {
+    "s_0f5f8261e2fde5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "940d5b14-1db4-4cdf-a017-f74462f98611",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_3b7ac5ecc0b8f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09b1910-e4e9-48b8-b0db-60dfefaf0c22",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_a2f1721672c1cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "121bf1e9-731c-422d-ba7c-3d24f543d27f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

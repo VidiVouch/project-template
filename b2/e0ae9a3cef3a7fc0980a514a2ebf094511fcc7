@@ -1,0 +1,38 @@
+crates/vidi-cli/src/cli.rs
+  s_20177da02186b9::t_129d0d0295c4d1 57
+crates/vidi-core/src/crypto/entrypoint.rs
+  s_20177da02186b9::t_443bc09867bafd 25-28
+  s_20177da02186b9::t_afcc49bf0f8ca5 231-232,234-241,244-246,253,255,257-258,260-261
+  s_20177da02186b9::t_090851257542db 268-269
+  s_20177da02186b9::t_86d94a9f02a9aa 314-322
+  s_20177da02186b9::t_8a206303e799db 162-163
+  s_20177da02186b9::t_a13713cffaceaa 97-100
+crates/vidi-cli/src/commands.rs
+  s_20177da02186b9::t_8861de6b860eaa 880-883
+  s_20177da02186b9::t_241b6ca6149837 599-602
+  s_20177da02186b9::t_cbdc737209e0ac 715-720
+  s_20177da02186b9::t_b43d9f05cd5038 517-519
+  s_20177da02186b9::t_4729239095c3f3 844-846
+  s_20177da02186b9::t_3e0e971e457d8c 552-557
+crates/vidi-cli/src/sign.rs
+  s_20177da02186b9::t_359f4f5dd2fdf7 319-327,331-339
+  s_20177da02186b9::t_c3779b06db079e 115-124
+  s_20177da02186b9::t_0dd1e186773160 52
+  s_20177da02186b9::t_93c76db1009809 33-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b2e0ae9a3cef3a7fc0980a514a2ebf094511fcc7",
+  "prompts": {},
+  "sessions": {
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

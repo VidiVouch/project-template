@@ -1,0 +1,33 @@
+npm/package.json
+  s_d8405927f03148::t_73ac325b5debdc 1-15
+dist/vidi.rb
+  s_d8405927f03148::t_625a3f41828421 1-36
+.github/actions/vidi-gate/action.yml
+  s_d8405927f03148::t_714f818e385106 1-35
+pyproject.toml
+  s_d8405927f03148::t_99fcb73ad85987 1-34
+npm/bin/vidi.js
+  s_d8405927f03148::t_b305a4c1acad6d 1-18
+npm/install.js
+  s_d8405927f03148::t_465a0eef4f34c9 1-74
+.github/workflows/release.yml
+  s_d8405927f03148::t_aaa042094fe158 1-132
+npm/README.md
+  s_d8405927f03148::t_beb010c3edd3b1 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "c238913c2285e45114d9f752af3fc20dcc3bdbdc",
+  "prompts": {},
+  "sessions": {
+    "s_d8405927f03148": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8244d3ee-81d0-4af5-bb44-b290a5dfd173",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

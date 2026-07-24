@@ -1,0 +1,23 @@
+crates/vidi-core/tests/roundtrip.rs
+  s_a464b688cb76de::t_be6c9ebfe22186 1-141
+  s_a464b688cb76de::t_c25b058300f7e8 142-144
+crates/vidi-core/tests/adversarial.rs
+  s_a464b688cb76de::t_00b5d4772181c1 1-278
+  s_a464b688cb76de::t_6080b6e7d4dbee 279-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e56ab668b592394ba723f451f76ffb0c05be7dc8",
+  "prompts": {},
+  "sessions": {
+    "s_a464b688cb76de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10f79a89-a49c-4a99-bdec-dd864a27143b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+crates/vidi-cli/src/provenance.rs
+  s_a2429f3aabd6b1::t_ab8fb8391075ef 894,901,906-948
+  s_a2429f3aabd6b1::t_c27939062bfae0 392
+  s_a2429f3aabd6b1::t_f0cc800b5791e3 384-391,393-397,399-418,421-429,432-433,439-442
+  s_a2429f3aabd6b1::t_18bc0c9aff9da7 443
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "4b84606554ff515a85658ec53dca07c6beb649e5",
+  "prompts": {},
+  "sessions": {
+    "s_a2429f3aabd6b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e016da65-6592-4b5d-af72-6ca61a50e4b7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

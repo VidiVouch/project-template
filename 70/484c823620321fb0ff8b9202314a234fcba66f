@@ -1,0 +1,38 @@
+crates/vidi-core/src/crypto/receipt.rs
+  s_dee56432316ff2::t_43a69b41a4f6bd 151-153,159-161
+  s_dee56432316ff2::t_fd6c63e24dc820 143-148
+crates/vidi-cli/src/token.rs
+  s_dee56432316ff2::t_3e002fa6a40e91 248-271
+  s_dee56432316ff2::t_45a0f67309ac3b 141-142
+  s_dee56432316ff2::t_2b93ac9a38aeeb 89-109,113,115,272
+  s_dee56432316ff2::t_41d08cb0a2a3b6 273
+crates/vidi-core/src/crypto/error.rs
+  s_dee56432316ff2::t_e736f61a21ba88 60-61,63
+  s_dee56432316ff2::t_4ad2b4d47f8a0a 62
+  s_dee56432316ff2::t_83364ed4d509ab 93-95
+crates/vidi-cli/src/commands.rs
+  s_dee56432316ff2::t_bbe028c51f5de3 119-131
+crates/vidi-cli/tests/cli.rs
+  s_dee56432316ff2::t_4c18bdde69e64b 199-200
+  s_dee56432316ff2::t_cd2047933aa957 164-181
+  s_dee56432316ff2::t_e73d02a7395593 163
+crates/vidi-core/tests/signing_vectors.rs
+  s_dee56432316ff2::t_eeb945573e7ee2 577-594
+  s_dee56432316ff2::t_48e64a67b59856 576
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "70484c823620321fb0ff8b9202314a234fcba66f",
+  "prompts": {},
+  "sessions": {
+    "s_dee56432316ff2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c580bbf8-27fb-4cd0-ac6c-1e7f98b87d73",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

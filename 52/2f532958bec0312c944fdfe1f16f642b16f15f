@@ -1,0 +1,19 @@
+crates/vidi-cli/src/device_flow.rs
+  s_3b7ac5ecc0b8f6::t_bfc89887fb517d 676-677
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "522f532958bec0312c944fdfe1f16f642b16f15f",
+  "prompts": {},
+  "sessions": {
+    "s_3b7ac5ecc0b8f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09b1910-e4e9-48b8-b0db-60dfefaf0c22",
+        "model": "unknown"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

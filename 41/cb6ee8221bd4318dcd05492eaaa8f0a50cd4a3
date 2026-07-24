@@ -1,0 +1,60 @@
+crates/vidi-cli/src/cli.rs
+  s_312913516b4aad::t_b29b9224799932 125-128
+  s_9779528ecd2de1::t_5d65dd5d0a6976 228-229
+crates/vidi-cli/src/commands.rs
+  s_312913516b4aad::t_f3255907897e36 1161
+  s_312913516b4aad::t_dcbdd6cacdd2d8 1111-1123,1126-1129,1134-1160,1162-1184,1186-1192,1196-1197
+  s_312913516b4aad::t_afa639b2c21e2c 58
+  s_312913516b4aad::t_364a87198deb1a 1124-1125,1130-1133
+  s_312913516b4aad::t_a27ae8460a4062 1185
+  s_312913516b4aad::t_fa1146be9afe10 1193-1195
+  s_312913516b4aad::t_f7943aa6977fe2 1281
+crates/vidi-cli/src/pull.rs
+  s_312913516b4aad::t_8db2d64e69cf8e 77,84,86-87
+  s_312913516b4aad::t_4beca09e9cf1b6 240-277
+  s_312913516b4aad::t_91dc7beb3eaacd 66-68
+  s_312913516b4aad::t_faad0d6e1984fe 150-201
+  s_312913516b4aad::t_442244f466dd31 13-15
+  s_312913516b4aad::t_e8b7a244b35d5d 278-281
+crates/vidi-cli/src/remote.rs
+  s_312913516b4aad::t_5ca045f98128e4 96-103
+crates/vidi-cli/tests/cli.rs
+  s_312913516b4aad::t_fae03e5045e813 79-130
+  s_312913516b4aad::t_81e11c26a43871 682-698
+  s_312913516b4aad::t_04209243b409ff 543-681,699-722
+  s_312913516b4aad::t_767d285f8be0f8 44-45
+  s_312913516b4aad::t_a0d4dcef231d35 7,9-10
+  s_312913516b4aad::t_1b1db3e4188e03 60
+crates/vidi-cli/src/token.rs
+  s_312913516b4aad::t_1da4f16555bd3f 320-351
+  s_312913516b4aad::t_c9f92b70b4b34a 529-543
+  s_312913516b4aad::t_637cb267dd4de3 352,356,544-547
+crates/vidi-cli/tests/no_internal_citations.rs
+  s_312913516b4aad::t_20043cf39c04ad 63
+crates/vidi-cli/src/identity.rs
+  s_312913516b4aad::t_5d5588060d792c 151-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "41cb6ee8221bd4318dcd05492eaaa8f0a50cd4a3",
+  "prompts": {},
+  "sessions": {
+    "s_312913516b4aad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "22427bff-350b-42c4-9145-b05892c3bf74",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    },
+    "s_9779528ecd2de1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3733c2b7-25df-4948-95c8-dfd74269cbdc",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

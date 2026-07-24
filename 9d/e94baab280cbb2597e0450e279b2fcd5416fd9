@@ -1,0 +1,29 @@
+crates/vidi-core/src/policy/diagnostics.rs
+  s_d0d75261e7ffb5::t_56156db5bb39f5 1-1024
+crates/vidi-core/src/policy/discovery.rs
+  s_d0d75261e7ffb5::t_8ed0d6e803b56d 1-270
+crates/vidi-core/src/policy/gate.rs
+  s_d0d75261e7ffb5::t_31e9fc925fb482 1-1115
+crates/vidi-core/src/policy/mod.rs
+  s_d0d75261e7ffb5::t_2dfe354f51f0ad 1-145
+crates/vidi-core/src/policy/proptests.rs
+  s_d0d75261e7ffb5::t_f30365945e1f67 1-109
+crates/vidi-core/src/policy/schema.rs
+  s_d0d75261e7ffb5::t_36f49f7c85541b 1-305
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "9de94baab280cbb2597e0450e279b2fcd5416fd9",
+  "prompts": {},
+  "sessions": {
+    "s_d0d75261e7ffb5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62a05ee0-626f-49a5-8b20-f04c15d8b5f9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

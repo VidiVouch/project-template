@@ -1,0 +1,21 @@
+.idea/modules.xml
+  s_8f80a9759f4533::t_ace2a5e0e4dca2 5
+.idea/vid.iml
+  s_8f80a9759f4533::t_2b5defed66c59a 2,20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "aebf2cedceafdfe5e7ef087afacf713d501dc34f",
+  "prompts": {},
+  "sessions": {
+    "s_8f80a9759f4533": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b2a9b97a-b6b5-481c-a279-4050dc989828",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

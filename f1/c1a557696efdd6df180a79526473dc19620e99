@@ -1,0 +1,21 @@
+assets/eye.svg
+  s_b771d99100a061::t_ea55f22572abe1 1-6
+assets/vid-wordmark.svg
+  s_b771d99100a061::t_f1c7a3c3fa0004 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "f1c1a557696efdd6df180a79526473dc19620e99",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

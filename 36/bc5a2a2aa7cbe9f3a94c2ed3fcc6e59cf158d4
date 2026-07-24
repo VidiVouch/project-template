@@ -1,0 +1,41 @@
+crates/vidi-cli/src/home.rs
+  s_3b7ac5ecc0b8f6::t_edb4f9c22edf75 3-15,22,24
+  s_3b7ac5ecc0b8f6::t_330e8bb4723552 1-2,16-21,23,25-30
+crates/vidi-cli/src/token.rs
+  s_3b7ac5ecc0b8f6::t_82141d4a4baa5b 60-61
+  s_3b7ac5ecc0b8f6::t_b59eb87c29246f 66
+  s_3b7ac5ecc0b8f6::t_385489abbaea63 273-275
+crates/vidi-cli/src/main.rs
+  s_3b7ac5ecc0b8f6::t_b59eb87c29246f 19
+.github/workflows/lint.yml
+  s_3b7ac5ecc0b8f6::t_11f8f78ca70fe2 32-40
+crates/vidi-cli/src/notary_client.rs
+  s_3b7ac5ecc0b8f6::t_b59eb87c29246f 329
+  s_3b7ac5ecc0b8f6::t_385489abbaea63 388-395
+crates/vidi-cli/src/provenance.rs
+  s_3b7ac5ecc0b8f6::t_b59eb87c29246f 381
+  s_3b7ac5ecc0b8f6::t_385489abbaea63 374-379
+crates/vidi-cli/src/identity.rs
+  s_3b7ac5ecc0b8f6::t_385489abbaea63 145-147
+  s_3b7ac5ecc0b8f6::t_82141d4a4baa5b 37-38
+  s_3b7ac5ecc0b8f6::t_b59eb87c29246f 43
+crates/vidi-cli/src/trust_anchor.rs
+  s_3b7ac5ecc0b8f6::t_b59eb87c29246f 68
+  s_3b7ac5ecc0b8f6::t_385489abbaea63 10,54,59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "36bc5a2a2aa7cbe9f3a94c2ed3fcc6e59cf158d4",
+  "prompts": {},
+  "sessions": {
+    "s_3b7ac5ecc0b8f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f09b1910-e4e9-48b8-b0db-60dfefaf0c22",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

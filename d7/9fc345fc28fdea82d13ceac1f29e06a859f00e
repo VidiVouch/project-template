@@ -1,0 +1,29 @@
+tests/screenshot-checklist.html
+  s_bac4e4c9b679c7::t_4a0912ff7e0662 1-306
+tests/AUTONOMOUS-PROGRESS.md
+  s_bac4e4c9b679c7::t_45ff278de921b2 3-49
+  s_bac4e4c9b679c7::t_fc0810c727b8a1 1-2
+tests/gen-demo-repo.sh
+  s_bac4e4c9b679c7::t_70699c05e3ceec 139-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d79fc345fc28fdea82d13ceac1f29e06a859f00e",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_bac4e4c9b679c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "40b64b71-7fb2-4022-b3b2-48457662f805",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

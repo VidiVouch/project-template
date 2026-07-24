@@ -1,0 +1,22 @@
+crates/vidi-py/build.rs
+  s_549d7abd1e1cf3::t_e03b7286d91875 1-2,4-10,17-25
+  s_549d7abd1e1cf3::t_9d321928bc48c3 3,11-16
+crates/vidi-py/Cargo.toml
+  s_549d7abd1e1cf3::t_b5b957f33b1845 42-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "67f3eb2736c7084187326ae4a209a09164656511",
+  "prompts": {},
+  "sessions": {
+    "s_549d7abd1e1cf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "692aea7e-733a-4f23-80ae-1d2334b00f92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

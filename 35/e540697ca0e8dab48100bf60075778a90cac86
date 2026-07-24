@@ -1,0 +1,19 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyPanel.kt
+  s_ebe6ed5da5511c::t_bfec0b1f45c74c 103-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "35e540697ca0e8dab48100bf60075778a90cac86",
+  "prompts": {},
+  "sessions": {
+    "s_ebe6ed5da5511c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81a5e0cc-3a15-483d-b939-149e0a6ac495",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+crates/vidi-cli/src/main.rs
+  s_20177da02186b9::t_4cb93d2fb50362 21
+crates/vidi-cli/src/trust_anchor.rs
+  s_20177da02186b9::t_ad366d7f9bcc35 157,160
+  s_20177da02186b9::t_68dcbc4d1b423d 1-156,158-159,161-164,168-380
+  s_20177da02186b9::t_7fc3f686e2dc1e 165-167
+crates/vidi-cli/src/notary_client.rs
+  s_20177da02186b9::t_3221246704b5a4 326,328,330,336
+  s_20177da02186b9::t_63fdaae47d01ea 391-394,396-417,420
+  s_20177da02186b9::t_72836f320271f8 18-19
+  s_20177da02186b9::t_0676f23242af1b 235-252,255-271,275-284,286-304
+  s_20177da02186b9::t_7bcda86b1a3588 272-274
+  s_20177da02186b9::t_91d058696c5794 760,770-810,812,814-815,817,819-823,827,829-830,832,836-837,839,841-934,938,940,942,945
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "474a215dc8eb7fb4bfe09c0f16332b044e2c954a",
+  "prompts": {},
+  "sessions": {
+    "s_20177da02186b9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "694547dd-2372-42c0-b254-b52a36f5d825",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

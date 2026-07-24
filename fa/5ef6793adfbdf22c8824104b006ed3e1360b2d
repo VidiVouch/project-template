@@ -1,0 +1,29 @@
+schemas/examples/report-on-axis.json
+  s_3dc900536b089d::t_2fcdb2d3c3f75e 95-96
+schemas/vidi-json-v1.schema.json
+  s_3dc900536b089d::t_0ef171fc57d65b 144-151
+crates/vidi-interop/src/conformance.rs
+  s_3dc900536b089d::t_f119d360a0aeb9 433-435
+schemas/interop/conformance/conformance-1-current-v1.0.json
+  s_3dc900536b089d::t_cdc61c230b670a 189-190
+schemas/interop/field-manifest.v1.json
+  s_3dc900536b089d::t_12a89b3a384125 6
+crates/vidi-core/tests/wu11_conformance.rs
+  s_3dc900536b089d::t_ba4be26a1af668 609-619
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "fa5ef6793adfbdf22c8824104b006ed3e1360b2d",
+  "prompts": {},
+  "sessions": {
+    "s_3dc900536b089d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34ebf687-aa3f-43c0-8d4a-c38d173ad250",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

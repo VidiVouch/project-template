@@ -1,0 +1,21 @@
+.idea/externalDependencies.xml
+  s_77406b1cfb1f8f::t_1ddaef07790ed2 1-7
+.idea/markdown.xml
+  s_77406b1cfb1f8f::t_52651cac9bf4b3 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "579f12ba8001364b58e6e82d0fdc85caa6f81bd1",
+  "prompts": {},
+  "sessions": {
+    "s_77406b1cfb1f8f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "96bcb36a-5ba6-434a-bfd7-777e21388cfa",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

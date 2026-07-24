@@ -1,0 +1,77 @@
+.agents/hooks/enforce_cargo.py
+  s_b771d99100a061::t_8199bb12764b1e 1-118
+.agents/skills/local-review/SKILL.md
+  s_b771d99100a061::t_6cfefbba0d6906 1-110
+.claude/commands/deep-review.md
+  s_b771d99100a061::t_bdc942b6d8271a 1-550
+.claude/hooks/review-gate.sh
+  s_b771d99100a061::t_775c0b0912cd86 1-83
+.claude/loop.md
+  s_b771d99100a061::t_e0834c313d2293 1-205
+.claude/settings.json
+  s_b771d99100a061::t_8976b6632b05e2 1-127
+.claude/skills
+  s_b771d99100a061::t_f57115396bd2e3 1
+.codex/config.toml
+  s_b771d99100a061::t_fd3a7d041e1b4a 1-7
+.codex/hooks.json
+  s_b771d99100a061::t_3388b201573d55 1-16
+.editorconfig
+  s_b771d99100a061::t_7c4851bf9fe87c 1-32
+.gitattributes
+  s_b771d99100a061::t_96b1060c73264c 1-22
+.github/CODEOWNERS
+  s_b771d99100a061::t_463ffa96b9af7a 1-15
+.github/actions/vidi-gate/action.yml
+  s_b771d99100a061::t_b90081cecfa121 1-53
+.github/dependabot.yml
+  s_b771d99100a061::t_f488ba8eb281b0 1-10
+.github/workflows/audit.yml
+  s_b771d99100a061::t_6e4318087297ac 1-20
+.github/workflows/ci.yml
+  s_b771d99100a061::t_97d8153e572b5d 1-55
+.idea/.gitignore
+  s_b771d99100a061::t_c5710048d94dd4 1-10
+.idea/externalDependencies.xml
+  s_b771d99100a061::t_58da417257e0cf 1-7
+.idea/inspectionProfiles/Project_Default.xml
+  s_b771d99100a061::t_66e92928be20c6 1-17
+.idea/markdown.xml
+  s_b771d99100a061::t_e98f0dddace7e6 1-8
+.idea/modules.xml
+  s_b771d99100a061::t_f12c63374af6c5 1-8
+.idea/vcs.xml
+  s_b771d99100a061::t_991da74bc861f2 1-15
+.idea/vid.iml
+  s_b771d99100a061::t_67a2f937a96a65 1-11
+.mcp.json
+  s_b771d99100a061::t_afadf769fa6655 1-8
+.vidi/trust.toml
+  s_b771d99100a061::t_cace62df7716fb 1-47
+.vscode/extensions.json
+  s_b771d99100a061::t_691cc1046ae64b 1-14
+.vscode/settings.json
+  s_b771d99100a061::t_ea564e2b471053 1-58
+.vscode/tasks.json
+  s_b771d99100a061::t_3d7f6c61e88019 1-76
+.worktreeinclude
+  s_b771d99100a061::t_b9e85ab2a47f08 1-2
+project-words.dic
+  s_b771d99100a061::t_1cd612183e4c1f 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "5e2c07442c362d52061ced10197df47575c3b192",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

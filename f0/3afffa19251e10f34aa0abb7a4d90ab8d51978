@@ -1,0 +1,22 @@
+crates/vidi-core/src/ledger/authorship.rs
+  s_3dc900536b089d::t_d577b5aac59751 76-81
+  s_3dc900536b089d::t_90fa06f9b4df0a 14-23,25-28,31,42,51-59,82-94,96-114,116-133,137,157-158,166-186,190-220,225-231,236-238,244-256,259-260,262-263
+  s_3dc900536b089d::t_d775ab37dd405e 95
+  s_3dc900536b089d::t_2f76b4165a2be7 115,187-189,221-224,232-235,239-243,257-258,261
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f03afffa19251e10f34aa0abb7a4d90ab8d51978",
+  "prompts": {},
+  "sessions": {
+    "s_3dc900536b089d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34ebf687-aa3f-43c0-8d4a-c38d173ad250",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

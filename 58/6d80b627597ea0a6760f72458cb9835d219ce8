@@ -1,0 +1,31 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VouchAction.kt
+  s_cf46f2a9c74543::t_26becc249c6a2d 27-31,38-41,52-57,62
+  s_cf46f2a9c74543::t_9028d589fd029d 130-142,156-165,167
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidToolWindowFactory.kt
+  s_cf46f2a9c74543::t_93c75441f08e0a 85-87,89
+editors/jetbrains/src/main/kotlin/com/vidivouch/vid/VidCoverageService.kt
+  s_cf46f2a9c74543::t_378e29887de7fd 133-157
+  s_cf46f2a9c74543::t_11c2f3bdda0cc1 37-45,47,51-52,56,63,67-68,84
+  s_cf46f2a9c74543::t_86bfbe94423678 53-55,57-62,64-66,69-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "586d80b627597ea0a6760f72458cb9835d219ce8",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_cf46f2a9c74543": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0af9a427-4e93-4edf-8c43-8e37b06e762c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

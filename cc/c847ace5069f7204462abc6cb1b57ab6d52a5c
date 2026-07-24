@@ -1,0 +1,21 @@
+design/marker-widen-evidence.html
+  s_563f5ba883e193::t_ad6222878162e3 6,10,18-19,28-29,34-40,44-50,59-62,64,70-73,78-80,87-89,96,102-104,109-112,116-117,124-127,132-133,139-144
+design/README.md
+  s_563f5ba883e193::t_ad6222878162e3 3-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "ccc847ace5069f7204462abc6cb1b57ab6d52a5c",
+  "prompts": {},
+  "sessions": {
+    "s_563f5ba883e193": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d66f7036-713a-41f6-be5e-a3feae445eac",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

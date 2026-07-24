@@ -1,0 +1,25 @@
+crates/vidi-core/tests/py_bridge_vectors.rs
+  s_549d7abd1e1cf3::t_b20feaeb0f6ea5 278-281
+  s_549d7abd1e1cf3::t_46e6464b123c2c 3-27,29-277,282-329
+  s_549d7abd1e1cf3::t_f65d950c0171d0 28
+  s_549d7abd1e1cf3::t_32116b34cdb3b5 1-2
+  s_549d7abd1e1cf3::t_49721e88aa0997 330-341
+schemas/interop/py-bridge-vectors.json
+  s_549d7abd1e1cf3::t_a449253204f031 1-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2296d768579a91e7166daf218149ca8a9a2f2c85",
+  "prompts": {},
+  "sessions": {
+    "s_549d7abd1e1cf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "692aea7e-733a-4f23-80ae-1d2334b00f92",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

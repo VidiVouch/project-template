@@ -1,0 +1,19 @@
+docs/INTEGRATION-CONTRACT.md
+  s_17405aaf91a59b::t_00eab4106b6077 1-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "00379ca3a570aa76ee9fbb3ed83e340c7ad74f38",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

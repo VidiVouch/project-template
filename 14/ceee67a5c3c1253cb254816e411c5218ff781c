@@ -1,0 +1,21 @@
+.github/workflows/lint.yml
+  s_fd58371f980512::t_ac5a7ed5889573 32-40,54-91
+.github/workflows/d8-pin-sweep.yml
+  s_fd58371f980512::t_3448720ad8b169 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "14ceee67a5c3c1253cb254816e411c5218ff781c",
+  "prompts": {},
+  "sessions": {
+    "s_fd58371f980512": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "803b5984-805b-4a17-8298-4984b7a2472c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+crates/vid-cli/tests/revoke_cli.rs
+  s_b771d99100a061::t_bdeacdc567f19e 42-44,48-51
+crates/vid-cli/src/push.rs
+  s_b771d99100a061::t_bd6833fb44d90b 257-290
+  s_b771d99100a061::t_21e353385e581e 18
+crates/vid-cli/src/main.rs
+  s_b771d99100a061::t_c31df88715023c 283
+  s_b771d99100a061::t_ef7cf7a3bf8e0c 316-319
+  s_b771d99100a061::t_056a76a8f98681 837
+  s_b771d99100a061::t_14b482f9bfbe8e 807,812
+  s_b771d99100a061::t_6e14c9e2bb4289 721
+  s_b771d99100a061::t_d4fc9c4e0052e2 77-83
+  s_b771d99100a061::t_c5afb205cd734e 736
+crates/vid-cli/tests/contract_conformance.rs
+  s_b771d99100a061::t_f43242e2b0ba71 297-300,304-307
+crates/vid-cli/src/engine.rs
+  s_b771d99100a061::t_711b96f8de1362 36
+  s_b771d99100a061::t_2a79fa94738638 943-952
+  s_b771d99100a061::t_029f6c44b32278 1857,1906,1976,2147,2156,2236,2284,2314-2317,2319-2320,2334,2412,2468-2469,2495,2697,2743,2814,2859,2917
+  s_b771d99100a061::t_475c4eb012c604 986-992
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "54da1d87ced44c0c5acf946389e8e6f4f53127eb",
+  "prompts": {},
+  "sessions": {
+    "s_b771d99100a061": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "423cf4ed-dd02-49f5-8c7a-00ac7bb6bd6b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+crates/vid-cli/src/significance/deps.rs
+  s_17405aaf91a59b::t_c52d39bebd4eef 74-79,81
+  s_17405aaf91a59b::t_d9f901a6af8aea 442-531
+  s_17405aaf91a59b::t_ea1d23a9b861ac 56-58
+  s_17405aaf91a59b::t_092a6f5a688da5 83-84,90-99,103-104,106-112
+  s_17405aaf91a59b::t_ce8b2949d059ac 65-69,85-89,100-102,105
+  s_17405aaf91a59b::t_9ad7884fa94896 118-127,152-167
+crates/vid-lang/src/config.rs
+  s_17405aaf91a59b::t_4268f7fa2c8d43 200-201
+  s_17405aaf91a59b::t_f8a448026330c0 166-185
+crates/vid-lang/src/engine.rs
+  s_17405aaf91a59b::t_278ca240d475cf 1698
+  s_17405aaf91a59b::t_925ad859ede15e 1844
+  s_17405aaf91a59b::t_e813428834b5aa 1768
+  s_17405aaf91a59b::t_414de61f1412ce 1722
+  s_17405aaf91a59b::t_1fe73eb4bf0349 1804
+crates/vid-graph/src/resolve.rs
+  s_17405aaf91a59b::t_cba4985b778ae3 320-328
+  s_17405aaf91a59b::t_3e8cff239069bd 387-398
+  s_17405aaf91a59b::t_5ec85dc5632d05 11-15
+  s_17405aaf91a59b::t_a2f5fc7dbcdb10 368-377
+  s_17405aaf91a59b::t_89d8b48ce92765 463-469,472-473,480-481,501-508,510,514-555
+crates/vid-lang/src/configs/rust.rs
+  s_17405aaf91a59b::t_1e6aa93d6b3e44 199-206
+crates/vid-graph/src/reference.rs
+  s_17405aaf91a59b::t_f9edbf5b1924d2 74-75,89-91,106,118,135,139-141
+  s_17405aaf91a59b::t_a3ef5c9d8f712b 76-81,136-138
+crates/vid-lang/src/configs/python.rs
+  s_17405aaf91a59b::t_d3c06731f142c8 125-131
+crates/vid-lang/src/configs/javascript.rs
+  s_17405aaf91a59b::t_0b770ffe8bab4f 168-173
+crates/vid-lang/src/aliases.rs
+  s_17405aaf91a59b::t_b0b00606ace8be 181-190,193
+  s_17405aaf91a59b::t_a814ff5d2ac7bc 17-21
+  s_17405aaf91a59b::t_b0fe19560798ae 107-123
+  s_17405aaf91a59b::t_7475fe3853dcac 89
+  s_17405aaf91a59b::t_2637a1e6b7c30f 224-235
+  s_17405aaf91a59b::t_1b17f8e43839bc 269-272
+  s_17405aaf91a59b::t_4e45f89e039864 223,249-268,273-277
+  s_17405aaf91a59b::t_7b2c5c98c03679 203
+crates/vid-graph/src/lib.rs
+  s_17405aaf91a59b::t_ff5e7bb2f23606 78
+  s_17405aaf91a59b::t_0ded6c08db91f8 54,58
+  s_17405aaf91a59b::t_29fb51be763e7f 241-245,249,256-271
+crates/vid-graph/src/provider.rs
+  s_17405aaf91a59b::t_601873752e3859 6-8
+crates/vid-graph/src/score.rs
+  s_17405aaf91a59b::t_17bb33ab95c457 164-167
+  s_17405aaf91a59b::t_efe557404190d1 175-186,197
+  s_17405aaf91a59b::t_12f8183aa9bba0 27-32
+  s_17405aaf91a59b::t_273e1890b26cd7 149-154,156-159
+  s_17405aaf91a59b::t_2ae090b02fb7a8 105-112
+  s_17405aaf91a59b::t_89ea80ac04ecc9 66-71
+crates/vid-lang/src/collector.rs
+  s_17405aaf91a59b::t_241ac70e57ef61 72-79,81-95,102,109-152,154-183
+  s_17405aaf91a59b::t_adaeb9f28f7444 153
+crates/vid-cli/src/significance.rs
+  s_17405aaf91a59b::t_816864d454ee75 835-867
+  s_17405aaf91a59b::t_1b17f8e43839bc 777
+  s_17405aaf91a59b::t_8df46f5394267c 745-752,754-776,778-796
+  s_17405aaf91a59b::t_73efad254223b8 686-744,834
+  s_17405aaf91a59b::t_26e623f5be4faa 753
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "16304a14780b05b3a03579eae6ac5368afbbad14",
+  "prompts": {},
+  "sessions": {
+    "s_17405aaf91a59b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a644348b-8656-411a-8a18-412b1b84466f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+crates/vidi-graph/Cargo.toml
+  s_4a5567b950a3f3::t_271eb73456f76a 3,14-16
+  s_4a5567b950a3f3::t_519c9365e8e299 17
+crates/vidi-graph/src/significance.rs
+  s_4a5567b950a3f3::t_a0529d3d339a8e 1-102
+crates/vidi-graph/src/lib.rs
+  s_4a5567b950a3f3::t_a17169149c6d58 1-2,4-7,9-21,23-30
+crates/vidi-graph/src/reference.rs
+  s_4a5567b950a3f3::t_8ce4c224dba559 1-115
+Cargo.toml
+  s_4a5567b950a3f3::t_36f030155c1b7c 48-51
+crates/vidi-graph/src/provider.rs
+  s_4a5567b950a3f3::t_77a14f334ebb70 1-54
+Cargo.lock
+  s_4a5567b950a3f3::t_fd5d1fdb51a515 719-721
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "21975dc25f14d4245f0da954b7733d116c499082",
+  "prompts": {},
+  "sessions": {
+    "s_4a5567b950a3f3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb963104-ff5e-47b5-bfcc-2c54468175ba",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

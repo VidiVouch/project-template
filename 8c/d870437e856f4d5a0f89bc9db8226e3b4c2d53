@@ -1,0 +1,42 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiRunner.kt
+  s_80df4f06e942a8::t_07cac6ed7c4ec1 12
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoverageParseTest.kt
+  s_80df4f06e942a8::t_6d70b3123b61e7 65
+  s_80df4f06e942a8::t_30fce173f5fba2 52,57
+  s_80df4f06e942a8::t_06187bde78ad8a 18,22
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CoveragePlatformTest.kt
+  s_80df4f06e942a8::t_68051846f76c52 18
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/SchemaWalker.kt
+  s_80df4f06e942a8::t_e83e42d9721216 18
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/FieldCoverageTest.kt
+  s_80df4f06e942a8::t_75f1c8c5462aa5 127
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiReport.kt
+  s_80df4f06e942a8::t_49dbe6cf06f20d 66-75
+  s_80df4f06e942a8::t_27ac01a9eebb43 125,133
+  s_80df4f06e942a8::t_7cfc015eed81c6 9
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiToolWindowFactory.kt
+  s_80df4f06e942a8::t_c3796a4d71ef7c 231
+  s_80df4f06e942a8::t_958030939a6a78 320
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/TestFixtures.kt
+  s_80df4f06e942a8::t_661b8e4dc3a9a1 23
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/SchemaVersion.kt
+  s_80df4f06e942a8::t_2f5523722bdc5f 23
+editors/jetbrains/src/test/kotlin/com/vidivouch/vidi/CaretResolutionTest.kt
+  s_80df4f06e942a8::t_47a7157a6d4b11 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8cd870437e856f4d5a0f89bc9db8226e3b4c2d53",
+  "prompts": {},
+  "sessions": {
+    "s_80df4f06e942a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b1cee4c3-6a91-4baa-924d-74249a6e80a5",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+crates/vidi-graph/src/lib.rs
+  s_4a5567b950a3f3::t_12877d3a0b8990 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "633f9ff56a998ddf8e9bce12b0799eba5a18974f",
+  "prompts": {},
+  "sessions": {
+    "s_4a5567b950a3f3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb963104-ff5e-47b5-bfcc-2c54468175ba",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

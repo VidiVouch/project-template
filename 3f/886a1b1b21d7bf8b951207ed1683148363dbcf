@@ -1,0 +1,28 @@
+crates/vidi-cli/src/cli.rs
+  s_c9f0a8cbe1e733::t_9b89bd56445c69 76
+  s_c9f0a8cbe1e733::t_1b678c2df15a80 132
+crates/vidi-cli/src/commands.rs
+  s_c9f0a8cbe1e733::t_8d488034b54f56 16
+  s_c9f0a8cbe1e733::t_3dac8b8cdcb1aa 457-459,465-470,474-491,493-499,502,507-511,519-522,524-528,531,533-534,536-537
+  s_c9f0a8cbe1e733::t_56e332b84b8eb1 449-456
+crates/vidi-cli/tests/json_report.rs
+  s_c9f0a8cbe1e733::t_c4666cf39a820a 368,592-594
+  s_c9f0a8cbe1e733::t_d5b6f3f281e884 586-591,595-662
+  s_c9f0a8cbe1e733::t_e812b949df2449 358-367,369-385
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "3f886a1b1b21d7bf8b951207ed1683148363dbcf",
+  "prompts": {},
+  "sessions": {
+    "s_c9f0a8cbe1e733": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a5caa10a-cfe2-43cb-9f35-d2b8d0ff2c32",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

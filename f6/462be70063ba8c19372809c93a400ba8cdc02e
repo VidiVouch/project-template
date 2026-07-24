@@ -1,0 +1,33 @@
+editors/jetbrains/src/main/kotlin/com/vidivouch/vidi/VidiPolicyPanel.kt
+  s_f78d2cec747f7f::t_0798770749df2a 58
+  s_f78d2cec747f7f::t_ba84d7cee5346e 46,49-52
+  s_f78d2cec747f7f::t_3ec980b789c6e2 3
+  s_f78d2cec747f7f::t_e958bd9cc48128 248-250
+  s_f78d2cec747f7f::t_34e533ba1ab0b7 25,30
+  s_f78d2cec747f7f::t_8e7c5f57052cfe 506-508
+  s_f78d2cec747f7f::t_fb05a49644b198 374-382
+  s_f78d2cec747f7f::t_76b1a3e5ccfffa 121
+  s_f78d2cec747f7f::t_b34113099ad772 204,206,208-215
+  s_f78d2cec747f7f::t_4bfa980f2899d3 66,70-80
+  s_f78d2cec747f7f::t_4e59f2669a1ab4 300-302,304,310
+  s_f78d2cec747f7f::t_dfa52822922bd0 81,332-341
+  s_f78d2cec747f7f::t_f02b9d181bf9ba 20
+  s_f78d2cec747f7f::t_029a40405ac620 171
+  s_f78d2cec747f7f::t_2bc59de123209e 53,82,383-384
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "f6462be70063ba8c19372809c93a400ba8cdc02e",
+  "prompts": {},
+  "sessions": {
+    "s_f78d2cec747f7f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07573a7b-c985-4c80-9af5-61b645d89bcd",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

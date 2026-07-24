@@ -1,0 +1,59 @@
+schemas/examples/vidi.json
+  s_bef12b0547eda5::t_99e98aef03a26d 27-28
+crates/vidi-cli/src/engine.rs
+  s_bef12b0547eda5::t_c272d94065550a 1142
+  s_bef12b0547eda5::t_759af2d909b483 2101
+  s_bef12b0547eda5::t_bb781b3f71ca7a 589
+  s_bef12b0547eda5::t_5a24bb0737ea90 73-76
+  s_bef12b0547eda5::t_be8a4cb970aa9f 143-145
+  s_bef12b0547eda5::t_615787bfc1e370 544-546
+  s_bef12b0547eda5::t_858ae4e3cc3b53 1207
+tests/gen-demo-repo.sh
+  s_bef12b0547eda5::t_69af167aebb37f 137-173
+  s_bef12b0547eda5::t_ccf39e28b31987 99,103-107,112,115-117
+  s_bef12b0547eda5::t_faac211334f95e 77-83
+  s_bef12b0547eda5::t_4047bf652ee8c1 198
+  s_bef12b0547eda5::t_a58dc0fb434b95 118,218,220-250
+  s_bef12b0547eda5::t_ccc20ed73c57b7 261-266
+  s_bef12b0547eda5::t_20b51c3ca46746 203-207,212,215-217
+  s_bef12b0547eda5::t_19a66daa9ebf2f 44,47,49-52,57-67
+  s_bef12b0547eda5::t_6a8c487383128f 184-187,189
+  s_bef12b0547eda5::t_cfd45788b4fe07 68
+crates/vidi-cli/src/graph.rs
+  s_bef12b0547eda5::t_037dabb45a6fd8 1-32,52,55-91,95-121,128-149
+  s_bef12b0547eda5::t_036f7a188e6871 33-51,53-54
+  s_bef12b0547eda5::t_1c118ec51c615e 92-94,122-127
+crates/vidi-cli/src/cache.rs
+  s_bef12b0547eda5::t_07bad6d52d0348 37
+  s_bef12b0547eda5::t_c871711ac01f39 76-80
+  s_bef12b0547eda5::t_5039ee557db130 528
+crates/vidi-cli/src/main.rs
+  s_bef12b0547eda5::t_4dd316000b7efd 398
+  s_bef12b0547eda5::t_c41007a6507a42 340,342-346
+  s_bef12b0547eda5::t_e061cb5e836564 1924-1932
+  s_bef12b0547eda5::t_f6aa9b2306b99b 78-85
+  s_bef12b0547eda5::t_b7d5dd11d34953 1630-1635,1638,1643-1648,1651-1656,1663-1668,1671-1676,1679-1684
+  s_bef12b0547eda5::t_bedb9cd5007fa2 1609-1628,1686,1688-1762,1770-1771
+  s_bef12b0547eda5::t_1b851902c08f7d 126-141
+  s_bef12b0547eda5::t_dab53d51d6569c 27
+schemas/vidi-json-v3.schema.json
+  s_bef12b0547eda5::t_91e8c4ea514b5d 300-309
+crates/vidi-cli/src/significance.rs
+  s_bef12b0547eda5::t_34b8616946d53d 152-182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "b7ea71d445f4dc2902c6ae57374a2dde028501f9",
+  "prompts": {},
+  "sessions": {
+    "s_bef12b0547eda5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f165ca40-9cc1-412d-80a3-bffeff7fd7e9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

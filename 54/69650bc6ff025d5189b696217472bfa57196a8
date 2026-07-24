@@ -1,0 +1,23 @@
+crates/vidi-lang/Cargo.toml
+  s_3389ba2812099c::t_21848e1a161935 38-41
+crates/vidi-lang/benches/parse_hash.rs
+  s_3389ba2812099c::t_3f5d5eecf72a9d 1-195
+crates/vidi-lang/examples/probe.rs
+  s_3389ba2812099c::t_2007364504ea3e 1-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "5469650bc6ff025d5189b696217472bfa57196a8",
+  "prompts": {},
+  "sessions": {
+    "s_3389ba2812099c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06491683-770c-4d3f-8aee-0df866fa645d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

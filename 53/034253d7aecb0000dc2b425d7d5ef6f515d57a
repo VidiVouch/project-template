@@ -1,0 +1,129 @@
+editors/vscode/src/test/handshake.test.ts
+  s_268237d5f3cacc::t_7815e5cdb8fca9 40-42,44
+  s_268237d5f3cacc::t_cce25006833229 1-39,43,45-54
+editors/vscode/src/decorations.ts
+  s_268237d5f3cacc::t_653fca530101b3 1-91
+editors/vscode/scripts/vendor.mjs
+  s_268237d5f3cacc::t_9c2c159761f4ca 1-38
+editors/vscode/src/statusbar.ts
+  s_268237d5f3cacc::t_ddc6ccd0ce1e32 1-41
+editors/vscode/media/eye.svg
+  s_268237d5f3cacc::t_6077aff39273a9 1-4
+editors/vscode/src/test/electron/suite/index.ts
+  s_268237d5f3cacc::t_ae6966b067e76b 1-18
+editors/vscode/src/contract/tokens.ts
+  s_268237d5f3cacc::t_d9fef9d1ecc484 1-84
+editors/vscode/src/test/coverage.test.ts
+  s_268237d5f3cacc::t_ef7cf3297b3829 41
+  s_268237d5f3cacc::t_575042e583f136 1-40,42-58
+editors/vscode/src/policy.ts
+  s_268237d5f3cacc::t_7e18e9e6a7ba0c 1-78
+editors/vscode/src/test/state.test.ts
+  s_268237d5f3cacc::t_8e37aceb85fdfb 1-37
+editors/vscode/src/webview.ts
+  s_268237d5f3cacc::t_eb559e00061fee 6,8
+  s_268237d5f3cacc::t_75e19fce9f1529 1-5,7,9-54,57-192
+  s_268237d5f3cacc::t_b6b6da139db51b 55-56
+editors/vscode/src/runner.ts
+  s_268237d5f3cacc::t_e9fe0085604ff9 1-107
+editors/vscode/scripts/build.mjs
+  s_268237d5f3cacc::t_6706430c0f1271 13
+  s_268237d5f3cacc::t_f1c4163168a34d 1-12,14-35,38-44,53-80
+  s_268237d5f3cacc::t_b8450467df45f7 36-37,45-52
+editors/vscode/src/inlay.ts
+  s_268237d5f3cacc::t_88aac1ba785477 1-75
+editors/vscode/src/contract/qualpath.ts
+  s_268237d5f3cacc::t_b78020d75d69ce 1-8
+editors/vscode/.gitignore
+  s_268237d5f3cacc::t_8768a133605022 1-5
+editors/vscode/src/test/tree-model.test.ts
+  s_268237d5f3cacc::t_f9174ca7e8dfe4 1-38
+editors/vscode/src/coverageService.ts
+  s_268237d5f3cacc::t_cbbd156756377f 1-89
+editors/vscode/src/test/electron/README.md
+  s_268237d5f3cacc::t_5acbc344de2204 1-40
+editors/vscode/src/test/runner.test.ts
+  s_268237d5f3cacc::t_8a11ed957fcfbb 1-40
+editors/vscode/src/verbs-logic.ts
+  s_268237d5f3cacc::t_865a239dd78a70 1-61
+editors/vscode/src/verbs.ts
+  s_268237d5f3cacc::t_25890b361da568 1-162
+editors/vscode/src/checkin.ts
+  s_268237d5f3cacc::t_1010089cdee1bb 1-65
+editors/vscode/src/test/scripts/field-coverage-cli.ts
+  s_268237d5f3cacc::t_af7afc9dd7c511 1-17,19-40
+  s_268237d5f3cacc::t_d5dcfc055671e1 18
+editors/vscode/src/test/deny-path.test.ts
+  s_268237d5f3cacc::t_c9aadd8068d2f6 1-79,84-88
+  s_268237d5f3cacc::t_b44d618e41ce0c 80-83
+editors/vscode/.vscodeignore
+  s_268237d5f3cacc::t_d22744c3b3c6fb 1-10
+editors/vscode/src/contract/handshake.ts
+  s_268237d5f3cacc::t_05e3877e5244da 1-78
+editors/vscode/tsconfig.json
+  s_268237d5f3cacc::t_9272d9f97ce524 1-17,21
+  s_268237d5f3cacc::t_cfaea365d70e9f 18-20
+editors/vscode/src/test/tokens.test.ts
+  s_268237d5f3cacc::t_a99f53295b481d 35
+  s_268237d5f3cacc::t_3b4ec47998d220 1-34,36-48
+editors/vscode/src/reviewWalk.ts
+  s_268237d5f3cacc::t_d986702813be15 1-226
+editors/vscode/src/contract/tree-model.ts
+  s_268237d5f3cacc::t_59100626a63823 1-42
+editors/vscode/src/test/electron/runTest.ts
+  s_268237d5f3cacc::t_3f6700e3520003 1-24
+editors/vscode/src/contract/ingest.ts
+  s_268237d5f3cacc::t_d1d4b1aa4751a0 1-41
+editors/vscode/src/host.ts
+  s_268237d5f3cacc::t_302994ea02eb60 1-37
+editors/vscode/src/contract/schema-types.ts
+  s_268237d5f3cacc::t_321140a6ac3acb 1-128
+editors/vscode/src/contract/decode.ts
+  s_268237d5f3cacc::t_b1376a609440f2 1-234
+editors/vscode/src/test/support/fixtures.ts
+  s_268237d5f3cacc::t_4740d184e94ac0 1-46
+editors/vscode/src/test/electron/suite/integration.ts
+  s_268237d5f3cacc::t_6dba29ebaba1b6 1-55
+editors/vscode/scripts/screenshot.md
+  s_268237d5f3cacc::t_2982c851b60d9e 1-27
+editors/vscode/README.md
+  s_268237d5f3cacc::t_c8013e217ae28f 1-76
+editors/vscode/src/test/ingest.test.ts
+  s_268237d5f3cacc::t_0273d9ea85949e 1-52
+editors/vscode/package.json
+  s_268237d5f3cacc::t_285a39c3360402 1-6,8-102
+  s_268237d5f3cacc::t_67f78cf96f495e 7
+editors/vscode/src/extension.ts
+  s_268237d5f3cacc::t_f568875dfc2a7d 1-28,30-131
+  s_268237d5f3cacc::t_6773dd4d3ff60a 29
+editors/vscode/src/tree.ts
+  s_268237d5f3cacc::t_cd4923ac39405e 1-87
+editors/vscode/src/hover.ts
+  s_268237d5f3cacc::t_54706dd45a6265 1-75
+editors/vscode/src/test/support/vscode-stub.ts
+  s_268237d5f3cacc::t_176368d2ff4116 1-35
+editors/vscode/src/present.ts
+  s_268237d5f3cacc::t_e540d7e9350e1c 1-58
+editors/vscode/src/contract/coverage.ts
+  s_268237d5f3cacc::t_d90bb62a9569c7 1-171
+editors/vscode/LICENSE.md
+  s_268237d5f3cacc::t_790adb27014b78 1-18
+editors/vscode/package-lock.json
+  s_268237d5f3cacc::t_c9bdac17e883d5 1-4708
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "53034253d7aecb0000dc2b425d7d5ef6f515d57a",
+  "prompts": {},
+  "sessions": {
+    "s_268237d5f3cacc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ac09d61a-7ce3-4dee-8364-323e4bb27ba0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

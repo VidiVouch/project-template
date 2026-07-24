@@ -1,0 +1,20 @@
+crates/vidi-lang/tests/cache_invariance.rs
+  s_fd042b2a742b7c::t_8f207a13fa5024 71
+  s_fd042b2a742b7c::t_cd8e76abf4325e 1-70,72-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1fea6e82261a8bb575bc9b461abfe81488fcebdd",
+  "prompts": {},
+  "sessions": {
+    "s_fd042b2a742b7c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ed69f41d-6a0a-4f32-8140-d58ed0b19c44",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

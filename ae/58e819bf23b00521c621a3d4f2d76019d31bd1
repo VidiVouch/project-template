@@ -1,0 +1,33 @@
+editors/vscode/.vscodeignore
+  s_bac4e4c9b679c7::t_e32457ed13d5d6 1-8
+editors/vscode/README.md
+  s_bac4e4c9b679c7::t_1418b3df1583ff 41-43
+  s_bac4e4c9b679c7::t_d931f75e2277a4 11-15,23-25
+editors/vscode/src/decorations.ts
+  s_bac4e4c9b679c7::t_d95fe89e28b4a7 1-70
+editors/vscode/src/extension.ts
+  s_bac4e4c9b679c7::t_789ad86f959c7d 210-217
+  s_bac4e4c9b679c7::t_68e01a8b991fba 146-156,159
+  s_bac4e4c9b679c7::t_8bdd221058eb14 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "ae58e819bf23b00521c621a3d4f2d76019d31bd1",
+  "prompts": {},
+  "humans": {
+    "h_795c5e33ecc5af": {
+      "author": "Tom Price <tom@tomprice.ca>"
+    }
+  },
+  "sessions": {
+    "s_bac4e4c9b679c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "40b64b71-7fb2-4022-b3b2-48457662f805",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}

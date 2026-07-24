@@ -1,0 +1,19 @@
+.idea/project-template.iml
+  s_fd58371f980512::t_ac5a7ed5889573 6-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "faa3c304279c3a253d89c8ad356a9375ebe5c655",
+  "prompts": {},
+  "sessions": {
+    "s_fd58371f980512": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "803b5984-805b-4a17-8298-4984b7a2472c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
