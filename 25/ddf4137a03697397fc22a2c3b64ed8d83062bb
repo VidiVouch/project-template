@@ -1,0 +1,45 @@
+.agents/hooks/enforce_cargo.py
+  s_73b636b5c0ea9d::t_72e2054a1ace0c 13
+  s_73b636b5c0ea9d::t_e5e57b6aa8da92 22
+  s_73b636b5c0ea9d::t_74f90dfbe5e73c 29
+.claude/hooks/block-no-verify.sh
+  s_73b636b5c0ea9d::t_21364745bc070c 3
+  s_73b636b5c0ea9d::t_1b4e83e8d35f06 35
+  s_73b636b5c0ea9d::t_c07d8662cc50f5 43
+  s_73b636b5c0ea9d::t_ad4851a49b88e8 51
+.claude/hooks/review-gate.sh
+  s_73b636b5c0ea9d::t_aa4ee24dc307ed 20
+  s_73b636b5c0ea9d::t_297feb5c07018d 52
+  s_73b636b5c0ea9d::t_505e774493fa4f 58
+  s_73b636b5c0ea9d::t_076c1fe9bede95 63
+crates/vidi-cli/src/attribute.rs
+  s_73b636b5c0ea9d::t_f36159ad753377 1
+  s_73b636b5c0ea9d::t_ecaf90ca315a4c 7
+  s_73b636b5c0ea9d::t_dd2d406f877ca1 10
+  s_73b636b5c0ea9d::t_ae808141df5f17 14
+  s_73b636b5c0ea9d::t_d1c328086621ee 18
+  s_73b636b5c0ea9d::t_50fae038faf3ff 19
+  s_73b636b5c0ea9d::t_6123a8d6094261 20
+  s_73b636b5c0ea9d::t_791f94745789c2 25
+  s_73b636b5c0ea9d::t_1b408c555a4219 36
+  s_73b636b5c0ea9d::t_72f857d5c4ec52 75
+  s_73b636b5c0ea9d::t_c40b3e74ecbe09 107
+  s_73b636b5c0ea9d::t_bc07862d05ed05 144
+  s_73b636b5c0ea9d::t_fc27122664536b 182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "25ddf4137a03697397fc22a2c3b64ed8d83062bb",
+  "prompts": {},
+  "sessions": {
+    "s_73b636b5c0ea9d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e24a70d-06ba-4b7e-ba83-f968d754d9dd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Tom Price <tom@tomprice.ca>"
+    }
+  }
+}
